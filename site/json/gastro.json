@@ -1,0 +1,1257 @@
+{"answers": {
+    "gastro_0": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_1": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_2": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_3": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_4": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_5": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_6": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_7": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_8": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_9": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_10": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_11": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_12": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_13": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_14": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_15": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_16": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_17": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_18": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_19": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_20": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_21": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_22": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_23": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_24": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_25": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_26": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_27": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_28": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_29": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_30": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_31": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_32": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_33": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_34": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_35": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_36": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_37": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_38": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_39": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_40": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_41": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_42": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_43": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_44": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_45": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_46": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_47": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_48": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_49": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_50": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_51": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_52": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_53": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_54": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_55": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_56": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_57": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_58": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_59": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_60": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_61": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_62": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_63": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_64": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_65": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_66": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_67": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_68": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_69": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_70": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_71": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_72": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_73": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_74": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_75": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_76": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_77": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_78": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_79": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_80": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_81": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_82": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_83": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_84": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_85": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_86": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_87": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_88": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_89": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_90": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_91": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_92": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_93": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_94": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_95": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_96": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_97": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_98": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_99": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_100": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_101": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_102": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_103": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_104": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_105": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_106": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_107": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_108": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_109": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_110": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_111": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_112": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_113": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_114": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_115": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_116": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_117": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_118": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_119": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_120": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_121": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_122": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_123": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_124": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_125": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_126": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_127": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_128": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_129": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_130": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_131": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_132": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_133": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_134": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_135": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_136": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_137": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_138": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_139": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_140": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_141": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_142": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_143": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_144": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_145": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_146": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_147": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_148": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_149": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_150": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_151": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_152": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_153": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_154": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_155": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_156": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_157": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_158": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_159": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_160": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_161": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_162": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_163": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_164": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_165": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_166": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_167": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_168": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_169": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_170": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_171": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_172": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_173": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_174": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_175": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_176": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_177": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_178": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_179": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_180": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_181": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_182": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_183": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_184": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_185": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_186": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_187": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_188": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_189": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_190": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_191": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_192": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_193": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_194": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_195": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_196": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_197": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_198": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_199": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_200": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_201": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_202": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_203": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_204": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gastro_205": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gastro_206": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gastro_207": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gastro_208": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    }
+  },
+"questions": []}

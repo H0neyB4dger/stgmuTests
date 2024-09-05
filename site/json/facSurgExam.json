@@ -1,0 +1,4235 @@
+{
+  "answers": {
+    "facSurgExam_0": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_1": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_2": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_3": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_4": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_5": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_6": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_7": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_8": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_9": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_10": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_11": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_12": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_13": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_14": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_15": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_16": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_17": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_18": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_19": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_20": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_21": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_22": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_23": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_24": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_25": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_26": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_27": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_28": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_29": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_30": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_31": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_32": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_33": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_34": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_35": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_36": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_37": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_38": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_39": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_40": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_41": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_42": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_43": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_44": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_45": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_46": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_47": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_48": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_49": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_50": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_51": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_52": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_53": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_54": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_55": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_56": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_57": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_58": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_59": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_60": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_61": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_62": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_63": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_64": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_65": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_66": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_67": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_68": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_69": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_70": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_71": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_72": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_73": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_74": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_75": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_76": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_77": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_78": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_79": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_80": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_81": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_82": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_83": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_84": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_85": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_86": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_87": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_88": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_89": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_90": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_91": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_92": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_93": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_94": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_95": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_96": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_97": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_98": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_99": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_100": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_101": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_102": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_103": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_104": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_105": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_106": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_107": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_108": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_109": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_110": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_111": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_112": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_113": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_114": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_115": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_116": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_117": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_118": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_119": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_120": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_121": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_122": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_123": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_124": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_125": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_126": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_127": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_128": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_129": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_130": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_131": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_132": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_133": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_134": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_135": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_136": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_137": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_138": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_139": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_140": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_141": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_142": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_143": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_144": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_145": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_146": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_147": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_148": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_149": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_150": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_151": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_152": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_153": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_154": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_155": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_156": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_157": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_158": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_159": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_160": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_161": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_162": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_163": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_164": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_165": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_166": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_167": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_168": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_169": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_170": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_171": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_172": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_173": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_174": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_175": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_176": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_177": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_178": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_179": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_180": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_181": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_182": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_183": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_184": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_185": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_186": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_187": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_188": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_189": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_190": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_191": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_192": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_193": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_194": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_195": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_196": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_197": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_198": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_199": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_200": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_201": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_202": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_203": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_204": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_205": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_206": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_207": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_208": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_209": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_210": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_211": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_212": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_213": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_214": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_215": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_216": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_217": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_218": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_219": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_220": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_221": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_222": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_223": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_224": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_225": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_226": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_227": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_228": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_229": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_230": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_231": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_232": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_233": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_234": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_235": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_236": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_237": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "facSurgExam_238": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_239": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_240": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_241": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_242": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "facSurgExam_243": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_244": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_245": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_246": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "facSurgExam_247": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_248": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "facSurgExam_249": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "facSurgExam_250": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "facSurgExam_0",
+      "arr": [
+        "Основные симптомы язвенного кровотечения (один ответ лишний):",
+        "Рвота «кофейной гущей»",
+        "Дегтеобразный стул",
+        "Эритропения",
+        "Рвота алой кровью",
+        "Лейкоцитоз"
+      ]
+    },
+    {
+      "id": "facSurgExam_1",
+      "arr": [
+        "Операцией выбора при прободной язве желудка в условиях гнойного перитонита является:",
+        "Резекция желудка",
+        "Стволовая ваготомия с пилоропластикой по Джадду",
+        "Ушивание перфорации",
+        "СПВ с пилоропластикой по Джадду",
+        "СВ с пилоропластикой по Джадду"
+      ]
+    },
+    {
+      "id": "facSurgExam_2",
+      "arr": [
+        "Органощадящие операции при язвенной болезни (один ответ лишний):",
+        "Субтотальная резекция желудка",
+        "СПВ",
+        "Антрумэктомия с селективной ваготомией",
+        "СВ с пилоропластикой",
+        "Операция Джадда"
+      ]
+    },
+    {
+      "id": "facSurgExam_3",
+      "arr": [
+        "Для хронических медиагастральных язв не характерно наличие:",
+        "Плотных краев",
+        "Возбудимого типа секреции",
+        "Пенетрации",
+        "Малигнизации",
+        "Перивисцерита"
+      ]
+    },
+    {
+      "id": "facSurgExam_4",
+      "arr": [
+        "Для язвенной болезни 12-перстной кишки не характерно: большая распространенность заболевания по сравнению с",
+        "Желудочными язвами",
+        "Более частое развитие у мужчин",
+        "Преимущественное образование в молодом возрасте",
+        "Более упорное, чем при желудочной язве, течение",
+        "Злокачественное перерождение"
+      ]
+    },
+    {
+      "id": "facSurgExam_5",
+      "arr": [
+        "Напряжение мышц правой подвздошной области при прободении дуоденальной язвы объясняется:",
+        "Иррадиацией боли",
+        "Поступлением воздуха в брюшную полость",
+        "Затеканием желудочного содержимого в правый боковой канал",
+        "Вторичным тифлитом",
+        "Висцеро-висцеральными связями с червеобразным отростком"
+      ]
+    },
+    {
+      "id": "facSurgExam_6",
+      "arr": [
+        "Операцией выбора при язвенной болезни на фоне дуоденостаза является:",
+        "Антрумэктомия по Бильрот-1с ваготомией",
+        "Антрумэктомия по Ру с ваготомией",
+        "Ваготомия с пилоропластикой",
+        "СПВ",
+        "Средняя резекция желудка"
+      ]
+    },
+    {
+      "id": "facSurgExam_7",
+      "arr": [
+        "Препараты, используемые при язвенном кровотечении (один ответ лишний):",
+        "Н-2 - блокаторы",
+        "Аминокапроновая кислота",
+        "Фраксипарин",
+        "Этамзилат",
+        "Свежезамороженная плазма"
+      ]
+    },
+    {
+      "id": "facSurgExam_8",
+      "arr": [
+        "Показанием к операции при дуоденальной язве является (один ответ лишний):",
+        "Пенетрация",
+        "Сочетание с язвой желудка",
+        "Отсутствие результата при длительном медикаментозном лечении",
+        "Острая язва",
+        "Стеноз"
+      ]
+    },
+    {
+      "id": "facSurgExam_9",
+      "arr": [
+        "Показания к операции при язве желудка (один ответ лишний):",
+        "Хроническая каллезная язва тела желудка",
+        "Атипия клеток в язвенном инфильтрате",
+        "Пенетрация язвы в поджелудочную железу",
+        "Кисетная деформация желудка с нарушением эвакуации",
+        "Острая неосложненная язва кардиального отдела"
+      ]
+    },
+    {
+      "id": "facSurgExam_10",
+      "arr": [
+        "ФГДС при язвенной болезни не позволяет определить:",
+        "Темп эвакуации",
+        "Локализацию язвы",
+        "Наличие инфильтративного вала",
+        "Размеры язвы",
+        "Наличие малигнизации"
+      ]
+    },
+    {
+      "id": "facSurgExam_11",
+      "arr": [
+        "Рентгенологическое исследование желудка и 12-перстной кишки при язвенной болезни не позволяет верифицировать:",
+        "Темп эвакуации",
+        "Локализацию язвы",
+        "Наличие инфильтративного вала",
+        "Размеры язвы",
+        "Наличие малигнизации"
+      ]
+    },
+    {
+      "id": "facSurgExam_12",
+      "arr": [
+        "Необходимые исследования у больного с хронической язвой желудка (один ответ лишний):",
+        "Эндоскопическое исследование",
+        "УЗИ желудка и 12-перстной кишки",
+        "Биопсия",
+        "Рентгенологическое исследование желудка",
+        "Определение типа желудочной секреции"
+      ]
+    },
+    {
+      "id": "facSurgExam_13",
+      "arr": [
+        "Вынужденное положение больного с приведенными к животу ногами характерно для:",
+        "Обострения язвенной болезни",
+        "Стенозирующей язвы",
+        "Прободной язвы",
+        "Кровоточащей язвы",
+        "Пенетрирующей язвы"
+      ]
+    },
+    {
+      "id": "facSurgExam_14",
+      "arr": [
+        "При кровоточащей язве тела желудка радикальной операцией является:",
+        "Клиновидное иссечение кровоточащей язвы",
+        "Резекция желудка",
+        "Прошивание кровоточащей язвы",
+        "Операция Джадда",
+        "Гастроэнтеростомия"
+      ]
+    },
+    {
+      "id": "facSurgExam_15",
+      "arr": [
+        "При кровоточащей язве тела желудка паллиативной операцией является (один ответ лишний):",
+        "Перевязка левой желудочной артерии",
+        "Лигирование сосуда в язве",
+        "Прошивание кровоточащей язвы",
+        "Клиновидное иссечение язвы",
+        "Средняя резекция желудка"
+      ]
+    },
+    {
+      "id": "facSurgExam_16",
+      "arr": [
+        "Для тиреотоксического криза характерно все, кроме:",
+        "Затрудненного дыхания",
+        "Гипотонии",
+        "Гипертермии",
+        "Тахикардии",
+        "Нервнопсихических расстройств"
+      ]
+    },
+    {
+      "id": "facSurgExam_17",
+      "arr": [
+        "При тиреотоксикозе не наблюдается:",
+        "Уменьшения пульсового давления",
+        "Тахикардии",
+        "Светобоязни",
+        "Потери веса",
+        "Раздражительности"
+      ]
+    },
+    {
+      "id": "facSurgExam_18",
+      "arr": [
+        "Осложнения операций на щитовидной железе (один ответ лишний):",
+        "Кровотечение",
+        "Воздушная эмболия",
+        "Жировая эмболия",
+        "Повреждение трахеи",
+        "Повреждение возвратного нерва"
+      ]
+    },
+    {
+      "id": "facSurgExam_19",
+      "arr": [
+        "Для болезни Гревса - Базедова не характерно наличие:",
+        "Зоба",
+        "Тахикардии",
+        "Экзофтальма",
+        "Диастолического шума на верхушке сердца",
+        "Низкого основного обмена"
+      ]
+    },
+    {
+      "id": "facSurgExam_20",
+      "arr": [
+        "Препараты для лечения тиреотоксического криза (один ответ лишний):",
+        "Глюкокортикоиды",
+        "Тиреостатики, препараты йода",
+        "Бета-адреноблокаторы",
+        "Сердечные гликозиды",
+        "Адреномиметики"
+      ]
+    },
+    {
+      "id": "facSurgExam_21",
+      "arr": [
+        "Осложнением струмэктомии не является:",
+        "Афония",
+        "Стридор",
+        "Тетания",
+        "Поперхивание",
+        "Прогрессирующий экзофтальм"
+      ]
+    },
+    {
+      "id": "facSurgExam_22",
+      "arr": [
+        "Сходные симптомы токсической аденомы и диффузного токсического зоба (один ответ лишний):",
+        "Тахикардия",
+        "Аритмия",
+        "Похудание",
+        "Расстройство нервной системы",
+        "Диффузное увеличение железы"
+      ]
+    },
+    {
+      "id": "facSurgExam_23",
+      "arr": [
+        "Для верификации злокачественных опухолей щитовидной железы в дооперационном периоде применяется:",
+        "Рефлексометрия",
+        "Определение основного обмена",
+        "Иммуноферментный анализ крови",
+        "Определение титра антител к щитовидной железе",
+        "Пункция новообразования под контролем УЗИ"
+      ]
+    },
+    {
+      "id": "facSurgExam_24",
+      "arr": [
+        "При папиллярном раке щитовидной железы Т2N0M0 выполняют:",
+        "Гемитиреоидэктомию с истмусэктомией",
+        "Субтотальную резекцию щитовидной железы",
+        "Операцию Крайля",
+        "Тиреоидэктомию",
+        "Резекцию доли железы"
+      ]
+    },
+    {
+      "id": "facSurgExam_25",
+      "arr": [
+        "Судороги, симптомы Хвостека и Труссо после струмэктомии говорят о:",
+        "Гипотиреозе",
+        "Тиреотоксическом кризе",
+        "Травме гортанных нервов",
+        "Гипопаратиреозе",
+        "Остаточных явлениях тиреотоксикоза"
+      ]
+    },
+    {
+      "id": "facSurgExam_26",
+      "arr": [
+        "Отдаленное осложнение операции на щитовидной железе:",
+        "Тиреотоксический криз",
+        "Кровотечение",
+        "Гиперпаратиреоз",
+        "Рецидив зоба",
+        "Надпочечниковая недостаточность"
+      ]
+    },
+    {
+      "id": "facSurgExam_27",
+      "arr": [
+        "При развитии паратиреоидной тетании после струмэктомии показано:",
+        "Гемотрансфузия",
+        "Гипотермия",
+        "Оксигенотерапия",
+        "Микродозы йода",
+        "Введение хлористого кальция"
+      ]
+    },
+    {
+      "id": "facSurgExam_28",
+      "arr": [
+        "Зоб у лиц одной биогеохимической области определяется как:",
+        "Эпидемический",
+        "Спорадический",
+        "Острый струмит",
+        "Эндемический",
+        "Массовый тиреотоксикоз"
+      ]
+    },
+    {
+      "id": "facSurgExam_29",
+      "arr": [
+        "Гематогенным путем в легкие",
+        "Лимфогенным и гематогенным путем",
+        "Гематогенным путем в кости",
+        "Гематогенным путем в печень",
+        "Лимфогенным путем в регионарные лимфатические узлы"
+      ]
+    },
+    {
+      "id": "facSurgExam_30",
+      "arr": [
+        "Тактика лечения дифузного токсического зоба с токсикозом тяжелой степени:",
+        "Срочная субтотальная резекция железы",
+        "Лечение тиреостатическими препаратами",
+        "Субтотальная резекция щитовидной железы после подготовки",
+        "Срочная гемитиреоидэктомия",
+        "Гемитиреоидэктомия после подготовки"
+      ]
+    },
+    {
+      "id": "facSurgExam_31",
+      "arr": [
+        "Лечение одиночной фолликулярной аденомы железы:",
+        "Резекция доли щитовидной железы с узлом",
+        "Субтотальная тиреоидэктомия",
+        "Гемитиреоидэктомия",
+        "Энуклеация опухоли после лечения антитиреоидными препаратами",
+        "Лечение препаратами йода"
+      ]
+    },
+    {
+      "id": "facSurgExam_32",
+      "arr": [
+        "Возникновение тиреотоксического криза возможно:",
+        "В течение первых суток после операции",
+        "Через двое суток после операции",
+        "Через трое суток после операции",
+        "Через неделю после операции",
+        "Через месяц после операции"
+      ]
+    },
+    {
+      "id": "facSurgExam_33",
+      "arr": [
+        "В диагностике инородных тел пищевода не используют:",
+        "Сбор жалоб и анамнеза",
+        "Зондирование пищевода",
+        "Обзорную рентгеноскопию грудной клетки",
+        "Контрастную рентгеноскопию пищевода",
+        "Эзофагоскопию"
+      ]
+    },
+    {
+      "id": "facSurgExam_34",
+      "arr": [
+        "К внутренним грыжам относится:",
+        "Прямая паховая грыжа",
+        "Грыжа Спигелевой линии",
+        "Грыжа пищеводного отверстия диафрагмы",
+        "Бедренная грыжа",
+        "Поясничная грыжа"
+      ]
+    },
+    {
+      "id": "facSurgExam_35",
+      "arr": [
+        "Предпочтительный метод замещения пищевода после его удаления:",
+        "Пластика аллотрансплантатом",
+        "Пластика тонкой кишкой",
+        "Пластика правой половиной толстой кишки",
+        "Пластика левой половиной толстой кишки",
+        "Пластика желудком"
+      ]
+    },
+    {
+      "id": "facSurgExam_36",
+      "arr": [
+        "Основной метод диагностики рака пищевода:",
+        "КТ",
+        "Эзофагоскопия с биопсией",
+        "Рентгенография",
+        "Пневмомедиастинография",
+        "УЗИ"
+      ]
+    },
+    {
+      "id": "facSurgExam_37",
+      "arr": [
+        "При дивертикуле шейного отдела пищевода показано:",
+        "Инвагинация дивертикула",
+        "Зондовое питание",
+        "Удаление дивертикула",
+        "Эндоскопическое стентирование",
+        "Медикаментозное лечение"
+      ]
+    },
+    {
+      "id": "facSurgExam_38",
+      "arr": [
+        "Для кардиоспазма характерно (один ответ лишний):",
+        "Обильная рвота желудочным содержимым",
+        "Срыгивание во время еды",
+        "Избирательная дисфагия для некоторых продуктов, жидкостей",
+        "Парадоксальная дисфагия",
+        "Изжога"
+      ]
+    },
+    {
+      "id": "facSurgExam_39",
+      "arr": [
+        "Методы диагностики скользящей грыжи пищеводного отверстия диафрагмы:",
+        "Обзорная рентгеноскопия",
+        "Рентгеновское контрастное исследование желудка в положении Тренделенбурга",
+        "ЭРПХГ",
+        "УЗИ",
+        "Внутрижелудочная рН-метрия"
+      ]
+    },
+    {
+      "id": "facSurgExam_40",
+      "arr": [
+        "Ценкеровский дивертикул локализуется:",
+        "В области бифуркации трахеи",
+        "Над диафрагмой",
+        "В верхней трети пищевода",
+        "В глоточно-пищеводном переходе.",
+        "В средней трети пищевода"
+      ]
+    },
+    {
+      "id": "facSurgExam_41",
+      "arr": [
+        "Клиническая картина ранней стадии рака пищевода (один ответ лишний):",
+        "Изжога",
+        "Бессимптомное течение",
+        "Дисфагия",
+        "Боль за грудиной",
+        "Слюнотечение"
+      ]
+    },
+    {
+      "id": "facSurgExam_42",
+      "arr": [
+        "При стойком и длительном течении кардиоспазма следует применить:",
+        "Медикаментозный метод лечения",
+        "Гипносуггестивный метод лечения",
+        "Кардиодилатацию",
+        "Лучевую терапию",
+        "Эндопротезирование пищевода"
+      ]
+    },
+    {
+      "id": "facSurgExam_43",
+      "arr": [
+        "Эрозивно-язвенный эзофагит является осложнением:",
+        "Рака средне-грудного отдела пищевода",
+        "Дивертикула нижне-грудного отдела пищевода",
+        "Язвы малой кривизны желудка",
+        "Скользящей грыжи пищеводного отверстия диафрагмы",
+        "Хронического гиперацидного гастрита"
+      ]
+    },
+    {
+      "id": "facSurgExam_44",
+      "arr": [
+        "Наиболее ранним проявлением рака нижнегрудного отдела пищевода является:",
+        "Дисфагия",
+        "Боль в эпигастрии",
+        "Боль за грудиной",
+        "Срыгивание",
+        "Похудание"
+      ]
+    },
+    {
+      "id": "facSurgExam_45",
+      "arr": [
+        "Метод лечения больного IV стадией рака шейного отдела пищевода с явлениями дисфагии:",
+        "Консервативная терапия: лучевое лечение, химиотерапия",
+        "Операция: резекция пищевода в 2 этапа по Тореку - Добромыслову",
+        "Резекция пищевода с наложением эзофагогастроанастомоза",
+        "Наложение гастростомы",
+        "Наложение еюностомы"
+      ]
+    },
+    {
+      "id": "facSurgExam_46",
+      "arr": [
+        "Хирургическое лечение грыж пищеводного отверстия диафрагмы показано при (один ответ лишний):",
+        "Неэффективности консервативного лечения",
+        "Развитии воспалительных стриктур пищевода",
+        "Частых кровотечениях из пищевода",
+        "Небольших скользящих грыжах пищеводного отверстия",
+        "Врожденном коротком пищеводе"
+      ]
+    },
+    {
+      "id": "facSurgExam_47",
+      "arr": [
+        "Основной метод диагностики дивертикулов пищевода:",
+        "Эзофагоскопия",
+        "Рентгеноконтрастное исследование",
+        "УЗИ",
+        "Радионуклеидное исследование.",
+        "КТ"
+      ]
+    },
+    {
+      "id": "facSurgExam_48",
+      "arr": [
+        "При неоперабельном раке шейного отдела пищевода выполняют:",
+        "Бужирование пищевода",
+        "Паллиативную резекцию пищевода",
+        "Гастростомию",
+        "Энуклеацию опухоли",
+        "Эзофагостомию"
+      ]
+    },
+    {
+      "id": "facSurgExam_49",
+      "arr": [
+        "При дивертикулах пищевода применяются операции:",
+        "Резекция сегмента пищевода",
+        "Дивертикулэктомия",
+        "Операция Добромыслова - Торека",
+        "Пластика пищевода",
+        "Резекция пищевода и кардии"
+      ]
+    },
+    {
+      "id": "facSurgExam_50",
+      "arr": [
+        "Какой из ниже перечисленных методов является основным в выявлении заболеваний молочной железы?",
+        "Маммография",
+        "Ультразвуковая эхография",
+        "Термография",
+        "Самообследование молочных желез",
+        "Морфологическое исследование"
+      ]
+    },
+    {
+      "id": "facSurgExam_51",
+      "arr": [
+        "Какие из перечисленных симптомов являются патогномоничными для мастодинии?",
+        "Одиночные и множественные очаги в железе",
+        "Выделения из сосков",
+        "Преобладание болевого синдрома",
+        "Нарушение овариально - менструальной функции",
+        "Исчезновение признаков болезни с возрастом"
+      ]
+    },
+    {
+      "id": "facSurgExam_52",
+      "arr": [
+        "Назовите основной этиопатогенетический фактор в развитии мастопатии.",
+        "Наличие невроза",
+        "Дисгормональное состояние",
+        "Дисгормональная дисплазия",
+        "Нарушение овариально - менструальной Функции",
+        "Изменение цикличности процессов в молочной железе"
+      ]
+    },
+    {
+      "id": "facSurgExam_53",
+      "arr": [
+        "Характерные маммографические признаки при мастопатии.",
+        "Изменений нет",
+        "Участки затемнения чередуются с участками просветления",
+        "Плотная тень",
+        "Тень округлой формы с четкими контурами",
+        "Тень с тяжистой структурой"
+      ]
+    },
+    {
+      "id": "facSurgExam_54",
+      "arr": [
+        "В чем заключается наибольшая диагностическая значимость ультразвуковой эхографии?",
+        "Простота и доступность исследования",
+        "Дифференциальный диагноз доброкачественных образований молочных желез",
+        "Выявление функциональных изменений молочных желез",
+        "Обнаружение метастазов рака молочных желез",
+        "Дифференциальный диагноз между раком и доброкачественными заболеваниями молочных желез"
+      ]
+    },
+    {
+      "id": "facSurgExam_55",
+      "arr": [
+        "Какой метод диагностики заболеваний молочных желез является окончательным?",
+        "Дуктография",
+        "Маммография",
+        "Термографмй",
+        "Пункционная биопсия",
+        "Интраоперационное гистологическое исследование"
+      ]
+    },
+    {
+      "id": "facSurgExam_56",
+      "arr": [
+        "Лечебная тактика при мастодинии 1.срочное хирургическое вмешательство",
+        "Рентгенотерапия",
+        "Комбинированный метод лечения",
+        "Симптоматическое лечение",
+        "Коррегирование расстройства центральной нервной системы"
+      ]
+    },
+    {
+      "id": "facSurgExam_57",
+      "arr": [
+        "Наиболее характерные пальпаторные признаки мастопатии.",
+        "Опухоль с четкими контурами",
+        "Опухоль дольчатого строения, плотная, тяжистая",
+        "Опухоль мягкой консистенции, дольчатого строения",
+        "Безболезненный узел плотной консистенции",
+        "Опухоль быстро растет"
+      ]
+    },
+    {
+      "id": "facSurgExam_58",
+      "arr": [
+        "Какому из перечисленных методов лечения нужно отдать предпочтение при диффузной мастопатии",
+        "Секторальная резекция",
+        "Простая мастэктомия",
+        "Регуляция нарушений желез внутренней секреции",
+        "Гормонотерапия",
+        "Радикальная мастэктомия по Холстеду"
+      ]
+    },
+    {
+      "id": "facSurgExam_59",
+      "arr": [
+        "Какому из перечисленных методов лечения нужно отдать предпочтение при узловой мастопатии?",
+        "Гормональное лечение",
+        "Секторальная резекция",
+        "Простая мастэктомия",
+        "Радикальная мастэктомия по Холстеду",
+        "Регуляция желез внутренней секреции"
+      ]
+    },
+    {
+      "id": "facSurgExam_60",
+      "arr": [
+        "Какие, этиологические факторы играют роль в возникновении фиброаденомы",
+        "Дисгормональная дисплазия",
+        "Нарушение функции желез внутренней секреция",
+        "Пожилой возраст",
+        "Наличие невроза и Функциональных изменений",
+        "Дисгормональная гиперплазия"
+      ]
+    },
+    {
+      "id": "facSurgExam_61",
+      "arr": [
+        "Какие из перечисленных клинических признаков относятся к фиброаденоме?",
+        "Резкая болезненность при пальпации",
+        "Отсутствие болезненности при пальпации",
+        "Болевой синдром",
+        "На протяжении менструального цикла очаги уплотнения не изменяются",
+        "Вовлечение кожи в патологический процесс"
+      ]
+    },
+    {
+      "id": "facSurgExam_62",
+      "arr": [
+        "Основным путем оттока лимфы от молочной железы является:",
+        "Перекрестный",
+        "Поключичичный",
+        "Подмышечный",
+        "Парастернальный",
+        "Межреберный"
+      ]
+    },
+    {
+      "id": "facSurgExam_63",
+      "arr": [
+        "При фиброзно-кистозной мастопатии применяются:",
+        "Эстрогенные препараты",
+        "Физиотерапия",
+        "Длительный приём иодида калия",
+        "Секторальная резекция молочной железы",
+        "Все ответы верны"
+      ]
+    },
+    {
+      "id": "facSurgExam_64",
+      "arr": [
+        "Наиболее эффективным методом исследования при опухоли молочной железы менее 0,5 см являются:",
+        "Маммография",
+        "УЗИ",
+        "Термография",
+        "Пальпация",
+        "Радиоизотопная диагностика"
+      ]
+    },
+    {
+      "id": "facSurgExam_65",
+      "arr": [
+        "При фиброаденоме молочной железы показана:",
+        "Простая мастэктомия",
+        "Ампутация молочной железы",
+        "Секторальная резекция",
+        "Радикальная мастэктомия",
+        "Лучевая терапия"
+      ]
+    },
+    {
+      "id": "facSurgExam_66",
+      "arr": [
+        "Для молочной железы не являются регионарными лимфоузлы:",
+        "Подмышечные",
+        "Парастернальные",
+        "Подключичные",
+        "Лимфоузлы противоположной стороны",
+        "Все перечисленные лимфоузлы являются регионарными"
+      ]
+    },
+    {
+      "id": "facSurgExam_67",
+      "arr": [
+        "Какое утверждение правильное относительно цирроза печени?",
+        "Сопровождается гипогликемическими кризами",
+        "УЗИ не подтверждает диагноз",
+        "Является самой частой причиной портальной гипертензии",
+        "Основным клиническим признаком является мышечное напряжение в правом подреберье",
+        "Повышенная температура может быть в 80% случаев"
+      ]
+    },
+    {
+      "id": "facSurgExam_68",
+      "arr": [
+        "Какое из указанных операций реже осложняется печеночной энцефалопатией?",
+        "Портокавальный терминолатеральный анастомоз",
+        "Портокавальный латеролатеральный анастомоз",
+        "Проксимальный спленоренальный анастомоз",
+        "Дистальный спленоренальный анастомоз (Warren)",
+        "Кавомезентериальный анастомоз"
+      ]
+    },
+    {
+      "id": "facSurgExam_69",
+      "arr": [
+        "Эндоскопически установлено кровотечение из варикозных вен пищевода. Слизистая желудка не изменена. Какой из ниже перечисленных методов гемостаза может быть использован в любом медучреждении?",
+        "Лигирование варикозных вен пищевода",
+        "Резекция нижней трети пищевода и езофаго-гастроанастомоза",
+        "Тампонада зондом Блэкмора, питуитрин в/в",
+        "Азигопортальное разобщение",
+        "Спленопортальный анастомоз"
+      ]
+    },
+    {
+      "id": "facSurgExam_70",
+      "arr": [
+        "Какие из нижеперечисленных утверждений неправильные в отношении анатомического строения венозной портальной системы?",
+        "Печень имеет двойное кровоснабжение",
+        "Объем циркулирующей крови в печени составляет 1500 мл/мин. или 25- 30% от сердечного объема в покое",
+        "Портально-венозная система соединяет 2 капиллярные сети",
+        "Портальная вена формируется при слиянии верхней брыжеечной вены, нижней брыжеечной вены и селезеночной вены",
+        "Портокавальная венозная система богата клапанами, которые определяют изменения венозного давления в портальной системе"
+      ]
+    },
+    {
+      "id": "facSurgExam_71",
+      "arr": [
+        "Самым информативным методом диагностики кровотечений из верхних отделов ЖКТ является:",
+        "Фиброэзофагогастродуоденоскопия",
+        "R-графия с применением бариевой взвеси",
+        "Сцинтиграфия",
+        "Ангиография",
+        "Диагностическая лапароскопия"
+      ]
+    },
+    {
+      "id": "facSurgExam_72",
+      "arr": [
+        "Какой метод может быть использован для лечения портальной гипертензии?",
+        "Дренирование Вирсунгова протока",
+        "Трункулярная ваготомия",
+        "Пересадка селезенки",
+        "Азигопортальное разобщение",
+        "Резекция хвоста поджелудочной железы и спленэктомия"
+      ]
+    },
+    {
+      "id": "facSurgExam_73",
+      "arr": [
+        "Причиной портальной гипертензии чаще всего является:",
+        "Перикардит",
+        "Синдром Бадда-Киари",
+        "Цирроз печени с внутрипеченочным блоком",
+        "Квадрифуркация портальной вены",
+        "Тромбоз селезеночной вены"
+      ]
+    },
+    {
+      "id": "facSurgExam_74",
+      "arr": [
+        "Для определения функционального состояния печени у больных циррозом печени с синдромом портальной гипертензии применяют:",
+        "Шкалу Рамсон",
+        "Индекс Алговера",
+        "Шкалу Апгар",
+        "Критерии Чайлд",
+        "Шкалу Глазко"
+      ]
+    },
+    {
+      "id": "facSurgExam_75",
+      "arr": [
+        "Коматозное состояние у больных с портокавальным шунтом может быть результатом:",
+        "Гипокальциемии",
+        "Гипергликемии",
+        "Гиперальбуминемии",
+        "Азотемии",
+        "Повышения протромбина"
+      ]
+    },
+    {
+      "id": "facSurgExam_76",
+      "arr": [
+        "В лечении каких осложнений портальной гипертензии может быть использована операция Tanner?",
+        "Энцефалопатия",
+        "Рефрактарный асцит",
+        "Кровотечение из варикозных вен пищевода",
+        "Кровотечение из варикозных вен ободочной кишки",
+        "Кровотечение из варикозных вен прямой кишки"
+      ]
+    },
+    {
+      "id": "facSurgExam_77",
+      "arr": [
+        "Какое утверждение, относящееся к подпеченочному блоку,неверно?",
+        "Чаще появляется у детей",
+        "Является причиной появления перемежающей хромоты",
+        "Дистальный сплено-ренальный анастомоз снижает портальную гипертензию",
+        "Появляется в результате врожденной аномалии портальной вены",
+        "Является причиной кровотечения пищеварительного тракта"
+      ]
+    },
+    {
+      "id": "facSurgExam_78",
+      "arr": [
+        "Причинами портальной гипертензии являются следующие, за исключением:",
+        "Синдрома Бадда-Киари",
+        "Болезни Киари",
+        "Синдрома Золлингер-Еллисон",
+        "Алкогольного цирроза",
+        "Гигантской эхинококковой кисты печени"
+      ]
+    },
+    {
+      "id": "facSurgExam_79",
+      "arr": [
+        "Больная в возрасте 44 лет с циррозом печени поступает с клинической картиной желудочно-кишечного кровотечения (рвота цвета „кофейной гущи\", мелена). Какой метод исследо-вания может определить источник кровотечения ?",
+        "Сцинтиграфия печени",
+        "Колоноскопия",
+        "Супраселективная ангиография печени",
+        "Фиброгастродуоденоскопия",
+        "Обзорная R-графия брюшной полости"
+      ]
+    },
+    {
+      "id": "facSurgExam_80",
+      "arr": [
+        "Какое из изложенных проявлений не характерно для портальной гипертензии?",
+        "Асцит",
+        "Спленомегалия",
+        "Дисфагия",
+        "Печеночная энцефалопатия",
+        "Варикоз пищевода и желудка"
+      ]
+    },
+    {
+      "id": "facSurgExam_81",
+      "arr": [
+        "Аутоиммунный гиперспленизм характеризуется перечисленными биохимическими и гематологическими изменениями, за исключением:",
+        "Лейкоцитопении",
+        "Гликемии",
+        "Анемии",
+        "Увеличения циркулирующих иммунных комплексов",
+        "Тромбоцитопении"
+      ]
+    },
+    {
+      "id": "facSurgExam_82",
+      "arr": [
+        "Какое утверждение, относящееся к портальной гипертензии, неправильное?",
+        "Течение обычно тяжелое",
+        "Является причиной желудочно-кишечного кровотечения",
+        "Появляется в последствии блока портальной системы",
+        "К ее последствиям относят: спленомегалию, энцефалопатию, асцит, желудочно-кишечное кровотечение",
+        "Снижается после применения 5-фторурацила"
+      ]
+    },
+    {
+      "id": "facSurgExam_83",
+      "arr": [
+        "Нехарактерным для портальной гипертензии является:",
+        "Спленомегалия",
+        "Асцит",
+        "Развитие коллатералей на передней брюшной стенке",
+        "Варикозное расширение вен пищевода",
+        "Гробовое молчание при аускультации живота"
+      ]
+    },
+    {
+      "id": "facSurgExam_84",
+      "arr": [
+        "Какой из симптомов соответствует острой кишечной непроходимости?",
+        "Постоянные боли в животе",
+        "Схваткообразные боли в животе",
+        "Рвота цвета кофейной гущи",
+        "Доскообразный живот",
+        "При аускультации кишечника шумы отсутствуют"
+      ]
+    },
+    {
+      "id": "facSurgExam_85",
+      "arr": [
+        "Для низкой толстокишечной непроходимости характерно все, кроме: 1) постепенного нарастания симптомов 2) вздутия живота 3) появления чаш Клойбера 4) задержки стула 5) быстрой плазмопотери"
+      ]
+    },
+    {
+      "id": "facSurgExam_86",
+      "arr": [
+        "Причиной развития паралитической кишечной непроходимости может быть все, кроме:",
+        "Перитонит",
+        "Свинцовое отравление",
+        "Острый панкреатит",
+        "Забрюшинная гематома",
+        "Травма брюшной полости"
+      ]
+    },
+    {
+      "id": "facSurgExam_87",
+      "arr": [
+        "Характерными признаками острой механической кишечной непроходимости являются все, кроме:",
+        "Схваткообразные боли в животе",
+        "Асимметрия живота",
+        "Рвота",
+        "Задержка стула и газов",
+        "Постоянные боли в животе"
+      ]
+    },
+    {
+      "id": "facSurgExam_88",
+      "arr": [
+        "Для острой кишечной непроходимости характерен следующий рентгенологический признак:",
+        "Свободный газ под правым куполом диафрагмы",
+        "Симптом Валя",
+        "Симптом Обуховской больницы",
+        "Чаши Клойбер",
+        "Симптом Склярова"
+      ]
+    },
+    {
+      "id": "facSurgExam_89",
+      "arr": [
+        "Характерный признак острой обтурационной толстокишечной непроходимости:",
+        "Постоянные боли в животе",
+        "«ладьевидный живот»",
+        "Задержка стула и газов",
+        "Неукротимая рвота",
+        "Отсутствие перистальтических шумов в животе"
+      ]
+    },
+    {
+      "id": "facSurgExam_90",
+      "arr": [
+        "Для высокой тонкокишечной непроходимости характерно все, кроме:",
+        "Схваткообразные боли в животе",
+        "«шум плеска» - симптом Склярова",
+        "Многократная рвота",
+        "Симптом Цеге-Мантейфеля"
+      ]
+    },
+    {
+      "id": "facSurgExam_91",
+      "arr": [
+        "Для кишечной непроходимости на почве тонко - толстокишечной инвагинации характерно:",
+        "«овечий кал»",
+        "Кровянистые выделения из прямой кишки",
+        "Постоянные боли в животе",
+        "Атония сфинктера прямой кишки"
+      ]
+    },
+    {
+      "id": "facSurgExam_92",
+      "arr": [
+        "Симптомы Цеге-Мантейфеля и Обуховской больницы характерны, для какого вида кишечной непроходимости?",
+        "Илеоцекальной инвагинации",
+        "Обтурации опухолью восходящей кишки",
+        "Заворота тонкой кишки",
+        "Заворота сигмовидной кишки",
+        "Заворота слепой кишки"
+      ]
+    },
+    {
+      "id": "facSurgExam_93",
+      "arr": [
+        "При завороте сигмовидной кишки операция показана в тех случаях, когда:",
+        "Больной моложе 60 лет",
+        "Имеются явления перитонита 3.отсутствуем эффект от проведенной консервативной терапии",
+        "Срок заболевания менее суток",
+        "Во всех без исключения случаях"
+      ]
+    },
+    {
+      "id": "facSurgExam_94",
+      "arr": [
+        "При операции у больного с кишечной непроходимостью необходимо выполнить все, кроме:",
+        "Восстановить проходимость кишечной трубки",
+        "Произвести новокаиновую блокаду корня брыжейки тонкой кишки",
+        "Оценить жизнеспособность измененного отдела кишечника",
+        "Энтеротомия и эвакуация кишечного содержимого путем «выдаивания»",
+        "Назоинтестинальная интубация"
+      ]
+    },
+    {
+      "id": "facSurgExam_95",
+      "arr": [
+        "Схваткообразные боли в животе не наблюдается при:",
+        "Обтурации толстой кишки опухолью",
+        "Завороте тонкой кишки",
+        "Завороте толстой кишки",
+        "Паралитической кишечной непроходимости"
+      ]
+    },
+    {
+      "id": "facSurgExam_96",
+      "arr": [
+        "Для заворота тонкой кишки не характерно:",
+        "Схваткообразные боли",
+        "Асимметрия живота",
+        "«шум плеска»",
+        "Рвота",
+        "Симптом Обуховской больницы"
+      ]
+    },
+    {
+      "id": "facSurgExam_97",
+      "arr": [
+        "Лечение динамической кишечной непроходимости:",
+        "Поначалу консервативное, при неэффективности операция",
+        "Экстренная операция",
+        "Отсроченная операция",
+        "Плановая операция"
+      ]
+    },
+    {
+      "id": "facSurgExam_98",
+      "arr": [
+        "Какое осложнение рака ободочной кишки создает наибольшие трудности при выборе операции:",
+        "Кровотечение",
+        "Обструкция кишки",
+        "Отдалённые метастазы",
+        "Изъязвление",
+        "Перфорация и перитонит"
+      ]
+    },
+    {
+      "id": "facSurgExam_99",
+      "arr": [
+        "Кал в виде «малинового желе» характерен для:",
+        "Стеноза привратника",
+        "Дивертикула Меккеля",
+        "Заворота тонкой кишки",
+        "Узлообразования",
+        "Инвагинации"
+      ]
+    },
+    {
+      "id": "facSurgExam_100",
+      "arr": [
+        "Причиной обтурационной кишечной непроходимости может быть все, кроме:",
+        "Воспалительного инфильтрата",
+        "Перекрута брыжейки кишки",
+        "Желчного камня",
+        "Инвагинации",
+        "Гельминтов."
+      ]
+    },
+    {
+      "id": "facSurgExam_101",
+      "arr": [
+        "Звучные перистальтические шумы в начале заболевания характерны для:",
+        "Паралитической кишечной непроходимости",
+        "Перфоративной язвы желудка",
+        "Тромбоза мезентериальных сосудов",
+        "Механической кишечной непроходимости",
+        "Острого холецистита"
+      ]
+    },
+    {
+      "id": "facSurgExam_102",
+      "arr": [
+        "Провоцировать развитие острой кишечной непроходимости может:",
+        "Слабость мышц живота",
+        "Злоупотребление алкоголем",
+        "Употребление острой и жирной пищи",
+        "Употребление большого количества пищи, богатой клетчаткой"
+      ]
+    },
+    {
+      "id": "facSurgExam_103",
+      "arr": [
+        "Наиболее частой локализацией инвагинации является:",
+        "Слепая кишка",
+        "Илеоцекальный сегмент",
+        "Илео-илеальный (подвздошно-подвздошный) сегмент",
+        "Сигмовидная кишка"
+      ]
+    },
+    {
+      "id": "facSurgExam_104",
+      "arr": [
+        "На выбор лечебной тактики при острой кишечной непроходимости не влияет лишь:",
+        "Вид непроходимости",
+        "Уровень непроходимости",
+        "Наличие перитонеальных симптомов",
+        "Интенсивность болей"
+      ]
+    },
+    {
+      "id": "facSurgExam_105",
+      "arr": [
+        "Самые худшие результаты лечения наблюдаются при:",
+        "Паралитической кишечной непроходимости",
+        "Инвагинации",
+        "Окклюзии брыжеечных сосудов",
+        "Спайках брюшной полости",
+        "Обтурационной тонкокишечной непроходимости"
+      ]
+    },
+    {
+      "id": "facSurgExam_106",
+      "arr": [
+        "По механизму возникновения непроходимость кишечника делится на:",
+        "Механическую и динамическую",
+        "Толстокишечную, тонкокишечную и смешанную",
+        "Обтурационную, странгуляционную и смешанную",
+        "Высокую и низкую",
+        "Паралитическую и спастическую"
+      ]
+    },
+    {
+      "id": "facSurgExam_107",
+      "arr": [
+        "При нежизнеспособной петле тонкой кишки производится:",
+        "Резекция приводящей петли, отступя 20 см от некроза",
+        "Резекция кишки в пределах видимой границы некроза",
+        "Наложение обходного анастомоза",
+        "Выведение кишки",
+        "Резекция, отводящей петли, отступя 15-20 см от некроза и приводящей на 40 см"
+      ]
+    },
+    {
+      "id": "facSurgExam_108",
+      "arr": [
+        "Проба Шварца - это проба на:",
+        "Наличие биллирубина-глюкуронида",
+        "Переносимость лекарств",
+        "Исследование пассажа бария по кишечнику",
+        "Коагулопатию",
+        "Наличие крови в кале"
+      ]
+    },
+    {
+      "id": "facSurgExam_109",
+      "arr": [
+        "Наиболее быстрое развитие некроза кишки возникает при:",
+        "Обтурации подвздошной кишки опухолью",
+        "Обтурация толстой кишки опухолью",
+        "Обтурация просвета тощей кишки желчным камнем",
+        "Узлообразование",
+        "Обтурация просвета толстой кишки каловым камнем"
+      ]
+    },
+    {
+      "id": "facSurgExam_110",
+      "arr": [
+        "Криптитом называется воспаление",
+        "В морганиевых синусах",
+        "В анальных сосочках",
+        "В морганиевых криптах",
+        "Перианальной кожи",
+        "Слизистой оболочки нижнеампулярного отдела прямой кишки"
+      ]
+    },
+    {
+      "id": "facSurgExam_111",
+      "arr": [
+        "Папиллит - это",
+        "Спавшиеся внутренние геморроидальне узлы",
+        "Тромбированные внутренние геморроидальные узлы",
+        "Воспаление анальных сосочков на уровне аноректальной линии",
+        "Воспаление \"сторожевого\" бугорка при хронической трещине",
+        "Кондиломатозные разрастания кожи промежности"
+      ]
+    },
+    {
+      "id": "facSurgExam_112",
+      "arr": [
+        "Хронические парапроктиты с формированием свища являются, чаще всего, следствием",
+        "Злокачественного процесса",
+        "Перианальных кондилом",
+        "Острого парапроктита",
+        "Анальной трещины",
+        "Геморроя"
+      ]
+    },
+    {
+      "id": "facSurgExam_113",
+      "arr": [
+        "Обязательным признаком для свищей прямой кишки является",
+        "Зуд в области промежности",
+        "Боль в прямой кишке пульсирующего характера",
+        "Кровотечение во время дефекации",
+        "Наличие на коже промежности рубцов",
+        "Наличие свищевого отверстия в анальном канале или на промежности"
+      ]
+    },
+    {
+      "id": "facSurgExam_114",
+      "arr": [
+        "При обследовании больного со свищом прямой кишки необязательно выполнять",
+        "Наружный осмотр и пальпацию перианадьной области",
+        "Пальцевое исследование прямой кишки",
+        "Прокрашивание свищевого хода и зондирование",
+        "Колоноскопию",
+        "Ректороманоскопию"
+      ]
+    },
+    {
+      "id": "facSurgExam_115",
+      "arr": [
+        "При подозрении на озлокачествление свища необходимо выполнить",
+        "Посев отделяемого свища для определения микрофлоры",
+        "Посев кала на дисбактериоз",
+        "Цитологическое или гистологическое исследование",
+        "Сфинктерометрию",
+        "Рентгенографию крестцового отдела позвоночника"
+      ]
+    },
+    {
+      "id": "facSurgExam_116",
+      "arr": [
+        "Для свища прямой кишки наиболее характерным осложнением является",
+        "Кишечная непроходимость",
+        "Кровотечение",
+        "Обострение воспаления",
+        "Малигнизация",
+        "Анальный зуд"
+      ]
+    },
+    {
+      "id": "facSurgExam_117",
+      "arr": [
+        "Лечение наружного выпадения прямой кишки должно быть",
+        "Только хирургическим",
+        "Хирургическим только при осложнениях",
+        "Консервативным при первой степени выпадения",
+        "Хирургическим у пациентов не старше 40 лет",
+        "Консервативным у больных старше 50 лет"
+      ]
+    },
+    {
+      "id": "facSurgExam_118",
+      "arr": [
+        "Предрасполагающими причинами выпадения прямой кишки являются:",
+        "Наследственный фактор",
+        "Особенности конституции организма",
+        "Особенности строения прямой кишки",
+        "Дегенеративные изменения в мышцах запирательного аппарата прямой кишки",
+        "Глубокий тазовый карман брюшины"
+      ]
+    },
+    {
+      "id": "facSurgExam_119",
+      "arr": [
+        "При обращении к врачу ведущими симптомами хронического геморроя являются: 1.кровотечение 2.выпадение узлов 3.боли взаднем проходе 4.кишечный дискомфорт .5 анальтый зуд",
+        "Если правильные ответы 1,2,3",
+        "Если павильные ответы 1 и 3",
+        "Если павильные ответы 2 и 4",
+        "Если павильные ответы 4"
+      ]
+    },
+    {
+      "id": "facSurgExam_120",
+      "arr": [
+        "Кровотечения из заднего прохода при хроническом геморрое характеризуются: 1.темным цветом крови 2.алым цветом крови 3.наличим сгустков 4.периодичностью",
+        "Если правильные ответы 1,2,3",
+        "Если павильные ответы 1 и 3",
+        "Если павильные ответы 2 и 4",
+        "Если павильные ответы 4"
+      ]
+    },
+    {
+      "id": "facSurgExam_121",
+      "arr": [
+        "Если прямая кишка выпадает не только при дефекации, но И при физической нагрузке, то это-",
+        "Пятая степень выпадения",
+        "Четвертая степень выпадения",
+        "Третья степень выпадения",
+        "Вторая степень выпадения",
+        "Первая степень выпадения"
+      ]
+    },
+    {
+      "id": "facSurgExam_122",
+      "arr": [
+        "При первой стадии геморроя внутренние узлы:",
+        "Выпадают, но вправляются самостоятельно",
+        "Выпадают и самостоятельно не вправляются",
+        "Кровоточат при дефекации, выпадают и вправляются самостоятельно",
+        "Кровоточат, но не выпадают из анального канала",
+        "Не кровоточат и не выпадают"
+      ]
+    },
+    {
+      "id": "facSurgExam_123",
+      "arr": [
+        "К подковообразным относятся свищи прямой кишки, в которых имеется",
+        "Два внутренних отверстия при одном наружном",
+        "Два наружных отверстии при одном внутреннем",
+        "Извилистые свищевые ходы с дополнительными затёками в одном параректальном клетчаточном пространстве",
+        "Свищевой ход с одним внутренним отверстием и несколькими наружными, располагающимися слева и справа от анального отверстия"
+      ]
+    },
+    {
+      "id": "facSurgExam_124",
+      "arr": [
+        "О декомпенсации мышц тазового дна при выпадении прямой кишки в первую очередь свидетельствует:",
+        "Выпадение кишки при каждом акте дефекации",
+        "Выпадение кишки при дефекации и физической нагрузке",
+        "Недержание газов",
+        "Необходимость ручного пособия для вправления выпавшей кишки",
+        "Недержание газов и жидкого кала"
+      ]
+    },
+    {
+      "id": "facSurgExam_125",
+      "arr": [
+        "К анатомо-конституциональным особенностям, являющийся предрасполагающими условиями для выпадения прямой кишки, относятся:",
+        "Уплощение крестцово-копчиковой кривизны",
+        "Цилиндрическая форма прямой кишки",
+        "Чрезмерная подвижность сигмовидной и прямой кишок",
+        "Врожденная слабость связочного аппарата",
+        "Все ответы правильные"
+      ]
+    },
+    {
+      "id": "facSurgExam_126",
+      "arr": [
+        "Основными причинами, приводящими к выпадению прямой кишки являются:",
+        "Истощение",
+        "Тяжелый физический труд",
+        "Желудочно-кишечные заболевания",
+        "Тупые травмы живота",
+        "Тяжелые роды"
+      ]
+    },
+    {
+      "id": "facSurgExam_127",
+      "arr": [
+        "Осмотр больного, у которого предпологается выпадение прямой кишки, лучше производить:",
+        "В коленно-локтевом положении",
+        "В положении как для камнесечения",
+        "Лежа на животе",
+        "В положении больного на корточках и с натуживанием",
+        "В вертикальном положении"
+      ]
+    },
+    {
+      "id": "facSurgExam_128",
+      "arr": [
+        "Причинами первичного анального зуда могут быть:",
+        "Воспалительные заболевания толстой кишки и анального канала",
+        "Сахарный диабет",
+        "Глистная инвазия",
+        "Гепатит и пиэлонефрит",
+        "Несоблюдение гигиены"
+      ]
+    },
+    {
+      "id": "facSurgExam_129",
+      "arr": [
+        "Под термином \"ректоцеле\" понимают",
+        "Выпадение прямой кишки",
+        "Избыточную подвижность слизистой оболочки прямой кишки",
+        "Опушение передней стенки влагалища и матки",
+        "Мешковидное выпячивание стенки прямой кишки 5 выпадение слизистой прямой кишки"
+      ]
+    },
+    {
+      "id": "facSurgExam_130",
+      "arr": [
+        "Основными вариантами патогенеза развития выпадения прямой кишки являются:",
+        "По типу скользящей грыжи",
+        "Из-за недостаточности наружного сфинктера заднего прохода",
+        "По типу кишечной инвагинации",
+        "По типу висцероптоза",
+        "Из-за опушения матки и стенок влагалища"
+      ]
+    },
+    {
+      "id": "facSurgExam_131",
+      "arr": [
+        "В поликлинику обратилась женцина 45 лет с жалобами на слабость, головокружение, ежедневные выделения алой крови при дефекации в течение последних двух месяцев. При обследовании выявлены гипохромная анемия, полип желудка 0,3см в диаметре, миома матки узловая 5-6 недель. Наиболее вероятная причина анемии у пациентки:",
+        "Миома матки",
+        "Кровоточащий геморрой",
+        "Полип желудка",
+        "Палипы прямой кишки",
+        "Опухоль прямой кишки"
+      ]
+    },
+    {
+      "id": "facSurgExam_132",
+      "arr": [
+        "При третьей стадии геморроя внутренние узлы :",
+        "Выпадают при натуживании и вправляются самостоятельно",
+        "Увеличены и кровоточат при дефекации",
+        "Увеличены, кровоточат при дефекации , 1-2раза в году тромбируются",
+        "Выпадают, для вправления необходимо ручное пособие",
+        "Постоянно выпадают и не вправляются"
+      ]
+    },
+    {
+      "id": "facSurgExam_133",
+      "arr": [
+        "Подтвержением слабости соединително-тканных структур, что встречается при выпадении прямой кишки, является:",
+        "Конституциональный тип больного",
+        "Наличие грыжевых выпячиваний",
+        "Наличие плоскостопия",
+        "Варикозное расширение вен нижних конечностей",
+        "Опущение органов брюшной полости"
+      ]
+    },
+    {
+      "id": "facSurgExam_134",
+      "arr": [
+        "Тяжесть течения перитонита в наибольшей степени зависит от всех указанных факторов, кроме:",
+        "Массы тела больного",
+        "Характера микрофлоры",
+        "Степени выраженности интоксикации",
+        "Гиповолемии"
+      ]
+    },
+    {
+      "id": "facSurgExam_135",
+      "arr": [
+        "Для перитонита не характерно:",
+        "Напряжение мышц брюшной стенки",
+        "Симптом Курвуазье",
+        "Учащение пульс",
+        "Задержка отхождения газов",
+        "Симптом Щёткина-Блюмберга"
+      ]
+    },
+    {
+      "id": "facSurgExam_136",
+      "arr": [
+        "Перитонит может быть следствием перечИсленных заболеваний, кроме:",
+        "Перфорации дивертикула Меккеля",
+        "Болезни Крона",
+        "Стеноза большого дуоденального сосочка",
+        "Рихтеровского ущемления грыжи",
+        "Острой кишечной непроходимости"
+      ]
+    },
+    {
+      "id": "facSurgExam_137",
+      "arr": [
+        "Реактивная стадия перитонита продолжается:",
+        "4-6 часов",
+        "24 часа",
+        "48 часов",
+        "72 часа",
+        "Более 72 часов"
+      ]
+    },
+    {
+      "id": "facSurgExam_138",
+      "arr": [
+        "Симптомами перитонита являются все, кроме:",
+        "Рвоты",
+        "Болей в животе",
+        "Кровавого стула",
+        "Задержки стула и газов",
+        "Напряжения мышц передней брюшной стенки"
+      ]
+    },
+    {
+      "id": "facSurgExam_139",
+      "arr": [
+        "Для ранней стадии перитонита характерно все, кроме:",
+        "Гипертермия",
+        "Лейкоцитоз",
+        "Компенсация функций жизненно важных органов",
+        "Длительность стадии до суток",
+        "Нарушение микроциркуляции"
+      ]
+    },
+    {
+      "id": "facSurgExam_140",
+      "arr": [
+        "Ведущий симптом перитонита это:",
+        "Рвота",
+        "Боли в животе",
+        "Стул с кровью",
+        "Задержка стула и газов",
+        "Напряжение мышц брюшной стенки"
+      ]
+    },
+    {
+      "id": "facSurgExam_141",
+      "arr": [
+        "С какой целью в лечении распространенного гнойного перитонита выполняют назоинтестинальную интубацию? 1) учет потерь жидкости через желудочно-кишечный тракт; 2) проведение кишечного лаважа; 3) питание больного через зонд; 4) введение лекарственных препаратов; 5) профилактика кишечной непроходимости; Выберите правильную комбинацию ответов:",
+        "Только 1",
+        "3,4",
+        "2,3,4,5",
+        "1,3,4,5",
+        "Только 5"
+      ]
+    },
+    {
+      "id": "facSurgExam_142",
+      "arr": [
+        "Для перфорации полого органа в свободную брюшную полость характерно все, кроме:",
+        "Острое начало болей",
+        "\"доскообразный\" живот",
+        "Коллапс",
+        "Полиурия",
+        "Тахикардия"
+      ]
+    },
+    {
+      "id": "facSurgExam_143",
+      "arr": [
+        "Патогномоничным симптомом перфорации полого органа в свободную брюшную полость является:",
+        "Высокий лейкоцитоз",
+        "Отсутствие кишечных шумов",
+        "Пневмоперитонеум",
+        "Положительные симптомы раздражения брюшины",
+        "Притупление перкуторного звука в отлогих местах брюшной полости"
+      ]
+    },
+    {
+      "id": "facSurgExam_144",
+      "arr": [
+        "Агентами, вызывающими перитонит, могут быть:1) моча при разрыве мочевого пузыря; 2) содержимое желудка при перфорации язвы; 3) кровь при травме живота; 4) желчь при перфорации желчного пузыря; 5) воздух в брюшной полости после лапароскопического исследования; Выберите правильную комбинацию ответов:",
+        "1,2,3,4",
+        "2,3,4,5",
+        "1,2,4,5",
+        "1,2,3,5"
+      ]
+    },
+    {
+      "id": "facSurgExam_145",
+      "arr": [
+        "Перитонит развивается при следующих формах острого аппендицита:1) аппендикулярные колики; 2) катаральном; 3) флегмонозном; 4) гангренозном; 5) перфоративном; Выберите правильную комбинацию ответов:",
+        "1,2,4",
+        "2,3,4,5",
+        "1,2,3,5",
+        "1,3,4,5",
+        "3,4,5"
+      ]
+    },
+    {
+      "id": "facSurgExam_146",
+      "arr": [
+        "При распространенном гнойном перитоните страдает:1) иммунитет; 2) гемодинамика; 3) водно-электролитный обмен; 4) нейрогуморальная регуляция и адаптация; 5) трансмембранный транспорт кислорода и газообмен; Выберите правильную комбинацию ответов:",
+        "1, 2, 3, 4",
+        "1, 3, 4, 5",
+        "1, 2,3,5",
+        "1, 2, 3, 4, 5"
+      ]
+    },
+    {
+      "id": "facSurgExam_147",
+      "arr": [
+        "По характеру вьпота перитониты подразделяются на:1) серозный; 2) фибринозный; 3) гнойный; 4) геморрагический; 5) каловый; Выберите правильную комбинацию ответов:",
+        "1, 2, 3, 4",
+        "1, 2, 3, 4, 5",
+        "1, 3, 4, 5",
+        "1, 2, 5"
+      ]
+    },
+    {
+      "id": "facSurgExam_148",
+      "arr": [
+        "К осложнениям перитонита относят:1) поддиафрагмальный абсцесс; 2) подпеченочный абсцесс; 3) межкишечный абсцесс; 4) тазовый абсцесс. Выберите правильную комбинацию ответов:",
+        "1, 2, 3",
+        "1, 2, 3, 4",
+        "1, 2, 4",
+        "2, 3, 4"
+      ]
+    },
+    {
+      "id": "facSurgExam_149",
+      "arr": [
+        "Для терминальной стадии перитонита характерны:1) адинамия; 2) гипертермия; 3) тахикардия; 4) падение артериального давления; 5) динамическая кишечная непроходимость; Выберите правильную комбинацию ответов:",
+        "1, 2, 3, 4, 5",
+        "1, 3, 4, 5",
+        "1, 2, 4, 5",
+        "1, 2, 3, 4"
+      ]
+    },
+    {
+      "id": "facSurgExam_150",
+      "arr": [
+        "К местному отграниченному перитониту относят:1) поддиафрагмальный абсцесс; 2) подпеченочный абсцесс; 3) межкишечный абсцесс; 4) первичный идиопатический перитонит; 5) абсцесс пузырно- прямокишечного пространства; Выберите правильную комбинацию ответов:",
+        "1, 2, 3, 4",
+        "1, 3, 4, 5",
+        "1, 2, 3, 4, 5",
+        "2, 4, 5",
+        "1, 2, 3, 5"
+      ]
+    },
+    {
+      "id": "facSurgExam_151",
+      "arr": [
+        "При гнойном перитоните расстройства гемодинамики обусловлены:1) снижением объема циркулирующей крови; 2) снижением тонуса сосудистой стенки; 3) изменением реологических свойств крови; 4) нарушением сердечно-сосудистой деятельности; 5) нарушением органного кровотока; Выберите правильную комбинацию ответов:",
+        "1, 2, 3",
+        "1, 3, 4, 5",
+        "1, 2, 5",
+        "2, 3, 4",
+        "1, 2, 3, 4, 5"
+      ]
+    },
+    {
+      "id": "facSurgExam_152",
+      "arr": [
+        "Длительное нахождение дренажей в брюшной полости может приве- сти:1) к пролежням; 2) к кровотечению; 3) к дополнительному инфицированию; 4) к образованию спаек; 5) к развитию кишечной колики; Выберите правильную комбинацию ответов:",
+        "1, 2, 4, 5",
+        "1, 3, 4, 5",
+        "1, 2, 3, 4, 5",
+        "2, 3, 4, 5",
+        "1, 2, 3, 4"
+      ]
+    },
+    {
+      "id": "facSurgExam_153",
+      "arr": [
+        "При любой СТАДИИ перитонита показано:1) устранение очагов инфекции хирургическим путем; 2) подавление с помощью антибиотиков очагов инфекции; 3) устранение паралитической кишечной непроходимости; 4) коррекция нарушений функции почек; 5) коррекция ДВС-синдрома; Выберите правильную комбинацию ответов: *а – 1, 2, 3, 4 б – 1, 2, 3 в – 1, 3, 4, 5 г – 1, 2, 5"
+      ]
+    },
+    {
+      "id": "facSurgExam_154",
+      "arr": [
+        "Релапаротомия при распространенном гнойном перитоните преследует следующие цели:1) повторную ревизию брюшной полости; 2) выполнение повторного лаважа; 3) удаление гноя под визуальным контролем; 4) контроль герметичности кишечный швов; 5) нормализацию функции мочевого пузыря; Выберите правильную комбинацию ответов:",
+        "1, 2, 3, 4",
+        "1, 2, 4, 5",
+        "1, 2, 3, 4, 5",
+        "2, 3, 4, 5"
+      ]
+    },
+    {
+      "id": "facSurgExam_155",
+      "arr": [
+        "Показаниями к хирургическому лечению дивертикулеза являются следующие осложнения:",
+        "Профузное кишечное кровотечение",
+        "Кишечная непроходимость",
+        "Перфорация",
+        "Все варианты верны"
+      ]
+    },
+    {
+      "id": "facSurgExam_156",
+      "arr": [
+        "Эндоскопическими критериями поражения толстой кишки при язвенном колите являются:",
+        "Поверхностные дефекты слизистой оболочки",
+        "Сужение просвета кишки и ее ригидность",
+        "Контактная кровоточивость",
+        "Все варианты верны"
+      ]
+    },
+    {
+      "id": "facSurgExam_157",
+      "arr": [
+        "Различают следующие анатомические формы болезни Гиршпрунга:",
+        "Тотальную",
+        "Сегментарную",
+        "Субтотальную",
+        "Все варианты верны"
+      ]
+    },
+    {
+      "id": "facSurgExam_158",
+      "arr": [
+        "К осложнениям дивертикулеза не относится:",
+        "Малигнизация",
+        "Кровотечение",
+        "Перфорация",
+        "Пенетрация"
+      ]
+    },
+    {
+      "id": "facSurgExam_159",
+      "arr": [
+        "Причиной неспецифического язвенного колита является",
+        "Психическая травма",
+        "Физическая травма",
+        "Перенесенная кишечная инфекция",
+        "Микробное начало",
+        "Причина неизвестна"
+      ]
+    },
+    {
+      "id": "facSurgExam_160",
+      "arr": [
+        "Для диагностики неспецифического язвенного колита наиболее информативным является",
+        "Копрология",
+        "Посев кала на микрофлору",
+        "Колоноскопия",
+        "Рентгенологическое исследование тонкой кишки",
+        "Гастроскопия"
+      ]
+    },
+    {
+      "id": "facSurgExam_161",
+      "arr": [
+        "Причиной развития болезни Крона является",
+        "Инфекционное начало",
+        "Эмоциональные стрессы",
+        "Травма живота",
+        "Перенесенные операции",
+        "Причина неизвестна"
+      ]
+    },
+    {
+      "id": "facSurgExam_162",
+      "arr": [
+        "Выберите наиболее характерный морфологический признак при эндоскопическом исследовании для болезни Крона",
+        "Язвы щелевидные, образующие «булыжную» мостовую",
+        "Усиление сосудистого рисунка слизистой",
+        "Множественные полипы",
+        "Налет фибрина"
+      ]
+    },
+    {
+      "id": "facSurgExam_163",
+      "arr": [
+        "Какому заболеванию больше соответствует эндоскопически определяемое сужение ободочной кишки с неровными, подрытыми краями",
+        "НЯК",
+        "Болезнь Крона",
+        "Рак ободочной кишки",
+        "Дивертикулит",
+        "Ишемический колит"
+      ]
+    },
+    {
+      "id": "facSurgExam_164",
+      "arr": [
+        "Все факторы влияют на развитие дивертикула, кроме:",
+        "Хронических заборов",
+        "Большого количества кала",
+        "Врожденной предрасположенности",
+        "Возрастной дегенерации тканей",
+        "Кольцевого сокращения кишечника"
+      ]
+    },
+    {
+      "id": "facSurgExam_165",
+      "arr": [
+        "Лимфоотток от сигмы осуществляется через лимфоузлы:",
+        "Верхние мезентериальные",
+        "Нижние мезентериальные",
+        "Парааортальные",
+        "Ни через одну из перечисленных групп",
+        "Через все названные лимфоузлы"
+      ]
+    },
+    {
+      "id": "facSurgExam_166",
+      "arr": [
+        "Хирургическое лечение при неспецифическом язвенном колите показано при:",
+        "Профузном кровотечении",
+        "Перфорации кишки",
+        "Токсической дилатации",
+        "Неэффективности консервативного лечения",
+        "Все назнванные состояния"
+      ]
+    },
+    {
+      "id": "facSurgExam_167",
+      "arr": [
+        "Лечение неосложненного дивертикулита ободочной кишки включает все, кроме:",
+        "Диетического и общего покоя, постельного режима",
+        "Антибиотики энтерально",
+        "Прием пищи в охлажденном виде",
+        "Теплые клизмы с антисептиками",
+        "Спазмолитики"
+      ]
+    },
+    {
+      "id": "facSurgExam_168",
+      "arr": [
+        "Самым распространенным хирургическим заболеваниями являются:",
+        "Холецистит",
+        "Панкреатит",
+        "Перитонит",
+        "Аппeндицит",
+        "Вентральные грыжи"
+      ]
+    },
+    {
+      "id": "facSurgExam_169",
+      "arr": [
+        "Наиболее часто острым аппендицитом болеют: 1.дети",
+        "Мужчины",
+        "Жeнщины",
+        "Больные старческого возраста",
+        "Все одинаково часто"
+      ]
+    },
+    {
+      "id": "facSurgExam_170",
+      "arr": [
+        "Послеоперационная летальность при остром аппендиците составляет:",
+        "0 процентов",
+        "0,2-0,3 процeнта",
+        "1-2 процента",
+        "2-3 процента",
+        "5-7 процентов"
+      ]
+    },
+    {
+      "id": "facSurgExam_171",
+      "arr": [
+        "Обструкция червеобразного отростка является причиной развития острого аппендицита у:",
+        "100% больных",
+        "30% бoльных",
+        "50% больных",
+        "10% больных",
+        "0%"
+      ]
+    },
+    {
+      "id": "facSurgExam_172",
+      "arr": [
+        "Острый катаральный аппендицит является:",
+        "Неспeцифическим воспалительным процессом",
+        "Специфическим воспалительным процессом",
+        "Аутоаллергическим процессом",
+        "Деструктивно-дегенеративным процессом",
+        "Другим процессом"
+      ]
+    },
+    {
+      "id": "facSurgExam_173",
+      "arr": [
+        "Пилефлебит это тромбоз:",
+        "Воротной вeны",
+        "Аппендиакулярной вены",
+        "Верхней полой вены",
+        "Нижней полой вены",
+        "Забрюшинных вен"
+      ]
+    },
+    {
+      "id": "facSurgExam_174",
+      "arr": [
+        "Аппендикулярный инфильтрат это:",
+        "Инфильтрат всех слоев стенки отростка",
+        "Инфильтрация брюшины",
+        "Забрюшинная флегмона в стадии инфильтрата",
+        "Конгломерат органов брюшной полости, образовавшийся вокруг чeрвеобразного отростка*",
+        "Инфильтрация большого сальника"
+      ]
+    },
+    {
+      "id": "facSurgExam_175",
+      "arr": [
+        "Пилефлебит может приводить к развитию:",
+        "Перитонита",
+        "Абсцессов пeчени",
+        "Забрюшинных флегмон",
+        "Абсцессов селезенки",
+        "Ко всему перечисленному"
+      ]
+    },
+    {
+      "id": "facSurgExam_176",
+      "arr": [
+        "Пилефлебит встречается в:",
+        "5 процентов",
+        "2 процента",
+        "1 процент",
+        "0,5 процента",
+        "0,05 процeнта"
+      ]
+    },
+    {
+      "id": "facSurgExam_177",
+      "arr": [
+        "Отек верхушки червеобразного отростка и гиперемия серозной оболочки характерны для:",
+        "Аппендикулярной колики",
+        "Простого (катарального) аппeндицита",
+        "Флегмонозного аппендицита",
+        "Аппендикулярного инфильтрата",
+        "Прободного аппендицита"
+      ]
+    },
+    {
+      "id": "facSurgExam_178",
+      "arr": [
+        "Резкое утолщение и напряжение червеобразного отростка, а также наличие гноя в его просвете и выпота в брюшной полости характерно для:",
+        "Аппендикулярной колики",
+        "Простого аппендицита",
+        "Флeгмонозного аппендицита",
+        "Гангренозного аппендицита",
+        "Перитонита"
+      ]
+    },
+    {
+      "id": "facSurgExam_179",
+      "arr": [
+        "Омертвение участков или всего червеобразного отростка характерно для:",
+        "Флегмонозного аппендицита",
+        "Гангрeнозного аппендицита",
+        "Перфоративного аппендицита",
+        "Перитонита",
+        "Всего перечисленного"
+      ]
+    },
+    {
+      "id": "facSurgExam_180",
+      "arr": [
+        "Эмпиемой червеобразного отростка называется:",
+        "Скоплeние гноя в замкнутой полости отростка",
+        "Скопление серозного экссудата",
+        "Прорыв гноя в брюшную полость",
+        "Конгломерат органов брюшной полости вокруг отростка",
+        "Пропитывание стенки отростка гноем"
+      ]
+    },
+    {
+      "id": "facSurgExam_181",
+      "arr": [
+        "Причиной гангренозного аппендицита является:",
+        "Обтурация просвета отростка",
+        "Тромбоз сосудов брыжeйки отростка",
+        "Наличие камней в просвете отростка",
+        "Нарушение моторики отростка",
+        "Все перечисленное верно"
+      ]
+    },
+    {
+      "id": "facSurgExam_182",
+      "arr": [
+        "Гангренозный аппендицит может быть:",
+        "Сухим и влажным",
+        "Специфическим и неспецифическим",
+        "Пeрвичным и вторичным",
+        "А, б, в",
+        "А, б"
+      ]
+    },
+    {
+      "id": "facSurgExam_183",
+      "arr": [
+        "Перфорация червеообразного отростка может быть вызвана:",
+        "Травматизацией стенки отростка каловым камнем",
+        "Расплавлением стенки отростка гноем",
+        "Некрозом стенки отростка",
+        "Разрушением стенки глистной инвазией",
+        "Расплавлeнием стенки отростка гноем и некрозом его стенки"
+      ]
+    },
+    {
+      "id": "facSurgExam_184",
+      "arr": [
+        "Гистологические изменения стенки червеобразного отростка при перфоративном аппендиците соответствуют таковым при:",
+        "Ганренозном",
+        "Флегмонозном",
+        "Катаральном",
+        "Ганренозном и флeгмонозном",
+        "Флегмонозном и катаральном"
+      ]
+    },
+    {
+      "id": "facSurgExam_185",
+      "arr": [
+        "Разнообразие клинической картины при остром аппендиците связано с:",
+        "Формой заболевания",
+        "Локализацией червеобразного отростка",
+        "Наличием и характером осложнений",
+        "Реактивностью организма",
+        "Всем перeчисленным"
+      ]
+    },
+    {
+      "id": "facSurgExam_186",
+      "arr": [
+        "Постоянным и обязательным симптомом острого аппендицита является:",
+        "Рвота",
+        "Тошноста",
+        "Бoль",
+        "Диарея",
+        "Запор"
+      ]
+    },
+    {
+      "id": "facSurgExam_187",
+      "arr": [
+        "Перемещение боли из эпигастрия в правую подвздошную область называется симптомом:",
+        "Кохeра-Волковича",
+        "Бартомье",
+        "Воскресенского",
+        "ЩеткинБлюмберга",
+        "Образцова"
+      ]
+    },
+    {
+      "id": "facSurgExam_188",
+      "arr": [
+        "Вентральная грыжа это:",
+        "Внедрение тонкой кишки в толстую",
+        "Выхождение внутренних органов через естественные отверстия наружу",
+        "Выхождение покрытых брюшиной внутренних органов чeрез отверстия брюшной стенки под кожу",
+        "Выхождение внутренних органов через разрыв передней брюшной стенки в рану",
+        "Все перечисленное можно отнести к вентральным грыжам"
+      ]
+    },
+    {
+      "id": "facSurgExam_189",
+      "arr": [
+        "Обязательными компонентами истинной грыжи являются:",
+        "Грыжевые ворота, грыжевой мешок, семенной канатик",
+        "Грыжевые ворота, грыжевой мешок, яичко",
+        "Грыжeвые ворота, грыжевой мешок из париетальной брюшины, грыжевое содержимое",
+        "Грыжевые ворота, грыжевой мешок, тонкая кишка",
+        "Сальник, грыжевой мешок, грыжевое содержимое"
+      ]
+    },
+    {
+      "id": "facSurgExam_190",
+      "arr": [
+        "Грыжевой мешок это:",
+        "Выпячивание кишечной стенки",
+        "Выпячивание париeтальной брюшины",
+        "Выпячивание висцеральной брюшины",
+        "Дефект в мышечно-апоневротическом слое",
+        "Внутренние органы, выходящие через грыжевые ворота"
+      ]
+    },
+    {
+      "id": "facSurgExam_191",
+      "arr": [
+        "Грыжевым содержимым при наружной вентральной грыже может быть",
+        "Тонкий кишeчник",
+        "Поджелудочная железа",
+        "Почка",
+        "Все перечисленное",
+        "Ничего из перечисленного"
+      ]
+    },
+    {
+      "id": "facSurgExam_192",
+      "arr": [
+        "По анатомическому признаку грыжи выделяют",
+        "Неосложненные, ущемленные, невправимые и др.",
+        "Врожденные, приобретенные и др.",
+        "Бессимптомные, симптомные и др.",
+        "Рецидивные, послеоперационные и др.",
+        "Паховые, бeдренные, пупочные и др."
+      ]
+    },
+    {
+      "id": "facSurgExam_193",
+      "arr": [
+        "По этиологическому признаку выделяют грыжи:",
+        "Паховые, бедренные, пупочные и др.",
+        "Неосложненные, ущемленные, невправимые и др.",
+        "Врожденные, приобрeтенные, рецидивные, послеоперационные и др.",
+        "Бессимптомные, симптомные и др.",
+        "Паховые, ущемленные, бедренные и др."
+      ]
+    },
+    {
+      "id": "facSurgExam_194",
+      "arr": [
+        "По клиническому течению выделяют грыжи:",
+        "Паховые, бедренные, пупочные и др.",
+        "Неосложненные и осложнeнные.",
+        "Врожденные, приобретенные, рецидивные, послеоперационные и др.",
+        "Бессимптомные, симптомные и др.",
+        "Паховые, ущемленные, бедренные и др."
+      ]
+    },
+    {
+      "id": "facSurgExam_195",
+      "arr": [
+        "Предрасполагающие факторы развития грыж",
+        "Непосредственно способствуют развитию грыжи",
+        "Фoрмируют склонность к развитию грыжи",
+        "Приводят к повышению внутрибрюшного давления",
+        "Обязательно являются следствием оперативного вмешательства",
+        "Являются только врожденными"
+      ]
+    },
+    {
+      "id": "facSurgExam_196",
+      "arr": [
+        "К факторам, предрасполагающим к развитию грыж можно отнести",
+        "Тяжелый физический труд",
+        "Запоры",
+        "Длительный кашель",
+        "Затрудненное мочеиспускание",
+        "Быстроe похудание"
+      ]
+    },
+    {
+      "id": "facSurgExam_197",
+      "arr": [
+        "Симптом кашлевого толчка это:",
+        "Появление кашля при толчкообразной пальпации грыжи",
+        "Западение грыжевого выпячивания при ее пальпации во время кашля",
+        "Самопроизвольное вправление грыжи после серии кашлевых движений",
+        "Появление болезненности в области грыжи при кашле больного",
+        "Ощущение толчка во врeмя кашля при пальпации грыжевых ворот"
+      ]
+    },
+    {
+      "id": "facSurgExam_198",
+      "arr": [
+        "Радикальным методом лечения вентральных грыж является",
+        "Заговор",
+        "Ношение бандажа",
+        "Опeративный",
+        "Склеротерапия",
+        "Все вышеперечисленное приводит к излечению грыж"
+      ]
+    },
+    {
+      "id": "facSurgExam_199",
+      "arr": [
+        "Противопоказанием к плановому оперативному лечению грыжи являются:",
+        "Пожилой возраст",
+        "Возраст ребенка до года",
+        "Острые заболевания",
+        "Все вышеперечисленное",
+        "Ничего из вышeперечисленного"
+      ]
+    },
+    {
+      "id": "facSurgExam_200",
+      "arr": [
+        "Аутопластические способы пластики грыж заключаются в использовании:",
+        "Донорских мышечно-апоневротических тканей",
+        "Мышечно-апоневротических тканей животного происхождения",
+        "Собственных мышечно-апонeвротических тканей",
+        "Синтетических тканей",
+        "Металлических протезов"
+      ]
+    },
+    {
+      "id": "facSurgExam_201",
+      "arr": [
+        "Аллопластические способы пластики грыж заключаются в использовании:",
+        "Местных мышечных тканей",
+        "Местных апоневротических тканей",
+        "Местных мышечно-апоневротических тканей",
+        "Шовного материала",
+        "Трансплантатов различного инородного происхождeния"
+      ]
+    },
+    {
+      "id": "facSurgExam_202",
+      "arr": [
+        "Кожныe лоскуты оперируемого больного",
+        "Твердая мозговая оболочка трупов скоропостижно скончавшихся людей",
+        "Брюшина крупного рогатого скота",
+        "Сетки из синтетических материалов",
+        "Все ответы верны"
+      ]
+    },
+    {
+      "id": "facSurgExam_203",
+      "arr": [
+        "Искусственными трансплантатами являются:",
+        "Кожные лоскуты оперируемого больного",
+        "Ткани родственников оперируемого больного",
+        "Брюшина крупного рогатого скота",
+        "Местные мышечно-апоневротические ткани",
+        "Сетки из синтeтических материалов"
+      ]
+    },
+    {
+      "id": "facSurgExam_204",
+      "arr": [
+        "При неосложненной наружной брюшной грыже следует рекомендовать",
+        "Плановое оперативное лечeние",
+        "Экстренную операцию",
+        "Ношение бандажа",
+        "Склеротерапию",
+        "Физиотерапевтическое лечение"
+      ]
+    },
+    {
+      "id": "facSurgExam_205",
+      "arr": [
+        "При невправимой наружной брюшной грыже противопоказано",
+        "Плановое оперативное лечение",
+        "Ношeние бандажа",
+        "Занятие гимнастикой",
+        "Курортолечение",
+        "Все перечисленное"
+      ]
+    },
+    {
+      "id": "facSurgExam_206",
+      "arr": [
+        "При невправимой наружной брюшной грыже следует рекомендовать",
+        "Плановое опeративное лечение",
+        "Экстренную операцию",
+        "Ношение бандажа",
+        "Склеротерапию",
+        "Динамическое наблюдение"
+      ]
+    },
+    {
+      "id": "facSurgExam_207",
+      "arr": [
+        "Производящим фактором развития грыж следует считать",
+        "Наследственность",
+        "Возраст",
+        "Пол",
+        "Травмы передней брюшной стенки",
+        "Длитeльный кашель"
+      ]
+    },
+    {
+      "id": "facSurgExam_208",
+      "arr": [
+        "Производящие факторы",
+        "Пособствуют ослаблению брюшной стенки",
+        "Формируют склонность к развитию грыжи",
+        "Являются только врожденными",
+        "Вызывают повышeние внутрибрюшного давления",
+        "Приводят только к невправимости грыжи"
+      ]
+    },
+    {
+      "id": "facSurgExam_209",
+      "arr": [
+        "В поджелудочной железе различают следующие анатомические части",
+        "Нижнюю и верхнюю",
+        "Брюшную и забрюшинную",
+        "Дуоденальную и желудочную",
+        "Головку, тeло и хвост",
+        "Анатомические части не выделяются"
+      ]
+    },
+    {
+      "id": "facSurgExam_210",
+      "arr": [
+        "Поджелудочная железа расположена",
+        "Забрюшиннo",
+        "Впередибрюшинно",
+        "Внутрибрюшинно",
+        "Головка - забрюшинно, тело и хвост - внутрибрюшинно",
+        "Интрабрыжеечно"
+      ]
+    },
+    {
+      "id": "facSurgExam_211",
+      "arr": [
+        "Тело поджелудочной железы передней своей поверхностью прилежит к",
+        "Двенадцатиперстной кишке",
+        "Жeлудку",
+        "Поперечноободочной кишке",
+        "Печени",
+        "Селезенке"
+      ]
+    },
+    {
+      "id": "facSurgExam_212",
+      "arr": [
+        "Головка поджелудочной железы расположена",
+        "За левой долей печени",
+        "В пeтле двенадцатиперстной кишки",
+        "В брыжейке тонкой кишки",
+        "В брыжейке ободочной кишки",
+        "У ворот селезенки"
+      ]
+    },
+    {
+      "id": "facSurgExam_213",
+      "arr": [
+        "Главный проток поджелудочной железы в большинстве случаев",
+        "Самостоятельно впадает в двенадцатиперстную кишку",
+        "Соединяясь с дополнительным протоком впадает в двенадцатиперстную кишку",
+        "Соединяясь с общим жeлчным протоком впадает в двенадцатиперстную кишку",
+        "Соединяясь с дополнительным протоком впадает в желудок",
+        "Соединяясь с общим желчным протоком впадает в тощую кишку"
+      ]
+    },
+    {
+      "id": "facSurgExam_214",
+      "arr": [
+        "За сутки поджелудочная железа вырабатывает панкреатический сок в объеме",
+        "10 - 15 миллилитров",
+        "100 - 150 миллилитров",
+        "200 - 250 миллилитров л",
+        "1000 - 1500 миллилитрoв",
+        "5000 - 6000 миллилитров"
+      ]
+    },
+    {
+      "id": "facSurgExam_215",
+      "arr": [
+        "К протеолитическим ферментам поджелудочной железы относятся",
+        "Фермeнт трипсин",
+        "Фермент липаза",
+        "Фермент эстераза",
+        "Фермент амилаза",
+        "Все перечисленное верно"
+      ]
+    },
+    {
+      "id": "facSurgExam_216",
+      "arr": [
+        "К протеолитическим ферментам поджелудочной железы относятся",
+        "Глюкагон",
+        "Химoтрипсин",
+        "Липаза",
+        "Амилаза",
+        "Все перечисленное верно"
+      ]
+    },
+    {
+      "id": "facSurgExam_217",
+      "arr": [
+        "К липолитическим ферментам поджелудочной железы относится",
+        "Фермент трипсин",
+        "Фермент эластаза",
+        "Фермeнт липаза",
+        "Фермент амилаза",
+        "Все перечисленное верно"
+      ]
+    },
+    {
+      "id": "facSurgExam_218",
+      "arr": [
+        "К липолитическим ферментам поджелудочной железы относятся",
+        "Трипсин",
+        "Эластаза",
+        "Коллагеназа",
+        "Фoсфолипаза",
+        "Все перечисленное верно"
+      ]
+    },
+    {
+      "id": "facSurgExam_219",
+      "arr": [
+        "Поджелудочной железой в активной форме выделяются следующие ферменты",
+        "Трипсиноген и липаза",
+        "Трипсиноген и амилаза",
+        "Химотрипсиноген и амилаза",
+        "Химотрипсиноген и липаза",
+        "Фермeнты амилаза и липаза"
+      ]
+    },
+    {
+      "id": "facSurgExam_220",
+      "arr": [
+        "В норме активность амилазы в моче не превышает",
+        "4 мг/ч миллилитров",
+        "16 мг/ч миллилитров",
+        "120 мг/ч/ миллилитрoв",
+        "560 мг/ч миллилитров",
+        "1256 мг/ч миллилитров"
+      ]
+    },
+    {
+      "id": "facSurgExam_221",
+      "arr": [
+        "Нормальные величины активности амилазы в сыворотке крови составляют",
+        "В норме не определяется",
+        "2-8 мг/ч миллилитров",
+        "12-32 мг/ч миллилитрoв",
+        "2-256 мг/ч миллилитров",
+        "4-1024 мг/ч миллилитров"
+      ]
+    },
+    {
+      "id": "facSurgExam_222",
+      "arr": [
+        "Для отечной формы острого панкреатита характерно",
+        "Значительное повышение температуры тела",
+        "Сильныe боли в животе",
+        "Частый жидкий стул",
+        "Пожелтение кожи и склер",
+        "Недержание мочи"
+      ]
+    },
+    {
+      "id": "facSurgExam_223",
+      "arr": [
+        "В развитии острого панкреатита главенствующая роль принадлежит",
+        "Микробной агрессии",
+        "Плазмоцитарной инфильтрации",
+        "Микроциркуляторным нарушениям",
+        "Аутофeрментной агрессии",
+        "Нарушению венозного оттока"
+      ]
+    },
+    {
+      "id": "facSurgExam_224",
+      "arr": [
+        "Болезненность при пальпации в левом реберно-позвоночном углу при остром панкреатите носит название симптома",
+        "Воскресенского",
+        "Мейо - Рoбсона",
+        "Грюнвальда",
+        "Мондора",
+        "Грея - Тернера"
+      ]
+    },
+    {
+      "id": "facSurgExam_225",
+      "arr": [
+        "Жировой панкреонекроз формируется в результате",
+        "Присоединения инфекции на фоне отечного панкреатита",
+        "Активации и поврeждающего действия липолитических ферментов",
+        "Активации и повреждающего действия протеолитических ферментов",
+        "Активации и повреждающего действия гликолитических ферментов",
+        "Инволюции мелкоочагового панкреонекроза"
+      ]
+    },
+    {
+      "id": "facSurgExam_226",
+      "arr": [
+        "Геморрагический панкреонекроз формируется в результате",
+        "Присоединения инфекции на фоне отечного панкреатита",
+        "Активации и повреждающего действия липолитических ферментов",
+        "Активации и поврeждающего действия протеолитических ферментов",
+        "Активации и повреждающего действия гликолитических ферментов",
+        "Инволюции мелкоочагового панкреонекроза"
+      ]
+    },
+    {
+      "id": "facSurgExam_227",
+      "arr": [
+        "Болезненность и резистентность мышц в проекции поджелудочной железы при остром панкреатите носит название симптома",
+        "Мейо - Робсона",
+        "Кeрте",
+        "Грея - Тернера",
+        "Мондора",
+        "Воскресенского"
+      ]
+    },
+    {
+      "id": "facSurgExam_228",
+      "arr": [
+        "Эзофагогастродуоденоскопия у больных острым панкреатитом позволяет",
+        "Диагностировать острый панкреатит",
+        "Уточнить локализацию некроза в поджелудочной железе",
+        "Уточнить распространенность панкреонекроза",
+        "Определить форму острого панкреатита",
+        "Оцeнить состояние большого дуоденального сосочка"
+      ]
+    },
+    {
+      "id": "facSurgExam_229",
+      "arr": [
+        "К развитию острого панкреатита могут привести",
+        "Тупая травма живота",
+        "Операционная травма поджелудочной железы",
+        "Ущемленный камень большого дуоденального сосочка",
+        "Стриктура большого дуоденального сосочка",
+        "Все вышeперечисленные причины"
+      ]
+    },
+    {
+      "id": "facSurgExam_230",
+      "arr": [
+        "Раницей между этажами брюшной полости считается:",
+        "Горизонтальная плоскость проведенная через верхние подвздошные ости",
+        "Горизонтальная плоскость проведенная через нижний край реберных дуг",
+        "Поперечно-ободочная кишка и ее брыжeйка",
+        "Брыжейка терминального отдела подвздошной кишки",
+        "Апертура малого таза"
+      ]
+    },
+    {
+      "id": "facSurgExam_231",
+      "arr": [
+        "Правый латеральный канал это:",
+        "Вся правая половина брюшной полости",
+        "Просвет восходящей ободочной кишки",
+        "Пространство между восходящeй ободочной кишкой и боковой стенкой живота",
+        "Пространство между брыжейками восходящей и поперечной ободочной кишки",
+        "Все отделы брюшной полости справа от нисходящей ободочной кишки"
+      ]
+    },
+    {
+      "id": "facSurgExam_232",
+      "arr": [
+        "Передней стенкой сальниковой сумки является:",
+        "Большой сальник",
+        "Брыжейка поперечно-ободочной кишки",
+        "Передняя брюшная стенка",
+        "Задняя стенка жeлудка",
+        "Нижняя поверхность печени"
+      ]
+    },
+    {
+      "id": "facSurgExam_233",
+      "arr": [
+        "К местному отграниченному перитониту относят:",
+        "Воспаление брюшины малого сальника",
+        "Воспаление брюшины по ходу правого латерального канала",
+        "Воспаление диафрагмальной брюшины",
+        "Воспаление серозной оболочки петель тонкой кишки",
+        "Абсцeсс брюшной полости любой локализации"
+      ]
+    },
+    {
+      "id": "facSurgExam_234",
+      "arr": [
+        "При местном перитоните поражена брюшина:",
+        "В одной анатомичeской области живота",
+        "От двух до пяти областей брюшной полости",
+        "Одного этажа брюшной полости",
+        "Одного отдела брюшной полости",
+        "Только париетальная брюшина"
+      ]
+    },
+    {
+      "id": "facSurgExam_235",
+      "arr": [
+        "При распространенном перитоните поражена брюшина:",
+        "Одной области",
+        "Двух этажeй брюшной полости",
+        "Всей брюшной полости",
+        "Все ответы правильные",
+        "Нет правильных ответов"
+      ]
+    },
+    {
+      "id": "facSurgExam_236",
+      "arr": [
+        "К специфическим перитонитам относят:",
+        "Микозный перитонит",
+        "Туберкулезный перитонит",
+        "Гонококковый перитонит",
+        "Все отвeты правильные",
+        "Нет правильных ответов"
+      ]
+    },
+    {
+      "id": "facSurgExam_237",
+      "arr": [
+        "В зависимости от характера выпота наиболее тяжело протекает:",
+        "Гнойный перитонит",
+        "Гнилостный пeритонит",
+        "Серозный перитонит",
+        "Серозно-гнойный перитонит",
+        "Серозно-геморрагический перитонит"
+      ]
+    },
+    {
+      "id": "facSurgExam_238",
+      "arr": [
+        "По клиническому течению различают:",
+        "Острый, подострый и хроничeский перитонит",
+        "Острый, рецидивирующий и бессимптомный перитонит",
+        "Острый, волнообразный и подострый перитонит",
+        "Подострый и хронический перитонит",
+        "Только острый перитонит"
+      ]
+    },
+    {
+      "id": "facSurgExam_239",
+      "arr": [
+        "Хроническое течение типично для:",
+        "Гнилостного перитонита",
+        "Желчного перитонита",
+        "Туберкулезного пeритонита",
+        "Калового перитонита",
+        "Ферментативного перитонита"
+      ]
+    },
+    {
+      "id": "facSurgExam_240",
+      "arr": [
+        "К первичному перитониту относят:",
+        "Перитонит вследствие перфорации полого органа",
+        "Перитонит вследствие проникающих ранений живота",
+        "Перитонит при лимфо- и гематогeнном инфицировании брюшины",
+        "Перитонит при кишечной непроходимости",
+        "Гонококковый пельвиоперитонит"
+      ]
+    },
+    {
+      "id": "facSurgExam_241",
+      "arr": [
+        "К вторичному перитониту относят:",
+        "Перитонит вследствие перфорации полого органа",
+        "Перитонит вследствие проникающих ранений живота",
+        "Ферментативный перитонит",
+        "Гонококковый пельвиоперитонит",
+        "Все отвeты правильные"
+      ]
+    },
+    {
+      "id": "facSurgExam_242",
+      "arr": [
+        "К перитонеальным симптомам относят:",
+        "Напряжение мышц передней брюшной стенки",
+        "Положительный симптом щеткина-блюмберга",
+        "Болезненность при перкуссии (симптом раздольского)",
+        "Болезненность передней стенки прямой кишки при ректальном обследовании",
+        "Все отвeты правильные"
+      ]
+    },
+    {
+      "id": "facSurgExam_243",
+      "arr": [
+        "\"симптом спижарного\" это:",
+        "Проведение дыхательных и сердечных шумов в брюшную полость",
+        "Отсутствие кишечных шумов",
+        "Отсутствие печeночной тупости при перкуссии",
+        "Болезненность при пальпации в околопупочной области",
+        "Иррадиация болей в правое надплечье при перитоните"
+      ]
+    },
+    {
+      "id": "facSurgExam_244",
+      "arr": [
+        "Для терминальной стадии перитонита характерно:",
+        "Снижение болeвого синдрома",
+        "Усиление болей",
+        "Брадикардия",
+        "Учащенный стул и мочеиспускание",
+        "Гиперперистальтика"
+      ]
+    },
+    {
+      "id": "facSurgExam_245",
+      "arr": [
+        "Симптом \"ваньки-встаньки\" характерен для:",
+        "Перитонита аппендикулярного происхождения",
+        "Ферментативного перитонита",
+        "Разрыва селeзенки",
+        "Все ответы правильные",
+        "Нет правильного ответа"
+      ]
+    },
+    {
+      "id": "facSurgExam_246",
+      "arr": [
+        "Местный неотграниченный перитонит обычно сопровождает:",
+        "Перфорацию язвы желудка и 12п кишки",
+        "Острую кишечную непроходимость",
+        "Поддиафрагмальные абсцессы",
+        "Дeструктивные формы аппендицита",
+        "Туберкулез брюшины"
+      ]
+    },
+    {
+      "id": "facSurgExam_247",
+      "arr": [
+        "Для перитонита у детей характерно:",
+        "Прeобладание общих симптомов над местными",
+        "Выраженная локальная болезненность",
+        "Гипотермия",
+        "Отсутствие выраженных изменений в клиническом анализе крови",
+        "Подострое течение"
+      ]
+    },
+    {
+      "id": "facSurgExam_248",
+      "arr": [
+        "Для перитонита у лиц пожилого и старческого возраста характерно:",
+        "Преобладание мeстных симптомов над общими",
+        "Нормо и брадикардия",
+        "Резкая гипертермия",
+        "Бурное быстропрогрессирующее течение",
+        "Все ответы правильные"
+      ]
+    },
+    {
+      "id": "facSurgExam_249",
+      "arr": [
+        "Консервативное лечение без операции допустимо для:",
+        "Перитонита вследствие перфорации полого органа",
+        "Флегмонозного аппендицита",
+        "Гонококкового пeльвиоперитонита",
+        "Абсцесса дугласова пространства",
+        "Всех вышеперечисленных заболеваний"
+      ]
+    },
+    {
+      "id": "facSurgExam_250",
+      "arr": [
+        "Гемоперитонеум имеет место при:",
+        "Геморрагической форме панкреатита",
+        "Желудочно-кишечном кровотечении",
+        "Серозно-геморрагическом выпоте любого происхождения",
+        "Внутрибрюшном кровотeчении",
+        "Геморрагическом цистите"
+      ]
+    }
+  ]
+}

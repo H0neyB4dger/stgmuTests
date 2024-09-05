@@ -1,0 +1,453 @@
+{"answers": {
+    "pulmo_0": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_1": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_2": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pulmo_3": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_4": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_5": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_6": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pulmo_7": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pulmo_8": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_9": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_10": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_11": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_12": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pulmo_13": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pulmo_14": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_15": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_16": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_17": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_18": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pulmo_19": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pulmo_20": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pulmo_21": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pulmo_22": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pulmo_23": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pulmo_24": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pulmo_25": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_26": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_27": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pulmo_28": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pulmo_29": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_30": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_31": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_32": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_33": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_34": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pulmo_35": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_36": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_37": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pulmo_38": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_39": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_40": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_41": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pulmo_42": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pulmo_43": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_44": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pulmo_45": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_46": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pulmo_47": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_48": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pulmo_49": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pulmo_50": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pulmo_51": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_52": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pulmo_53": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_54": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_55": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_56": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_57": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pulmo_58": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_59": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pulmo_60": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_61": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_62": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pulmo_63": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_64": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_65": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_66": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pulmo_67": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pulmo_68": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_69": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pulmo_70": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_71": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pulmo_72": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pulmo_73": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pulmo_74": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    }
+  },
+"questions": []}

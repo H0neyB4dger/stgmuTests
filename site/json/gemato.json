@@ -1,0 +1,1203 @@
+{"answers": {
+    "gemato_0": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_1": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_2": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_3": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_4": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_5": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_6": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_7": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_8": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_9": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_10": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_11": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_12": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_13": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_14": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_15": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_16": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_17": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_18": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_19": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_20": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_21": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_22": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_23": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_24": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_25": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_26": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_27": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_28": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_29": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_30": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_31": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_32": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_33": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_34": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_35": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_36": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_37": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_38": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_39": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_40": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_41": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_42": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_43": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_44": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_45": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_46": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_47": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_48": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_49": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_50": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_51": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_52": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_53": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_54": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_55": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_56": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_57": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_58": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_59": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_60": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_61": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_62": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_63": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_64": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_65": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_66": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_67": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_68": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_69": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_70": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_71": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_72": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_73": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_74": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_75": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_76": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_77": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_78": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_79": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_80": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_81": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_82": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_83": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_84": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_85": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_86": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_87": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_88": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_89": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_90": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_91": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_92": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_93": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_94": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_95": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_96": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_97": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_98": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_99": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_100": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_101": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_102": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_103": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_104": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_105": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_106": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_107": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_108": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_109": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_110": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_111": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_112": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_113": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_114": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_115": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_116": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_117": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_118": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_119": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_120": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_121": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_122": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_123": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_124": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_125": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_126": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_127": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_128": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_129": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_130": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_131": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_132": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_133": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_134": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_135": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_136": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_137": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_138": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_139": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_140": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_141": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_142": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_143": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_144": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_145": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_146": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_147": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_148": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_149": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_150": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_151": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_152": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_153": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_154": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_155": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_156": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_157": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_158": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_159": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_160": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_161": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_162": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_163": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_164": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_165": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_166": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_167": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_168": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_169": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_170": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_171": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_172": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_173": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_174": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_175": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_176": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_177": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_178": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_179": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_180": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_181": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_182": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_183": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_184": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_185": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_186": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_187": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_188": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_189": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_190": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_191": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "gemato_192": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_193": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_194": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_195": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "gemato_196": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_197": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "gemato_198": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "gemato_199": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    }
+  },
+"questions": []}

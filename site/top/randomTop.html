@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>Топографическая анатомия</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Тренировочные тесты для студентов медиков
+(СтГМУ) по топографической анатомии">
+<link rel="stylesheet" href="../css/style.css">
+<link rel="icon" href="../favicon.ico" type="image/x-icon">
+<!-- Yandex.RTB -->
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+</head>
+<body>
+
+<div class="header">
+  <div class="nav">
+    <div class="homeContainer">
+      <svg id="homeSVG" version="1.1" xmlns="http://www.w3.org/2000/svg" height="500px" width="500px">
+        <g fill="#fff">
+          <path d="M110 255 L110 410 L210 410 L210 310 L290 310 L290 410 L390 410 L390 255 L250 155 L110 255" />
+          <path d="M80 258 L59 230 L250 91 L338 155 L338 91 L386 91 L386 190 L441 230 L420 258 L250 135 L80 258" />
+        </g>
+      </svg>
+      <a id="home" href="../index.html" class="focus"></a>
+    </div>
+    <a href="./topList.html" class="focus">/ Список тестов по топографической анатомии</a>
+  </div>
+  <h1>50 случайных вопросов по топографической анатомии</h1>
+</div>
+
+<div class="timer">Прошло: 00:00:00</div>
+<ul id="testList"></ul>
+<div class="timer noPaddingBottom">Прошло: 00:00:00</div>
+
+<div class="mistakeContainer">
+  <button id="mistake">Работа над ошибками</button>
+</div>
+
+<div id="resultContainer">
+  <div id="result"></div>
+  <div id="raccoonContainer">
+    <img id="raccoon" src="../images/pedro.gif" alt="Енот">
+  </div>
+</div>
+
+<div class="addContainer">
+  <!-- Yandex.RTB R-A-8553472-27 -->
+  <div id="yandex_rtb_R-A-8553472-27"></div>
+  <script>
+  window.yaContextCb.push(()=>{
+    Ya.Context.AdvManager.render({
+      "blockId": "R-A-8553472-27",
+      "renderTo": "yandex_rtb_R-A-8553472-27"
+    })
+  })
+  </script>
+</div>
+
+<script src="./randomTop.js"></script>
+<script src="../js/tools.js"></script>
+
+</body>
+</html>

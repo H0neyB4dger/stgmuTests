@@ -1,0 +1,1803 @@
+{"answers": {
+    "cardio_0": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_1": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_2": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_3": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_4": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_5": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_6": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_7": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_8": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_9": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_10": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_11": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_12": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_13": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_14": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_15": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_16": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_17": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_18": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_19": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_20": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_21": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_22": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_23": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_24": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_25": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_26": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_27": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_28": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_29": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_30": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_31": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_32": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_33": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_34": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_35": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_36": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_37": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_38": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_39": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_40": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_41": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_42": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_43": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_44": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_45": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_46": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_47": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_48": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_49": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_50": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_51": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_52": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_53": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_54": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_55": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_56": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_57": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_58": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_59": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_60": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_61": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_62": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_63": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_64": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_65": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_66": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_67": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_68": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_69": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_70": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_71": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_72": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_73": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_74": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_75": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_76": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_77": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_78": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_79": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_80": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_81": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_82": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_83": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_84": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_85": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_86": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_87": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_88": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_89": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_90": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_91": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_92": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_93": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_94": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_95": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_96": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_97": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_98": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_99": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_100": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_101": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_102": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_103": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_104": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_105": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_106": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_107": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_108": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_109": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_110": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_111": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_112": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_113": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_114": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_115": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_116": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_117": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_118": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_119": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_120": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_121": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_122": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_123": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_124": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_125": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_126": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_127": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_128": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_129": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_130": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_131": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_132": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_133": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_134": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_135": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_136": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_137": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_138": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_139": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_140": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_141": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_142": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_143": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_144": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_145": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_146": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_147": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_148": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_149": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_150": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_151": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_152": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_153": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_154": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_155": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_156": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_157": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_158": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_159": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_160": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_161": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_162": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_163": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_164": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_165": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_166": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_167": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_168": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_169": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_170": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_171": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_172": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_173": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_174": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_175": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_176": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_177": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_178": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_179": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_180": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_181": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_182": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_183": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_184": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_185": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_186": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_187": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_188": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_189": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_190": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_191": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_192": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_193": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_194": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_195": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_196": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_197": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_198": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_199": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_200": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_201": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_202": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_203": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_204": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_205": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_206": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_207": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_208": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_209": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_210": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_211": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_212": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_213": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_214": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_215": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_216": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_217": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_218": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_219": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_220": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_221": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_222": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_223": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_224": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_225": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_226": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_227": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_228": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_229": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_230": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_231": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_232": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_233": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_234": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_235": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_236": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_237": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_238": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_239": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_240": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_241": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_242": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_243": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_244": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_245": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_246": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_247": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_248": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_249": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_250": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_251": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_252": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_253": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_254": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_255": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_256": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_257": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_258": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_259": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_260": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_261": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_262": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_263": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_264": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_265": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_266": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_267": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_268": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_269": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_270": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_271": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_272": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_273": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_274": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_275": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_276": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_277": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_278": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_279": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_280": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_281": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_282": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_283": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_284": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_285": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_286": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_287": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_288": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_289": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_290": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_291": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_292": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "cardio_293": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_294": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "cardio_295": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_296": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_297": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "cardio_298": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "cardio_299": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    }
+  },
+"questions": []}

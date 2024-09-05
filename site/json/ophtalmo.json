@@ -1,0 +1,5640 @@
+{
+  "answers": {
+    "ophtalmo_0": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_1": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_2": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_3": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_4": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_5": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_6": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_7": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_8": {
+      "type": "single",
+      "answer": [
+        5
+      ]
+    },
+    "ophtalmo_9": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_10": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_11": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_12": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_13": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_14": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_15": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_16": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_17": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_18": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_19": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_20": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_21": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_22": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "ophtalmo_23": {
+      "type": "multi",
+      "answer": [
+        4,
+        5,
+        6
+      ]
+    },
+    "ophtalmo_24": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "ophtalmo_25": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_26": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_27": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        5
+      ]
+    },
+    "ophtalmo_28": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_29": {
+      "type": "single",
+      "answer": [
+        5
+      ]
+    },
+    "ophtalmo_30": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_31": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_32": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_33": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_34": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_35": {
+      "type": "single",
+      "answer": [
+        5
+      ]
+    },
+    "ophtalmo_36": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_37": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_38": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_39": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_40": {
+      "type": "multi",
+      "answer": [
+        0,
+        3
+      ]
+    },
+    "ophtalmo_41": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_42": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_43": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_44": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_45": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_46": {
+      "type": "single",
+      "answer": [
+        5
+      ]
+    },
+    "ophtalmo_47": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_48": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_49": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_50": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_51": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_52": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_53": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_54": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_55": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_56": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_57": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_58": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_59": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_60": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_61": {
+      "type": "single",
+      "answer": [
+        8
+      ]
+    },
+    "ophtalmo_62": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_63": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_64": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_65": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_66": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_67": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_68": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_69": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_70": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_71": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_72": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_73": {
+      "type": "single",
+      "answer": [
+        5
+      ]
+    },
+    "ophtalmo_74": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_75": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_76": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_77": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_78": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_79": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_80": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_81": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_82": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_83": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_84": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_85": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_86": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_87": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_88": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_89": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_90": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_91": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_92": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_93": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_94": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_95": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_96": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_97": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_98": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_99": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_100": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_101": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_102": {
+      "type": "single",
+      "answer": [
+        5
+      ]
+    },
+    "ophtalmo_103": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_104": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_105": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_106": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_107": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_108": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_109": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_110": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_111": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_112": {
+      "type": "single",
+      "answer": [
+        6
+      ]
+    },
+    "ophtalmo_113": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_114": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_115": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_116": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_117": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_118": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_119": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_120": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_121": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_122": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_123": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_124": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_125": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_126": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_127": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_128": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_129": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_130": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_131": {
+      "type": "single",
+      "answer": [
+        5
+      ]
+    },
+    "ophtalmo_132": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_133": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_134": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_135": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_136": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_137": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_138": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_139": {
+      "type": "single",
+      "answer": [
+        6
+      ]
+    },
+    "ophtalmo_140": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_141": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_142": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_143": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_144": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_145": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_146": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_147": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_148": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_149": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_150": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_151": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_152": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_153": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_154": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_155": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_156": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_157": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_158": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_159": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_160": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_161": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_162": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_163": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_164": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_165": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_166": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_167": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_168": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_169": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_170": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_171": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_172": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_173": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_174": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_175": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_176": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_177": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_178": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_179": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_180": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_181": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_182": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_183": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_184": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_185": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_186": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_187": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_188": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_189": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_190": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_191": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_192": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_193": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_194": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_195": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_196": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_197": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_198": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_199": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_200": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_201": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_202": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_203": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_204": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_205": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_206": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_207": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_208": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_209": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_210": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_211": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_212": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_213": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_214": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_215": {
+      "type": "single",
+      "answer": [
+        6
+      ]
+    },
+    "ophtalmo_216": {
+      "type": "single",
+      "answer": [
+        6
+      ]
+    },
+    "ophtalmo_217": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_218": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_219": {
+      "type": "multi",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "ophtalmo_220": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_221": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_222": {
+      "type": "single",
+      "answer": [
+        5
+      ]
+    },
+    "ophtalmo_223": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_224": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_225": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_226": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_227": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_228": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_229": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_230": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_231": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_232": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_233": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_234": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_235": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_236": {
+      "type": "single",
+      "answer": [
+        5
+      ]
+    },
+    "ophtalmo_237": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_238": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_239": {
+      "type": "single",
+      "answer": [
+        9
+      ]
+    },
+    "ophtalmo_240": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_241": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_242": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_243": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_244": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_245": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_246": {
+      "type": "multi",
+      "answer": [
+        3,
+        5
+      ]
+    },
+    "ophtalmo_247": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_248": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_249": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_250": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_251": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_252": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_253": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_254": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_255": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_256": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_257": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_258": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_259": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_260": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_261": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_262": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_263": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_264": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_265": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_266": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_267": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_268": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_269": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_270": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_271": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_272": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_273": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_274": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_275": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_276": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_277": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_278": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "ophtalmo_279": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_280": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_281": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_282": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_283": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_284": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_285": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_286": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_287": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_288": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_289": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_290": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_291": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_292": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_293": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_294": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_295": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_296": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_297": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_298": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_299": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_300": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_301": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_302": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_303": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_304": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_305": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_306": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_307": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_308": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_309": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_310": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_311": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_312": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_313": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_314": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_315": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_316": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_317": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_318": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_319": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_320": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_321": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_322": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_323": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_324": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_325": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_326": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_327": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_328": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_329": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "ophtalmo_330": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_331": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "ophtalmo_332": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_333": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_334": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_335": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "ophtalmo_336": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_337": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_338": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "ophtalmo_339": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_340": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_341": {
+      "type": "multi",
+      "answer": [
+        0,
+        5
+      ]
+    },
+    "ophtalmo_342": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "ophtalmo_343": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "ophtalmo_344": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "ophtalmo_0",
+      "arr": [
+        "ЧТО ХАРАКТЕРИЗУЕТ ПОНЯТИЕ: ОСТРОТА ЗРЕНИЯ ЧЕЛОВЕЧЕСКОГО ГЛАЗА?",
+        "способность глаза четко различать цвета и оттенки",
+        "способность глаза четко различать предметы в центре и на периферии",
+        "способность глаза воспринимать раздельные точки, расположенные друг от друга на минимальном расстоянии",
+        "пространство, одновременно воспринимаемое неподвижным глазом"
+      ]
+    },
+    {
+      "id": "ophtalmo_1",
+      "arr": [
+        "ЧЕМУ В НОРМЕ РАВЕН МИНИМАЛЬНЫЙ УГОЛ ЗРЕНИЯ?",
+        "1 секунде – 5 секундам",
+        "1 минуте",
+        "5 минутам",
+        "1 градусу",
+        "градусам"
+      ]
+    },
+    {
+      "id": "ophtalmo_2",
+      "arr": [
+        "В КАКИХ ЕДИНИЦАХ ИЗМЕРЯЕТСЯ ОСТРОТА ЗРЕНИЯ?",
+        "относительными",
+        "сантиметрами",
+        "миллиметрами",
+        "диоптриями",
+        "градусами",
+        "метрами"
+      ]
+    },
+    {
+      "id": "ophtalmo_3",
+      "arr": [
+        "КАК МЕНЯЕТСЯ УГОЛ ЗРЕНИЯ ЕСЛИ ОСТРОТА ЗРЕНИЯ ПОВЫШАЕТСЯ?",
+        "уменьшается",
+        "увеличивается",
+        "нет взаимозависимости"
+      ]
+    },
+    {
+      "id": "ophtalmo_4",
+      "arr": [
+        "КАКОВА ВЗАИМОЗАВИСИМОСТЬ МЕЖДУ УГЛОМ ЗРЕНИЯ И ОСТРОТОЙ ЗРЕНИЯ?",
+        "прямая",
+        "зависимости между ними нет",
+        "обратная"
+      ]
+    },
+    {
+      "id": "ophtalmo_5",
+      "arr": [
+        "РАВНОМЕРНА ЛИ ОСТРОТА ЗРЕНИЯ НА РАЗЛИЧНЫХ УЧАСТКАХ СЕТЧАТКИ?",
+        "нет",
+        "да"
+      ]
+    },
+    {
+      "id": "ophtalmo_6",
+      "arr": [
+        "КАКАЯ ОБЛАСТЬ СЕТЧАТКИ ОБЕСПЕЧИВАЕТ НАИБОЛЕЕ ВЫСОКУЮ ОСТРОТУ ЗРЕНИЯ?",
+        "область центральной ямки желтого пятна",
+        "желтое пятно на всем протяжении",
+        "область диска зрительного нерва",
+        "Visus на всех участках сетчатки равномерен"
+      ]
+    },
+    {
+      "id": "ophtalmo_7",
+      "arr": [
+        "ОПТОТИП ЭТО?",
+        "буква цифра или другой знак, используемый для определения Visus’a",
+        "тип зрительной способности",
+        "особенность строения оптической системы глаза",
+        "значение, характеризующее преломляющую силу оптической системы"
+      ]
+    },
+    {
+      "id": "ophtalmo_8",
+      "arr": [
+        "ПОД КАКИМ УГЛОМ ЗРЕНИЯ ВИДЕН ВЕСЬ ОПТПТИП С ЗАДАННОГО РАССТОЯНИЯ?",
+        "секунда",
+        "1 градус",
+        "градусов",
+        "1 минута",
+        "секунд",
+        "5 минут"
+      ]
+    },
+    {
+      "id": "ophtalmo_9",
+      "arr": [
+        "ПОД КАКИМ УГЛОМ ЗРЕНИЯ С ЗАДАННОГО РАССТОЯНИЯ ВИДНЫ ДЕТАЛИ ОПТОТИПА?",
+        "секунда",
+        "1 минута",
+        "1 градус",
+        "5 секунд",
+        "5 минут",
+        "5 градусов"
+      ]
+    },
+    {
+      "id": "ophtalmo_10",
+      "arr": [
+        "ФОРМУЛА СНЕЛЛЕНА ЭТО?",
+        "Visus = d / D",
+        "Visus = D – d",
+        "Visus = D / d",
+        "Visus = D + d",
+        "Visus = d x D"
+      ]
+    },
+    {
+      "id": "ophtalmo_11",
+      "arr": [
+        "МОЖЕТ ЛИ БЫТЬ ОСТРОТА ЗРЕНИЯ БОЛЬШЕ 1,0?",
+        "да",
+        "нет"
+      ]
+    },
+    {
+      "id": "ophtalmo_12",
+      "arr": [
+        "ИССЛЕДУЕМЫЙ ПАЦИЕНТ С РАССТОЯНИЯ 5 МЕТРОВ ЧИТАЕТ ТОЛЬКО ПЕРВУЮ СТРОКУ ТАБЛИЦЫ СИВЦЕВА. КАКАЯ У НЕГО ОСТРОТА ЗРЕНИЯ?",
+        "0,1",
+        "0,2",
+        "0,5",
+        "1,0"
+      ]
+    },
+    {
+      "id": "ophtalmo_13",
+      "arr": [
+        "С КАКОГО РАССТОЯНИЯ ПРОВОДИТСЯ ИССЛЕДОВАНИЕ ОСТРОТЫ ЗРЕНИЯ ПО ТАБЛИЦАМ?",
+        "2 м",
+        "3 м",
+        "4 м",
+        "5 м"
+      ]
+    },
+    {
+      "id": "ophtalmo_14",
+      "arr": [
+        "КАКУЮ ОСТРОТУ ЗРЕНИЯ ИМЕЕТ ИССЛЕДУЕМЫЙ ПАЦИЕНТ, ЕСЛИ ОН СЧИТАЕТ ПАЛЬЦЫ С РАССТОЯНИЯ 2,5 м?",
+        "0,025",
+        "0,05",
+        "0,25",
+        "0,5"
+      ]
+    },
+    {
+      "id": "ophtalmo_15",
+      "arr": [
+        "КАКУЮ ОСТРОТУ ЗРЕНИЯ ИМЕЕТ ИССЛЕДУЕМЫЙ ПАЦИЕНТ, ЕСЛИ ЧИТАЕТ ПЕРВУЮ СТРОЧКУ ТАБЛИЦЫ С 3 м?",
+        "0,03",
+        "0,06",
+        "0,3"
+      ]
+    },
+    {
+      "id": "ophtalmo_16",
+      "arr": [
+        "КАКОВА ОСТРОТА ЗРЕНИЯ ИССЛЕДУЕМОГО ПАЦИЕНТА, ЕСЛИ ОН СЧИТАЕТ ПАЛЬЦЫ С РАССТОЯНИЯ 50 см?",
+        "0,005",
+        "0,01",
+        "0,05"
+      ]
+    },
+    {
+      "id": "ophtalmo_17",
+      "arr": [
+        "С КАКОГО РАССТОЯНИЯ В РОССИИ ПРОВОДИТСЯ ИССЛЕДОВАНИЕ ОСТРОТЫ ЗРЕНИЯ ПО ТАБЛИЦАМ?",
+        "2 м",
+        "3 м",
+        "4 м",
+        "5 м"
+      ]
+    },
+    {
+      "id": "ophtalmo_18",
+      "arr": [
+        "КАК ДОЛГО ПРИ ИССЛЕДОВАНИИ ОСТРОТЫ ЗРЕНИЯ НУЖНО ДЕМОНСТРИРОВАТЬ КАЖДЫЙ ЗНАК ТАБЛИЦЫ?",
+        "1",
+        "3",
+        "10",
+        "20"
+      ]
+    },
+    {
+      "id": "ophtalmo_19",
+      "arr": [
+        "СКОЛЬКО ЦВЕТОВ РАЗЛИЧАЮТ В СПЕКТРЕ БЕЛОГО ЦВЕТА?",
+        "5",
+        "7",
+        "9",
+        "12"
+      ]
+    },
+    {
+      "id": "ophtalmo_20",
+      "arr": [
+        "СКОЛЬКО ВИДОВ ЦВЕТООЩУЩАЮЩИХ КОМПОНЕНТОВ ИМЕЕТСЯ В ЗРИТЕЛЬНОМ АНАЛИЗАТОРЕ?",
+        "2",
+        "3",
+        "4",
+        "5",
+        "7"
+      ]
+    },
+    {
+      "id": "ophtalmo_21",
+      "arr": [
+        "КАКИЕ ДВА ЦВЕТА СПЕКТРА БЕЛОГО СВЕТА ОТНОСЯТСЯ К ДЛИННОВОЛНОВЫМ?",
+        "красный",
+        "оранжевый",
+        "желтый",
+        "зеленый",
+        "голубой",
+        "синий",
+        "фиолетовый"
+      ]
+    },
+    {
+      "id": "ophtalmo_22",
+      "arr": [
+        "КАКИЕ ДВА ЦВЕТА СПЕКТРА БЕЛОГО ЦВЕТА ОТНОСЯТСЯ К СРЕДНЕВОЛНОВЫМ?",
+        "красный",
+        "оранжевый",
+        "желтый",
+        "зеленый",
+        "голубой",
+        "синий",
+        "фиолетовый"
+      ]
+    },
+    {
+      "id": "ophtalmo_23",
+      "arr": [
+        "КАКИЕ ТРИ ЦВЕТА ЯВЛЯЮТСЯ КОРОТКОВОЛНОВЫМИ?",
+        "красный",
+        "оранжевый",
+        "желтый",
+        "зеленый",
+        "голубой",
+        "синий",
+        "фиолетовый"
+      ]
+    },
+    {
+      "id": "ophtalmo_24",
+      "arr": [
+        "КАКИЕ ТРИ ЦВЕТА ЯВЛЯЮТСЯ АХРОМАТИЧЕСКИМИ?",
+        "черный",
+        "белый",
+        "серый",
+        "красный",
+        "синий",
+        "зеленый",
+        "фиолетовый"
+      ]
+    },
+    {
+      "id": "ophtalmo_25",
+      "arr": [
+        "СКОЛЬКО ВИДОВ ЦВЕТООЩУЩАЮЩИХ КОМПОНЕНТОВ ИМЕЕТСЯ В ЗРИТЕЛЬНОМ АНАЛИЗАТОРЕ?",
+        "2",
+        "3",
+        "4",
+        "5",
+        "7"
+      ]
+    },
+    {
+      "id": "ophtalmo_26",
+      "arr": [
+        "ПРОИСХОДИТ ЛИ ВОЗБУЖДЕНИЕ МОНОХРОМНЫХ ФОТОРЕЦЕПТОРОВ ЛУЧАМИ ДРУГОЙ ДЛИНЫ ВОЛНЫ?",
+        "нет",
+        "да, но в меньшей степени"
+      ]
+    },
+    {
+      "id": "ophtalmo_27",
+      "arr": [
+        "ПРИ РАВНОМЕРНОМ РАЗДРАЖЕНИИ КАКИХ ТРЕХ ЦВЕТООЩУЩАЮЩИХ РЕЦЕПТОРОВ СОЗДАЕТСЯ ОЩУЩЕНИЕ БЕЛОГО ЦВЕТА?",
+        "красного",
+        "желтого",
+        "зеленого",
+        "оранжевого",
+        "голубого",
+        "синего",
+        "фиолетового"
+      ]
+    },
+    {
+      "id": "ophtalmo_28",
+      "arr": [
+        "КАКИЕ РЕЦЕПТОРЫ СЕТЧАТКИ ВОСПРИНИМАЮТ ЦВЕТА?",
+        "колбочки",
+        "биполярные клетки",
+        "палочки",
+        "клетки пигментного эпителия",
+        "ганглиозные клетки эпителия"
+      ]
+    },
+    {
+      "id": "ophtalmo_29",
+      "arr": [
+        "РАССТРОЙСТВАМИ ЦВЕТООЩУЩЕНИЯ ЯВЛЯЮТСЯ?",
+        "аномальная трихромззия",
+        "монохромазия – протанопия",
+        "протаномалия – тританопия",
+        "дейтераномалия – тританомалия",
+        "дейтеранопия",
+        "все перечисленное"
+      ]
+    },
+    {
+      "id": "ophtalmo_30",
+      "arr": [
+        "ЧТО ТАКОЕ ПРОТАНОПИЯ?",
+        "аномальное восприятие красного цвета",
+        "аномальное восприятие зеленого цвета",
+        "аномальное восприятие синего цвета",
+        "полное выпадение восприятия красного цвета",
+        "полное выпадение восприятия зеленого цвета",
+        "полное выпадение восприятия синего цвета"
+      ]
+    },
+    {
+      "id": "ophtalmo_31",
+      "arr": [
+        "ЧТО ТАКОЕ ДЕЙТЕРАНОПИЯ?",
+        "аномальное восприятие красного цвета",
+        "аномальное восприятие зеленого цвета",
+        "аномальное восприятие синего цвета",
+        "полное выпадение восприятия красного цвета",
+        "полное выпадение восприятия зеленого цвета",
+        "полное выпадение восприятия синего цвета"
+      ]
+    },
+    {
+      "id": "ophtalmo_32",
+      "arr": [
+        "ЧТО ТАКОЕ ТРИТАНОПИЯ?",
+        "аномальное восприятие красного цвета",
+        "аномальное восприятие зеленого цвета",
+        "аномальное восприятие синего цвета",
+        "полное выпадение восприятия красного цвета",
+        "полное выпадение восприятия зеленого цвета",
+        "полное выпадение восприятия синего цвета"
+      ]
+    },
+    {
+      "id": "ophtalmo_33",
+      "arr": [
+        "КАКИЕ РАССТРОЙСТВА ЦВЕТООЩУЩЕНИЯ ЯВЛЯЮТСЯ ВРОЖДЕННЫМИ?",
+        "аномальная трихромазия, цветоаномалии, дихромазия",
+        "цветоаномалии. Дихромазия, эритропсия",
+        "дихромазия, аномальная трихромазия, цианопсия",
+        "эритропсия, ксантопсия, хлоропсия. Цианопсия"
+      ]
+    },
+    {
+      "id": "ophtalmo_34",
+      "arr": [
+        "КАКИЕ РАССТРОЙСТВА ЦВЕТООЩУЩЕНИЯ ЯВЛЯЮТСЯ ПРИОБРЕТЕННЫМИ?",
+        "аномальная трихромазия, цветоаномалии, дихромазии",
+        "цветоаномалии, дихромазия, эритропсия",
+        "дихромазия, аномальная трихромазия, цианопсия",
+        "эритропсия, ксантопсия, хлоропсия, цианопсия"
+      ]
+    },
+    {
+      "id": "ophtalmo_35",
+      "arr": [
+        "У БОЛЬНОГО ПОСЛЕ ЭКСТРАКЦИИ КАТАРАКТЫ ВСЕ ПРЕДМЕТЫ В ОПЕРИРОВАННОМ ГЛАЗУ КАЖУТСЯ ОКРАШЕННЫМИ В ГОЛУБОЙ ЦВЕТ. ВАШ ДИАГНОЗ?",
+        "протанопия",
+        "эритропсия",
+        "дейтеранопия",
+        "хлоропсия",
+        "тританопия",
+        "цианопсия"
+      ]
+    },
+    {
+      "id": "ophtalmo_36",
+      "arr": [
+        "ПОСЛЕ ОТРАВЛЕНИЯ БОЛЬНОЙ СТАЛ ВИДЕТЬ ВСЕ В ЖЕЛТОМ ЦВЕТЕ. ВАШ ДИАГНОЗ?",
+        "ксантопсия",
+        "эритропсия",
+        "дейтеранопия",
+        "хлоропсия",
+        "тританопия",
+        "цианопсия"
+      ]
+    },
+    {
+      "id": "ophtalmo_37",
+      "arr": [
+        "ВСЛЕДСТВИЕ ЧЕГО ПОНЯТИЕ ПОЛЯ ЗРЕНИЯ ИМЕЕТ БОЛЬШОЕ ЗНАЧЕНИЕ?",
+        "обеспечивает ориентацию в пространстве",
+        "дает характеристику функциональной способности зрительного анализатора",
+        "расстройства являются ранним симптомом многих заболеваний",
+        "способствует топической диагностике поражений головного мозга",
+        "все перечисленное"
+      ]
+    },
+    {
+      "id": "ophtalmo_38",
+      "arr": [
+        "ЧТО ТАКОЕ СЛЕПОЕ ПЯТНО?",
+        "проекция в поле зрения диска зрительного нерва",
+        "проекция в поле зрения желтого пятна",
+        "ограниченная скотома в любой части поля зрения",
+        "дефекты поля зрения от сосудов сетчатки"
+      ]
+    },
+    {
+      "id": "ophtalmo_39",
+      "arr": [
+        "КАК НАЗЫВАЕТСЯ МЕТОД ИССЛЕДОВАНИЯ ПОЛЯ ЗРЕНИЯ?",
+        "визометрия",
+        "биомикроскопия",
+        "аномалоскопия",
+        "офтальмоскопия",
+        "периметрия",
+        "биометрия"
+      ]
+    },
+    {
+      "id": "ophtalmo_40",
+      "arr": [
+        "УКАЖИТЕ ДВА ФИЗИОЛОГИЧЕСКИХ ДЕФЕКТА ПОЛЯ ЗРЕНИЯ.",
+        "слепое пятно",
+        "скотомы на периферии",
+        "отрицательные скотомы поля зрения",
+        "ангиоскотомы",
+        "концентрическое сужение поля зрения до 20 градусов"
+      ]
+    },
+    {
+      "id": "ophtalmo_41",
+      "arr": [
+        "КАК НАЗЫВАЕТСЯ СКОТОМА, КОТОРУЮ ОЩУЩАЕТ САМ БОЛЬНОЙ?",
+        "отрицательной",
+        "абсолютной",
+        "положительной",
+        "относительной"
+      ]
+    },
+    {
+      "id": "ophtalmo_42",
+      "arr": [
+        "КАКИЕ ПРИБОРЫ ПРИМЕНЯЮТСЯ ДЛЯ ИССЛЕДОВАНИЯ ПОЛЯ ЗРЕНИЯ?",
+        "периметры, кампиметры",
+        "кампиметры, офтальмоскопы",
+        "кампиметры, гониоскопы",
+        "периметры, аномалоскопы",
+        "кампиметры, офтальмоскопы",
+        "гониоскопы, адаптометры"
+      ]
+    },
+    {
+      "id": "ophtalmo_43",
+      "arr": [
+        "В КАКИХ ЕДИНИЦАХ ИЗМЕРЯЕТСЯ ПОЛЕ ЗРЕНИЯ?",
+        "в сантиметрах",
+        "в диоптриях",
+        "в минутах",
+        "в градусах"
+      ]
+    },
+    {
+      "id": "ophtalmo_44",
+      "arr": [
+        "К КАКОМУ ВИДУ СКОТОМ ОТНОСИТСЯ СЛЕПОЕ ПЯТНО?",
+        "физиологическая абсолютная отрицательная",
+        "физиологическая абсолютная положительная",
+        "физиологическая относительная отрицательная",
+        "физиологическая относительная положительная",
+        "расстройство сумеречного зрения",
+        "сужение поля зрения",
+        "очаговый дефект поля зрения"
+      ]
+    },
+    {
+      "id": "ophtalmo_45",
+      "arr": [
+        "ЧТО ТАКОЕ ГЕМИАНОПСИЯ?",
+        "двустороннее выпадение половин поля зрения",
+        "выпадение половины поля зрения в одном из глаз",
+        "отсутствие поля зрения в одном из глаз",
+        "выраженное двустороннее сужение поля зрения"
+      ]
+    },
+    {
+      "id": "ophtalmo_46",
+      "arr": [
+        "КАКИМИ БЫВАЮТ ГЕМИАНОПСИИ?",
+        "гомонимые",
+        "битемпоральные",
+        "гетеронимые",
+        "биназальные",
+        "квадрантные",
+        "все перечисленные"
+      ]
+    },
+    {
+      "id": "ophtalmo_47",
+      "arr": [
+        "КАКИЕ НЕВРОЛОГИЧЕСКИЕ ЗОНЫ ПОРАЖАЮТСЯ ПРИ БИТЕМПОРАЛЬНОЙ ГЕМИАНОПСИИ?",
+        "зрительный нерв",
+        "наружные отделы хиазмы",
+        "внутренние отделы хиазмы",
+        "зрительный тракт вблизи хиазмы",
+        "зрительный тракт в подкорковой области",
+        "в области шпорной борозды"
+      ]
+    },
+    {
+      "id": "ophtalmo_48",
+      "arr": [
+        "КАК НАЗЫВАЮТСЯ ИЗМЕНЕНИЯ ПОЛЯ ЗРЕНИЯ ПРИ ПОВРЕЖДЕНИИ ЦЕНТРАЛЬНЫХ ОТДЕЛОВ ХИАЗМЫ?",
+        "битемпоральная гемианопсия",
+        "биназальная гемианопсия",
+        "полное выпадение поля зрения справа",
+        "полное выпадение поля зрения слева"
+      ]
+    },
+    {
+      "id": "ophtalmo_49",
+      "arr": [
+        "КАКИЕ ИЗМЕНЕНИЯ ПОЛЯ ЗРЕНИЯ БУДУТ ПРИ ПОРАЖЕНИИ ПРАВОГО ЗРИТЕЛЬНОГО ТРАКТА?",
+        "левосторонняя гемианопсия",
+        "правосторонняя гемианопсия",
+        "битемпоральная гемианопсия",
+        "биназальная гемианопсия",
+        "полное выпадение поля зрения справа",
+        "полное выпадение поля зрения слева"
+      ]
+    },
+    {
+      "id": "ophtalmo_50",
+      "arr": [
+        "СКОЛЬКО ВИДОВ АДАПТАЦИИ ГЛАЗА ВЫ ЗНАЕТЕ?",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "id": "ophtalmo_51",
+      "arr": [
+        "КАК РАССТРОЙСТВО СУМЕРЕЧНОГО ЗРЕНИЯ НАЗЫВАЕТСЯ?",
+        "гемералопией",
+        "тританопией",
+        "протанопией",
+        "скотомой",
+        "дейтеранопией",
+        "астенопией"
+      ]
+    },
+    {
+      "id": "ophtalmo_52",
+      "arr": [
+        "КАК НАЗЫВАЕТСЯ ПРИБОР, ПРЕДНАЗНАЧЕННЫЙ ДЛЯ ИССЛЕДОВАНИЯ ЦВЕТООЩУЩЕНИЯ?",
+        "периметр",
+        "адаптометр",
+        "кампиметр",
+        "аномалоскоп"
+      ]
+    },
+    {
+      "id": "ophtalmo_53",
+      "arr": [
+        "СПОСОБНЫ ЛИ ПАЛОЧКИ РАЗЛИЧАТЬ ЦВЕТА?",
+        "нет",
+        "да"
+      ]
+    },
+    {
+      "id": "ophtalmo_54",
+      "arr": [
+        "ВСЕ ЛИ ВИДЫ ПЕРЕЧИСЛЕННЫХ КЛЕТОК ЯВЛЯЮТСЯ ФОТОРЕЦЕПТОРАМИ?",
+        "колбочки, палочки",
+        "колбочки, ганглиозные клетки",
+        "колбочки, клетки пигментного эпителия",
+        "палочки, ганглиозные клетки",
+        "палочки, клетки пигментного эпителия"
+      ]
+    },
+    {
+      "id": "ophtalmo_55",
+      "arr": [
+        "КАКИЕ ВИДЫ КЛЕТОК ОБЕСПЕЧИВАЮТ ДНЕВНОЕ ЗРЕНИЕ?",
+        "колбочки",
+        "палочки",
+        "ганглиозные клетки сетчатки",
+        "клетки пигментного эпителия",
+        "биполярные клетки сетчатки"
+      ]
+    },
+    {
+      "id": "ophtalmo_56",
+      "arr": [
+        "КАКИЕ ВИДЫ КЛЕТОК ОБЕСПЕЧИВАЮТ СУМЕРЕЧНОЕ ЗРЕНИЕ?",
+        "колбочки",
+        "палочки",
+        "ганглиозные клетки сетчатки",
+        "клетки пигментного эпителия",
+        "биполярные клетки сетчатки"
+      ]
+    },
+    {
+      "id": "ophtalmo_57",
+      "arr": [
+        "ЧТО ТАКОЕ ФОТОПИЧЕСКОЕ ЗРЕНИЕ?",
+        "дневное зрение",
+        "сумеречное зрение",
+        "ночное зрение",
+        "периферическое зрение",
+        "центральное зрение"
+      ]
+    },
+    {
+      "id": "ophtalmo_58",
+      "arr": [
+        "ЧТО ТАКОЕ МЕЗОПИЧЕСКОЕ ЗРЕНИЕ?",
+        "сумеречное зрение",
+        "дневное зрение",
+        "ночное зрение",
+        "периферическое зрение",
+        "центральное зрение"
+      ]
+    },
+    {
+      "id": "ophtalmo_59",
+      "arr": [
+        "СКОТОПИЧЕСКОЕ ЗРЕНИЕ – ЧТО ЭТО?",
+        "ночное зрение",
+        "сумеречное зрение",
+        "дневное зрение",
+        "куриная слепота"
+      ]
+    },
+    {
+      "id": "ophtalmo_60",
+      "arr": [
+        "КАКОЕ НАЗВАНИЕ НОСИТ ПРАВИЛЬНОЕ ЦВЕТООЩУЩЕНИЕ?",
+        "нормальная трихромазия",
+        "аномальная трихромазия",
+        "дихромазия",
+        "монохромазия"
+      ]
+    },
+    {
+      "id": "ophtalmo_61",
+      "arr": [
+        "КАКИЕ ВИДЫ РАССТРОЙСТВА ЦВЕТООЩУЩЕНИЯ ВЫ ЗНАЕТЕ?",
+        "аномальная трихромазия",
+        "дихромазия",
+        "монохромазия",
+        "протаномалия",
+        "дейтераномалия",
+        "протанопия",
+        "тританопия",
+        "тританомалия",
+        "все перечисленное"
+      ]
+    },
+    {
+      "id": "ophtalmo_62",
+      "arr": [
+        "ЧТО ТАКОЕ ПРОТАНОМАЛИЯ?",
+        "аномальное восприятие красного цвета",
+        "аномальное восприятие зеленого цвета",
+        "аномальное восприятие синего цвета",
+        "полное выпадение восприятия красного цвета",
+        "полное выпадение восприятия зеленого цвета",
+        "полное выпадение восприятия синего цвета"
+      ]
+    },
+    {
+      "id": "ophtalmo_63",
+      "arr": [
+        "ИССЛЕДУЕМЫЙ ПАЦИЕНТ ОДНИМ ГЛАЗОМ ПРАВИЛЬНО НАЗЫВАЕТ ВСЕ ЗНАКИ В ТАБЛИЦАХ РАБКИНА, А ДРУГИМ ГЛАЗОМ ИХ ПУТАЕТ. КАКОЕ У НЕГО РАССТРОЙСТВО ЦВЕТООЩУЩЕНИЯ?",
+        "врожденное",
+        "приобретенное",
+        "может и то и другое",
+        "по этим данным установить невозможно"
+      ]
+    },
+    {
+      "id": "ophtalmo_64",
+      "arr": [
+        "У ИССЛЕДУЕМОГО ПАЦИЕНТА ОСТРОТА ЗРЕНИЯ ОБОИХ ГЛАЗ С КОРРЕКЦИЕЙ 0,7, НО ОН НЕПРАВИЛЬНО ЧИТАЕТ ЗНАКИ В ТАБЛИЦАХ РАБКИНА. КАКОЙ ТИП РАССТРОЙСТВА ЦВЕТООЩУЩЕНИЯ У НЕГО?",
+        "врожденный",
+        "приобретенный",
+        "может быть и то, и другое",
+        "по приведенным данным установить нельзя"
+      ]
+    },
+    {
+      "id": "ophtalmo_65",
+      "arr": [
+        "ДЛЯ КАКОЙ ЦЕЛИ СЛУЖИТ ПРИБОР АНОМАЛОСКОП?",
+        "для определения аномалий рефракции",
+        "для исследования цветоощущения",
+        "для обнаружения аномалий в поле зрения",
+        "для определения аномалий остроты зрения"
+      ]
+    },
+    {
+      "id": "ophtalmo_66",
+      "arr": [
+        "ИССЛЕДУЕМЫЙ ПАЦИЕНТ ВИДИТ ТОЛЬКО СВЕТ, НО ЛОКАЛИЗУЕТ ЕГО ТОЛЬКО С ТРЕХ СТОРОН, ОСТРОТА ЗРЕНИЯ РАВНА",
+        "l/∞ pr. Incerta",
+        "l/∞ pr. Certa"
+      ]
+    },
+    {
+      "id": "ophtalmo_67",
+      "arr": [
+        "ВЕРХНЯЯ СТЕНКА ОРБИТЫ ГРАНИЧИТ С…?",
+        "крылонёбной ямкой",
+        "лобной пазухой",
+        "гайморовой пазухой",
+        "носовой полостью",
+        "основной пазухой"
+      ]
+    },
+    {
+      "id": "ophtalmo_68",
+      "arr": [
+        "НАРУЖНАЯ СТЕНКА ОРБИТЫ ГРАНИЧИТ С…?",
+        "крылонёбной ямкой",
+        "лобной пазухой",
+        "гайморовой пазухой",
+        "носовой полостью",
+        "основной пазухой"
+      ]
+    },
+    {
+      "id": "ophtalmo_69",
+      "arr": [
+        "НИЖНЯЯ СТЕНКА ОРБИТЫ ГРАНИЧИТ С…?",
+        "крылонёбной ямкой",
+        "лобной пазухой",
+        "гайморовой пазухой",
+        "носовой полостью",
+        "основной пазухой"
+      ]
+    },
+    {
+      "id": "ophtalmo_70",
+      "arr": [
+        "С ЧЕМ ГРАНИЧИТ ВНУТРЕННЯЯ СТЕНКА ОРБИТЫ?",
+        "крылонебной ямкой",
+        "лобной пазухой",
+        "гайморовой пазухой",
+        "решетчатой пазухой",
+        "основной пазухой"
+      ]
+    },
+    {
+      "id": "ophtalmo_71",
+      "arr": [
+        "ПРИ КАКИХ СОСТОЯНИЯХ НЕОБХОДИ МО УЧИТЫВАТЬ СОСЕДСТВО ОРБИТЫ С ПРИДАТОЧНЫМИ ПАЗУХАМИ НОСА?",
+        "злокачественных новообразованиях и воспалительных заболеваниях орбиты",
+        "воспалительных заболеваниях орбиты и травматических повреждениях зри-тельного нерва",
+        "травматических повреждениях зрительного нерва и проникающих ранениях глазного яблока",
+        "проникающих ранениях глазного яблока и злокачественных новообразованиях орбиты"
+      ]
+    },
+    {
+      "id": "ophtalmo_72",
+      "arr": [
+        "НАРУЖНАЯ ОФТАЛЬМОПЛЕГИЯ СВЯЗАНА С ПОРАЖЕНИЕМ",
+        "n. abducens, n faciaiis, n. opticus",
+        "n. opfcus, n. trigeminus, n. facialis",
+        "n. abducens, n. trochtearis, n. ocutomotorius",
+        "n. ocuiomotorius, n. facialis, n. opticus"
+      ]
+    },
+    {
+      "id": "ophtalmo_73",
+      "arr": [
+        "НАИБОЛЕЕ ЧАСТЫМИ ПРИЧИНАМИ СЛЕЗОТЕЧЕНИЯ ЯВЛЯЮТСЯ?",
+        "не погружение слезных точек в слезное озеро",
+        "воспаление слезных канальцев",
+        "воспаление слезного мешка",
+        "воспаление слезно-носового канала",
+        "сужение или непроходимость любого отрезка слезоотводящего пути",
+        "все перечисленные причины"
+      ]
+    },
+    {
+      "id": "ophtalmo_74",
+      "arr": [
+        "ЧЕРЕЗ КАКОЙ ПРОМЕЖУТОК ВРЕМЕНИ ПОСЛЕ ЗАКАПЫВАНИЯ SOL. COLLARGOLI 3% НАЧИНАЕТ ОБЕСЦВЕЧИ ВАТЬСЯ ГЛАЗНОЕ ЯБЛОКО, ЕСЛИ КАНАЛЬЦЕВАЯ ПРОБА СЧИТАЕТСЯ ПОЛОЖИТЕЛЬНОЙ?",
+        "2 минуты",
+        "10 минут",
+        "3-4 минуты",
+        "более 10 минут",
+        "5 минут"
+      ]
+    },
+    {
+      "id": "ophtalmo_75",
+      "arr": [
+        "ЧЕРЕЗ КАКОЙ ПРОМЕЖУТОК ВРЕМЕНИ SOL. COLLARGOLI 3% ПОПАДАЕТ В НОС С ВЛУЧАЕ, КОГДА НОСОВАЯ ПРОБА СЧИТАЕТСЯ ПОЛОЖИТЕЛЬНОЙ?",
+        "1-2 минуты",
+        "10-15 минут",
+        "3-5 минут",
+        "15-20 минут",
+        "5-10 минут"
+      ]
+    },
+    {
+      "id": "ophtalmo_76",
+      "arr": [
+        "КАКОЕ КРАСЯЩЕЕ ВЕЩЕСТВО ПРИМЕНЯЮТ ДЛЯ ПРОВЕДЕНИЯ СЛЕЗНО-НОСОВОЙ ПРОБЫ?",
+        "фурацилин 1:5000",
+        "йод 5%",
+        "Sol.Collargoli 3%",
+        "1% спиртовой раствор бриллиантовой зелени"
+      ]
+    },
+    {
+      "id": "ophtalmo_77",
+      "arr": [
+        "КАК ВЫТЕКАЕТ ПРОМЫВНАЯ ЖИДКОСТЬ ПРИ НОРМАЛЬНОЙ ПРОХОДИМОСТИ СЛЕЗООТВОДЯЩИХ ПУТЕЙ ВО ВРЕМЯ ИХ ПРОМЫВАНИЯ?",
+        "струйкой из носа",
+        "через другую слезную точку",
+        "каплями из носа",
+        "через ту же слезную точку"
+      ]
+    },
+    {
+      "id": "ophtalmo_78",
+      "arr": [
+        "КАКОЙ МЕТОД ИССЛЕДОВАНИЯ ДАЕТ НАИБОЛЕЕ ПОЛНУЮ ИНФОРМАЦИЮ ОБ УРОВНЕ ОБЛИТЕРИЗАЦИИ СЛЕ ЗООТВОДЯЩИХ ПУТЕЙ?",
+        "канальцевая проба",
+        "слезно-носовая проба",
+        "промывание слезоотводящих путей",
+        "диагностическое зондирование",
+        "рентгенография с контрастным веществом",
+        "проба Ширмера"
+      ]
+    },
+    {
+      "id": "ophtalmo_79",
+      "arr": [
+        "ГДЕ ЛОКАЛИЗУЕТСЯ ПАТОЛОГИЧЕСКИЙ ПРОЦЕСС ПРИ ОСТРОМ ДАКРИОАДЕНИТЕ?",
+        "в наружной части верхнего века",
+        "во внутренней части верхнего века",
+        "в наружной части нижнего века",
+        "во внутренней части нижнего века",
+        "может быть любая локализация"
+      ]
+    },
+    {
+      "id": "ophtalmo_80",
+      "arr": [
+        "ОСЛОЖНЕНИЕМ КАКИХ ОБЩИХ ИНФЕКЦИЙ ЯВЛЯЕТСЯ ДАКРИОАДЕНИТ?",
+        "гриппа",
+        "брюшного тифа",
+        "ангины",
+        "эпидемического паротита",
+        "любого из перечисленных заболеваний"
+      ]
+    },
+    {
+      "id": "ophtalmo_81",
+      "arr": [
+        "ЧТО ЯВЛЯЕТСЯ ПРИЧИНОЙ ХРОНИЧЕСКОГО ДАКРИОЦИСТИТА?",
+        "стеноз слезных канальцев",
+        "стеноз слезно-носового канала",
+        "хронический конъюнктивит",
+        "хронический мейбомиит"
+      ]
+    },
+    {
+      "id": "ophtalmo_82",
+      "arr": [
+        "ПОЧЕМУ ПРОТИВОПОКАЗАНО ЗОНДИРОВАНИЕ СЛЕЗНОНОСОВОГО КАНАЛА ПРИ ХРОНИЧЕСКОМ ДАКРИОЦИСТИТЕ?",
+        "образование дополнительных структур",
+        "повреждение стенки мешка и прорыв инфекции в окружающие ткани",
+        "зондирование не противопоказано",
+        "повреждение крупных кровеносных сосудов"
+      ]
+    },
+    {
+      "id": "ophtalmo_83",
+      "arr": [
+        "ДАЙТЕ ОПРЕДЕЛЕНИЕ НАРУЖНОГО ЯЧМЕНЯ?",
+        "воспалительный инфильтрат в толще века",
+        "острое гнойное воспаление волосяного мешочка корня ресницы",
+        "хроническое воспаление сальной железы",
+        "острое воспаление мейбомиевой железы"
+      ]
+    },
+    {
+      "id": "ophtalmo_84",
+      "arr": [
+        "НАЗОВИТЕ МИКРОБНЫЕ АГЕНТЫ НАРУЖНОГО ЯЧМЕНЯ.",
+        "диплококк",
+        "стафилококк",
+        "пневмококк",
+        "стрептококк"
+      ]
+    },
+    {
+      "id": "ophtalmo_85",
+      "arr": [
+        "КАКИЕ ПРИЧИНЫ ИНДУЦИРУЮТ ВОЗНИКНОВЕНИЕ ЯЧМЕНЯ?",
+        "парез тройничного нерва",
+        "нервный стресс",
+        "авитаминоз, ослабление организма после перенесен ных инфекций",
+        "длительная работа, связанная с напряжением аккомодации"
+      ]
+    },
+    {
+      "id": "ophtalmo_86",
+      "arr": [
+        "НАЗОВИТЕ СИМПТОМОКОМПЛЕКС НАЧИНАЮЩЕГОСЯ ПРОЦЕССА ПРИ ЯЧМЕНЕ:",
+        "ограниченное покраснение и припухлость",
+        "невозможность самостоятельно открыть глаз",
+        "умеренный экзофтальм",
+        "гнойные корочки у корней волос"
+      ]
+    },
+    {
+      "id": "ophtalmo_87",
+      "arr": [
+        "КАКИЕ МАНИПУЛЯЦИИ ПРИ ЛЕЧЕНИИ ЯЧМЕНЯ МОГУТ ПРИВЕСТИ К ТАКИМ ОСЛОЖНЕНИЯМ, КАК ФЛЕГМОНА ОРБИТЫ, ТРОМБОФЛЕБИТ ОР БИТАЛЬНЫХ ВЕН?",
+        "примочки из чая",
+        "сухое тепло",
+        "аутогемотерапия",
+        "попытки выдавливания гноя"
+      ]
+    },
+    {
+      "id": "ophtalmo_88",
+      "arr": [
+        "ПРИ ОПЕРАТИВНОМ УДАЛЕНИИ ХАЛЯЗИОНА, УДАЛЕННАЯ ТКАНЬ ОТПРАВЛЯЕТСЯ НА ГИСТОЛОГИЮ, ПОТОМУ ЧТО:",
+        "халязион – это злокачественное образование",
+        "дает метастазы в трубчатые кости",
+        "вместо халязиона может быть аденокарцинома мейбомиевой железы",
+        "для определения вирусных включений в клетках"
+      ]
+    },
+    {
+      "id": "ophtalmo_89",
+      "arr": [
+        "ЛАГОФТАЛЬМ ХАРАКТЕРИЗУЕТСЯ:",
+        "невозможность закрыть глазную щель",
+        "полное или частичное сращение краев век в области глазной щели",
+        "опущение верхнего века",
+        "кожная складка верхнего века в области наружного угла глаза"
+      ]
+    },
+    {
+      "id": "ophtalmo_90",
+      "arr": [
+        "ПОРАЖЕНИЕМ ЧЕГО МОЖЕТ БЫТЬ ОБУСЛОВЛЕН ПТОЗ?",
+        "n. Facialis",
+        "n. abducens",
+        "n. trigeminus",
+        "n. oculomotorius"
+      ]
+    },
+    {
+      "id": "ophtalmo_91",
+      "arr": [
+        "КАКОЙ СИМПТОМОКОМПЛЕКС ХАРАКТЕРЕН ДЛЯ ПТОЗА?",
+        "невозможность закрыть глазную щель",
+        "полное или частичное сращение краев век в области глазной щели и опущение верхнего века",
+        "кожная складка верхнего века в области наружного угла глаза",
+        "опущение верхнего века"
+      ]
+    },
+    {
+      "id": "ophtalmo_92",
+      "arr": [
+        "ВЫБЕРИТЕ ПРАВИЛЬНЫЙ СПОСОБ ЛЕЧЕНИЕ ПТОЗА?",
+        "хирургическое",
+        "инстилляции Sol. Atropini sutfaiis 1%",
+        "закладывание за веко лекарственной пленки с антибиотиком",
+        "упражнения по укреплению мышцы, поднимающей верхнее веко",
+        "с помощью гипноза"
+      ]
+    },
+    {
+      "id": "ophtalmo_93",
+      "arr": [
+        "УКАЗАТЬ СИМПТОМ, НЕ ОТНОСЯЩИЙСЯ К БЛЕФАРИТУ.",
+        "воспаление век",
+        "выпадение ресниц",
+        "упорное длительное течение",
+        "образование чешуек у корня ресниц",
+        "экзофтальм"
+      ]
+    },
+    {
+      "id": "ophtalmo_94",
+      "arr": [
+        "КАКОЕ ИЗ ПЕРЕЧИСЛЕННЫХ ПАТАЛОГИЧЕСКИХ СОСТОЯНИЙ ОРГАНИЗМА НЕ ЯВЛЯЕТСЯ ПРИЧИНОЙ БЛЕФАРИТА?",
+        "патология пищеварительного тракта",
+        "эндокринные и обменные нарушения",
+        "глистные инвазии",
+        "некоррегированные аномалии рефракции (гиперметропия, астигматизм)",
+        "парез глазодвигательного нерва"
+      ]
+    },
+    {
+      "id": "ophtalmo_95",
+      "arr": [
+        "ЧТО ЯВЛЯЕТСЯ ЗАЛОГОМ УСПЕШНОГО ЛЕЧЕНИЯ БЛЕФАРИТА?",
+        "выяснение этиологии заболевания",
+        "систематическое, регулярное длительное лечение",
+        "коррекция аметропии",
+        "рациональное питание",
+        "все перечисленные мероприятия"
+      ]
+    },
+    {
+      "id": "ophtalmo_96",
+      "arr": [
+        "ЧТО ИЗ ПЕРЕЧИСЛЕННОГО ЯВЛЯЕТСЯ ЗЛОКАЧЕСТВЕННЫМ НОВООБРАЗОВАНИЕМ ВЕК?",
+        "дермоидная киста",
+        "аденокарцинома мейбомиевой железы",
+        "аденома мейбомиевой железы",
+        "все перечисленные образования",
+        "ни одно из перечисленных образований"
+      ]
+    },
+    {
+      "id": "ophtalmo_97",
+      "arr": [
+        "ЧТО ИЗ ПЕРЕЧИСЛЕННОГО ЯВЛЯЕТСЯ ДОБРОКАЧЕСТВЕННЫМ НОВООБРАЗОВАНИЕМ ВЕК?",
+        "дермоидная киста",
+        "аденокарцинома мейбомиевой железы",
+        "аденома мейбомиевой железы",
+        "все перечисленные образования",
+        "ни одно из перечисленных образований"
+      ]
+    },
+    {
+      "id": "ophtalmo_98",
+      "arr": [
+        "КАК НАЗЫВАЕТСЯ НАРУЖНАЯ (ФИБРОЗНАЯ) ОБОЛОЧКА ГЛАЗА?",
+        "белком",
+        "конъюнктивой",
+        "склерой",
+        "эпителием"
+      ]
+    },
+    {
+      "id": "ophtalmo_99",
+      "arr": [
+        "КАКИЕ ФУНКЦИИ СКЛЕРЫ ЯВЛЯЮТСЯ ОСНОВНЫМИ?",
+        "опорная",
+        "обеспечение тонуса",
+        "защита внутренних оболочек",
+        "обеспечение формы глаза",
+        "поддержка тургора",
+        "защита внутренних струк тур",
+        "место прикрепления глазодвигательных мышц",
+        "место прикрепления глазных мышц и внутренних структур",
+        "обеспечение тро фики хориоретинальных структур",
+        "защита преломляющих сред"
+      ]
+    },
+    {
+      "id": "ophtalmo_100",
+      "arr": [
+        "КАКОВО ГИСТОЛОГИЧЕСКОЕ СТРОЕНИЕ СКЛЕРЫ?",
+        "эпителий, строма, субсклеральная (бурая) пластинка",
+        "конъюнктива, эпискпера, тенонова капсула, строма, пигментный эпителий",
+        "эписклера, собственное вещество, субсклеральная (бурая) пластинка"
+      ]
+    },
+    {
+      "id": "ophtalmo_101",
+      "arr": [
+        "В КАКОЙ ОБЛАСТИ ГЛАЗНОГО ЯБЛОКА ОПРЕДЕЛЯЕТСЯ НАИБОЛЬШАЯ ТОЛЩИНА СКЛЕРЫ?",
+        "в области экватора глазного яблока",
+        "в области заднего полюса глаза",
+        "равномерна на всем протяжении"
+      ]
+    },
+    {
+      "id": "ophtalmo_102",
+      "arr": [
+        "ПРИ КАКИХ НАРУШЕНИЯХ ЧАЩЕ ВОЗНИКАЮТ СКЛЕРИТЫ И ЭПИСКЛЕРИТЫ?",
+        "травматических повреждениях",
+        "лучевых ожогах",
+        "переходе воспаления с окружающих тканей (флегмона орбиты, конъюнктивит, кератит, дакриоцистит)",
+        "грибковой инфекции",
+        "местном гормональном дисбалансе",
+        "системных заболеваниях",
+        "аллергических проявлениях",
+        "вирусных поражени ях",
+        "хронических специфических инфекциях организма"
+      ]
+    },
+    {
+      "id": "ophtalmo_103",
+      "arr": [
+        "В ЧЕМ ОТЛИЧИЕ СКЛЕРИТОВ ОТ ЭПИСКЛЕРИТОВ?",
+        "В способе проникновения инфекционного агента",
+        "в характере воспалительного процесса",
+        "в глубине поражения"
+      ]
+    },
+    {
+      "id": "ophtalmo_104",
+      "arr": [
+        "КАКИЕ СТРУКТУРЫ ПРЕИМУЩЕСТВЕН НО ВОВЛЕКАЮТСЯ В ВОСПАЛИТЕЛЬНЫЙ ПРОЦЕСС ПРИ ЭПИСКПЕРИТЕ?",
+        "поверхностные слои склеры – вся толща склеры",
+        "глу6окие (внутренние) слои склеры"
+      ]
+    },
+    {
+      "id": "ophtalmo_105",
+      "arr": [
+        "КАКИМИ ПРИЗНАКАМИ ОБЪЕКТИВНО ХАРАКТЕРИЗУЕТСЯ КЛИНИКА ЭПИСКЛЕРИТА?",
+        "четким воспалительным очагом синюшного цвета с плотной инфильтрацией конъюнктивы вокруг него с резкой болезненностью при пальпации всего глазно го яблока",
+        "ярко-красным с фиолетовым оттенком, достаточно локализованным очагом, слегка проминирующим над поверхностью склеры с болезненной пальпа цией этой зоны",
+        "разлитым диффузным инфильтратом серо-желтого цвета за верхним веком с нависанием над зоной лимба, скудным гнойным отделяемым из конъюнктивальной полости"
+      ]
+    },
+    {
+      "id": "ophtalmo_106",
+      "arr": [
+        "КАК ИЗМЕНЯЕТСЯ ОСТРОТА ЗРЕНИЯ ПРИ ЭПИСКЛЕРИТАХ?",
+        "практически не страдает",
+        "медленно ухудшается",
+        "резко и значительно снижается"
+      ]
+    },
+    {
+      "id": "ophtalmo_107",
+      "arr": [
+        "КАКОВ ПРОГНОЗ В ОТНОШЕНИИ ЗРИТЕЛЬНЫХ ФУНКЦИЙ ПРИ ЭПИСКЛЕРИТАХ?",
+        "благоприятный",
+        "неблагоприятный",
+        "сомнительный"
+      ]
+    },
+    {
+      "id": "ophtalmo_108",
+      "arr": [
+        "ЧТО ПРОИСХОДИТ С ИНФИЛЬТРАТИВНЫМИ ОЧАГАМИ И В ИСХОДЕ СКЛЕРИТА?",
+        "рассасываются без следа",
+        "рубцуются с истончением склеры темного цвета",
+        "грубо рубцуются с утолщением склеры желтого цвета",
+        "рубцуются с образованием валика голубоватого оттенка"
+      ]
+    },
+    {
+      "id": "ophtalmo_109",
+      "arr": [
+        "КАКИЕ ЛЕКАРСТВЕННЫЕ СРЕДСТВА ВКЛЮЧАЕТ КОМПЛЕКСНАЯ ТЕРАПИЯ СКЛЕРИТОВ?",
+        "антибактериальные средства, сосудорасширяющие, иммуностимуляторы, тканевые биостимуляторы",
+        "антибиотики, иммуномодуляторы, стимуляторы пролиферации",
+        "кортикостероиды, иммунодепрессанты, антигистаминные средства"
+      ]
+    },
+    {
+      "id": "ophtalmo_110",
+      "arr": [
+        "КАКИЕ ОТДЕЛЫ КОНЪЮНКТИВЫ ВЫДЕЛЯЮТ АНАТОМИЧЕСКИ?",
+        "век, переходных складок и глазного яблока",
+        "век, глазного яблока и роговицы",
+        "век, полулунной складки и глазного яблока",
+        "век, слезного мясца и глазного яблока"
+      ]
+    },
+    {
+      "id": "ophtalmo_111",
+      "arr": [
+        "НАЗОВИТЕ ГИСТОЛОГИЧЕСКИЕ ОСОБЕННОСТИ КОНЪЮНКТИВЫ ВЕК?",
+        "плотное сращение с хрящевой пластинкой",
+        "эпителий многослойный цилиндрический",
+        "в эпителии большое количество бокаловидных (железистых)клеток",
+        "правильно все"
+      ]
+    },
+    {
+      "id": "ophtalmo_112",
+      "arr": [
+        "УКАЖИТЕ ОСОБЕННОСТИ КОНЬЮКТИВЫ ПЕРЕХОДНЫХ СКЛАДОК.",
+        "рыхлая связь с подлежащими тканями",
+        "некоторая избыточность конъюнктивы в сводах",
+        "эпителий многослойный плоский",
+        "бокаловидных клеток мало",
+        "субэпителиальная ткань богата аденоидными элементами (фолликулы)",
+        "содержит большое количество добавочных слезных железок",
+        "все правильно"
+      ]
+    },
+    {
+      "id": "ophtalmo_113",
+      "arr": [
+        "ЧТО НЕ ХАРАКТЕРНО ДЛЯ КОНЪЮНКТИВЫ ГЛАЗНОГО ЯБЛОКА?",
+        "эпителий многослойный плоский",
+        "аденоидной ткани мало (только на периферии)",
+        "содержит мало слезных железок"
+      ]
+    },
+    {
+      "id": "ophtalmo_114",
+      "arr": [
+        "КОНЪЮНКТИВА ВЫПОЛНЯЕТ СЛЕДУЮЩИЕ ФИЗИОЛОГИЧЕСКИЕ ФУНК ЦИИ:",
+        "защитную",
+        "барьерную",
+        "трофическую",
+        "все перечисленные",
+        "увлажняющую"
+      ]
+    },
+    {
+      "id": "ophtalmo_115",
+      "arr": [
+        "ЧТО ЯВЛЯЕТСЯ ОСНОВОЙ БАРЬЕРНОЙ ФУНКЦИИ КОНЪЮНКТИВЫ?",
+        "обилие лимфоидных элементов в подслизистой оболочке аденоидной ткани",
+        "секрет конъюнктивальных железок",
+        "обильное слезообразование",
+        "плотность и резистентность конъюнктивальной ткани к токсическим вещест вам"
+      ]
+    },
+    {
+      "id": "ophtalmo_116",
+      "arr": [
+        "ЧЕМ ОБЕСПЕЧИВАЕТСЯ ТРОФИЧЕСКАЯ ФУНКЦИЯ КОНЪЮНКТИВЫ?",
+        "слезой и секретом конъюнктивальных желез",
+        "аденоидной тканью подслизистого слоя"
+      ]
+    },
+    {
+      "id": "ophtalmo_117",
+      "arr": [
+        "ЧТО ХАРАКТЕРНО ДЛЯ АДЕНОВИРУСНОГО КОНЪЮНКТИВИТА?",
+        "негнойный фолликулярный конъюнктивит",
+        "наличие петехиальных кровоизлияний в конъюнктиве склеры",
+        "выраженный отек нижней переходной складки",
+        "наличие плотных серых трудно снимаемых пленок на конъюнктиве век",
+        "наличие нежных серых, легко снимаемых пленок на конъюнктиве век",
+        "появление трещин и мацерации в углах век"
+      ]
+    },
+    {
+      "id": "ophtalmo_118",
+      "arr": [
+        "В КАКИХ ФОРМАХ ПРОЯВЛЯЕТСЯ АДЕНОВИРУСНЫЙ КОНЪЮНКТИВИТ?",
+        "катаральной",
+        "пленчатой",
+        "фолликулярной",
+        "всех перечисленных"
+      ]
+    },
+    {
+      "id": "ophtalmo_119",
+      "arr": [
+        "В КАКИХ ФОРМАХ ПРОЯВЛЯЕТСЯ ФАРИНГОКОНЬЮКТИВАЛЬНАЯ ЛИХОРАДКА?",
+        "катаральная форма",
+        "фолликулярная форма",
+        "пленчатая форма",
+        "все перечисленное"
+      ]
+    },
+    {
+      "id": "ophtalmo_120",
+      "arr": [
+        "КАКОЕ ПРОЯВЛЕНИЕ НЕ ХАРАКТЕРНО ДЛЯ КАТАРАЛЬНОЙ ФОРМЫ АДЕНО-ВИРУСНОГО КОНЪЮНКТИВИТА?",
+        "умеренно выраженная гиперемия конъюнктивы век и переходных складок",
+        "отделяемое слизисто-гнойное в небольшом количестве",
+        "роговая оболочка не вовлекается в процесс",
+        "наличие серых плотных пленок на конъюнктиве век"
+      ]
+    },
+    {
+      "id": "ophtalmo_121",
+      "arr": [
+        "КАКИЕ ПРОЯВЛЕНИЯ НЕ ХАРАКТЕРНЫ ДЛЯ ФОЛЛИКУЛЯРНОЙ ФОРМЫ АДЕНОВИРУСНОГО КОНЪЮНКТИВИТА?",
+        "гиперемия конъюнктивы век и переходных складок",
+        "отделяемое слизисто-гнойное в небольшом количестве",
+        "отделяемое гнойное, обильное",
+        "высыпание фолликулов на конъюнктиве хряща и переходных складках обоих век"
+      ]
+    },
+    {
+      "id": "ophtalmo_122",
+      "arr": [
+        "ДЛЯ ПЛЕНЧАТОЙ ФОРМЫ АДЕНОВИРУСНОГО КОНЪЮНКТИВИТА НЕ ХАРАКТЕРНО?",
+        "образование на конъюнктиве век нежных, легко снимающихся пленок",
+        "образование на конъюнктиве век грубых, трудно удаляемых пленок с последующим кровотечением",
+        "умеренно выраженная гиперемия конъюнктивы век и переходных складок",
+        "отделяемое слизисто-гнойное в небольшом количестве"
+      ]
+    },
+    {
+      "id": "ophtalmo_123",
+      "arr": [
+        "НА СКОЛЬКО СТАДИЙ ПРИНЯТО РАЗДЕЛЯТЬ ТЕЧЕНИЕ ТРАХОМАТОЗНО ГО ПРОЦЕССА?",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "id": "ophtalmo_124",
+      "arr": [
+        "КАКИЕ ПОСЛЕДСТВИЯ ТРАХОМЫ ВЫ ЗНАЕТЕ?",
+        "трихиаз",
+        "паренхиматозный ксероз",
+        "энтропион век",
+        "все перечисленное",
+        "симблефарон"
+      ]
+    },
+    {
+      "id": "ophtalmo_125",
+      "arr": [
+        "ЧТО ТАКОЕ ТРИХИАЗ?",
+        "неправильный рост ресниц",
+        "заворот век, при котором ресницы растут по направлению к глазу",
+        "сращение конъюнктивы век и глазного яблока",
+        "высыхание конъюнктивы и роговой оболочки"
+      ]
+    },
+    {
+      "id": "ophtalmo_126",
+      "arr": [
+        "ЧТО ТАКОЕ ЭНТРОПИОН?",
+        "неправильный рост ресниц",
+        "заворот век, при котором ресницы растут по направлению к глазу",
+        "сращение конъюнктивы век и глазного яблока",
+        "высыхание конъюнктивы и роговой оболочки"
+      ]
+    },
+    {
+      "id": "ophtalmo_127",
+      "arr": [
+        "ЧТО ТАКОЕ СИМБЛЕФАРОН?",
+        "неправильный рост ресниц",
+        "заворот век, при котором ресницы растут по направлению к глазу",
+        "сращение конъюнктивы век и глазного яблока",
+        "высыхание конъюнктивы и роговой оболочки"
+      ]
+    },
+    {
+      "id": "ophtalmo_128",
+      "arr": [
+        "ЧТО ТАКОЕ ПАРЕНХИМАТОЗНЫЙ КСЕРОЗ?",
+        "неправильный рост ресниц",
+        "заворот век, при котором ресницы растут по направлению к глазу",
+        "сращение конъюнктивы век и глазного яблока",
+        "высыхание конъюнктивы и роговой оболочки"
+      ]
+    },
+    {
+      "id": "ophtalmo_129",
+      "arr": [
+        "КОНЪЮНКТИВИТАМИ АЛЛЕРГИЧЕСКОГО ГЕНЕЗА ЯВЛЯЮТСЯ ВСЕ ПЕРЕЧИСЛЕННЫЕ, КРОМЕ?",
+        "лекарственного",
+        "фликтенулезного",
+        "поллинозного",
+        "аденовирусного",
+        "весеннего"
+      ]
+    },
+    {
+      "id": "ophtalmo_130",
+      "arr": [
+        "НАЗОВИТЕ ЭТИОЛОГИЧЕСКИЕ ФАКТОРЫ ПОЛЛИНОЗНОГО КОНЪЮНКТИВИТА?",
+        "пыльцой растений",
+        "местным применением ряда лекарственных препаратов",
+        "аутоиммунными факторами"
+      ]
+    },
+    {
+      "id": "ophtalmo_131",
+      "arr": [
+        "КАКИЕ СИМПТОМЫ НЕХАРАКТЕРНЫ ДЛЯ ЛЕКАРСТВЕННОГО КОНЪЮНКТИВИТА?",
+        "наблюдается при длительном местном применении лекарственных препаратов",
+        "может возникать после однократного местного применения препарата",
+        "конъюнктива век резко гиперемирована, разрыхлена, сосочки гипертрофированы",
+        "в конъюнктиве обнаруживаются увеличенные фолликулы",
+        "веки припухшие, на коже папуллезно-везикулярные, высыпания, участки экзематизации",
+        "на конъюнктиве век и склеры петехиальные и обширные кровоизлияния"
+      ]
+    },
+    {
+      "id": "ophtalmo_132",
+      "arr": [
+        "ЧТО ТАКОЕ ПИНГВЕКУЛА?",
+        "не воспалительное ограниченное утолщение конъюнктивы глазного яблока желтоватого цвета",
+        "треугольная васкуляризированная складка конъюнктивы, нарастающая на роговицу изнутри",
+        "треугольная васкуляризированная складка конъюнктивы, нарастающая на роговицу снаружи",
+        "облачковидное помутнение роговой оболочки",
+        "хорошо видимое очаговое помутнение роговой оболочки"
+      ]
+    },
+    {
+      "id": "ophtalmo_133",
+      "arr": [
+        "ЧТО ТАКОЕ ПТЕРИГИУМ?",
+        "не воспалительное ограниченное утолщение конъюнктивы склеры желтоватого цвета",
+        "треугольная васкуляризированная складка конъюнктивы, нарастающая на роговицу изнутри",
+        "облачковидное помутнение роговой оболочки",
+        "хорошо видимое очаговое помутнение роговой оболочки"
+      ]
+    },
+    {
+      "id": "ophtalmo_134",
+      "arr": [
+        "КАК ЛЕЧИТЬ ПРОГРЕССИРУЮЩИЙ ПТЕРИГИУМ?",
+        "хирургическое удаление",
+        "противовоспалительная терапия",
+        "лечения не требуется"
+      ]
+    },
+    {
+      "id": "ophtalmo_135",
+      "arr": [
+        "КАКИЕ ЛЕКАРСТВЕННЫЕ СРЕДСТВА НЕ ПРИМЕНЯЕТСЯ ДЛЯ ЛЕЧЕНИЯ АЛЛЕРГИЧЕСКОГО КОНЪЮНКТИВИТА?",
+        "Ung. Hydrocortisony ophthalmici 0,5-1%",
+        "Sol. Dexamethasoni 0,1 %",
+        "1% раствор преднизолона (глазные капли)",
+        "антигистаминные препараты внутрь",
+        "Sol. Atropini sulfatis 1%"
+      ]
+    },
+    {
+      "id": "ophtalmo_136",
+      "arr": [
+        "ИЗ ПРИВЕДЕННЫХ НИЖЕ ПРЕПАРАТОВ ВЫБЕРИТЕ ТЕ, ЧТО НЕ ИСПОЛЬЗУЮТСЯ ДЛЯ ЛЕЧЕНИЯ ПОЛЛИНОЗНОГО КОНЬЮКТИВИТА.",
+        "эмульсия гидрокортизона 0.5-1%",
+        "0,1% раствор дексаметазона (глазные капли)",
+        "1,0 % раствор преднизолона (глазные капли)",
+        "антигистаминные препараты внутрь",
+        "раствор глюкозы внутривенно"
+      ]
+    },
+    {
+      "id": "ophtalmo_137",
+      "arr": [
+        "В КАКОЙ КОНЦЕНТРАЦИИ ИСПОЛЬЗУЕТСЯ РАСТВОРЫ ДЕКСАМЕТОЗОНА В ГЛАЗНЫХ КАПЛЯХ?",
+        "0,1%",
+        "1%",
+        "2%",
+        "5%",
+        "10%"
+      ]
+    },
+    {
+      "id": "ophtalmo_138",
+      "arr": [
+        "ИЗ ПРИВЕДЕННЫХ НИЖЕ ПРЕПАРАТОВ ВЫБЕРИТЕ НЕ ИСПОЛЬЗУЕМЫЕ ДЛЯ ЛЕЧЕНИЯ ВИРУСНЫХ КОНЬЮКТИВИТОВ.",
+        "флореналовая мазь",
+        "оксолиновая мазь",
+        "раствор дезоксирибонуклеазы в глазных каплях",
+        "раствор атропина в глазных каплях",
+        "лейкоцитарный интероферон в глазных каплях",
+        "растворы полудана в глазных каплях",
+        "пирогенал в глазных каплях"
+      ]
+    },
+    {
+      "id": "ophtalmo_139",
+      "arr": [
+        "ДЛЯ ЛЕЧЕНИЯ АДЕНОВИРУСНОГО КОНЪЮНКТИВИТА ПРИМЕНЯЮТСЯ ВСЕ ПРЕПАРАТЫ, КРОМЕ?",
+        "Ung. Bonaphtoni 0,05%",
+        "Sol. Irrterferoni leicocytaris",
+        "Ung. Florenali 0,25-0,5%",
+        "Sol. Poludani",
+        "Ung. Tebropheni 0,25-0,5%",
+        "Ung. Zoviraxi 3%",
+        "Sol. Atropini sulfatis 1%",
+        "пирогенал в глазных каплях"
+      ]
+    },
+    {
+      "id": "ophtalmo_140",
+      "arr": [
+        "РЕБЕНОК 11 ЛЕТ ОБРАТИЛСЯ С ЖАЛОБАМИ НА БОЛЬ В ГОРЛЕ, ПОВЫШЕНИЕ ТЕМПЕРАТУРЫ ТЕЛА, РЕЗЬ В ОБОИХ ГЛАЗАХ И СКЛЕИ ВАНИЕ ВЕК УТРОМ. БОЛЕН 1ДЕНЬ. ОБЪЕКТИВНО: ТЕМПЕРАТУРА ТЕЛА 37,8°С., СЛИЗИСТАЯ ЗЕВА И ГЛОТКИ ГИПЕРЕМИРОВАНА, КОНЪЮНКТИВА ВЕК ГИПЕРЕМИРОВАНА, РАЗРЫХЛЕНА. ФОЛЛИКУЛЫ В КОНЪЮНКТИВЕ ВЕК СИЛЬНО УВЕЛИЧЕНЫ КАК В КОЛИЧЕСТВЕ, ТАК И ПО ВЕЛИЧИНЕ. ВАШ ДИАГНОЗ?",
+        "аденовирусный конъюнктивит",
+        "острый бактериальный конъюнктивит",
+        "острый эпидемический конъюнктивит Коха-Уикса",
+        "эпидемический кератоконъюнктивит",
+        "дифтерия конъюнктивы"
+      ]
+    },
+    {
+      "id": "ophtalmo_141",
+      "arr": [
+        "БОЛЬНОЙ 23 ЛЕТ ОБРАТИЛСЯ С ЖАЛОБАМИ НА РЕЗЬ И ОЩУЩЕНИЕ ИНОРОДНОГО ТЕЛА В ОБОИХ ГЛАЗАХ, СКЛЕИВАНИЕ ВЕК ПО УТРАМ. БОЛЕН 2 ДНЯ. СНАЧАЛА ЗАБОЛЕЛ ПРАВЫЙ ГЛАЗ, А ЗАТЕМ И ЛЕВЫЙ. ОБЪЕКТИВНО: НА РЕСНИЦАХ ЗАСОХШИЕ КОРОЧКИ. КОНЪЮНКТИВА ГИПЕРЕМИРОВАНА, БАРХАТИСТА, РИСУНОК МЕЙБОМИЕВЫХ ЖЕЛЕЗ ХРЯЩА НЕ ПРОСМАТРИВАЕТСЯ. УМЕРЕННО ВЫРАЖЕНА КОНЪЮНКТИВАЛЬНАЯ ИНЪЕКЦИЯ СКЛЕРЫ, ДИАГНОЗ?",
+        "острый бактериальный конъюнктивит",
+        "аденовирусный конъюнктивит",
+        "эпидемический кератоконъюнктивит",
+        "пневмококковый конъюнктивит",
+        "диплобациллярный блефароконъюнктивит"
+      ]
+    },
+    {
+      "id": "ophtalmo_142",
+      "arr": [
+        "У БОЛЬНОГО, ЖАЛУЮЩЕГОСЯ НА РЕЗЬ, ОЩУЩЕНИЕ ПЕСКА ПОД ВЕКА МИ И ОТДЕЛЯЕМОЕ ИЗ ОБОИХ ГЛАЗ, ОБНАРУЖЕНО: ВЕКИ ОБОИХ ГЛАЗ СЛЕГКА ГИПЕРЕМИРОВАНЫ И ОТЕЧНЫ. КОНЬЮКТИВА ВЕК РЕЗКО ГИПЕРЕМИРОВАНА, РАЗРЫХЛЕНА, БАРХАТИСТА, РИСУНОК ЖЕЛЕЗОК, ХРЯЩА НЕ ПРОСМАТРИВАЕТСЯ. НА КОНЬЮКТИВЕ ВЕК\nСЕРЫЕ, ЛЕГКО СНИМАЕМЫЕ ПЛЕНКИ. НА КОНЬЮКТИВЕ СКЛЕРЫ МНОГОЧИСЛЕННЫЕ КРОВОИЗЛИЯНИЯ. ВАШ ДИАГНОЗ?",
+        "пневмококковый конъюнктивит",
+        "острый бактериальный стафилококковый конъюнктивит",
+        "аденовирусный конъюнктивит",
+        "дифтерия конъюнктивы",
+        "острый эпидемический конъюнктивит Коха-Уикса",
+        "эпидемический кератоконъюнктивит",
+        "хламидиоз конъюнктивы"
+      ]
+    },
+    {
+      "id": "ophtalmo_143",
+      "arr": [
+        "В КАКОЙ КОНЦЕНТРАЦИИ ПРИМЕНЯЕТСЯ ГЛАЗНАЯ ФЛОРЕНАЛОВАЯ МАЗЬ?",
+        "0,25 и 0,5%",
+        "1% и 2%",
+        "3% и 5%"
+      ]
+    },
+    {
+      "id": "ophtalmo_144",
+      "arr": [
+        "В КАКОЙ КОНЦЕНТРАЦИИ ИСПОЛЬЗУЕТСЯ ГЛАЗНАЯ ОКСОЛИНОВАЯ МАЗЬ?",
+        "0,25 и 0,5%",
+        "1 и 2%",
+        "З и 5%"
+      ]
+    },
+    {
+      "id": "ophtalmo_145",
+      "arr": [
+        "У РЕБЕНКА НА 2 ДЕНЬ ПОСЛЕ РОЖДЕНИЯ РЕЗКО ОТЕКЛИ ВЕ КИ. ОБЪЕКТИВНО: ГЛАЗНЫЕ ЩЕЛИ СОМКНУТЫ. ВЕКИ РЕЗКО ОТЕЧНЫ, ПЛОТНЫ НА ОЩУПЬ. ПРИ ПОПЫТКЕ РАЗВЕСТИ ВЕКИ ИЗ ГЛАЗНОЙ ЩЕЛИ СТРУЕЙ ВЫДЕЛЯЕТСЯ ЖИДКОСТЬ ЦВЕТА МЯСНЫХ ПОМОЕВ. О КАКОМ ЗАБОЛЕВАНИИ, ПРЕЖДЕ ВСЕГО, СЛЕДУЕТ ПОДУМАТЬ?",
+        "абсцесс век",
+        "гонобленнорея конъюнктивы",
+        "острый хламидиоз конъюнктивы",
+        "острый бактериальный конъюнктивит неясной этиологии"
+      ]
+    },
+    {
+      "id": "ophtalmo_146",
+      "arr": [
+        "У РЕБЕНКА 5 ЛЕТ ЖАЛОБЫ НА ПОВЫШЕНИЕ ТЕМПЕРАТУРЫ. БОЛЬ В ГОРЛЕ; ПОКРАСНЕНИЕ И ОТДЕЛЯЕМОЕ ИЗ ПРАВОГО ГЛАЗА. ТЕМПЕРАТУРА ТЕЛА 37,8°С. РЕБЕНОК ВЯЛ, АДИНАМИЧЕН. ЗЕВ ГИПЕРЕМИРОВАН. МИНДАЛИНЫ ОТЕЧНЫ, ПОКРЫТЫ ГРЯЗНО-СЕРЫМИ ПЛЕНКАМИ. ОU: ВЕ-КИ ОТЕЧНЫ. КОНЪЮНКТИВА ВЕК РЕЗКО ГИПЕРЕ56\nМИРОВАНА, РАЗРЫХЛЕНА И БАРХАТИСТА. НА НЕЙ ИМЕЮТCЯ СЕРЫЕ ПЛЁНКИ, СНИМАЕМЫЕ С ТРУДОМ С ПОСЛЕДУЮЩИМ КРОВОТЕЧЕНИЕМ. ОФТАЛЬМОЛОГИЧЕСКИЙ ДИАГНОЗ?",
+        "дифтерия конъюнктивы",
+        "острый эпидемический конъюнктивит Коха-Уикса",
+        "пневмококковый конъюнктивит",
+        "аденофарингоконъюнктивальная лихорадка"
+      ]
+    },
+    {
+      "id": "ophtalmo_147",
+      "arr": [
+        "У РЕБЕНКА ЖАЛОБЫ НА ПОВЫШЕНИЕ ТЕМПЕРАТУРЫ, ПОКРАСНЕНИЕ И НАЛИЧИЕ ОТДЕЛЯЕМОГО ИЗ ПРАВОГО ГЛАЗА, ТЕМПЕРАТУРА ТЕЛА 38.5°С, ЗЕВ ГИПЕРЕМИРОВАН, НА ЗАДНЕЙ СТЕНКЕ ГЛОТКИ КРУПНЫЕ ФОЛЛИКУЛЫ, КОНЪЮКТИВА ОТЕЧНА ГИПЕРЕМИРОВАНА И ИМЕЕТ СЕРЫЕ ПЛОХО ОТДЕЛЯЕМЫЕ ПЛЕНКИ, С ПОСЛЕДУЮЩИМ КРОВОТЕЧЕНИЕМ, В КОНЪЮКТИВЕ СКЛЕРЫ КРОВОИЗЛИЯНИЯ. ВАШ ДИАГНОЗ?",
+        "дифтерия",
+        "дифтерия конъюнктивы",
+        "острый эпидемический конъюнктивит Коха-Уикса",
+        "пневмококковый конъюнктивит",
+        "аденофарингоконъюнктивальная лихорадка (пленчатая форма)"
+      ]
+    },
+    {
+      "id": "ophtalmo_148",
+      "arr": [
+        "КАКОВО ГИСТОЛОГИЧЕСКОЕ СТРОЕНИЕ РОГОВИЦЫ?",
+        "передний и задний эпителий, собственное вещество (строма)",
+        "передний и задний эпителий, передняя и задняя пограничные пластин ки, строма",
+        "передний и задний пигментный эпителий, передняя и задняя пограничные пластинки, строма"
+      ]
+    },
+    {
+      "id": "ophtalmo_149",
+      "arr": [
+        "КАКОЕ СВОЙСТВО ПЕРЕДНЕГО ЭПИТЕЛИЯ РОГОВИЦЫ ЯВЛЯЕТСЯ ОСНОВНЫМ?",
+        "участие в выработке слезной жидкости",
+        "высокая регенеративная способность",
+        "механическая защита подлежащих тканей"
+      ]
+    },
+    {
+      "id": "ophtalmo_150",
+      "arr": [
+        "КАКОВА ФУНКЦИЯ СОБСТВЕННОГО ВЕЩЕСТВА (СТРОМЫ) РОГОВИЦЫ?",
+        "поглощение ультрафиолетовых и инфракрасных лучей",
+        "прозрачность роговицы",
+        "метаболизм между внутриглазной и слезной жидкостями"
+      ]
+    },
+    {
+      "id": "ophtalmo_151",
+      "arr": [
+        "КАКИЕ ИЗ ПЕРЕЧИСЛЕННЫХ ФУНКЦИЙ ЯВЛЯЮТСЯ ОСНОВНЫМИ ФУНКЦИЯМИ РОГОВИЦЫ?",
+        "защитная, опорная, светопроводящая",
+        "светопроводящая, светопреломляющая, защитная",
+        "опорная светопреломляющая, влагопродуцирующая"
+      ]
+    },
+    {
+      "id": "ophtalmo_152",
+      "arr": [
+        "ПРЕЛОМЛЯЮЩАЯ СИЛА РОГОВИЦЫ СОСТАВЛЯЕТ",
+        "18,0-20,0 диоптрий",
+        "40,0-42,0 диоптрии",
+        "1,5-2,0 диоптрии",
+        "28,0-30,0 диоптрий",
+        "60,0-62,0 диоптрии"
+      ]
+    },
+    {
+      "id": "ophtalmo_153",
+      "arr": [
+        "КАКОВЫ ПАРАМЕТРЫ ДИАМЕТРА РОГОВИЦЫ В НОРМЕ?",
+        "вертикальный – 10 мм, горизонтальный – 11 мм",
+        "вертикальный – 14 мм, горизонтальный – 15 мм",
+        "вертикальный – 19 мм, горизонтальный – 20 мм"
+      ]
+    },
+    {
+      "id": "ophtalmo_154",
+      "arr": [
+        "НАЗОВИТЕ ИСТОЧНИКИ ПИТАНИЯ РОГОВИЦЫ.",
+        "задние длинные цилиарные артерии, назоцилиарная артерия, слеза",
+        "слеза, капиллярная сеть зоны лимба, внутриглазная жидкость",
+        "внутриглазная жидкость, передние цилиарные артерии, эписклеральные артерии"
+      ]
+    },
+    {
+      "id": "ophtalmo_155",
+      "arr": [
+        "КАКИЕ ПРИЗНАКИ ХАРАКТЕРНЫ ДЛЯ НОРМАЛЬНОЙ РОГОВИЦЫ?",
+        "блестящая, конусовидная, чувствительная, имеет определенный размер",
+        "прозрачная, эллипсоидная, имеет определенную форму",
+        "прозрачная, блестящая, высокочувствительная, сферической формы, имеет определенный размер"
+      ]
+    },
+    {
+      "id": "ophtalmo_156",
+      "arr": [
+        "КАКИЕ СТРУКТУРЫ ОБЕСПЕЧИВАЮТ ИННЕРВАЦИЮ РОГОВИЦЫ?",
+        "первая ветвь тройничного нерва, симпатические волокна сплетения внутренней сонной артерии",
+        "первая ветвь тройничного нерв, симпатические волокна сонной артерии, лицевой нерв",
+        "первая ветвь тройничного нерва, лицевой нерв, парасимпатические волокна глазодвигательного нерва"
+      ]
+    },
+    {
+      "id": "ophtalmo_157",
+      "arr": [
+        "В КАКИХ СЛОЯХ РОГОВИЦЫ НАХОДИТСЯ ПОДАВЛЯЮЩЕЕ БОЛЬШИНСТВО ЧУВСТВИТЕЛЬНЫХ НЕРВНЫХ ОКОНЧА НИЙ?",
+        "в поверхностных слоях стромы и переднем эпителии",
+        "в переднем эпителии, поверхностных и глубоких слоях стромы",
+        "в переднем эпителии, поверхностных и глубоких слоях стромы, заднем эпителии"
+      ]
+    },
+    {
+      "id": "ophtalmo_158",
+      "arr": [
+        "КАКИЕ МЕТОДЫ НАИБОЛЕЕ ИНФОРМАТИВНЫ ДЛЯ ИССЛЕДОВАНИЯ СОСТОЯНИЯ РОГОВИЦЫ?",
+        "исследование в проходящем свете и метод бокового освещения",
+        "метод бокового освещения и биомикроскопия",
+        "биомикроскопия и офтальмоскопия"
+      ]
+    },
+    {
+      "id": "ophtalmo_159",
+      "arr": [
+        "КАКИЕ ПРЕПАРАТЫ НЕОБХОДИ МО ИНСТИЛЛИРОВАТЬ В КОНЪЮНКТИВАЛЬНУЮ ПОЛОСТЬ ДЛЯ ОПРЕДЕЛЕНИЯ ЦЕЛОСТНОСТИ ЭПИТЕЛИЯ РОГОВИЦЫ?",
+        "Sol. Dicaini 0,5%",
+        "Sol. Collargoli 1%",
+        "Sol. Sulfacyli-natrii 30%",
+        "Sol. Fluoresceini 1%"
+      ]
+    },
+    {
+      "id": "ophtalmo_160",
+      "arr": [
+        "КАКИЕ МЕТОДЫ ПРИМЕНЯЮТ ДЛЯ ОРИЕНТИРОВОЧНОЙ ПРОВЕРКИ ЧУВСТВИТЕЛЬНОСТИ РОГОВИЦЫ?",
+        "метод «воздушной струи» (из резиновой груши или рта)",
+        "касание тонким жгутиком, свернутым из влажной ваты",
+        "дотрагиваются до роговицы концом стеклянной палочки или пипетки, полоской бумаги"
+      ]
+    },
+    {
+      "id": "ophtalmo_161",
+      "arr": [
+        "КАК НАЗЫВАЕТСЯ ВОСПАЛИТЕЛЬНОЕ ЗАБОЛЕВАНИЕ РОГОВИЦЫ?",
+        "иритом",
+        "кератитом",
+        "конъюнктивитом",
+        "циклитом"
+      ]
+    },
+    {
+      "id": "ophtalmo_162",
+      "arr": [
+        "КАКОЙ ВИД ИНЪЕКЦИИ ГЛАЗА ХАРАКТЕРЕН ДЛЯ КЕРАТИТОВ?",
+        "конъюнктивальная инъекция",
+        "перикорнеальная инъекция",
+        "смешанная инъекция",
+        "застойная инъекция"
+      ]
+    },
+    {
+      "id": "ophtalmo_163",
+      "arr": [
+        "ВЫБЕРИТЕ ПРИ ЗНАКИ ПЕРИКОРНЕАЛЬНОЙ ИНЪЕКЦИИ:",
+        "расширенные сосуды краевой петлистой сети, не видимые из-за матовой эписклеры, просвечивающиеся розово-фиолетовым ореолом по лимбу с убывающей интенсивностью по направлению к сводам",
+        "конъюнктива темно-красного цвета с синюшным оттенком и расширенными и извилистыми сосудами, подлежащая эписклера отечная с избыточным кровенаполнением сосудов",
+        "конъюнктива ярко-красного цвета с уменьшением интенсивности по мере приближения к роговице, хорошо просматриваются отдельные переполненные кровью сосуды, возможны петехии"
+      ]
+    },
+    {
+      "id": "ophtalmo_164",
+      "arr": [
+        "КАК НАЗЫВАЕТСЯ ВОСПАЛИТЕЛЬНЫЙ ОЧАГ В РОГОВИЦЕ?",
+        "абсцессом",
+        "флегмоной",
+        "инфильтратом"
+      ]
+    },
+    {
+      "id": "ophtalmo_165",
+      "arr": [
+        "КАКОВ ХАРАКТЕР ПОМУТНЕНИЙ ПРИ КЕРАТИТЕ?",
+        "серого цвета с четкими границами",
+        "серого цвета с размытыми границами",
+        "белого цвета с размытыми границами",
+        "белого цвета с четкими границами"
+      ]
+    },
+    {
+      "id": "ophtalmo_166",
+      "arr": [
+        "ПРИ БЕЛЬМЕ (ЛЕЙКОМЕ) ПОМУТНЕНИЯ…?",
+        "серого цвета с четкими границами",
+        "серого цвета с размытыми границами",
+        "белого цвета с размытыми границами",
+        "белого цвета с четкими границами"
+      ]
+    },
+    {
+      "id": "ophtalmo_167",
+      "arr": [
+        "ПРИ КЕРАТИТЕ ПОМУТНЕНИЯ В ЭТОЙ ОБЛАСТИ…?",
+        "серого цвета с сохранением зеркального блеска",
+        "серого цвета с отсутствием зеркального блеска",
+        "белого цвета с сохранением зеркального блеска",
+        "белого цвета с отсутствием зеркального блеска"
+      ]
+    },
+    {
+      "id": "ophtalmo_168",
+      "arr": [
+        "ПРИ БЕЛЬМЕ (ЛЕЙКОМЕ) ПОМУТНЕНИЯ В ЗОНЕ ПРОРАЖЕНИЯ…?",
+        "серого цвета с сохранением зеркального блеска",
+        "серого цвета с отсутствием зеркального блеска",
+        "белого цвета с сохранением зеркального блеска",
+        "белого цвета с отсутствием зеркального блеска"
+      ]
+    },
+    {
+      "id": "ophtalmo_169",
+      "arr": [
+        "ТИПИЧНЫМИ ЖАЛОБАМИ ПРИ КЕРАТИТЕ ЯВЛЯЮТСЯ:",
+        "светобоязнь, ломящая боль при взгляде на источник света, чувство распирания в глазу, туман перед взором",
+        "слезотечение, чувство жжения и «замусоренности» за веками, слипание век по утрам, легкая пелена перед взором",
+        "светобоязнь, слезотечение, блефароспазм, чувство инородного тела за верхним веком, снижение остроты зрения",
+        "ноющие, пульсирующие боли в глазу, «пелена» перед глазом, радужные круги при взгляде на источник света"
+      ]
+    },
+    {
+      "id": "ophtalmo_170",
+      "arr": [
+        "КАК НАЗЫВАЕТСЯ СИНДРОМ, С ТИПИЧНЫМИ ДЛЯ КЕРАТИТА ЖАЛО БАМИ В СОЧЕТАНИИ С ПЕРИКОРНЕАЛЬНОЙ ИНФЕКЦИЕЙ?",
+        "кератитным",
+        "роговичным",
+        "перикорнеалыным"
+      ]
+    },
+    {
+      "id": "ophtalmo_171",
+      "arr": [
+        "ЧТО ПРОИСХОДИТ С ИНФИЛЬТРАТОМ В НАЧАЛЕ ОСТРОГО ВОСПАЛИТЕЛЬНОГО ПРОЦЕССА РОГОВИЦЫ?",
+        "рубцуется",
+        "метастазирует",
+        "изъязвляется"
+      ]
+    },
+    {
+      "id": "ophtalmo_172",
+      "arr": [
+        "КАКИЕ ВИДЫ КЕРАТИТА ЯВЛЯЮТСЯ ЭКЗОГЕННЫМИ?",
+        "травматические, гнойные, поверхностные, вызванные не смыканием глазной щели",
+        "генерализованная (специфическая инфекция), нейропаралитические, авитаминозные",
+        "склерозирующие, глубокие, нейрогенные, аллергические",
+        "травматические, инфекционные, вызванные заболеваниями придаточного аппарата глаза"
+      ]
+    },
+    {
+      "id": "ophtalmo_173",
+      "arr": [
+        "КАКИЕ ВИДЫ КЕРАТИТА ЯВЛЯЮТСЯ ЭНДОГЕННЫМИ?",
+        "травматические, гнойные, поверхностные, вызванные не смыканием глазной щели",
+        "генерализованая (специфическая инфекция), нейропаралитические, авита минозные",
+        "склерозирующие, глубокие, нейрогенные, аллергические",
+        "травматические, инфекционные, вызванные заболеваниями придаточного аппарата глаза"
+      ]
+    },
+    {
+      "id": "ophtalmo_174",
+      "arr": [
+        "КАКОЕ НАЗВАНИЕ ПОЛУЧИЛОВРАСТАНИЕ КРОВЕНОСНЫХ СОСУДОВ В РОГОВИЦУ?",
+        "инфильтрация",
+        "лейкома",
+        "васкуляризация"
+      ]
+    },
+    {
+      "id": "ophtalmo_175",
+      "arr": [
+        "ОТ КАКИХ УСЛОВИЙ ЗАВИСИТ ХАРАКТЕР ВАСКУЛЯРИЗАЦИИ (ГЛУБОКАЯ ИЛИ ПОВЕРХНОСТНАЯ)?",
+        "площади инфильтрата,",
+        "инфекционного агента",
+        "глубины поражения роговицы",
+        "степени поражения чувствительных нервных волокон"
+      ]
+    },
+    {
+      "id": "ophtalmo_176",
+      "arr": [
+        "ДЛЯ КАКОГО КЕРАТИТА ХАРАК ТЕРНО ЗНАЧИТЕЛЬНОЕ ПОНИЖЕНИЕ ЧУВСТВИТЕЛЬНОСТИ РОГОВИЦЫ?",
+        "бактериального",
+        "туберкулезного",
+        "герпетического",
+        "сифилитического"
+      ]
+    },
+    {
+      "id": "ophtalmo_177",
+      "arr": [
+        "КАКИЕ ВОЗБУДИТЕЛИ, НАИБОЛЕЕ ВЕРОЯТНО, ЯВЛЯЮТСЯ ИНДУКТОРАМИ ГНОЙНОЙ ЯЗВЫ РОГОВИЦЫ?",
+        "аденовирусы, вирус герпеса, микробактерии",
+        "синегнойная и кишечная палочки",
+        "диплококк, стрептококк, стафилококк"
+      ]
+    },
+    {
+      "id": "ophtalmo_178",
+      "arr": [
+        "КАК НАЗЫВАЕТСЯ СКОПЛЕНИЕ ГНОЯ НА ДНЕ ПЕРЕДНЕЙ КАМЕРЫ?",
+        "гифемой",
+        "гипопионом",
+        "лейкомой"
+      ]
+    },
+    {
+      "id": "ophtalmo_179",
+      "arr": [
+        "КАКОВЫ ОСНОВНЫЕ КЛИНИЧЕСКИЕ СИМПТОМЫ ПОЛЗУЧЕЙ ЯЗВЫ РОГОВИЦЫ:",
+        "обильное гнойное отделяемое со дна язвы, глубокое рубцевание с выраженным нарушением сферичности роговицы",
+        "глубокое и обширное изъязвление роговицы, выраженная васкуляризация, раннее рубцевание",
+        "наличие прогрессирующей зоны язвы (активный край), ранний иридоциклит с гипопионом"
+      ]
+    },
+    {
+      "id": "ophtalmo_180",
+      "arr": [
+        "КАКОВЫ ВОЗМОЖНЫЕ ОСЛОЖНЕНИЯ ГНОЙНОЙ ЯЗВЫ РОГОВИЦЫ?",
+        "атрофия глазного яблока, катаракта, симблефарон",
+        "перфорация роговицы, эндофтальмит, вторичная глаукома",
+        "панофтальмит, паннус, кератоконус"
+      ]
+    },
+    {
+      "id": "ophtalmo_181",
+      "arr": [
+        "ПРОВЕДЕНИЕ КАКИХ ЛАБОРАТОРНЫХ ИССЛЕДОВАНИЙ НЕОБХОДИМО ПРИ ГНОЙНЫХ КЕРАТИТАХ?",
+        "иммунологических",
+        "биохимических",
+        "микроскопических и бактериологических",
+        "флюоресцентных методов исследования"
+      ]
+    },
+    {
+      "id": "ophtalmo_182",
+      "arr": [
+        "КАКОВЫ ПРИНЦИПЫ КОНСЕРВАТИВНОЙ ТЕРАПИИ ГНОЙНЫХ КЕРАТИТОВ?",
+        "активная антибиотикотерапия, очищение и туширование язвы, стимуляция эпителизации, купирование иридоциклита",
+        "активная противовоспалительная терапия с использованием кортикостероидов, диатермокоагуляции язвы, стимуляция рубцевания язвы",
+        "антибактериальная терапия, местные анестетики, тампонирование дна язвы мазью с антибиотиками с наложением монокулярной повязки"
+      ]
+    },
+    {
+      "id": "ophtalmo_183",
+      "arr": [
+        "КЛИНИЧЕСКИМИ ФОРМАМИ ПОВЕРХНОСТНЫХ ГЕРПЕТИЧЕСКИХ КЕРАТИ ТОВ ЯВЛЯЮТСЯ?",
+        "кератоконъюнктивит, точечный и дисковидный кератиты",
+        "кератоувеит, эпителиальный и метагерпетический кератиты",
+        "пузырьковидный (точечный) и древовидный кератиты"
+      ]
+    },
+    {
+      "id": "ophtalmo_184",
+      "arr": [
+        "К ГЛУБОКИМ ГЕРПЕТИЧЕСКИМ КЕРАТИТАМ ОТНОСЯТСЯ?",
+        "субэпителиальный точечный кератит, дисковидный кератит",
+        "метагерпетический кератит, дисковидный кератит кератоувеит",
+        "субэпителиальный кератит, древовидный кератит, кератоувеит"
+      ]
+    },
+    {
+      "id": "ophtalmo_185",
+      "arr": [
+        "КАКОВЫ КЛИНИЧЕСКИЕ ОСОБЕННОСТИ ГЕРПЕТИЧЕСКИХ КЕРАТИТОВ?",
+        "протекают на фоне простудного заболевания, выраженность роговичного синдрома связана с гиперестезией роговицы, торпидное течение, интенсивное рубцевание",
+        "часто возникает после перенесенной ОРВИ, резкое снижение чувствительно сти роговицы, медленное течение, склонность к рецидивам",
+        "возникает при иммунодепрессивных состояниях организма, характеризуется значительной васкуляризацией, течение бурное с формированием в исходе грубого рубца"
+      ]
+    },
+    {
+      "id": "ophtalmo_186",
+      "arr": [
+        "КАКИЕ ИНСТИЛЛЯЦИИ НАЗНАЧАЮТ ПРИ ЛЕЧЕНИИ ГЕРПЕТИЧЕСКИХ КЕРАТИТОВ?",
+        "Sol. Sulfacyli-natrii 30%",
+        "Sol. Gentamycini 0,3%, Soi. Penicillini 1%",
+        "Sol. Iinterferoni leicocytaris, Sol.Dezoxyribonucleazae, Sol. IDU",
+        "Sol.Dexametazoni 0,1%, Sol.Hydrocortizoni 0,5%"
+      ]
+    },
+    {
+      "id": "ophtalmo_187",
+      "arr": [
+        "КАКИЕ ГЛАЗНЫЕ МАЗИ НАЗНАЧАЮТСЯ ПРИ ГЕРПЕТИЧЕСКИХ КЕРАТИТАХ?",
+        "Ung. Solcoserili (Actovegini) 20%",
+        "Ung. Hydrocortizoni 0,5%, Ung. Prednizotoni 1%",
+        "Ung. Laevomycetini 5%, Ung. Gentamycini 1%",
+        "Ung. Bonaphtoni 0,05%, Ung. Tebrofeni 0,1%, Ung. Florenali 0,1%, и Ung.Zoviraxi 3%"
+      ]
+    },
+    {
+      "id": "ophtalmo_188",
+      "arr": [
+        "В КАКОМ ВОЗРАСТЕ ЧАЩЕ ВОЗНИКАЮТ ТУБЕРКУЛЕЗНО-АЛЛЕРГИЧЕСКИЕ КЕРАТОКОНЪЮНКТИВИТЫ?",
+        "детском",
+        "пожилом",
+        "зрелом"
+      ]
+    },
+    {
+      "id": "ophtalmo_189",
+      "arr": [
+        "КАКОЕ НАЗВАНИЕ ПОЛУЧИЛИ ПОЛУПРОЗРАЧНЫЕ, КРУГЛЫЕ, СЕРОГО ЦВЕТА «УЗЕЛКИ», ПОЯВЛЯЮЩИЕСЯ ВБЛИЗИ ЛИМБА ПРИ ТУБЕРКУЛЕЗНО-АЛЛЕРГИЧЕСКОМ КЕРАТИТЕ?",
+        "инфильтрат",
+        "фликтена",
+        "язва",
+        "пустула"
+      ]
+    },
+    {
+      "id": "ophtalmo_190",
+      "arr": [
+        "КАКОВ ИСХОД ТУБЕРКУЛЕЗНО-АЛЛЕРГИЧЕСКОГО КЕРАТИТА?",
+        "стойкий инфильтрат",
+        "стойкое бельмо",
+        "значительное истончение роговицы"
+      ]
+    },
+    {
+      "id": "ophtalmo_191",
+      "arr": [
+        "КАКОВ ПУТЬ ПРОНИКНОВЕНИЯ В РОГОВИЦУ ИНФЕКЦИИ ПРИ ТУБЕРКУЛЕЗЕ?",
+        "из внешней среды",
+        "из увеального тракта",
+        "из конъюнктивы"
+      ]
+    },
+    {
+      "id": "ophtalmo_192",
+      "arr": [
+        "ТУБЕРКУЛЕЗНЫЕ КЕРАТИТЫ ОБЫЧНО БЫВАЮТ:",
+        "односторонними",
+        "двусторонними"
+      ]
+    },
+    {
+      "id": "ophtalmo_193",
+      "arr": [
+        "КАКИЕ СТРУКТУРЫ РОГОВИЦЫ ПОРАЖАЕТ СПЕЦИФИЧЕСКИЙ ТУБЕРКУЛЕЗНЫЙ ПРОЦЕСС?",
+        "поверхностные слои роговицы",
+        "глубокие слои роговицы"
+      ]
+    },
+    {
+      "id": "ophtalmo_194",
+      "arr": [
+        "КАКОВА ВАСКУЛЯРИЗАЦИЯ ПРИ ТУБЕРКУЛЕЗНОМ КЕРАТИТЕ?",
+        "не характерна",
+        "глубокая",
+        "поверхностная, нежная"
+      ]
+    },
+    {
+      "id": "ophtalmo_195",
+      "arr": [
+        "КАКОВ ПРОГНОЗ ТУБЕРКУЛЕЗНОГО КЕРАТИТА?",
+        "благоприятный",
+        "неблагоприятный"
+      ]
+    },
+    {
+      "id": "ophtalmo_196",
+      "arr": [
+        "ЧТО ПОКАЗАНО В ОТДАЛЕННОМ РЕМИССИОННОМ ПЕРИОДЕ РЕЦИДИВИРУЮЩЕГО ТУ БЕРКУЛЕЗНОГО КЕРАТИТА?",
+        "ревакцинация",
+        "курсовая противовоспалительная терапия",
+        "кератопластика"
+      ]
+    },
+    {
+      "id": "ophtalmo_197",
+      "arr": [
+        "КТО ПРОВОДИТ ЛЕЧЕНИЕ ТУБЕРКУЛЕЗНЫХ КЕРАТИТОВ?",
+        "окулист поликлиники",
+        "семейный врач",
+        "офтальмолог хирургической клиники",
+        "фтизиоофтальмолог"
+      ]
+    },
+    {
+      "id": "ophtalmo_198",
+      "arr": [
+        "В КАКОМ ВОЗРАСТЕ ОБЫЧНО ВОЗНИКАЕТ ПАРЕНХИМАТОЗНЫЙ (ИНТЕРСТИЦИАЛЬНЫЙ СИФИЛИТИЧЕСКИЙ КЕРАТИТ?",
+        "детском",
+        "пожилом",
+        "зрелом"
+      ]
+    },
+    {
+      "id": "ophtalmo_199",
+      "arr": [
+        "ПАРЕНХИМАТОЗНЫЙ КЕРАТИТ ЯВЛЯЕТСЯ ПРОЯВЛЕНИЕМ СИФИЛИСА",
+        "первичного",
+        "третичного",
+        "вторичного",
+        "врожденного"
+      ]
+    },
+    {
+      "id": "ophtalmo_200",
+      "arr": [
+        "КАКИЕ СТАДИИ ВЫДЕЛЯЮТ В ТЕЧЕНИИ СИФИЛИТИЧЕСКОГО ПАРЕНХИМАТОЗНОГО КЕРАТИТА?",
+        "альтерации, инфильтрации, васкуляризации",
+        "инфильтрации, васкуляризации, рассасывания",
+        "инфильтрации, изъязвлении, рубцевания",
+        "инфильтрации, васкуляризации, пролиферации"
+      ]
+    },
+    {
+      "id": "ophtalmo_201",
+      "arr": [
+        "ХАРАКТЕРНЫЕ КЛИНИЧЕСКИЕ ОСОБЕННОСТИ СИФИЛИТИЧЕСКОГО ПАРЕНХИМАТОЗНОГО КЕРАТИТА?",
+        "локальной инфильтрацией",
+        "локальной инфильтрацией в глубоких слоях роговицы",
+        "диффузной инфильтрацией в поверхностных слоях роговицы",
+        "диффузной инфильтрацией в глубоких слоях роговицы"
+      ]
+    },
+    {
+      "id": "ophtalmo_202",
+      "arr": [
+        "ЧТО ОТМЕЧАЕТСЯ ПРИ СИФИЛИТИЧЕСКОМ ПАРЕНХИМАТОЗНОМ КЕРАТИТЕ?",
+        "лишь поверхностная васкуляризация",
+        "глубокая васкуляризация роговицы",
+        "врастания сосудов не наблюдается"
+      ]
+    },
+    {
+      "id": "ophtalmo_203",
+      "arr": [
+        "КАК ИЗМЕНЯЕТСЯ СОСТОЯНИЕ РОГОВИЦЫ ПО МЕРЕ НА РАСТАНИЯ ИНФИЛЬТРАЦИИ ПРИ СИФИЛИТИЧЕСКОМ ПАРЕНХИМАТОЗНОМ КЕРАТИТЕ?",
+        "изъязвляется",
+        "истончается",
+        "утолщается"
+      ]
+    },
+    {
+      "id": "ophtalmo_204",
+      "arr": [
+        "КАКОВ ИСХОД ПАРЕНХИМАТОЗНОГО КЕРАТИТА ПРИ АДЕКВАТНОМ ЛЕЧЕНИИ?",
+        "благоприятный",
+        "сомнительный",
+        "неблагоприятный"
+      ]
+    },
+    {
+      "id": "ophtalmo_205",
+      "arr": [
+        "КАК НАЗЫВАЕТСЯ ОГРАНИЧЕННОЕ ПОМУТНЕНИЕ РОГОВИЦЫ ПЕРВОЙ СТЕПЕНИ, ЕДВА ВИДИМОЕ ПРИ БОКОВОМ ОСВЕЩЕЩЕНИИ, ОБЫЧНО НЕ ДАЮЩЕЕ СНИЖЕНИЯ ОСТРОТЫ ЗРЕНИЯ?",
+        "инфильтрат",
+        "облачко (nubecula)",
+        "пятно (macula)",
+        "бельмо (leucoma)"
+      ]
+    },
+    {
+      "id": "ophtalmo_206",
+      "arr": [
+        "НАЗОВИТЕ СТОЙКОЕ ОГРАНИЧЕННОЕ ПОМУТНЕНИЕ ВТОРОЙ СТЕПЕНИ, ВИДИМОЕ И НЕВООРУЖЕННЫМ ГЛАЗОМ.",
+        "облако",
+        "бельмо (leucoma)",
+        "пятно (macula)"
+      ]
+    },
+    {
+      "id": "ophtalmo_207",
+      "arr": [
+        "КАК НАЗЫВАЕТСЯ СТОЙКОЕ, ЧАСТО СОСУДИСТОЕ ПОМУТНЕНИЕ (Т З-4 СТЕПЕНИ), СВЕТЛО СЕРОГО ИЛИ БЕЛОГО ЦВЕТА, ЗАНИМАЮЩЕЕ БОЛЬШУЮ ЧАСТЬ РОГО ВИЦЫ, СОПРОВОЖДАЮЩЕЕСЯ ЗНАЧИТЕЛЬНЫМ СНИЖЕНИЕМ ПРЕД МЕТНОГО ЗРЕНИЯ?",
+        "васкуляризацией",
+        "бельмом (leucoma)",
+        "рубцом",
+        "пятном (macula)"
+      ]
+    },
+    {
+      "id": "ophtalmo_208",
+      "arr": [
+        "В ЧЁМ ЗАКЛЮЧАЕТСЯ КОНСЕРВАТИВНОЕ ЛЕЧЕНИЕ ФОРМИРУЮЩИХСЯ ПОМУТНЕНИЙ РОГО ВИЦЫ?",
+        "ферментов",
+        "витаминотерапии",
+        "тканевых биостимуляторов",
+        "иммуномодуляторов"
+      ]
+    },
+    {
+      "id": "ophtalmo_209",
+      "arr": [
+        "КАКОВ СИМПТОМОКОМПЛЕКС ПРИ ИРИДОЦИКЛИТЕ?",
+        "зрачок серого цвета, рефлекса с глазного дна нет, ВГД в норме",
+        "перикорнеальная инъекция, на задней поверхности роговицы преципиаты, зрачок узкий, ВГД в норме",
+        "глаз спокойный, зрачок черный, на глазном дне атрофия и экскавация зри тельного нерва, ВГД повышено",
+        "застойная инъекция глазного яблока передняя камера мелкая зрачок широ кий, ВГД высокое",
+        "зрачок серого цвета, при исследовании в проходящем свете видны темные полосы в виде «спиц в колесе», ВГД в норме"
+      ]
+    },
+    {
+      "id": "ophtalmo_210",
+      "arr": [
+        "КАКИЕ ЖАЛОБЫ ТИПИЧНЫ ДЛЯ ОСТРОГО ИРИДОЦИКЛИТА?",
+        "светобоязнь, ломящая боль при взгляде на источник света чувство распирания в глазу туман перед взором",
+        "слезотечение, чувство жжения и «замусоренности» за веками, «слипание» век по утрам, легкая пелена перед взором",
+        "светобоязнь, слезотечение, блефароспазм, чувство инородного тела за верхним веком, снижение остроты зрения",
+        "ноющие, пульсирующие боли в глазу, «пелена» перед глазом, радужные круги",
+        "при взгляде на источник света"
+      ]
+    },
+    {
+      "id": "ophtalmo_211",
+      "arr": [
+        "ИЗ СКОЛЬКИ ЧАСТЕЙ СОСТОИТ СОСУДИСТАЯ ОБОЛОЧКА?",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "id": "ophtalmo_212",
+      "arr": [
+        "КАКИЕ АНАТОМИЧЕСКИЕ СТРУКТУРЫ РАСПОЛОЖЕНЫ В РАДУЖНОЙ ОБОЛОЧКЕ?",
+        "дилятатор и мышцы Мюллера",
+        "мышцы Мюллера и Брюкке",
+        "мышца Брюкке и аккомодативная мышца",
+        "аккомодативная мышца и сфинктер",
+        "сфинктер и дилятатор"
+      ]
+    },
+    {
+      "id": "ophtalmo_213",
+      "arr": [
+        "В СОСТАВ КАКИХ НЕРВОВ ВХОДЯТ ВОЛОКНА, ИННЕРВИРУЮЩИЕ СФИНКТЕР ЗРАЧКА?",
+        "n. trochlearis",
+        "n. oculomotorius",
+        "n. facialis",
+        "n. trigeminus"
+      ]
+    },
+    {
+      "id": "ophtalmo_214",
+      "arr": [
+        "КАКИМ НЕРВОМ ОБЕСПЕЧИВАЕТСЯ ИННЕРВАЦИЯ СФИНКТЕРА ЗРАЧКА?",
+        "парасимпатическим нервом",
+        "симпатическим нервом",
+        "соматическим нервом"
+      ]
+    },
+    {
+      "id": "ophtalmo_215",
+      "arr": [
+        "КАКИМ НЕРВОМ ОБЕСПЕЧИВАЕТСЯ ИННЕРВАЦИЯ ДИЛАТАТОРА ЗРАЧКА?",
+        "парасимпатическим нервом",
+        "симпатическим нервом",
+        "соматическим нервом"
+      ]
+    },
+    {
+      "id": "ophtalmo_216",
+      "arr": [
+        "КАКОЙ НЕРВ ОБЕСПЕЧИВАЕТ ЧУВСТВИТЕЛЬНУЮ ИННЕРВАЦИЮ РАДУЖНОЙ ОБОЛОЧКИ?",
+        "глазодвигательным",
+        "лицевым",
+        "отводящим",
+        "симпатическим",
+        "блоковидным",
+        "парасимпатическим",
+        "тройничным (первая ветвь)",
+        "тройничным (вторая ветвь)",
+        "чувствительных нервов нет"
+      ]
+    },
+    {
+      "id": "ophtalmo_217",
+      "arr": [
+        "КАКОЙ НЕРВ ОБЕСПЕЧИВАЕТ ЧУВСТВИТЕЛЬНУЮ ИННЕРВАЦИЮ ЦИЛИАРНОГО ТЕЛА?",
+        "глазодвигательным",
+        "лицевым",
+        "отводящим",
+        "симпатическим",
+        "блоковидным",
+        "парасимпатическим",
+        "тройничным (первая ветвь)",
+        "тройничным (вторая ветвь)",
+        "чувствительных нервов нет"
+      ]
+    },
+    {
+      "id": "ophtalmo_218",
+      "arr": [
+        "КАКОЙ НЕРВ ОБЕСПЕЧИВАЕТ ЧУВСТВИТЕЛЬНУЮ ИННЕРВАЦИЮ ХОРИОИДЕИ?",
+        "симпатическим",
+        "парасимпатическим",
+        "тройничным (первая ветвь)",
+        "тройничным (вторая ветвь)",
+        "чувствительных нервов нет"
+      ]
+    },
+    {
+      "id": "ophtalmo_219",
+      "arr": [
+        "ЗА СЧЕТ КАКИХ СОСУДОВ ОСУЩЕСТВЛЯЕТСЯ ТРОФИКА РАДУЖКИ И ЦИЛИАРНОГО ТЕЛА?",
+        "передние цилиарные артерии, задние короткие цилиарные артерии",
+        "передние цилиарные артерии, задние длинные цилиарные артерии",
+        "передние цилиарные артерии, задние длинные цилиарные артерии, ветви конъюнктивальных сосудов"
+      ]
+    },
+    {
+      "id": "ophtalmo_220",
+      "arr": [
+        "КАКИЕ ДВЕ ФУНКЦИИ ВЫПОЛНЯЕТ ЦИЛИАРНОЕ ТЕЛО?",
+        "выработка внутриглазной жидкости",
+        "активный компонент аккомодации и дезаккомодации",
+        "регулирует размеры зрачка",
+        "регулирует количество света, поступающего в глаз, обеспечивает питание сетчаткой оболочки",
+        "регулирует светоощущение"
+      ]
+    },
+    {
+      "id": "ophtalmo_221",
+      "arr": [
+        "КАК НАЗЫВАЕТСЯ ИНЪЕКЦИЯ, ЦВЕТ КОТОРОЙ ИМЕЕТ СИНЮШНЫЙ ОТТЕНОК, НАИБОЛЬШУЮ ИНТЕНСИВНОСТЬ ВОКРУГ РОГОВИЦЫ И ОСЛАБЛЯЕТСЯ К ПЕРИФЕ62\nРИИ, ИМЕЕТ ДИФФУЗНОЕ ПОКРАСНЕНИЕ И ОТДЕЛЬНЫЕ СОСУДЫ НЕ ВИДНЫ?",
+        "конъюнктивальной",
+        "смешанной",
+        "перикорнеальной"
+      ]
+    },
+    {
+      "id": "ophtalmo_222",
+      "arr": [
+        "ВЫБЕРИТЕ ДВА СИМПТОМА, НЕ ЯВЛЯЮЩИХСЯ КАРДИНАЛЬНЫМИ ПРИ ИРИТЕ.",
+        "боль в глазу",
+        "снижение остроты зрения и сужение поля зрения",
+        "перикорнеальная или смешанная инъекция",
+        "сужение зрачка",
+        "расширение зрачка",
+        "изменение цвета радужки",
+        "стушеванность рисунка радужки"
+      ]
+    },
+    {
+      "id": "ophtalmo_223",
+      "arr": [
+        "ОБЪЕКТИВНЫЕ ПРИЗНАКИ ИРИДОЦИКПИТА",
+        "перикорнеальная инъекция",
+        "изменение цвета и рисунка радужки",
+        "сужение зрачка",
+        "появление экссудата во влаге передней камеры",
+        "появление преципитатов",
+        "все перечисленные"
+      ]
+    },
+    {
+      "id": "ophtalmo_224",
+      "arr": [
+        "УКАЖИТЕ ПРИЗНАК НЕ ХАРАКТЕРНЫЙ ДЛЯ ЦЕНТРАЛЬНОГО ХОРИОРЕТИНИТА",
+        "боль в глазу",
+        "фотопсии",
+        "снижение зрения",
+        "метаморфопсии"
+      ]
+    },
+    {
+      "id": "ophtalmo_225",
+      "arr": [
+        "ВОСПАЛЕНИЕ РАДУЖНОЙ ОБОЛОЧКИ НАЗЫВАЕТСЯ",
+        "ирит",
+        "увеит",
+        "циклит",
+        "кератит",
+        "хориоидит"
+      ]
+    },
+    {
+      "id": "ophtalmo_226",
+      "arr": [
+        "ВОСПАЛЕНИЕ РЕСНИЧНОГО ТЕЛА НАЗЫВАЕТСЯ",
+        "циклит",
+        "хориоретинит",
+        "ирит",
+        "кератит",
+        "хориоидит"
+      ]
+    },
+    {
+      "id": "ophtalmo_227",
+      "arr": [
+        "ВОСПАЛЕНИЕ СОБСТВЕННО СОСУДИСТОЙ ОБОЛОЧКИ НАЗЫВАЕТСЯ",
+        "хориоидит",
+        "циклит",
+        "ирит",
+        "кератит",
+        "иридоциклит"
+      ]
+    },
+    {
+      "id": "ophtalmo_228",
+      "arr": [
+        "ПРЕЦИПИТАТЫ ЭТО",
+        "точечные отложения на задней поверхности роговицы",
+        "помутнение стекловидного тела",
+        "спайки радужки с передней поверхностью хрусталика",
+        "гной в передней камере глаза",
+        "наличие крови в передней камере",
+        "точечные помутнения на передней поверхности роговицы",
+        "отложение экссудата на радужке"
+      ]
+    },
+    {
+      "id": "ophtalmo_229",
+      "arr": [
+        "СИНЕХИИ – ЭТО",
+        "спайки радужки с хрусталиком или роговицей",
+        "точечные отложения на задней поверхности роговицы",
+        "плавающие помутнения стекловидного тела",
+        "воспалительные отложения на передней поверхности хрусталика"
+      ]
+    },
+    {
+      "id": "ophtalmo_230",
+      "arr": [
+        "ЛЕЧЕНИЕ ИРИТОВ И ИРИДОЦИКЛИТОВ В ПЕРВУЮ ОЧЕРЕДЬ СЛЕДУЕТ НАЧИНАТЬ С",
+        "закапывания в глаз мидриатиков",
+        "этиотропного лечения",
+        "десенсибилизирующей терапии",
+        "применение аналгетиков"
+      ]
+    },
+    {
+      "id": "ophtalmo_231",
+      "arr": [
+        "БЛАГОПРИЯТНОЕ ДЕЙСТВИЕ МИДРИАТИКОВ ПРИ ИРИДОЦИКЛИТАХ ОБЪЯСНЯЕТСЯ",
+        "созданием покоя радужной оболочке и цилиарному телу",
+        "уменьшение гиперемии переднего отрезка сосудистого тракта",
+        "уменьшением экссудации воспаленной ткани",
+        "препятствуют образованию синехий, сращению и заращению зрачка",
+        "всем перечисленным"
+      ]
+    },
+    {
+      "id": "ophtalmo_232",
+      "arr": [
+        "МИДРИАТИКИ ЭТО МЕДИКАМЕНТЫ",
+        "расширяющие зрачок",
+        "суживающие зрачок",
+        "снижающие внутриглазное давление\n86 НАИБОЛЕЕ СИЛЬНЫМ МИДРИАТИЧЕСКИМ ЭФФЕКТОМ ПРИ ИНСТИЛЛЯЦИИ В ГЛАЗ ОБЛАДАЕТ",
+        "Sol, Atropini sulfatis 1%",
+        "Sol. Scopoiamini hydrobromidi 0,25%",
+        "Sol. Homafropini hydrobromidi 1%",
+        "Sol. Mesatoni1%",
+        "Sol. PlatyphyHini hydrotartratis 1%",
+        "Sol. Adrenalini hydrochloride 0,1%",
+        "Sol. Ephedrini hydrochloridi 2-3%"
+      ]
+    },
+    {
+      "id": "ophtalmo_233",
+      "arr": [
+        "РАСШИРЕНИЕ ЗРАЧКА ПРИ ИНСТИЛЛЯЦИИ АТРОПИНА ПРОИСХОДИТ ЗА СЧЕТ",
+        "паралича сфинктера зрачка",
+        "возбуждения дилятатора зрачка",
+        "инактивации фермента холинэстеразы"
+      ]
+    },
+    {
+      "id": "ophtalmo_234",
+      "arr": [
+        "КАКОЙ ИЗ ПЕРЕЧИСЛЕННЫХ ПРЕПАРАТОВ НЕ РАСШИРЯЕТ ЗРАЧОК",
+        "Sol.Adrenalini hydrochloride 0,1%",
+        "Sol.Atropini sulfatis 1%",
+        "Soi.Dicaini 0,25%",
+        "Sol.Scopolamini hydrobromidi 0,25%",
+        "Sol. Mesatoni 1%"
+      ]
+    },
+    {
+      "id": "ophtalmo_235",
+      "arr": [
+        "КАКОЙ ИЗ ПЕРЕЧИСЛЕННЫХ ПРЕПАРАТОВ НЕ ПРИМЕНЯЮТ ДЛЯ ЛЕЧЕ НИЯ ИРИДОЦИКЛИТА",
+        "атропин",
+        "кортикостероиды",
+        "пилокарпин",
+        "антибиотики",
+        "мезатон",
+        "сульфаниламиды"
+      ]
+    },
+    {
+      "id": "ophtalmo_236",
+      "arr": [
+        "В КАКИХ СПОСОБАХ ВВЕДЕНИЯ ПРИМЕНЯЮТСЯ КОРТИКОСТЕРОИДЫ ДЛЯ ЛЕЧЕНИЯ УВЕИТОВ",
+        "инстилляции в конъюнктивальный мешок",
+        "инъекции под конъюнктиву",
+        "введение в супрахориоидальное пространство",
+        "внутрь",
+        "внутривенно",
+        "все перечисленное"
+      ]
+    },
+    {
+      "id": "ophtalmo_237",
+      "arr": [
+        "КАКОВ МЕХАНИЗИМ ДЕЙСТВИЯ КОРТИКОСТЕРОИДОВ ПРИ ЛЕЧЕНИИ УВЕИТОВ",
+        "неспецифическим противовоспалительным и десенсибилизирующим",
+        "десенсибилизирующим и антимикробным",
+        "антимикробным и трофическим"
+      ]
+    },
+    {
+      "id": "ophtalmo_238",
+      "arr": [
+        "У БОЛЬНОГО С ИРИДОЦИКЛИТОМ ВНУТРИГЛАЗНОЕ ДАВЛЕНИЕ ПОВЫШЕНО (32 мм рт. ст.), КАКИЕ ИЗ ПЕРЕЧИСЛЕННЫХ ПРЕПАРАТОВ ВЫ НЕ НАЗНАЧИТЕ",
+        "мидриатики в глазных каплях",
+        "миотики в глазных каплях",
+        "диакарб внутрь",
+        "глицерол внутрь"
+      ]
+    },
+    {
+      "id": "ophtalmo_239",
+      "arr": [
+        "КАКИЕ ИЗ ПЕРЕЧИСЛЕННЫХ МЕТОДОВ ИСПОЛЬЗУЮТСЯ ДЛЯ ДИАГНОСТИКИ ОПУХОЛЕЙ СОСУДИСТОГО ТРАКТА",
+        "биомикроскопия",
+        "прямая офтальмоскопия",
+        "офтальмоскопия в обратном виде",
+        "бинокулярная офтальмоскопия",
+        "гониоскопия",
+        "диафаноскопия",
+        "эхоскопия и эхометрия",
+        "флюоресцентная ангиография",
+        "радиоизотопная диагностика",
+        "все перечисленные"
+      ]
+    },
+    {
+      "id": "ophtalmo_240",
+      "arr": [
+        "КАКОВЫ СИМПТОМЫ ЗРЕЛОЙ ВОЗРАСТНОЙ КАТАРАКТЫ?",
+        "зрачок серого цвета, рефлекса с глазного дна нет, ВГД в норме",
+        "перикорнеальная инъекция, на задней поверхности роговицы преципитаты, зрачок узкий, ВГД в норме",
+        "глаз спокойный, зрачок черный, на глазном дне атрофия и экскавация зритель ного нерва, ВГД повышено",
+        "застойная инъекция глазного яблока, передняя камера мелкая, зрачок широкий, ВГД высокое",
+        "зрачок серого цвета, при исследовании в проходящем свете видны темные полосы в виде «спиц в колесе», ВГД в норме"
+      ]
+    },
+    {
+      "id": "ophtalmo_241",
+      "arr": [
+        "КАКОВЫ ПРИЗНАКИ НАЧИНАЮЩЕЙСЯ ВОЗРАСТНОЙ КАТАРАКТЫ?",
+        "зрачок серого цвета, рефлекса с глазного дна нет, ВГД в норме",
+        "перикорнеальная инъекция, на задней поверхности роговицы преципитаты, зрачок, узкий, ВГД в норме",
+        "глаз спокойный, зрачок черный, на глазном дне атрофия и экскавация зритель ного нерва, ВГД повышено",
+        "застойная инъекция глазного яблока, передняя камера мелкая, зрачок широ кий, ВГД высокое",
+        "зрачок серого цвета, при исследовании в проходящем свете видны темные полосы в виде «спиц в колесе», ВГД в норме"
+      ]
+    },
+    {
+      "id": "ophtalmo_242",
+      "arr": [
+        "КАК ИМЕНУЕТСЯ ПОМУТНЕНИЕ ХРУСТАЛИКА?",
+        "катаракта",
+        "афакия",
+        "бельмо",
+        "глаукома"
+      ]
+    },
+    {
+      "id": "ophtalmo_243",
+      "arr": [
+        "КАКОЙ ИЗ ПЕРЕЧИСЛЕННЫХ МЕТОДОВ ПОЗВОЛЯЕТ НАИБОЛЕЕ ПОЛНО ИССЛЕДОВАТЬ ХРУСТАЛИК В КЛИНИЧЕСКИХ УСЛОВИЯХ?",
+        "биомикроскопия",
+        "прямая офтальмоскопия",
+        "проходящим светом",
+        "фокальное освещение",
+        "офтальмоскопия в обратном виде"
+      ]
+    },
+    {
+      "id": "ophtalmo_244",
+      "arr": [
+        "ВРОЖДЕННЫЕ КАТАРАКТЫ, КАК ПРАВИЛО…",
+        "прогрессируют",
+        "не прогрессируют"
+      ]
+    },
+    {
+      "id": "ophtalmo_245",
+      "arr": [
+        "ПРИОБРЕТЕННЫЕ КАТАРАКТЫ.КАК ПРАВИЛО",
+        "прогрессируют",
+        "не прогрессируют"
+      ]
+    },
+    {
+      "id": "ophtalmo_246",
+      "arr": [
+        "КАКИЕ ДВА ВИДА КАТАРАКТ НЕ ОТНОСЯТСЯ К ВОЗРАСТНЫМ (СТАРЧЕСКИМ)?",
+        "корковая",
+        "смешанная",
+        "ядерная",
+        "задняя полярная",
+        "бурая",
+        "зонулярная"
+      ]
+    },
+    {
+      "id": "ophtalmo_247",
+      "arr": [
+        "САМЫМИ ЧАСТЫМИ ПРИЧИНАМИ ПОЯВЛЕНИЯ ВРОЖ-\nДЕННЫХ КАТАРАКТ ЯВЛЯЮТСЯ?",
+        "нарушение обмена веществ в организме матери во время беременности",
+        "грипп, перенесенный матерью во время беременности",
+        "краснуха, перенесенная матерью вовремя беременности",
+        "все перечисленное"
+      ]
+    },
+    {
+      "id": "ophtalmo_248",
+      "arr": [
+        "В КАКОМ ВОЗРАСТЕ ФОРМИРУЕТСЯ ЯДРО ХРУСТАЛИКА?",
+        "10 лет",
+        "15 лет",
+        "25 лет",
+        "40 лет",
+        "60 лет"
+      ]
+    },
+    {
+      "id": "ophtalmo_249",
+      "arr": [
+        "КАКОЙ ВИД КАТАРАКТЫ, КАК ПРАВИЛО, НЕ ПРОГРЕССИРУЕТ?",
+        "врожденная",
+        "диабетическая",
+        "старческая",
+        "травматическая",
+        "лучевая"
+      ]
+    },
+    {
+      "id": "ophtalmo_250",
+      "arr": [
+        "У БОЛЬНОГО 56 ЛЕТ В ОБОИХ ГЛАЗАХ ОБНАРУЖЕНА ЗОНУЛЯРНАЯ КАТАРАКТА. К КАКОМУ ВИДУ КАТАРАКТ ВЫ ЕЕ ОТНЕСЕТЕ?",
+        "врожденная",
+        "приобретенная",
+        "старческая",
+        "осложненная",
+        "травматическая",
+        "диабетическая"
+      ]
+    },
+    {
+      "id": "ophtalmo_251",
+      "arr": [
+        "У ИССЛЕДУЕМОГО 64 ЛЕТ ОБНАРУЖЕНА ПЕРЕДНЯЯ ПОЛЯРНАЯ КАТАРАКТА, К КАКОМУ ВИДУ КАТАРАКТ МОЖНО ОТНЕСТИ ЭТУ ПАТОЛОГИЮ?",
+        "врожденная",
+        "старческая",
+        "лучевая",
+        "травматическая",
+        "осложненная"
+      ]
+    },
+    {
+      "id": "ophtalmo_252",
+      "arr": [
+        "У БОЛЬНОГО ОБНАРУЖЕНА ЗОНУЛЯРНАЯ КАТАРАКТА С ОСТРОТОЙ ЗРЕНИЯ 0,3; БУДЕТ ЛИ ПРОГРЕССИРОВАТЬ ПОМУТНЕНИЕ ХРУСТАЛИКА?",
+        "да",
+        "нет"
+      ]
+    },
+    {
+      "id": "ophtalmo_253",
+      "arr": [
+        "УКАЖИТЕ СТАДИЮ НЕ ХАРАКТЕРНУЮ ДЛЯ ВОЗРАСТНОЙ (СТАРЧЕСКОЙ КАТАРАКТЫ).",
+        "начинающаяся",
+        "перезрелая",
+        "незрелая",
+        "терминальная",
+        "зрелая"
+      ]
+    },
+    {
+      "id": "ophtalmo_254",
+      "arr": [
+        "УКАЖИТЕ ПРИЗНАК НЕ ХАРАКТЕРНЫЙ ДЛЯ ЗРЕЛОЙ ВОЗРАСТНОЙ КАТАРАКТЫ",
+        "острота зрения равна светоощущению с правильной проекцией света",
+        "передняя камера нормальной глубины",
+        "при исследовании проходящим светом рефлекса с глазного дна нет",
+        "при исследовании проходящим светом рефлекса с глазного дна серо-розовый",
+        "тени от радужки нет"
+      ]
+    },
+    {
+      "id": "ophtalmo_255",
+      "arr": [
+        "КАКАЯ РАЗНОВИДНОСТЬ НЕ ЯВЛЯЕТСЯ ПЕРЕЗРЕЛОЙ КАТАРАКТОЙ",
+        "молочная",
+        "морганиева",
+        "полное рассасывание веществ хрусталика",
+        "осложненная"
+      ]
+    },
+    {
+      "id": "ophtalmo_256",
+      "arr": [
+        "БОЛЬНОЙ 52 ЛЕТ ОБРАТИЛСЯ С ЖАЛОБАМИ НА ПОСТЕПЕННОЕ И БЕЗБОЛЕЗНЕННОЕ СНИЖЕНИЕ ЗРЕНИЯ В ПРАВОМ ГЛАЗУ. ОБЪЕКТИВНО VISUS OD = 0,5 НЕ КОРР. ГЛАЗ СПОКОЕН, РОГОВИЦА ПРОЗРАЧНАЯ, ПЕРЕДНЯЯ КАМЕРА СРЕДНЕЙ ГЛУБИНЫ. ПРИ ИССЛЕДОВАНИИ ПРОХОДЯЩИМ СВЕ ТОМ В ПРОСВЕТЕ ЗРАЧКА ВИДНЫ ТЕМНЫЕ СПИЦЕПОПОДОБНЫЕ ПОМУТНЕНИЯ, ГЛАЗНОЕ ДНО ВИДНО В ЛЕГКОМ ТУМАНЕ, БЕЗ ОСОБЕННО СТЕЙ. МОЖНО ПОСТАВИТЬ ДИАГНОЗ:",
+        "возрастная (старческая) начальная катаракта",
+        "возрастная (старческая) незрелая катаракта",
+        "осложненная катаракта"
+      ]
+    },
+    {
+      "id": "ophtalmo_257",
+      "arr": [
+        "ЕСЛИ ПОМУТНЕНИЕ ХРУСТАЛИКА ОБНАРУЖИВАЕТСЯ ПОД ЕГО ЗАДНЕЙ КАПСУЛОЙ, ТО О КАКОМ ВИДЕ КАТАРАКТЫ СЛЕДУЕТ ДУМАТЬ",
+        "осложненной катаракте",
+        "начальной старческой катаракте",
+        "врожденной катаракте"
+      ]
+    },
+    {
+      "id": "ophtalmo_258",
+      "arr": [
+        "АФАКИЯ – ЭТО",
+        "отсутствие хрусталика",
+        "появление признаков перезревания катаракты",
+        "вывих хрусталика в стекловидное тело",
+        "врожденное отсутствие радужной оболочки"
+      ]
+    },
+    {
+      "id": "ophtalmo_259",
+      "arr": [
+        "КАКОВА В СРЕДНЕМ ПРЕМЛЯЮЩАЯ СИЛА ХРУСТАЛИКА В ДИОПТРИЯХ",
+        "10",
+        "18",
+        "25",
+        "40"
+      ]
+    },
+    {
+      "id": "ophtalmo_260",
+      "arr": [
+        "БОЛЬНОМУ НЕЗРЕЛОЙ КАТАРАКТОЙ С НИЗКОЙ ОСТРОТОЙ ЗРЕНИЯ ПОКАЗАНО",
+        "назначение мидриатиков для улучшения зрения",
+        "иридэктомия",
+        "инсталляция капель для просветления хрусталика",
+        "ждать до полного созревания катаракты",
+        "операция экстрактации катаракты"
+      ]
+    },
+    {
+      "id": "ophtalmo_261",
+      "arr": [
+        "АРТИФАКИЯ – ЭТО",
+        "отсутствие хрусталика",
+        "состояние глаза после удаления хрусталика",
+        "наличие в глазу искусственного хрусталика",
+        "вывих хрусталика в стекловидное тело"
+      ]
+    },
+    {
+      "id": "ophtalmo_262",
+      "arr": [
+        "КАКИЕ СПОСОБЫ КОРРЕКЦИИ ОБЫЧНО НЕ ПРИМЕНЯЮТ ПРИ АФАКИИ?",
+        "имплантация ИОЛ",
+        "коррекция очковыми стеклами",
+        "коррекция контактными линзами",
+        "коррекция телескопическими очками"
+      ]
+    },
+    {
+      "id": "ophtalmo_263",
+      "arr": [
+        "НАЗОВИТЕ НАИБОЛЕЕ СОВЕРШЕННЫЙ СПОСОБ КОРРЕКЦИИ АФАКИИ",
+        "имплантация интраокулярных линз",
+        "контактная коррекция",
+        "очковая коррекция",
+        "бифокальные очки",
+        "телескопические очки"
+      ]
+    },
+    {
+      "id": "ophtalmo_264",
+      "arr": [
+        "КАКИЕ ОЧКИ ВЫ НАЗНАЧИТЕ ЧЕЛОВЕКУ С АФАКИЕЙ В ВОЗРАСТЕ 50 ЛЕТ, ЕСЛИ У НЕГО VISUS ОБОИХ ГЛАЗ РАВЕН 0,02 С КОРР. (+10,0 D) = 1,0?",
+        "(+)10,0 D – для дали, +13,0 D – для близи",
+        "(+)10,0 D для дали,",
+        "(+)7,0 D для близи",
+        "(+)13,0 D для постоянного ношения"
+      ]
+    },
+    {
+      "id": "ophtalmo_265",
+      "arr": [
+        "ПРИ ДИСПАНСЕРНОМ ОСМОТРЕ У РЕБЕНКА В ОБОИХ ГЛАЗАХ ОБНАРУ ЖЕНЫ ПЕРЕДНИЕ ПОЛЯРНЫЕ КАТАРАКТЫ. КАКОЕ ЛЕЧЕНИЕ ВЫ ЕМУ БУДЕТЕ РЕКОМЕНДОВАТЬ?",
+        "лечение не требуется",
+        "экстракция катаракты возможно в раннем возрасте",
+        "экстракция катаракты после 15 лет с имплантацией ИОЛ",
+        "назначить Витайодурол или Квинакс для профилактики прогрессирования катаракты"
+      ]
+    },
+    {
+      "id": "ophtalmo_266",
+      "arr": [
+        "БОЛЬНОМУ С ОДНОСТОРОННЕЙ ЗРЕЛОЙ СТАРЧЕСКОЙ КАТАРАКТОЙ И ВЫСОКОЙ ОСТРОТОЙ ЗРЕНИЯ (0,9) НА ВТОРОМ ГЛАЗУ. КАКИЕ РЕКОМЕНДАЦИИ ВЫ ДАДИТЕ?",
+        "сделать экстрактацию катаракты с имплантацией ИОЛ",
+        "сделать экстрактацию катаракты с последующей коррекцией афакии очками",
+        "ждать пока не ухудшится зрения на втором глазу, после чего оперировать",
+        "назначить в катарактальный глаз Витайодурол, Квинакс"
+      ]
+    },
+    {
+      "id": "ophtalmo_267",
+      "arr": [
+        "У БОЛЬНОГО 63 ЛЕТ 15 ЛЕТ НАЗАД БЫЛО ПРОНИКАЮЩЕЕ РАНЕНИЕ ПРАВОГО ГЛАЗА. ВСЕ ВРЕМЯ ПОСЛЕ ТРАВМЫ ГЛАЗ ХОРОШО ВИДЕЛ. МЕСЯЦ НАЗАД БОЛЬНОЙ СТАЛ ОТМЕЧАТЬ УХУДШЕНИЕ ЗРЕНИЯ В ЭТОМ ГЛАЗУ. ПРИ ОСМОТРЕ: VISUS OD = 0,4 HE КОРР. VIS OS = 0,7 HE КОРР. В ПРОХОДЯЩЕМ СВЕТЕ В ОБОИХ ГЛАЗАХ ВИДНЫ СПИЦЕПОДОБНЫЕ ПОМУТНЕНИЯ ХРУСТАЛИКА, РАСПОЛАГАЮЩИЕСЯ В КОРКОВОМ СЛОЕ. ГЛАЗНОЕ ДНО В НОРМЕ. ДИАГНОЗ:",
+        "начинающаяся старческая катаракта обоих глаз",
+        "травматическая катаракта ОD; старческая катаракта OS",
+        "осложненная катаракта OU",
+        "бурая катаракта"
+      ]
+    },
+    {
+      "id": "ophtalmo_268",
+      "arr": [
+        "КАКОЕ ОСЛОЖНЕНИЕ БЫВАЕТ ПРИ НАБУХАЮЩЕЙ НЕЗРЕЛОЙ КАТАРАКТЕ",
+        "факолитическая глаукома",
+        "факотоксический иридоциклит",
+        "факоморфическая глаукома",
+        "разрыв передней капсулы хрусталики",
+        "вывих ядра хрусталика в переднюю камеру",
+        "все перечисленное"
+      ]
+    },
+    {
+      "id": "ophtalmo_269",
+      "arr": [
+        "ПОЖИЛОЙ ГИПЕРТОНИК ВНЕЗАПНО ПОТЕРЯЛ ЗРЕНИЕ ПРАВОГО ГЛАЗА ДО СЧЕТА ПАЛЬЦЕВ У ЛИЦА. ДО ЭТОГО ЗАМЕЧАЛ КРАТКОВРЕМЕННОЕ СНИЖЕНИЕ ЗРЕНИЯ ЭТОГО ГЛАЗА, НО ЗРЕНИЕ ВОССТАНАВЛИВАЛОСЬ. НА ГЛАЗНОМ ДНЕ ДИСК ЗРИТЕЛЬНОГО НЕРВА С РАЗМЫТЫМИ ГРАНИЦАМИ, ОТЕК СЕТЧАТКИ. В МАКУЛЯРНОЙ ОБЛАСТИ ВИДНА «ВИШНЕВАЯ КОСТОЧКА». АРТЕРИИ УЗКИЕ. КАКОЕ ЭТО ЗАБОЛЕВАНИЕ?",
+        "острый приступ глаукомы",
+        "острая непроходимость центральной артерии сетчатки",
+        "острая непроходимость центральной вены сетчатки",
+        "острый центральный хориоретинит",
+        "макулодистрофия"
+      ]
+    },
+    {
+      "id": "ophtalmo_270",
+      "arr": [
+        "ПОЖИЛОЙ ГИПЕРТОНИК ВНЕЗАПНО ПОТЕРЯЛ ЗРЕНИЕ ПРАВОГО ГЛАЗА ДО СЧЕТА ПАЛЬЦЕВ У ЛИЦА. ДО ЭТОГО ЗАМЕЧАЛ КРАТКОВРЕМЕННОЕ СНИЖЕНИЕ ЗРЕНИЯ ЭТОГО ГЛАЗА, НО ЗРЕНИЕ ВОССТАНАВЛИВАЛОСЬ. НА ГЛАЗНОМ ДНЕ ДИСК ЗРИТЕЛЬНОГО НЕРВА С РАЗМЫТЫМИ ГРАНИЦАМИ, ОТЕК СЕТЧАТКИ. В МАКУЛЯРНОЙ ОБЛАСТИ ВИДНА\n«ВИШНЕВАЯ КОСТОЧКА». АРТЕРИИ УЗКИЕ. НЕОТЛОЖНАЯ ПОМОЩЬ:",
+        "инстилляция мидриатиков и введение гепарина",
+        "инстилляция мидриатиков",
+        "введение гепарина и сосудорасширяющих средств"
+      ]
+    },
+    {
+      "id": "ophtalmo_271",
+      "arr": [
+        "КАКИЕ ХАРАКТЕРНЫЕ СИМПТОМЫ НА ГЛАЗНОМ ДНЕ ПРИ ГИПЕРТОНИЧЕСКОЙ БОЛЕЗНИ?",
+        "отек сетчатки, крапчатость макулярной области",
+        "вены уже артерий, новообразованные сосуды",
+        "сужение артерий, мелкие кровоизлияния в сетчатке"
+      ]
+    },
+    {
+      "id": "ophtalmo_272",
+      "arr": [
+        "ХАРАКТЕРНЫЕ СИМПТОМЫ НА ГЛАЗНОМ ДНЕ ПРИ ГИПЕРТОНИЧЕСКОЙ БОЛЕЗНИ",
+        "симптом Салюса-Гунна (артериовенозного перекреста), наличие пигментных очагов в макулярной области",
+        "симптом Гвиста (штопорообразная извитость мелких венул в макулярной области)",
+        "симптомы Салюса-Гунна и Гвиста"
+      ]
+    },
+    {
+      "id": "ophtalmo_273",
+      "arr": [
+        "КАКИЕ СИМПТОМЫ ХАРАКТЕРНЫ ПРИ ТИРЕОТОКСИКОЗЕ?",
+        "глаз белый, центральная скотома, побледнение височной половины диска зрительного нерва, ВГД в норме",
+        "глаз белый, экзофтальм застойный диск зрительного нерва центральная скотома",
+        "глаз белый, понижение остроты зрения, микроаневризмы, кровоизлияния и белые очаги на глазном дне, ВГД в норме",
+        "глаз белый, экзофтальм, отставание верхнего века при взгляде вниз, острота зрения не нарушена; ВГД в норме"
+      ]
+    },
+    {
+      "id": "ophtalmo_274",
+      "arr": [
+        "КАКИЕ СИМПТОМЫ ХАРАКТЕРНЫ ПРИ САХАРНОМ ДИАБЕТЕ?",
+        "глаз белый, центральная скотома, побледнение височной половины диска зрительного нерва, ВГД в норме",
+        "глаз белый, зрение не нарушено, на глазном дне микроаневризмы, симптомы Салюса-Гунна и Гвиста",
+        "глаз белый, понижение остроты зрения, микроаневризмы, кровоизлияния и белые очаги на глазном дне, ВГД в норме",
+        "глаз белый, экзофтальм, отставание верхнего века при взгляде вниз, острота зрения не нарушена, ВГД в норме"
+      ]
+    },
+    {
+      "id": "ophtalmo_275",
+      "arr": [
+        "КАКИЕ ЗАБОЛЕВАНИЯ МОГУТ СОПРОВОЖДАТЬСЯ НЕВРИТОМ ЗРИТЕЛЬНОГО НЕРВА?",
+        "заболевании крови",
+        "полиневрите",
+        "гнойном воспалении пазух носа",
+        "параличе лицевого нерва",
+        "контузии головного мозга"
+      ]
+    },
+    {
+      "id": "ophtalmo_276",
+      "arr": [
+        "ЖЕНЩИНА 25 ЛЕТ ЗАМЕТИЛА ВНЕЗАПНОЕ ПОНИЖЕНИЕ ЗРЕНИЯ ПРАВО ГО ГЛАЗА С ТЕМНЫМ ПЯТНОМ В ЦЕНТРЕ ПОЛЯ ЗРЕНИЯ. ПРАВЫЙ ГЛАЗ БЕЛЫЙ. НЕ БОЛИТ, НО ДВИЖЕНИЕ БОЛЕЗНЕННОЕ. НА ГЛАЗНОМ ДНЕ ЛЕГКОЕ ПО-БЛЕДНЕНИЕ ВИСОЧНОЙ ПОЛОВИНЫ ДИСКА ЗРИТЕЛЬНОГО НЕРВА. КАКОЕ ЗАБОЛЕВАНИЕ У ЭТОЙ ЖЕНЩИНЫ?",
+        "застойный диск зрительного нерва",
+        "центральный хориоретинит",
+        "ретробульбарный неврит",
+        "макулодистрофия"
+      ]
+    },
+    {
+      "id": "ophtalmo_277",
+      "arr": [
+        "ЖЕНЩИНА 25 ЛЕТ ЗАМЕТИЛА ВНЕЗАПНОЕ ПОНИЖЕНИЕ ЗРЕНИЯ ПРАВО ГО ГЛАЗА С ТЕМНЫМ ПЯТНОМ В ЦЕНТРЕ ПОЛЯ ЗРЕНИЯ. ПРАВЫЙ ГЛАЗ БЕЛЫЙ, НЕ БОЛИТ, НО ДВИЖЕНИЕ БОЛЕЗНЕННОЕ. НА ГЛАЗНОМ ДНЕ ЛЕГКОЕ ПОБЛЕДНЕНИЕ ВИСОЧНОЙ ПОЛОВИНЫ ДИCКА ЗРИТЕЛЬНОГО НЕРВА. КАКИХ СПЕЦИАЛИСТОВ НЕОБХОДИМО ПРИВЛЕЧЬ ДЛЯ КОНСУЛЬ ТАЦИИ И ЛЕЧЕНИЯ",
+        "оториноларинголога и невропатолога",
+        "невропатолога и инфекциониста",
+        "инфекциониста и хирурга",
+        "хирурга и терапевта"
+      ]
+    },
+    {
+      "id": "ophtalmo_278",
+      "arr": [
+        "ХАРАКТЕРНЫМ ПРИЗНАКОМ НЕВРИТА ЗРИТЕЛЬНОГО НЕРВА ЯВЛЯЕТСЯ",
+        "гемералопия",
+        "двоение",
+        "цветослепота",
+        "снижение центрального зрения"
+      ]
+    },
+    {
+      "id": "ophtalmo_279",
+      "arr": [
+        "ХАРАКТЕРНЫМ ПРИЗНАКОМ ЗАСТОЙНОГО ДИСКА ЗРИТЕЛЬННОГО НЕРВА ЯВЛЯЕТ СЯ",
+        "перикорнеальная инъекция и экзофтальм",
+        "экзофтальм и смазанность границ диска зрительного нерва",
+        "смазанность границ и выстояние границ зрительного нерва"
+      ]
+    },
+    {
+      "id": "ophtalmo_280",
+      "arr": [
+        "ПРИ ОПУХОЛИ ГИПОФИЗА ОПРЕДЕЛЯЕТСЯ",
+        "концентрическое сужение поля зрения",
+        "центральная абсолютная скотома",
+        "битемпоральная гемианопсия",
+        "биназальная гемианопсия"
+      ]
+    },
+    {
+      "id": "ophtalmo_281",
+      "arr": [
+        "ДЛЯ НЕВРИТА ЗРИТЕЛЬНОГО НЕРВА ХАРАКТЕРНЫ СЛЕДУЮЩИЕ СИМПТОМЫ",
+        "глаз белый, зрачок черного цвета, на глазном дне атрофия и экскавация диска зрительного нерва. ВГД (+)1",
+        "глаз белый, боли при движении глаза, снижение остроты зрения, гиперемия диска зрительного нерва, ВГД в норме",
+        "глаз белый, движения безболезненные, на глазном дне диск зрительного нерва с нечеткими границами, проминирует в стекловидное тело, ВГД в норме"
+      ]
+    },
+    {
+      "id": "ophtalmo_282",
+      "arr": [
+        "ДЛЯ ЗАСТОЙНОГО ДИСКА ЗРИТЕЛЬНОГО НЕРВА ХАРАКТЕРНО",
+        "глаз белый, зрачок черного цвета, на глазном дне атрофия и экскавация диска зрительного нерва, ВГД (+)1",
+        "глаз белый, боли при движении глаза, снижение остроты зрения, гиперемия диска зрительного нерва, ВГД в норме",
+        "глаз белый, движения безболезненные, на глазном дне диск зрительного нерва с нечеткими границами проминирует в стекловидное тело, ВГД в норме"
+      ]
+    },
+    {
+      "id": "ophtalmo_283",
+      "arr": [
+        "ДЛЯ ПОРАЖЕНИЯ ВНУТРЕННЕЙ ЧАСТИ ХИАЗМЫ ХАРАКТЕРНА",
+        "полная слепота",
+        "центральная скотома",
+        "битемпоральная гемианопсия",
+        "биназальная гемианопсия",
+        "гомонимная гемианопсия"
+      ]
+    },
+    {
+      "id": "ophtalmo_284",
+      "arr": [
+        "ДЛЯ ПОРАЖЕНИЯ НАРУЖНОЙ ЧАСТИ ХИАЗМЫ ХАРАКТЕРНА",
+        "полная слепота",
+        "центральная скотома",
+        "битемпоральная гемианопсия",
+        "биназальная гемианопсия",
+        "гомонимная гемианопсия"
+      ]
+    },
+    {
+      "id": "ophtalmo_285",
+      "arr": [
+        "СИМПТОМЫ, ХАРАКТЕРНЫЕ ПРИ РАССЕЯННОМ СКЛЕРОЗЕ",
+        "глаз белый, центральная скотома, побледнение височной половины диска зрительного нерва, ВГД в норме",
+        "глаз белый, понижение остроты зрения, микроаневризмы, кровоизлияния и бе-лые очаги на глазном дне, ВГД в норме",
+        "глаз белый, экзофтальм, отставание верхнего века при взгляде вниз, острота зрения не нарушена; ВГД в норме",
+        "перикорнеальная инъекция, задние синехии, экскавация и атрофия зрительного нерва, ВГД +1"
+      ]
+    },
+    {
+      "id": "ophtalmo_286",
+      "arr": [
+        "КАКИЕ КАПЛИ ИСПОЛЬЗУЮТ ДЛЯ СНИЖЕНИЯ ВНУТРИГЛАЗНОГО ДАВЛЕНИЯ?",
+        "1% раствор атропина, 0,5% раствор тимолола",
+        "0,5% раствор тимолола, 1% раствор пилокарпина"
+      ]
+    },
+    {
+      "id": "ophtalmo_287",
+      "arr": [
+        "ВСЛЕДСТВИЕ ЧЕГО АТРОПИН ПОВЫШАЕТ ВНУТРИГЛАЗНОЕ ДАВЛЕНИЕ?",
+        "расширения артериол, смещения радужки к фильтрационной зоне",
+        "сужения артериол, снижения оттока ВГЖ в склеральный синус"
+      ]
+    },
+    {
+      "id": "ophtalmo_288",
+      "arr": [
+        "В РЕЗУЛЬТАТЕ ЧЕГО МИДРИАТИКИ ПОВЫШАЮТ ВГД ПРИ ЗАКРЫТОУГОЛЬНОЙ ГЛАУКОМЕ?",
+        "повышения продукции внутриглазной жидкости",
+        "зрачкового блока",
+        "закрытия радужно-роговичного угла радужки",
+        "ослабления натяжения трабекул"
+      ]
+    },
+    {
+      "id": "ophtalmo_289",
+      "arr": [
+        "КАКИЕ ПРЕПАРАТЫ, ПРИМЕНЯЮТСЯ В ЛЕЧЕНИИ ОТКРЫТОУГОЛЬНОЙ ГЛАУКО МЫ?",
+        "папаверин, гоматропин",
+        "пилокарпин, тимолол",
+        "папаверин, тимолол",
+        "гоматропин, атропин"
+      ]
+    },
+    {
+      "id": "ophtalmo_290",
+      "arr": [
+        "КАКИЕ ПРЕПАРАТЫ, ПРОТИВОПОКАЗАННЫ ПРИ ГЛАУКОМЕ?",
+        "папаверин, никошпан",
+        "папаверин, тимолол",
+        "пилокарпин, тимолол",
+        "гоматропин, атропин"
+      ]
+    },
+    {
+      "id": "ophtalmo_291",
+      "arr": [
+        "ЧЕМ ПРОДУЦИРУЕТСЯ ВНУТРИГЛАЗНАЯ ЖИДКОСТЬ?",
+        "хориоидеей",
+        "стекловидным телом",
+        "цилиарным телом",
+        "радужкой"
+      ]
+    },
+    {
+      "id": "ophtalmo_292",
+      "arr": [
+        "ДЛЯ КАКОГО ЗАБОЛЕВАНИЯ ХАРАКТЕРНО ПОЯВЛЕНИЕ РАДУЖНЫХ КРУГОВ ВОКРУГ ИСТОЧНИКА СВЕТА ПРИ ВЗГЛЯДЕ НА НЕГО?",
+        "отеке сетчатки",
+        "иридоциклите",
+        "закрытоугольной глаукоме",
+        "гемофтальме"
+      ]
+    },
+    {
+      "id": "ophtalmo_293",
+      "arr": [
+        "КАК ВЫГЛЯДИТ ЗРАЧОК ПРИ ОСТРОМ ПРИСТУПЕ ГЛАУКОМЫ?",
+        "широкий и реагирует на свет",
+        "узкий и реагирует на свет",
+        "широкий и не реагирует на свет",
+        "узкий и не реагирует на свет"
+      ]
+    },
+    {
+      "id": "ophtalmo_294",
+      "arr": [
+        "КАКОВ ДИАПАЗОН НОРМАЛЬНОГО УРОВНЯ ТОНОМЕТРИЧЕСКОГО ВНУТРИГЛАЗНОГО ДАВ ЛЕНИЯ?",
+        "14-22 мм рт. ст.",
+        "20-22 мм рт. ст.",
+        "16-20 мм рт. ст.",
+        "32-36 мм рт. ст.",
+        "16-26 мм рт. ст."
+      ]
+    },
+    {
+      "id": "ophtalmo_295",
+      "arr": [
+        "НАЗОВИТЕ ОБЪЕКТИВНЫЕ ПРИЗНАКИ, ХАРАКТЕРНЫЕ ДЛЯ ОТКРЫТОУГОЛЬНОЙ ГЛАУКОМЫ.",
+        "дистрофические изменения радужки, глаукоматозная экскавация зрительного нерва",
+        "дистрофические изменения радужки, глаукоматозная экскавация зрительного нерва, повышение внутриглазного давления",
+        "глаукоматозная экскавация зрительного нерва, повышение внутриглазного давления, пигментация макулярной области"
+      ]
+    },
+    {
+      "id": "ophtalmo_296",
+      "arr": [
+        "КАКИЕ ОСОБЕННОСТИ ХАРАКТЕРНЫ ДЛЯ КЛИНИЧЕСКОГО ТЕЧЕНИЯ ОТКРЫТОУГОЛЬНОЙ ГЛАУКОМЫ?",
+        "бессимптомное течение или чувство полноты в глазу кажущееся увлажнение глаза",
+        "затуманивание зрения, появление радужных кругов при взгляде на источник света, периодические боли в глазу и соответствующей половине головы",
+        "сильные головные боли, тошнота, рвота, стреляющие боли в область глаза"
+      ]
+    },
+    {
+      "id": "ophtalmo_297",
+      "arr": [
+        "КАКИЕ ОСОБЕННОСТИ ХАРАКТЕРНЫ ДЛЯ КЛИНИЧЕСКОГО ТЕЧЕНИЯ ЗАКРЫТОУГОЛЬНОЙ ГЛАУКОМЫ?",
+        "бессимптомное течение или чувство полноты в глазу, кажущееся увлажнение глаза",
+        "затуманивание зрения, появление радужных кругов при взгляде на источник света, периодические боли в глазу и соответствующей половине головы",
+        "сильные головные боли, тошнота, рвота, стреляющие боли в область глаза"
+      ]
+    },
+    {
+      "id": "ophtalmo_298",
+      "arr": [
+        "КАКАЯ ОПЕРАЦИЯ ПРОИЗВОДИТСЯ ПРИ ОТКРЫТОУГОЛЬНОЙ ГЛАУКОМЕ?",
+        "фистулизирующая (трабекулоэктомия)",
+        "периферическая иридэктомия",
+        "кератотомия"
+      ]
+    },
+    {
+      "id": "ophtalmo_299",
+      "arr": [
+        "КАКИЕ ГЛАВНЫЕ ЗВЕНЬЯ В ПАТОГЕНЕЗЕ ОТКРЫТОУГОЛЬНОЙ ГЛАУКОМЫ?",
+        "блокада угла передней камеры корнем радужки",
+        "дистрофические изменения дренажной системы глаза",
+        "неполное рассасывание мезодермальной эмбриональной ткани в углу перед ней камеры"
+      ]
+    },
+    {
+      "id": "ophtalmo_300",
+      "arr": [
+        "КАКИЕ ГЛАВНЫЕ ЗВЕНЬЯ В ПАТОГЕНЕЗЕ ЗАКРЫТОУГОЛЬНОЙ ГЛАУКОМЫ?",
+        "блокада угла передней камеры корнем радужки",
+        "дистрофические изменения дренажной системы глаза",
+        "неполное рассасывание мезодермальной эмбриональной ткани в углу перед ней камеры"
+      ]
+    },
+    {
+      "id": "ophtalmo_301",
+      "arr": [
+        "ГЛАВНЫЕ ЗВЕНЬЯ В ПАТОГЕНЕЗЕ ВРОЖДЕННОЙ ГЛАУКОМЫ?",
+        "блокада угла передней камеры корнем радужки",
+        "дистрофические изменения дренажной системы глаза",
+        "неполное рассасывание мезодермальной эмбриональной ткани в углу перед ней камеры"
+      ]
+    },
+    {
+      "id": "ophtalmo_302",
+      "arr": [
+        "ЧТО ПРОИСХОДИТ В ГИДРОДИНАМИЧЕСКОЙ СИСТЕМЕ ГЛАЗА ПРИ ОДНОВРЕМЕННОМ ПРИМЕНЕНИИ SOL. PILOCARPIN1 1% И SOL. TIMOLOLI 0,5%?",
+        "увеличивается отток ВГЖ, увеличивается продукция ВГЖ",
+        "увеличивается отток ВГЖ, уменьшается продукция ВГЖ",
+        "уменьшается отток ВГЖ, увеличивается продукция ВГЖ",
+        "уменьшается отток ВГЖ, уменьшается продукция ВГЖ"
+      ]
+    },
+    {
+      "id": "ophtalmo_303",
+      "arr": [
+        "НАЗОВИТЕ ДОМИНИРУЮЩИЙ ПРИЗНАК ГЛАУКОМЫ.",
+        "повышение внутриглазного давления",
+        "помутнение хрусталика",
+        "поражение макулярной области"
+      ]
+    },
+    {
+      "id": "ophtalmo_304",
+      "arr": [
+        "КАКОЕ ИЗМЕНЕНИЕ ПЕРИФЕРИЧЕСКИХ ГРАНИЦ ПОЛЯ ЗРЕНИЯ ЯВЛЯЕТСЯ ХАРАКТЕРНЫМ ПРИ ГЛАУКОМЕ?",
+        "сужение внутренней половины",
+        "сужение наружной половины",
+        "сужение верхней половины"
+      ]
+    },
+    {
+      "id": "ophtalmo_305",
+      "arr": [
+        "ХАРАКТЕРНЫМ ИЗМЕНЕНИЕМ ЗРИТЕЛЬНОГО НЕРВА ПРИ ГЛАУКОМЕ ЯВЛЯЕТСЯ",
+        "атрофия",
+        "атрофия и экскавация",
+        "атрофия, экскавация и стушеванность границ"
+      ]
+    },
+    {
+      "id": "ophtalmo_306",
+      "arr": [
+        "В НАЧАЛЬНОЙ СТАДИИ ГЛАУКОМЫ ПОЛЕ ЗРЕНИЯ",
+        "нормальное",
+        "не определяется",
+        "сужено от 50 до 15 градусов от точки фиксации",
+        "меньше 15 градусов от точки фиксации"
+      ]
+    },
+    {
+      "id": "ophtalmo_307",
+      "arr": [
+        "В РАЗВИТОЙ СТАДИИ ГЛАУКОМЫ ПОЛЕ ЗРЕНИЯ",
+        "нормальное",
+        "не определяется",
+        "сужено от 50 до 15 градусов от точки фиксации",
+        "меньше 15 градусов от точки фиксации"
+      ]
+    },
+    {
+      "id": "ophtalmo_308",
+      "arr": [
+        "В ДАЛЕКО ЗАШЕДШЕЙ СТАДИИ ГЛАУКОМЫ ПОЛЕ ЗРЕНИЯ",
+        "нормальное",
+        "не определяется",
+        "сужено от 50 до 15 градусов от точки фиксации",
+        "меньше 15 градусов от точки фиксации"
+      ]
+    },
+    {
+      "id": "ophtalmo_309",
+      "arr": [
+        "В ТЕРМИНАЛЬНОЙ СТАДИИ ГЛАУКОМЫ ПОЛЕ ЗРЕНИЯ",
+        "нормальное",
+        "не определяется",
+        "сужено от 50 до 15 градусов от точки фиксации",
+        "меньше 15 градусов от точки фиксации"
+      ]
+    },
+    {
+      "id": "ophtalmo_310",
+      "arr": [
+        "КРИТЕРИИ, ОПРЕДЕЛЯЮЩИЕ СТАДИЮ ГЛАУКОМЫ",
+        "уровень ВГД, острота зрения",
+        "длительность заболевания, уровень ВГД",
+        "состояние диска зрительного нерва, поля зрения"
+      ]
+    },
+    {
+      "id": "ophtalmo_311",
+      "arr": [
+        "К СЛЕПОТЕ ПРИ ГЛАУКОМЕ ПРИВОДИТ",
+        "дистрофия сетчатки",
+        "помутнение хрусталика",
+        "атрофия зрительного нерва",
+        "помутнение роговицы"
+      ]
+    },
+    {
+      "id": "ophtalmo_312",
+      "arr": [
+        "ПРИ ОТКРЫТОУГОЛЬНОЙ ГЛАУКОМЕ",
+        "зрачок серого цвета, рефлекса с глазного дна нет, ВГД в норме, перикорнеальная инъекция, на задней плоскости роговицы преципитаты",
+        "зрачок узкий, ВГД в норме",
+        "глаз спокойный, зрачок черный, на глазном дне атрофия и экскавация зрительного нерва, ВГД повышено",
+        "застойная инъекция глазного яблока, передняя камера мелкая, зрачок широкий, ВГД высокое",
+        "зрачок серого цвета, при исследовании в проходящем свете видны темные полосы в виде «спиц в колесе», ВГД в норме"
+      ]
+    },
+    {
+      "id": "ophtalmo_313",
+      "arr": [
+        "ПРИ ОСТРОМ ПРИСТУПЕ ГЛАУКОМЫ",
+        "зрачок серого цвет, рефлекса с глазного дна нет, ВГД в норме",
+        "перикорнеальная инъекция, на задней плоскости роговицы преципитаты, зрачок узкий, ВГД в норме",
+        "глаз спокойный, зрачок черный, на глазном дне атрофия и экскавация зрительного нерва, ВГД повышено",
+        "застойная инъекция глазного яблока, передняя камера мелкая, зрачок широ кий, ВГД высокое",
+        "зрачок серого цвета, при исследовании в проходящем свете видны темные полосы в виде «спиц в колесе», ВГД в норме"
+      ]
+    },
+    {
+      "id": "ophtalmo_314",
+      "arr": [
+        "ЖАЛОБЫ ПРИ ОСТРОМ ПРИСТУПЕ ГЛАУКОМЫ",
+        "светобоязнь, ломящая боль при взгляде на источник света, чувство распирания в глазу, туман перед взором",
+        "слезотечение, чувство жжения и «засорённости» за веками, «слипание» век по утрам, легкая пелена перед взором",
+        "веком, снижение остроты зрения",
+        "ноющие, пульсирующие боли в глазу, «пелена» перед глазом, радужные круги при взгляде на источник света"
+      ]
+    },
+    {
+      "id": "ophtalmo_315",
+      "arr": [
+        "ВЫРАБОТКА ВНУТРИГЛАЗНОЙ ЖИДКОСТИ ПРОИСХОДИТ В",
+        "цилиарном теле",
+        "хориоидее",
+        "сосудах всей сосудистой оболочки",
+        "сосудах радужной оболочки",
+        "стекловидном теле"
+      ]
+    },
+    {
+      "id": "ophtalmo_316",
+      "arr": [
+        "ЧЕМ РАЗЛИЧАЮТСЯ ТОНОМЕТРИЧЕСКОЕ И ИСТИННОЕ ВНУТРИГЛАЗНОЕ ДАВЛЕНИЕ",
+        "тонометрическое давление ниже истинного",
+        "тонометрическое давление выше истинного",
+        "разницы нет"
+      ]
+    },
+    {
+      "id": "ophtalmo_317",
+      "arr": [
+        "ПРИ ИЗМЕРЕНИИ ТОНОМЕТРОМ МАКЛАКОВА МАССОЙ 10 ГРАММ НОРМАЛЬНОЕ ВНУТРИГЛАЗНОЕ ДАВЛЕНИЕ РАВНО ... ММ РТУТНОГО СТОЛБА",
+        "12-23",
+        "16-26",
+        "20-30"
+      ]
+    },
+    {
+      "id": "ophtalmo_318",
+      "arr": [
+        "МЕТОД ИССЛЕДОВАНИЯ УГЛА ПЕРЕДНЕЙ КАМЕРЫ НАЗЫВАЕТСЯ",
+        "гониосокипия",
+        "топография",
+        "биометрия",
+        "тонометрия",
+        "биомикроскопия",
+        "периметрия"
+      ]
+    },
+    {
+      "id": "ophtalmo_319",
+      "arr": [
+        "МЕТОД ИЗУЧЕНИЯ ГИДРОДИНАМИКИ ГЛАЗА НАЗЫВАЕТСЯ",
+        "тонометрия",
+        "гониоскопия",
+        "тонография",
+        "биометрия",
+        "гониоскопия",
+        "аномалоскопия",
+        "биомикроскопия",
+        "визометрия"
+      ]
+    },
+    {
+      "id": "ophtalmo_320",
+      "arr": [
+        "МАССА ТОНОМЕТРА МАКЛАКОВА, КОТОРЫЙ ПРИМЕНЯЕТСЯ ДЛЯ ОБЫЧНЫХ ИЗМЕРЕНИЙ ОФТАЛЬМОТОНУСА, РАВНА ... ГРАММАМ",
+        "5,5",
+        "7,5",
+        "10,0",
+        "15,0"
+      ]
+    },
+    {
+      "id": "ophtalmo_321",
+      "arr": [
+        "С ПОМОЩЬЮ КАКИХ ДВУХ МЕТОДОВ ВЫЯВЛЯЕТСЯ ДЕФЕКТЫ ПОЛЯ ЗРЕ-НИЯ ПРИ ГЛАУКОМЕ",
+        "аномалоскопию и биомикро-скопию",
+        "биомикроскопию и визомет-рию",
+        "визометрию и периметрию",
+        "периметрию и кампиметрию",
+        "кампиметрию и гониоскопию",
+        "гониоскопию и аномалоскопию"
+      ]
+    },
+    {
+      "id": "ophtalmo_322",
+      "arr": [
+        "ХАРАКТЕР И СТЕПЕНЬ ДИСТРОФИЧЕСКИХ ИЗМЕНЕНИЙ РАДУЖНОЙ ОБОЛОЧКИ ПРИ ГЛАУКОМЕ ОПРЕДЕЛЯЮТСЯ",
+        "биомикроскопией",
+        "визометрией",
+        "гониоскопией",
+        "кампиметрией",
+        "тонографией",
+        "периметрией"
+      ]
+    },
+    {
+      "id": "ophtalmo_323",
+      "arr": [
+        "ЭКСКАВАЦИЯ ЗРИТЕЛЬНОГО НЕРВА ПРИ ГЛАУКОМЕ ОПРЕДЕЛЯЕТСЯ",
+        "офтальмоскопией",
+        "кампиметрией",
+        "тонографией",
+        "тонографией",
+        "гониоскопией",
+        "биомикроскопией"
+      ]
+    },
+    {
+      "id": "ophtalmo_324",
+      "arr": [
+        "КАКОЙ ПРЕПЕРАТ НУЖНО ЗАКАПАТЬ В ГЛАЗ ДЛЯ ДИАГНОСТИКИ ЭРОЗИИ РОГОВИЦЫ?",
+        "Sol.Sulfacili-natrii 30%",
+        "Sol.Fiuoresceinr 1%",
+        "Sol. Furacilini 0,02 %",
+        "Sol. Atropini sulfatis 1%"
+      ]
+    },
+    {
+      "id": "ophtalmo_325",
+      "arr": [
+        "К КАКОМУ ОСЛОЖНЕНИЮ СО СТОРОНЫ ЗДОРОВОГО ГЛАЗА МОЖЕТ ПРИВЕСТИ ПРОБОДНОЕ РАНЕНИЕ ГЛАЗНОГО ЯБЛОКА С ПОВРЕЖДЕНИЕМ УВЕАЛЬНОЙ ТКАНИ?",
+        "травматической катаракты",
+        "симпатической офтальмии",
+        "травматической отслойки сетчатки"
+      ]
+    },
+    {
+      "id": "ophtalmo_326",
+      "arr": [
+        "КАКИЕ ВЫДЕЛЯЮТ ФОРМЫ СИМПАТИЧЕСКОЙ ОФТАЛЬМИИ?",
+        "кератит, фиброзно-пластический иридоциклит, нейроретинит",
+        "нейроретинит, фиброзно-пластический и серозный иридоциклит",
+        "фиброзно-пластический и серозный иридоциклит, склеротенонит"
+      ]
+    },
+    {
+      "id": "ophtalmo_327",
+      "arr": [
+        "КАКИЕ ПОВРЕЖДЕНИЯ РАДУЖКИ МОГУТ БЫТЬ ПРИ ТУПОЙ ТРАВМЕ ГЛАЗА?",
+        "мидриаз, иридодиализ, аниридия, разрыв стромы",
+        "мидриаз, иридодиализ, аниридия, разрыв зрачкового края",
+        "мидриаз, иридодиализ, аниридия, разрыв стромы или пигментного слоя"
+      ]
+    },
+    {
+      "id": "ophtalmo_328",
+      "arr": [
+        "НАРУЖНАЯ ОФТАЛЬМОПЛЕГИЯ СВЯЗАНА С ПОРАЖЕНИЕМ",
+        "n. abducens, n. facialis, n. opticus",
+        "n. opfcus, n. trigeminus., n. facialis",
+        "n. аbducens, n. trochtearis, n. ocutomotorius",
+        "n. ocuiomotorius, n. facialis, n. opticus"
+      ]
+    },
+    {
+      "id": "ophtalmo_329",
+      "arr": [
+        "ПЕРВАЯ ВРАЧЕБНАЯ ПОМОЩЬ ПРИ ТРАВМЕ ВКЛЮЧАЕТ НАЗНАЧЕНИЕ",
+        "холода на область глаза",
+        "диуретиков",
+        "гемостатический средств",
+        "анальгетиков",
+        "гипотензивных препаратов"
+      ]
+    },
+    {
+      "id": "ophtalmo_330",
+      "arr": [
+        "ОТРАВЛЕНИЕ МЕТИЛОВЫМ СПИРТОМ ПРИВОДИТ К",
+        "развитию дистрофии роговицы",
+        "развитию катаракты",
+        "атрофии зрительного нерва",
+        "помутнению стекловидного тела",
+        "рецидивирующему увеиту"
+      ]
+    },
+    {
+      "id": "ophtalmo_331",
+      "arr": [
+        "ПРИ РАНАХ ВЕК РЕГЕНЕРАЦИЯ ТКАНЕЙ",
+        "высокая",
+        "низкая",
+        "существенно не отличается от регенерации тканей других областей лица",
+        "ниже, чем других областей лица",
+        "выше, чем других областей лица"
+      ]
+    },
+    {
+      "id": "ophtalmo_332",
+      "arr": [
+        "ПРИ ТУПОЙ ТРАВМЕ ГЛАЗА БЫВАЮТ СЛЕДУЮЩИЕ ПОВРЕЖДЕНИЯ РАДУЖКИ",
+        "мидриаз, иридодиализ, аниридия, разрыв стромы",
+        "мидриаз, иридодиализ, аниридия, разрыв зрачкового края",
+        "мидриаз, иридодиализ, аниридия, разрыв стромы или пигментного слоя"
+      ]
+    },
+    {
+      "id": "ophtalmo_333",
+      "arr": [
+        "СУБАТРОФИЯ ГЛАЗНОГО ЯБЛОКА ПОСЛЕ ТРАВМЫ МОЖЕТ БЫТЬ ОБУСЛОВЛЕНА",
+        "отслойкой сетчатки или цилиарного тела",
+        "результатом воспалительной пролиферации в стекловидном теле",
+        "фильтрацией в области раны",
+        "рубцовой деформацией глазного яблока",
+        "верно все перечисленное"
+      ]
+    },
+    {
+      "id": "ophtalmo_334",
+      "arr": [
+        "НАЛИЧИЕ КРОВИ В ПЕРЕДНЕЙ КАМЕРЕ НАЗЫВАЕТСЯ",
+        "гемофтальм",
+        "гемианопсия",
+        "гифема"
+      ]
+    },
+    {
+      "id": "ophtalmo_335",
+      "arr": [
+        "НАЛИЧИЕ КРОВИ В СТЕКЛОВИДНОМ ТЕЛЕ НАЗЫВАЕТСЯ",
+        "гемофтальм",
+        "гемианопсия",
+        "гифема"
+      ]
+    },
+    {
+      "id": "ophtalmo_336",
+      "arr": [
+        "ПРИЧИНОЙ ГИФЕМЫ ПРИ ТУПОЙ ТРАВМЕ ГЛАЗА МОЖЕТ БЫТЬ НАРУШЕ НИЕ ЦЕЛОСТНОСТИ",
+        "роговицы и радужки",
+        "радужки и цилиарного тела",
+        "цилиарного тела и роговицы"
+      ]
+    },
+    {
+      "id": "ophtalmo_337",
+      "arr": [
+        "ПРИ КОНТУЗИИ СЕТЧАТКИ НАБЛЮДАЮТСЯ СЛЕДУЮЩИЕ ИЗМЕНЕНИЯ",
+        "некроз, кровоизлияние, разрыв, отслойка",
+        "гипертензия, кровоизлияние, разрыв, отслойка",
+        "отек, кровоизлияние, разрыв, отслойка"
+      ]
+    },
+    {
+      "id": "ophtalmo_338",
+      "arr": [
+        "ПРИ ТУПОЙ ТРАВМЕ НАБЛЮДАЮТСЯ СЛЕДУЮЩИЕ ПОВРЕЖДЕНИЯ ЗРИТЕЛЬНОГО НЕРВА",
+        "сдавление ретробульбарной гематомой, разрыв застойный диск ЗН",
+        "сдавленно гематомой, разрыв, ретробульбарный неврит",
+        "сдавление ретробульбарной гематомой, разрыв или отрыв ЗН"
+      ]
+    },
+    {
+      "id": "ophtalmo_339",
+      "arr": [
+        "ИНОРОДНОЕ ТЕЛО, РАСПОЛОЖЕННОЕ В СЛОЯХ РОГОВИЦЫ, ПОДЛЕЖИТ УДАЛЕНИЮ В СЛЕДУЮЩИХ СЛУЧАЯХ:",
+        "при расположении в средних слоях",
+        "при расположении в поверхностных слоях",
+        "если это стеклянный осколок",
+        "если это деревянный осколок",
+        "верно все перечисленное"
+      ]
+    },
+    {
+      "id": "ophtalmo_340",
+      "arr": [
+        "ПОКАЗАНИЕМ К ЭНУКЛЕАЦИИ ЯВЛЯЕТСЯ",
+        "абсолютно болящий слепой глаз",
+        "меланома хориоидеи, ретинобластома",
+        "симпатическая офтальмия",
+        "слепой глаз, размозженный травмой",
+        "верно все перечисленное"
+      ]
+    },
+    {
+      "id": "ophtalmo_341",
+      "arr": [
+        "ПРИ ЛЕЧЕНИИ ОЖОГОВ ВЕК ИСПОЛЬЗУЮТСЯ",
+        "антигистаминные препараты, антибиотики",
+        "антибиотики",
+        "кортикостероиды",
+        "диуретик",
+        "гипотензивные",
+        "криоферментоаппликации"
+      ]
+    },
+    {
+      "id": "ophtalmo_342",
+      "arr": [
+        "КАКОЙ ПРИЗНАК, НЕ ЯВЛЯЕТСЯ ДОСТОВЕРНЫМ ПРИ ПРОНИКАЮЩЕМ РАНЕНИИ ГЛАЗНОГО ЯБЛОКА:",
+        "наличие раневого канала",
+        "выпадение оболочек глазного яблока",
+        "гипотония",
+        "наличие инородного тела",
+        "изменение глубины передней камеры"
+      ]
+    },
+    {
+      "id": "ophtalmo_343",
+      "arr": [
+        "ОСЛОЖНЕНИЯМИ ПРОНИКАЮЩИХ РАНЕНИЙ ГЛАЗА ЯВЛЯЮТСЯ:",
+        "симпатическая офтальмия",
+        "эндофтальмит",
+        "вторичная глаукома",
+        "панофтальмит",
+        "иридоциклит"
+      ]
+    },
+    {
+      "id": "ophtalmo_344",
+      "arr": [
+        "ПРИ МЕТАЛЛОЗАХ ИНОРОДНЫЕ ТЕЛА НУЖНО УДАЛЯТЬ ИЗ-ЗА:",
+        "изменения цвета радужки",
+        "развития катаракты",
+        "деструкции стекловидного тела",
+        "нейроретинопатии",
+        "развития язвы роговицы"
+      ]
+    }
+  ]
+}

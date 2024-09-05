@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" height="500px" width="500px">
+  <g fill="#fff">
+    <path d="M110 255 L110 410 L210 410 L210 310 L290 310 L290 410 L390 410 L390 255 L250 155 L110 255" />
+    <path d="M80 258 L59 230 L250 91 L338 155 L338 91 L386 91 L386 190 L441 230 L420 258 L250 135 L80 258" />
+  </g>
+</svg>

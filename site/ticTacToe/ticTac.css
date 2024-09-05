@@ -1,0 +1,155 @@
+:root {
+  font-size: 20px;
+  --boardSide: 422px;
+  --cellBorder: 2px;
+  --cellSide: calc((var(--boardSide) - 2) / 3);
+  --darkGrey: #333;
+  --lightGrey: #888;
+  --white: #fff;
+  --turquoise: #65fbd2;
+  --dTurquoise: #50c8a8;
+  --ddTurquoise: #40a086;
+  --pink: #ff00ff;
+  --red: #f00;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--darkGrey);
+  margin: 0;
+}
+
+#board {
+  width: var(--boardSide);
+  height: var(--boardSide);
+  margin: 2rem auto;
+  display: grid;
+  position: relative;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  border: var(--cellBorder) solid var(--lightGrey);
+  color: var(--white);
+  font-size: 5rem;
+}
+
+.cell {
+  width: var(--cellSide);
+  height: var(--cellSide);
+  border: var(--cellBorder) solid var(--lightGrey);
+}
+
+.cross {
+  background-image: linear-gradient(45deg, transparent 0% 45%, var(--turquoise) 45% 55%, transparent 55% 100%),
+                    linear-gradient(-45deg, transparent 0% 45%, var(--turquoise) 45% 55%, transparent 55% 100%);
+}
+
+.zero {
+  background-image: radial-gradient(transparent 0% 44%, var(--pink) 45% 55%, transparent 56% 100%);
+}
+
+.line {
+  width: calc(var(--boardSide) + 1px);
+  height: calc(var(--boardSide) + 1px);
+  position: absolute;
+  top: calc(-1 * var(--cellBorder));
+  left: calc(-1 * var(--cellBorder));
+}
+
+.horizontal_0 {
+  background-image: linear-gradient(
+    transparent 0% 16%,
+    var(--red) 16% 18%,
+    transparent 18% 100%
+  )
+}
+
+.horizontal_1 {
+  background-image: linear-gradient(
+    transparent 0% 49%, 
+    var(--red) 49% 51%, 
+    transparent 51% 100%
+  )
+}
+
+.horizontal_2 {
+  background-image: linear-gradient(
+    transparent 0% 82%, 
+    var(--red) 82% 84%, 
+    transparent 84% 100%
+  )
+}
+
+.vertical_0 {
+  background-image: linear-gradient(90deg,
+    transparent 0% 16%,
+    var(--red) 16% 18%,
+    transparent 18% 100%
+  )
+}
+
+.vertical_1 {
+  background-image: linear-gradient(90deg,
+    transparent 0% 49%,
+    var(--red) 49% 51%,
+    transparent 51% 100%
+  )
+}
+
+.vertical_2 {
+  background-image: linear-gradient(
+    90deg,
+    transparent 0% 82%, 
+    var(--red) 82% 84%, 
+    transparent 84% 100%
+  )
+}
+
+.downDiag {
+  background-image: linear-gradient(
+    45deg,
+    transparent 0% 49%,
+    var(--red) 49% 51%,
+    transparent 51% 100%
+  )
+}
+
+.upDiag {
+  background-image: linear-gradient(
+    -45deg,
+    transparent 0% 49%,
+    var(--red) 49% 51%,
+    transparent 51% 100%
+  )
+}
+
+.restartContainer {
+  padding: 1rem 0;
+  display: grid;
+  place-content: center;
+}
+
+#restart {
+  border: 0;
+  background-color: var(--turquoise);
+  padding: 1rem 2rem;
+  font-size: 1.5rem;
+  border-radius: 1rem;
+}
+
+#restart:hover {
+  background-color: var(--dTurquoise);
+}
+
+#restart:active {
+  background-color: var(--ddTurquoise);
+}
+
+#ongoing {
+  font-size: 2rem;
+  color: var(--white);
+  padding-top: 2rem;
+  text-align: center;
+}

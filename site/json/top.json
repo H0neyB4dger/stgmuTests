@@ -1,0 +1,7122 @@
+{
+  "answers": {
+    "top_0": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "top_1": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "top_2": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_3": {
+      "type": "multi",
+      "answer": [
+        1,
+        4
+      ]
+    },
+    "top_4": {
+      "type": "multi",
+      "answer": [
+        2,
+        4
+      ]
+    },
+    "top_5": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_6": {
+      "type": "multi",
+      "answer": [
+        1,
+        3
+      ]
+    },
+    "top_7": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_8": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_9": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_10": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "top_11": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_12": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_13": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_14": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "top_15": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "top_16": {
+      "type": "multi",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "top_17": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4
+      ]
+    },
+    "top_18": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_19": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_20": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "top_21": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_22": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_23": {
+      "type": "multi",
+      "answer": [
+        2,
+        4
+      ]
+    },
+    "top_24": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_25": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_26": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_27": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "top_28": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_29": {
+      "type": "multi",
+      "answer": [
+        1,
+        3
+      ]
+    },
+    "top_30": {
+      "type": "multi",
+      "answer": [
+        0,
+        4
+      ]
+    },
+    "top_31": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_32": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_33": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "top_34": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_35": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_36": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_37": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_38": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "top_39": {
+      "type": "multi",
+      "answer": [
+        1,
+        4
+      ]
+    },
+    "top_40": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "top_41": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "top_42": {
+      "type": "multi",
+      "answer": [
+        0,
+        2
+      ]
+    },
+    "top_43": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_44": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_45": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "top_46": {
+      "type": "multi",
+      "answer": [
+        2,
+        4
+      ]
+    },
+    "top_47": {
+      "type": "multi",
+      "answer": [
+        1,
+        4
+      ]
+    },
+    "top_48": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_49": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_50": {
+      "type": "multi",
+      "answer": [
+        0,
+        2
+      ]
+    },
+    "top_51": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_52": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_53": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_54": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_55": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_56": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_57": {
+      "type": "multi",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "top_58": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_59": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_60": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_61": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_62": {
+      "type": "multi",
+      "answer": [
+        1,
+        4
+      ]
+    },
+    "top_63": {
+      "type": "multi",
+      "answer": [
+        0,
+        4
+      ]
+    },
+    "top_64": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        4
+      ]
+    },
+    "top_65": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_66": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_67": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_68": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_69": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_70": {
+      "type": "multi",
+      "answer": [
+        3,
+        4
+      ]
+    },
+    "top_71": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_72": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_73": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_74": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_75": {
+      "type": "multi",
+      "answer": [
+        0,
+        3
+      ]
+    },
+    "top_76": {
+      "type": "multi",
+      "answer": [
+        0,
+        2
+      ]
+    },
+    "top_77": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_78": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_79": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_80": {
+      "type": "multi",
+      "answer": [
+        1,
+        4
+      ]
+    },
+    "top_81": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_82": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_83": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_84": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_85": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4
+      ]
+    },
+    "top_86": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "top_87": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "top_88": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_89": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        4
+      ]
+    },
+    "top_90": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_91": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_92": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_93": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_94": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_95": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_96": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_97": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_98": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_99": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_100": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "top_101": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_102": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_103": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_104": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "top_105": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        4
+      ]
+    },
+    "top_106": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_107": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_108": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "top_109": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    "top_110": {
+      "type": "multi",
+      "answer": [
+        0,
+        2
+      ]
+    },
+    "top_111": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_112": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4
+      ]
+    },
+    "top_113": {
+      "type": "multi",
+      "answer": [
+        1,
+        2
+      ]
+    },
+    "top_114": {
+      "type": "multi",
+      "answer": [
+        1,
+        2
+      ]
+    },
+    "top_115": {
+      "type": "multi",
+      "answer": [
+        1,
+        2
+      ]
+    },
+    "top_116": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_117": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_118": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_119": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    "top_120": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_121": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_122": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_123": {
+      "type": "multi",
+      "answer": [
+        2,
+        3,
+        4
+      ]
+    },
+    "top_124": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_125": {
+      "type": "multi",
+      "answer": [
+        0,
+        4
+      ]
+    },
+    "top_126": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_127": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_128": {
+      "type": "multi",
+      "answer": [
+        0,
+        4
+      ]
+    },
+    "top_129": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_130": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_131": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "top_132": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_133": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_134": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_135": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_136": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_137": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_138": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "top_139": {
+      "type": "multi",
+      "answer": [
+        2,
+        4
+      ]
+    },
+    "top_140": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_141": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_142": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_143": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4
+      ]
+    },
+    "top_144": {
+      "type": "multi",
+      "answer": [
+        1,
+        3,
+        4
+      ]
+    },
+    "top_145": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "top_146": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_147": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_148": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_149": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_150": {
+      "type": "multi",
+      "answer": [
+        3,
+        4
+      ]
+    },
+    "top_151": {
+      "type": "multi",
+      "answer": [
+        1,
+        3,
+        4
+      ]
+    },
+    "top_152": {
+      "type": "multi",
+      "answer": [
+        0,
+        3
+      ]
+    },
+    "top_153": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_154": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_155": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_156": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_157": {
+      "type": "multi",
+      "answer": [
+        0,
+        2
+      ]
+    },
+    "top_158": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_159": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "top_160": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_161": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_162": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_163": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_164": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_165": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_166": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_167": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_168": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_169": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_170": {
+      "type": "multi",
+      "answer": [
+        1,
+        3,
+        4
+      ]
+    },
+    "top_171": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_172": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_173": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "top_174": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_175": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_176": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_177": {
+      "type": "multi",
+      "answer": [
+        1,
+        3,
+        4
+      ]
+    },
+    "top_178": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_179": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_180": {
+      "type": "multi",
+      "answer": [
+        1,
+        4
+      ]
+    },
+    "top_181": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "top_182": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_183": {
+      "type": "multi",
+      "answer": [
+        1,
+        4
+      ]
+    },
+    "top_184": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_185": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "top_186": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_187": {
+      "type": "multi",
+      "answer": [
+        0,
+        3,
+        4
+      ]
+    },
+    "top_188": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_189": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_190": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_191": {
+      "type": "multi",
+      "answer": [
+        1,
+        3,
+        4
+      ]
+    },
+    "top_192": {
+      "type": "multi",
+      "answer": [
+        1,
+        2
+      ]
+    },
+    "top_193": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_194": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "top_195": {
+      "type": "multi",
+      "answer": [
+        1,
+        4
+      ]
+    },
+    "top_196": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_197": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    "top_198": {
+      "type": "multi",
+      "answer": [
+        0,
+        3
+      ]
+    },
+    "top_199": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_200": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_201": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_202": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_203": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_204": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_205": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_206": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "top_207": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_208": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_209": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_210": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "top_211": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_212": {
+      "type": "multi",
+      "answer": [
+        1,
+        3,
+        4
+      ]
+    },
+    "top_213": {
+      "type": "multi",
+      "answer": [
+        null
+      ]
+    },
+    "top_214": {
+      "type": "multi",
+      "answer": [
+        3,
+        4
+      ]
+    },
+    "top_215": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "top_216": {
+      "type": "multi",
+      "answer": [
+        2,
+        4
+      ]
+    },
+    "top_217": {
+      "type": "multi",
+      "answer": [
+        0,
+        3
+      ]
+    },
+    "top_218": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_219": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_220": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4
+      ]
+    },
+    "top_221": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4
+      ]
+    },
+    "top_222": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_223": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "top_224": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        4
+      ]
+    },
+    "top_225": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_226": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_227": {
+      "type": "multi",
+      "answer": [
+        0,
+        4
+      ]
+    },
+    "top_228": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_229": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "top_230": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "top_231": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_232": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_233": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "top_234": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_235": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_236": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_237": {
+      "type": "multi",
+      "answer": [
+        0,
+        3
+      ]
+    },
+    "top_238": {
+      "type": "multi",
+      "answer": [
+        1,
+        3
+      ]
+    },
+    "top_239": {
+      "type": "multi",
+      "answer": [
+        1,
+        3
+      ]
+    },
+    "top_240": {
+      "type": "multi",
+      "answer": [
+        1,
+        2
+      ]
+    },
+    "top_241": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "top_242": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_243": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_244": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "top_245": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_246": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_247": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4
+      ]
+    },
+    "top_248": {
+      "type": "multi",
+      "answer": [
+        1,
+        2
+      ]
+    },
+    "top_249": {
+      "type": "multi",
+      "answer": [
+        1,
+        3,
+        4
+      ]
+    },
+    "top_250": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "top_251": {
+      "type": "multi",
+      "answer": [
+        2,
+        4
+      ]
+    },
+    "top_252": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "top_253": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "top_254": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_255": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_256": {
+      "type": "multi",
+      "answer": [
+        0,
+        2
+      ]
+    },
+    "top_257": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        4
+      ]
+    },
+    "top_258": {
+      "type": "multi",
+      "answer": [
+        2,
+        4
+      ]
+    },
+    "top_259": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "top_260": {
+      "type": "multi",
+      "answer": [
+        1,
+        3,
+        4
+      ]
+    },
+    "top_261": {
+      "type": "multi",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "top_262": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_263": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_264": {
+      "type": "multi",
+      "answer": [
+        1,
+        4
+      ]
+    },
+    "top_265": {
+      "type": "multi",
+      "answer": [
+        0,
+        3
+      ]
+    },
+    "top_266": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_267": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_268": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_269": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "top_270": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_271": {
+      "type": "multi",
+      "answer": [
+        1,
+        3
+      ]
+    },
+    "top_272": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "top_273": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4
+      ]
+    },
+    "top_274": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        4
+      ]
+    },
+    "top_275": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_276": {
+      "type": "multi",
+      "answer": [
+        1,
+        3
+      ]
+    },
+    "top_277": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_278": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "top_279": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_280": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_281": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_282": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_283": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_284": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_285": {
+      "type": "multi",
+      "answer": [
+        null
+      ]
+    },
+    "top_286": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        4
+      ]
+    },
+    "top_287": {
+      "type": "multi",
+      "answer": [
+        2,
+        3,
+        4
+      ]
+    },
+    "top_288": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_289": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_290": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_291": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_292": {
+      "type": "multi",
+      "answer": [
+        null
+      ]
+    },
+    "top_293": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_294": {
+      "type": "multi",
+      "answer": [
+        0,
+        3,
+        4
+      ]
+    },
+    "top_295": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_296": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "top_297": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_298": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_299": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_300": {
+      "type": "multi",
+      "answer": [
+        1,
+        3
+      ]
+    },
+    "top_301": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4
+      ]
+    },
+    "top_302": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        4
+      ]
+    },
+    "top_303": {
+      "type": "multi",
+      "answer": [
+        1,
+        3
+      ]
+    },
+    "top_304": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "top_305": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "top_306": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_307": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_308": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "top_309": {
+      "type": "multi",
+      "answer": [
+        3,
+        4
+      ]
+    },
+    "top_310": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_311": {
+      "type": "multi",
+      "answer": [
+        0,
+        3,
+        4
+      ]
+    },
+    "top_312": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_313": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_314": {
+      "type": "multi",
+      "answer": [
+        0,
+        2
+      ]
+    },
+    "top_315": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_316": {
+      "type": "multi",
+      "answer": [
+        0,
+        2
+      ]
+    },
+    "top_317": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_318": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4
+      ]
+    },
+    "top_319": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_320": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        4
+      ]
+    },
+    "top_321": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        4
+      ]
+    },
+    "top_322": {
+      "type": "multi",
+      "answer": [
+        0,
+        3
+      ]
+    },
+    "top_323": {
+      "type": "multi",
+      "answer": [
+        1,
+        3,
+        4
+      ]
+    },
+    "top_324": {
+      "type": "multi",
+      "answer": [
+        0,
+        3,
+        4
+      ]
+    },
+    "top_325": {
+      "type": "multi",
+      "answer": [
+        1,
+        3,
+        4
+      ]
+    },
+    "top_326": {
+      "type": "multi",
+      "answer": [
+        1,
+        4
+      ]
+    },
+    "top_327": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "top_328": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "top_329": {
+      "type": "multi",
+      "answer": [
+        2,
+        3,
+        4
+      ]
+    },
+    "top_330": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_331": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "top_332": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4
+      ]
+    },
+    "top_333": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "top_334": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4
+      ]
+    },
+    "top_335": {
+      "type": "multi",
+      "answer": [
+        0,
+        3,
+        4
+      ]
+    },
+    "top_336": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_337": {
+      "type": "multi",
+      "answer": [
+        1,
+        3,
+        4
+      ]
+    },
+    "top_338": {
+      "type": "multi",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "top_339": {
+      "type": "multi",
+      "answer": [
+        0,
+        3,
+        4
+      ]
+    },
+    "top_340": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_341": {
+      "type": "multi",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "top_342": {
+      "type": "multi",
+      "answer": [
+        0,
+        4
+      ]
+    },
+    "top_343": {
+      "type": "multi",
+      "answer": [
+        0,
+        3,
+        4
+      ]
+    },
+    "top_344": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "top_345": {
+      "type": "multi",
+      "answer": [
+        1,
+        3,
+        4
+      ]
+    },
+    "top_346": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "top_347": {
+      "type": "multi",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "top_348": {
+      "type": "multi",
+      "answer": [
+        1,
+        4
+      ]
+    },
+    "top_349": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_350": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_351": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        4
+      ]
+    },
+    "top_352": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "top_353": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "top_354": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    "top_355": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4
+      ]
+    },
+    "top_356": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_357": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "top_358": {
+      "type": "multi",
+      "answer": [
+        1,
+        2
+      ]
+    },
+    "top_359": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_360": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_361": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "top_362": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    "top_363": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "top_364": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    "top_365": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_366": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_367": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_368": {
+      "type": "multi",
+      "answer": [
+        0,
+        3
+      ]
+    },
+    "top_369": {
+      "type": "multi",
+      "answer": [
+        0,
+        3,
+        4
+      ]
+    },
+    "top_370": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_371": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_372": {
+      "type": "multi",
+      "answer": [
+        4
+      ]
+    },
+    "top_373": {
+      "type": "multi",
+      "answer": [
+        0
+      ]
+    },
+    "top_374": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_375": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        4
+      ]
+    },
+    "top_376": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "top_377": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_378": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_379": {
+      "type": "multi",
+      "answer": [
+        2,
+        3,
+        4
+      ]
+    },
+    "top_380": {
+      "type": "multi",
+      "answer": [
+        2,
+        4
+      ]
+    },
+    "top_381": {
+      "type": "multi",
+      "answer": [
+        2,
+        3,
+        4
+      ]
+    },
+    "top_382": {
+      "type": "multi",
+      "answer": [
+        1,
+        2
+      ]
+    },
+    "top_383": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_384": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_385": {
+      "type": "multi",
+      "answer": [
+        0,
+        3
+      ]
+    },
+    "top_386": {
+      "type": "multi",
+      "answer": [
+        2,
+        4
+      ]
+    },
+    "top_387": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_388": {
+      "type": "multi",
+      "answer": [
+        1,
+        3
+      ]
+    },
+    "top_389": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "top_390": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "top_391": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "top_392": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_393": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_394": {
+      "type": "multi",
+      "answer": [
+        1
+      ]
+    },
+    "top_395": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "top_396": {
+      "type": "multi",
+      "answer": [
+        2
+      ]
+    },
+    "top_397": {
+      "type": "multi",
+      "answer": [
+        0,
+        2
+      ]
+    },
+    "top_398": {
+      "type": "multi",
+      "answer": [
+        3
+      ]
+    },
+    "top_399": {
+      "type": "multi",
+      "answer": [
+        0,
+        3
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "top_0",
+      "arr": [
+        "Задней стенкой подмышечной впадины являются",
+        "Подлопаточная мышца",
+        "Широчайшая мышца спины",
+        "Надостная и подостная мышцы",
+        "Большая круглая мышца",
+        "Передняя верхняя зубчатая мышца"
+      ]
+    },
+    {
+      "id": "top_1",
+      "arr": [
+        "Латеральной стенкой подмышечной впадины являются",
+        "Подлопаточная мышца",
+        "Передняя зубчатая мышца",
+        "Плечевая кость",
+        "Клювовидно-плечевая мышца",
+        "Акромиальный отросток"
+      ]
+    },
+    {
+      "id": "top_2",
+      "arr": [
+        "Медиальной стенкой подмышечной впадины являются",
+        "Ребра и межреберные мышцы",
+        "Плечевая кость и двуглавая мышца плеча",
+        "Грудная стенка и передняя зубчатая мышца",
+        "Большая и малая грудные мышцы",
+        "Большая круглая и широчайшая мышца спины"
+      ]
+    },
+    {
+      "id": "top_3",
+      "arr": [
+        "Передней стенкой подмышечной впадины являются",
+        "Клювовидно-плечевая мышца",
+        "Большая грудная мышца",
+        "Передняя зубчатая мышца",
+        "Надостная мышца",
+        "Малая грудная мышца"
+      ]
+    },
+    {
+      "id": "top_4",
+      "arr": [
+        "Ветви подмышечной артерии на уровне 1 отдела",
+        "Верхняя грудная артерия",
+        "Латеральная грудная артерия",
+        "Грудо-акромиальная артерия",
+        "Подмышечная артерия",
+        "Наивысшая грудная артерия"
+      ]
+    },
+    {
+      "id": "top_5",
+      "arr": [
+        "Ветви подмышечной артерии на уровне 2 отдела",
+        "Глубокая артерия плеча",
+        "Латеральная грудная артерия",
+        "Медиальная грудная артерия",
+        "Нижняя грудная артерия",
+        "Наивысшая грудная артерия"
+      ]
+    },
+    {
+      "id": "top_6",
+      "arr": [
+        "Ветви подмышечной артерии на уровне 3 отдела",
+        "Надлопаточная артерия",
+        "Подлопаточная артерия",
+        "Огибающая лопатку артерия",
+        "Огибающая плечо передняя и задняя",
+        "Латеральная артерия плеча"
+      ]
+    },
+    {
+      "id": "top_7",
+      "arr": [
+        "Какая часть капсулы плечевого сустава наименее укреплена",
+        "Задняя",
+        "Верхняя латеральная",
+        "Передняя",
+        "Нижняя медиальная",
+        "Наружная"
+      ]
+    },
+    {
+      "id": "top_8",
+      "arr": [
+        "Лигатуры на подмышечную артерию накладывают",
+        "Несколько выше уровня отхождения a. subscapularis",
+        "Ниже уровня отхождения a. subscapularis",
+        "На любом уровне",
+        "На уровне нижнего края малой грудной мышцы",
+        "На уровне первого ребра"
+      ]
+    },
+    {
+      "id": "top_9",
+      "arr": [
+        "При гнойно-воспалительном процессе подмышечной впадины затек распространяется",
+        "В дельтовидную область",
+        "В лопаточную область",
+        "Переднее ложе плеча",
+        "В заднее ложе плеча",
+        "Все варианты ответов верны"
+      ]
+    },
+    {
+      "id": "top_10",
+      "arr": [
+        "При флегмоне подмышечной впадины гнойный затек развивается по ходу",
+        "Лучевого нерва",
+        "Подмышечного нерва",
+        "Глубокой артерии плеча",
+        "Артерии огибающей лопатку",
+        "Широчайшей мышцы спины"
+      ]
+    },
+    {
+      "id": "top_11",
+      "arr": [
+        "В какую вену впадает медиальная подкожная вена руки",
+        "Подмышечная вена",
+        "Подключичная вена",
+        "Плечевая вена",
+        "Наружная яремная вена",
+        "Внутренняя яремная вена"
+      ]
+    },
+    {
+      "id": "top_12",
+      "arr": [
+        "Какой нерв на передней поверхности нижней трети предплечья может быть принят за сухожилие",
+        "Локтевой нерв",
+        "Срединный нерв",
+        "Поверхностная ветвь лучевого нерва",
+        "Глубокая ветвь лучевого нерва",
+        "Межкостный нерв"
+      ]
+    },
+    {
+      "id": "top_13",
+      "arr": [
+        "Капсула плечевого сустава на плечевой кости прикрепляется",
+        "По анатомической шейке плеча",
+        "По хирургической шейке плеча",
+        "На 0,5 см отступя от края суставного хряща",
+        "По краю хрящевой губы",
+        "На 1 см ниже хирургической шейки плеча"
+      ]
+    },
+    {
+      "id": "top_14",
+      "arr": [
+        "Назовите мышцы, участвующие в укреплении плечевого сустава",
+        "Подлопаточная мышца",
+        "Клювоплечевая мышца",
+        "Двуглавая мышца",
+        "Трехглавая мышца",
+        "Большая грудная мышца"
+      ]
+    },
+    {
+      "id": "top_15",
+      "arr": [
+        "Назовите мышцы, участвующие в укреплении плечевого сустава",
+        "Дельтовидная мышца",
+        "Надостная мышца",
+        "Подостная мышца",
+        "Большая круглая мышца",
+        "Широчайшая мышца спины"
+      ]
+    },
+    {
+      "id": "top_16",
+      "arr": [
+        "Какие сумки не сообщаются с полостью плечевого сустава",
+        "Bursa subdeltoidea",
+        "Bursa subacromialis",
+        "Subcoracoidea",
+        "Bursa m. subscapularis",
+        "Bursa subhumeralis"
+      ]
+    },
+    {
+      "id": "top_17",
+      "arr": [
+        "С каких проекций можно проводить пункцию плечевого сустава",
+        "Спереди",
+        "Сверху",
+        "Снаружи",
+        "Изнутри",
+        "Сзади"
+      ]
+    },
+    {
+      "id": "top_18",
+      "arr": [
+        "Четырехстороннее отверстие ограничено",
+        "Малой круглой мышцей, подлопаточной, двуглавой, сухожилием трехглавой мышцы",
+        "Большой круглой, малой круглой, шейкой плечевой кости, сухожилием длинной головки трехглавой мышцы",
+        "Подлопаточный, двуглавой, трехглавой и широчайшей мышцей спины",
+        "Длинной головкой трехглавой мышцы, подостной, надостной и плечевой костью",
+        "Хирургической шейкой плечевой кости, двуглавой, трехглавой и широчайшей мышцей спины"
+      ]
+    },
+    {
+      "id": "top_19",
+      "arr": [
+        "Трехстороннее отверстие ограничено",
+        "Большой грудной, малой грудной и длинной головкой трехглавой мышцы",
+        "Подлопаточной, подостной и трехглавой мышцей плеча",
+        "Малой грудной, клювоплечевой и двуглавой мышцей",
+        "Большой и малой круглыми мышцами и сухожилием длинной головки трицепса",
+        "Хирургической шейкой плечевой кости, трехглавой и двуглавой мышцами"
+      ]
+    },
+    {
+      "id": "top_20",
+      "arr": [
+        "Назовите завороты плечевого сустава",
+        "Межбугорковый",
+        "Подбугорковый",
+        "Подмышечный",
+        "Подлопаточный",
+        "Подключичный"
+      ]
+    },
+    {
+      "id": "top_21",
+      "arr": [
+        "Какой нерв повреждается при вывихе плечевого сустава",
+        "N. radialis",
+        "N. axillaris",
+        "N. ulnaris",
+        "N. brachialis",
+        "N. musculocutaneus"
+      ]
+    },
+    {
+      "id": "top_22",
+      "arr": [
+        "Содержимым подмышечной ямки являются",
+        "Лимфатические узлы, подмышечная артерия и ее ветви",
+        "Лимфатические узлы, подмышечный нерв",
+        "Плечевой нерв и подмышечные сосуды",
+        "Плечевое сплетение, подмышечные сосуды и лимфатические узлы",
+        "Передняя и задняя артерии, огибающие лопатку и срединный нерв"
+      ]
+    },
+    {
+      "id": "top_23",
+      "arr": [
+        "Из заднего пучка плечевого сплетения образуются",
+        "Срединный нерв",
+        "Локтевой нерв",
+        "Лучевой нерв",
+        "Медиальный кожный нерв предплечья",
+        "Подмышечный нерв"
+      ]
+    },
+    {
+      "id": "top_24",
+      "arr": [
+        "Назовите фасцию, которая образует связку, поддерживающую подмышечную ямку",
+        "F. pectoralis",
+        "F. brachii",
+        "F. deltoidea",
+        "F. clavipectoralis",
+        "F. scapularis"
+      ]
+    },
+    {
+      "id": "top_25",
+      "arr": [
+        "Укажите группы лимфатических узлов в подмышечной впадине",
+        "Латеральная группа",
+        "Медиальная группа",
+        "Задняя группа",
+        "Центральная группа",
+        "Все варианты ответов верны"
+      ]
+    },
+    {
+      "id": "top_26",
+      "arr": [
+        "Укажите синтопию подмышечной вены относительно подмышечной артерии в грудном треугольнике",
+        "Снизу и медиально",
+        "Медиально",
+        "Спереди и медиально",
+        "Сверху",
+        "Снизу и латерально"
+      ]
+    },
+    {
+      "id": "top_27",
+      "arr": [
+        "Гной из – под дельтовидного пространства распространяется",
+        "В клетчатку подмышечной области",
+        "Субпекторальное клетчаточное пространство",
+        "Капсула плечевого сустава",
+        "В клетчаточное пространство лопаточной области",
+        "Клетчаточное пространство латерального треугольника шеи"
+      ]
+    },
+    {
+      "id": "top_28",
+      "arr": [
+        "Какие элементы проходят через canalis spiralis",
+        "Плечевая артерия и срединный нерв",
+        "Лучевая артерия и поверхностная ветвь лучевого нерва",
+        "Локтевая артерия и локтевой нерв",
+        "Глубокая плечевая артерия и лучевой нерв",
+        "Верхняя коллатеральная локтевая артерия и лучевой нерв"
+      ]
+    },
+    {
+      "id": "top_29",
+      "arr": [
+        "Чем образован canalis humeromuscularis",
+        "Сухожилием короткой головки двуглавой мышцы",
+        "Сухожилиями трехглавой мышцы",
+        "Нижним краем дельтовидной мышцы",
+        "Спиральной бороздой плечевой кости",
+        "Клювоплечевой мышцей и плечевой костью"
+      ]
+    },
+    {
+      "id": "top_30",
+      "arr": [
+        "Какие образования могут быть повреждены при вскрытии заднего отдела плечевого сустава",
+        "Подмышечный нерв",
+        "Срединный нерв",
+        "Передняя огибающая плечо артерия",
+        "Кожный нерв плеча",
+        "Задняя огибающая плечо артерия"
+      ]
+    },
+    {
+      "id": "top_31",
+      "arr": [
+        "Укажите синтопию срединного нерва относительно плечевой артерии в средней трети плеча",
+        "Нерв лежит латерально и кзади огибает артерию",
+        "Нерв лежит медиально и кзади огибает артерию",
+        "Нерв лежит впереди артерии, переходя на медиальную сторону",
+        "Нерв лежит позади артерии, переходя на латеральную сторону",
+        "Нерв лежит позади артерии, переходя на медиальноую сторону"
+      ]
+    },
+    {
+      "id": "top_32",
+      "arr": [
+        "Какую мышцу прободает n. musculocutaneus",
+        "Плечевая мышца",
+        "Двуглавая мышца",
+        "Клювоплечевая мышца",
+        "Плечелучевая мышца",
+        "Латеральная головка трехглавой мышцы"
+      ]
+    },
+    {
+      "id": "top_33",
+      "arr": [
+        "Перечислите ветви глубокой артерии плеча",
+        "A. collateralis ulnaris superior",
+        "A. collateralis ulnaris inferior",
+        "A. collateralis media",
+        "A. collateralis radialis",
+        "A. collateralis circumflexa"
+      ]
+    },
+    {
+      "id": "top_34",
+      "arr": [
+        "\"Висячая кисть\" наблюдается при повреждении",
+        "Локтевого нерва",
+        "Подмышечного нерва",
+        "Лучевого нерва",
+        "Срединного нерва",
+        "Переднего межкостного нерва"
+      ]
+    },
+    {
+      "id": "top_35",
+      "arr": [
+        "При повреждении срединного нерва наблюдается",
+        "\"рука акушера\"",
+        "\"туннельный синдром\"",
+        "\"когтистая лапа\"",
+        "\"висячая кисть\"",
+        "\"обезьянья лапа\""
+      ]
+    },
+    {
+      "id": "top_36",
+      "arr": [
+        "\"Когтистая лапа\" наблюдается при повреждении",
+        "Локтевого нерва",
+        "Лучевого нерва",
+        "Срединного нерва",
+        "Поверхностной ветви локтевого нерва",
+        "Глубокой ветви лучевого нерва"
+      ]
+    },
+    {
+      "id": "top_37",
+      "arr": [
+        "\"Кисть обезьяны\" наблюдается при повреждении",
+        "Лучевого нерва",
+        "Локтевого нерва",
+        "Срединного нерва",
+        "Плечевого нерва",
+        "Кожно-мышечного нерва"
+      ]
+    },
+    {
+      "id": "top_38",
+      "arr": [
+        "Какие нервы не проходят в области кисти через запястный канал",
+        "Срединный нерв",
+        "Лучевой нерв",
+        "Поверхностная ветвь локтевого нерва",
+        "Глубокая ветвь локтевого нерва",
+        "Поверхностная ветвь лучевого нерва"
+      ]
+    },
+    {
+      "id": "top_39",
+      "arr": [
+        "При переломе плечевой кости в верхней трети повреждаются",
+        "Локтевой нерв",
+        "Лучевой нерв",
+        "Подмышечный нерв",
+        "Основная вена",
+        "Глубокая артерия плеча"
+      ]
+    },
+    {
+      "id": "top_40",
+      "arr": [
+        "Назовите мышцы поверхностного слоя задней области предплечья",
+        "M. extensor carpi ulnaris",
+        "M. extensor carpi radialis",
+        "M. extensor digiti minimi",
+        "M. extensor digitorum",
+        "M. extensor pollicis longus"
+      ]
+    },
+    {
+      "id": "top_41",
+      "arr": [
+        "В глубоком слое задней группы мышц предплечья располагаются",
+        "M. abductor pollicis longus",
+        "M. extensor pollicis brevis",
+        "M. extensor pollicis longus",
+        "M. pronator quadratus",
+        "M. abductor digitorum communis"
+      ]
+    },
+    {
+      "id": "top_42",
+      "arr": [
+        "В глубоком слое задней группы мышц предплечья располагаются",
+        "M. supinator",
+        "M. adductor pollicis longus",
+        "M. extensor indicis",
+        "M. adductor digiti minimi",
+        "M. extensor carpi radialis longus"
+      ]
+    },
+    {
+      "id": "top_43",
+      "arr": [
+        "С чем сообщается через комиссуральные отверстия ладонного апоневроза подкожная клетчатка ладони",
+        "С подсухожильным клетчаточным пространством ладони",
+        "С подапоневротическим клетчаточным пространством ладони",
+        "С синовиальном влагалищем 2-5 пальцев",
+        "С клетчаточным пространством Пирогова",
+        "С футлярами червеобразных мышц"
+      ]
+    },
+    {
+      "id": "top_44",
+      "arr": [
+        "Содержимое анатомической табакерки",
+        "A. ulnaris",
+        "A. radialis",
+        "N. ulnaris",
+        "N. radialis",
+        "Ramus superficialis n. radialis"
+      ]
+    },
+    {
+      "id": "top_45",
+      "arr": [
+        "Какие мышцы образуют \"анатомическую табакерку\"",
+        "M. abductor pollicis longus",
+        "M. adductor pollicis longus",
+        "M. extensor carpi radialis longus",
+        "M. extensor pollicis brevis",
+        "M. pronator quadratus"
+      ]
+    },
+    {
+      "id": "top_46",
+      "arr": [
+        "В запястном канале проходит",
+        "Лучевой нерв и локтевые сосуды",
+        "Локтевой нерв и лучевые сосуды",
+        "Срединный нерв и длинный разгибатель большого пальца",
+        "Передний межкостный нерв и длинная ладонная мышца",
+        "Сухожилия поверхностного и глубокого сгибателей пальцев"
+      ]
+    },
+    {
+      "id": "top_47",
+      "arr": [
+        "Чем объясняется необходимость срочного оперативного вмешательства при гнойном тендовагините сухожилий сгибателей 2,3,4-го пальцев",
+        "Возможностью распространения гноя в клетчаточное пространство Пирогова",
+        "Возможностью омертвения сухожилий вследствие сдавления их брыжейки",
+        "Возможностью развития сепсиса",
+        "Возможностью восходящего распространения гноя по клетчатке верхней конечности",
+        "Возможностью перехода процесса на костные ткани"
+      ]
+    },
+    {
+      "id": "top_48",
+      "arr": [
+        "Где скапливается гной при тендовагините",
+        "Под фиброзным влагалищем сухожилия",
+        "Между фиброзным и синовиальным влагалищами",
+        "Между париетальным и висцеральным листками синовиального влагалища",
+        "Между синовиальным влагалищем и сухожилием",
+        "В области брыжейки сухожилия"
+      ]
+    },
+    {
+      "id": "top_49",
+      "arr": [
+        "Глубокую ладонную дугу образуют",
+        "Лучевая артерия, глубокая ветвь локтевой артерии",
+        "Глубокая ветвь лучевой артерии и локтевая артерия",
+        "Задняя межкостная артерия, локтевая артерия",
+        "Глубокая ветвь локтевой артерии, глубокая ветвь лучевой артерии",
+        "Локтевая артерия, лучевая артерия"
+      ]
+    },
+    {
+      "id": "top_50",
+      "arr": [
+        "Назовите поверхностные нервы тыла кисти",
+        "Ramus superficialis n. radialis",
+        "Ramus superficialis n. medianus",
+        "Ramus dorsalis manus n. ulnaris",
+        "Ramus dorsalis manus n. radialis",
+        "Ramus profundus n. radialis"
+      ]
+    },
+    {
+      "id": "top_51",
+      "arr": [
+        "С какими мышцами в одном канале лучезапястной области проходит ramus profundus n. radialis",
+        "M. extensor carpi radialis longus et brevis",
+        "M. abductor pollicis longus и m. extensor pollicis brevis",
+        "M. extensor indicis и m. extensor digitorum",
+        "M. extensor digiti minimi",
+        "M. extensor carpi ulnaris"
+      ]
+    },
+    {
+      "id": "top_52",
+      "arr": [
+        "Укажите какое положение принимает верхняя конечность при повреждении лучевого нерва",
+        "\"рука акушера\"",
+        "\"когтистая лапа\"",
+        "\"свисающая кисть\"",
+        "\"кисть бенедиктинца\"",
+        "\"обезьянья лапа\""
+      ]
+    },
+    {
+      "id": "top_53",
+      "arr": [
+        "На какой поверхности предплечья делают разрезы при флегмоне клетчаточного пространства Пирогова",
+        "На передней",
+        "На задней",
+        "На латеральной",
+        "На медиальной",
+        "На боковых поверхностях предплечья"
+      ]
+    },
+    {
+      "id": "top_54",
+      "arr": [
+        "Через какую мышцу вступает срединный нерв из локтевой области на предплечье",
+        "Лучевой сгибатель кисти",
+        "Плечелучевую мышцу",
+        "Круглый пронатор",
+        "Локтевой сгибатель кисти",
+        "Лучевой сгибатель кисти"
+      ]
+    },
+    {
+      "id": "top_55",
+      "arr": [
+        "Какой отдел капсулы локтевого сустава наиболее доступен для исследования и вмешательства",
+        "Задний наружный отдел",
+        "Задний верхний отдел",
+        "Задний внутренний отдел",
+        "Передний отдел",
+        "Задний нижний отдел"
+      ]
+    },
+    {
+      "id": "top_56",
+      "arr": [
+        "Гной из среднего клетчаточного пространства ладони распространяется",
+        "В подкожную клетчатку головок пястных костей",
+        "На тыльную поверхность 3,4,5 пальцев",
+        "В клетчаточное пространство Пирогова-Парона",
+        "В медиальное клетчаточное пространство ладони",
+        "Латеральное клетчаточное пространство ладони"
+      ]
+    },
+    {
+      "id": "top_57",
+      "arr": [
+        "С каких сторон должно производиться дренирование локтевого сустава",
+        "Спереди",
+        "Сзади",
+        "Латерально и снизу",
+        "Медиально и снизу",
+        "Сверху"
+      ]
+    },
+    {
+      "id": "top_58",
+      "arr": [
+        "Что такое U-образная флегмона",
+        "Гнойный тендобурсит 1-го и 5-го пальцев",
+        "Гнойный тендовагинит 2-го и 4-го пальцев",
+        "Гнойный тендовагинит 2-го и 3-го пальцев",
+        "Гнойное поражение межмышечных промежутков возвышения 1-го и 5-го пальцев",
+        "Возможность восходящего распространения по клетчаточным пространствам верхней конечности"
+      ]
+    },
+    {
+      "id": "top_59",
+      "arr": [
+        "На какой поверхности срединной и основной фаланг 2-4 пальцев выполняется разрез при тендовагините",
+        "На ладонной поверхности",
+        "На боковой, ближе к тыльной поверхности",
+        "На тыльной поверхности",
+        "На боковой, ближе к ладонной поверхности",
+        "Значения не имеет"
+      ]
+    },
+    {
+      "id": "top_60",
+      "arr": [
+        "Поставьте соответствие границ трёхстороннего отверстия: 1) m. teres major; 2) длинная головка m. triceps; 3) mm. teres minor et subscapularis. а) сверху; б) снизу; в) латерально",
+        "1а; 2б; 3в",
+        "1в; 2а; 3б",
+        "1б; 2в; 3а",
+        "1б; 2а; 3в",
+        "1а; 2в; 3б"
+      ]
+    },
+    {
+      "id": "top_61",
+      "arr": [
+        "Поставьте соответствие границ четырёхстороннего отверстия: 1) mm. teres minor et subscapularis; 2) m. teres major; 3) длинная головка m. triceps; 4) хирургическая шейка плечевой кости; а) сверху; б) снизу; в) латерально; г) медиально",
+        "1а; 2в; 3г; 4б",
+        "1в; 2б; 3а; 4г",
+        "1г; 2б; 3а; 4в",
+        "1б; 2а; 3г; 4в",
+        "1а; 2б; 3г; 4в"
+      ]
+    },
+    {
+      "id": "top_62",
+      "arr": [
+        "Какие образования не являются границей ягодичной области",
+        "Гребень подвздошной кости",
+        "Нижний край большой ягодичной мышцы",
+        "Срединная линия крестца и копчика",
+        "Ягодичная складка",
+        "Линия, соединяющая седалищный бугор с большим вертелом"
+      ]
+    },
+    {
+      "id": "top_63",
+      "arr": [
+        "Какие сосуды кровоснабжают ягодичную область",
+        "Верхняя ягодичная артерия",
+        "Бедренная артерия",
+        "Запирательная артерия",
+        "Наружная подвздошная артерия",
+        "Нижняя ягодичная артерия"
+      ]
+    },
+    {
+      "id": "top_64",
+      "arr": [
+        "Укажите путь гноя из глубокой клетчатки ягодичной области",
+        "В клетчаточные пространства таза",
+        "В клетчатку задней области бедра",
+        "В клетчатку передней области бедра",
+        "В ложе приводящих мышц бедра",
+        "В клетчатку седалищно-прямокишечной ямки"
+      ]
+    },
+    {
+      "id": "top_65",
+      "arr": [
+        "Укажите проекционную точку, используемую для блокады и хирургического обнажения седалищного нерва",
+        "На 1,5-2 см книзу и кнутри от середины вертельно - бугристой линии",
+        "На 1-1,5 см книзу и кнаружи от точки, лежащей на границе верхней и средней трети остисто-бугристой линии",
+        "На 1-1,5 см книзу и кнаружи от точки, лежащей на границе внутренней и средней трети остисто-вертельной линии",
+        "На 2-4 см книзу и кнутри от середины остисто-вертельной линии",
+        "У латерального края седалищного бугра или на 0,5-1 см кнаружи от него"
+      ]
+    },
+    {
+      "id": "top_66",
+      "arr": [
+        "Что не является границами бедренного треугольника",
+        "Паховая связка, портняжная мышца и длинная приводящая мышца бедра",
+        "Большая и длинная приводящие мышцы бедра и паховая связка",
+        "Гребенчатая и портняжная мышца, паховая связка",
+        "Портняжная мышца, большая приводящая и гребенчатая мышцы",
+        "Длинная приводящая мышца, гребенчатая и портняжная мышцы"
+      ]
+    },
+    {
+      "id": "top_67",
+      "arr": [
+        "Укажите топографическое соответствие сосудисто-нервного пучка в верхней половине бедренного треугольника: 1) бедренная артерия; 2) бедренная вена; 3) бедренный нерв. а) спереди и медиально; б) кзади; в) латерально",
+        "1а; 2б; 3в",
+        "1б; 2а; 3в",
+        "1в; 2а; 3б",
+        "1а; 2в; 3б",
+        "1б; 2в; 3а"
+      ]
+    },
+    {
+      "id": "top_68",
+      "arr": [
+        "Стенками бедренного канала являются",
+        "Поверхностный и глубокий листки f. lata и влагалище бедренной вены",
+        "Влагалище бедренной вены, лакунарная связка и f. lata",
+        "Влагалище бедренной вены, гребешковая фасция и глубокий листок f. lata",
+        "Паховая связка, влагалище бедренной вены и гребешковая фасция",
+        "Длинная приводящая мышца, портняжная мышца и собственная фасция бедра"
+      ]
+    },
+    {
+      "id": "top_69",
+      "arr": [
+        "Стенками приводящего канала являются",
+        "Большая приводящая мышца, длинная приводящая мышца и фиброзная пластинка",
+        "Большая приводящая мышца, медиальная широкая мышца бедра и фиброзная пластинка",
+        "Фиброзная пластинка, портняжная мышца и длинная приводящая мышца",
+        "Портняжная мышца, длинная и короткая приводящие мышцы",
+        "Медиальная широкая мышца бедра, портняжная мышца и фиброзная пластинка"
+      ]
+    },
+    {
+      "id": "top_70",
+      "arr": [
+        "Что проходит через переднее отверстие приводящего канала",
+        "A. femoralis",
+        "N. suralis",
+        "A. profunda femoris",
+        "N. saphenus",
+        "A. descendens genus"
+      ]
+    },
+    {
+      "id": "top_71",
+      "arr": [
+        "Проекция бедренной артерии",
+        "От середины расстояния между лонным бугорком и симфизом к медиальному надмыщелку бедра",
+        "От середины расстояния между верхней передней подвздошной остью и симфизом к бугорку приводящих мышц",
+        "От середины паховой связки к латеральному надмыщелку бедра",
+        "От середины паховой связки к середине подколенной ямки",
+        "От внутренней трети паховой связки к середине надколенника"
+      ]
+    },
+    {
+      "id": "top_72",
+      "arr": [
+        "Проекция седалищного нерва",
+        "От наружной трети расстояния между седалищным бугром и большим вертелом к середине подколенной ямки",
+        "От большого вертела к середине подколенной ямке",
+        "От седалищного бугра к подколенной ямке",
+        "От внутренней трети линии, соединяющей седалищный бугор и большой вертел к середине подколенной ямки",
+        "От середины расстояния между седалищным бугром и большим вертелом к середине подколенной ямки"
+      ]
+    },
+    {
+      "id": "top_73",
+      "arr": [
+        "Под какой мышцей располагается выходное отверстие запирательного канала",
+        "M. sartorius",
+        "M. gracilis",
+        "M. pectineus",
+        "M. abductor longus",
+        "M. abductor brevis"
+      ]
+    },
+    {
+      "id": "top_74",
+      "arr": [
+        "Укажите проекционную точку выхода из таза верхней ягодичной артерии",
+        "На 1,5-2 см книзу и кнутри от середины вертельно - бугристой линии",
+        "На 1-1,5 см книзу и кнаружи от точки, лежащей на границе верхней и средней трети остисто-бугристой линии",
+        "На 1-1,5 см книзу и кнаружи от точки, лежащей на границе внутренней и средней трети остисто-вертельной линии",
+        "На 2-4 см книзу и кнутри от середины остисто-вертельной линии",
+        "У латерального края седалищного бугра или на 0,5-1 см кнаружи от него"
+      ]
+    },
+    {
+      "id": "top_75",
+      "arr": [
+        "Какие нервы проходят через мышечную лакуну",
+        "Бедренный",
+        "Половобедренный",
+        "Запирательный",
+        "Латеральный кожный нерв бедра",
+        "Нижний ягодичный"
+      ]
+    },
+    {
+      "id": "top_76",
+      "arr": [
+        "Мышцы, ограничивающие Жоберову ямку",
+        "Большая приводящая мышца",
+        "Медиальная широкая мышца",
+        "Полусухожильная и полуперепончатая мышцы",
+        "Полуперепончатая и медиальная широкая мышцы",
+        "Двуглавая мышца бедра"
+      ]
+    },
+    {
+      "id": "top_77",
+      "arr": [
+        "Укажите соответствие мышц и стенок Жоберовой ямки: 1) m. sartorius; 2) m. adductor magnus; 3) m. gastrocnemius medialis и медиальный мыщелок бедренной кости; 4) mm. semitendinosus et semimembranosus. а) спереди; б) сзади; в) сверху; г) снизу",
+        "1в; 2а; 3г; 4б",
+        "1г; 2а; 3б; 4в",
+        "1а; 2г; 3б; 4в",
+        "1в; 2г; 3б; 4а",
+        "1в; 2б; 3г; 4а"
+      ]
+    },
+    {
+      "id": "top_78",
+      "arr": [
+        "Жоберова ямка является доступом",
+        "Для пункции коленного сустава",
+        "Для доступа к бедренному нерву",
+        "Для определения положения верхне-медиальной артерии коленного сустава",
+        "Для доступа к подколенной артерии с медиальной стороны",
+        "Для доступа к Груберову каналу"
+      ]
+    },
+    {
+      "id": "top_79",
+      "arr": [
+        "Какой нерв может быть поврежден при вскрытии заднелатеральных заворотов коленного сустава",
+        "Седалищный нерв",
+        "Кожный нерв бедра",
+        "Общий малоберцовый нерв",
+        "Большеберцовый нерв",
+        "Бедренный нерв"
+      ]
+    },
+    {
+      "id": "top_80",
+      "arr": [
+        "Сосудистая лакуна образована",
+        "Широкой фасцией бедра, лакунарной связкой, паховой связкой",
+        "Лакунарной связкой, подвздошно-гребенчатой связкой",
+        "Бедренной костью, паховой связкой, лакунарной связкой",
+        "Гребешковой связкой, лакунарной связкой, широкой фасцией бедра",
+        "Паховой связкой, гребенчатой связкой"
+      ]
+    },
+    {
+      "id": "top_81",
+      "arr": [
+        "Мышечная лакуна образована",
+        "Паховой связкой, гребешковой фасцией, лакунарной связкой",
+        "Подвздошной костью, паховой связкой, лакунарной связкой",
+        "Гребешковой связкой, паховой связкой, подвздошно-гребенчатой дугой",
+        "Паховой связкой, подвздошно-гребенчатой дугой, гребешковая фасция",
+        "Лакунарная связка, паховая связка, подвздошно-гребешковая дуга"
+      ]
+    },
+    {
+      "id": "top_82",
+      "arr": [
+        "Что содержит мышечная лакуна",
+        "M. iliopsoas, m. pectineus, n. genitofemoralis",
+        "M. iliopsoas, n. femoralis, n. cutaneus femoris lateralis",
+        "M. pectineus, m. obturatorius externa, n. femoralis",
+        "M. psoas, n. genitofemoralis",
+        "M. obturatorius externa, n. femoralis, n. cutaneus femoris lateralis"
+      ]
+    },
+    {
+      "id": "top_83",
+      "arr": [
+        "При ранении ягодичной области следует перевязать",
+        "Верхнюю ягодичную артерию",
+        "Нижнюю ягодичную артерию",
+        "Внутреннюю подвздошную артерию",
+        "Внутреннюю срамную артерию",
+        "Общую подвздошную артерию"
+      ]
+    },
+    {
+      "id": "top_84",
+      "arr": [
+        "Как проводится проекционная линия седалищного нерва",
+        "От седалищного бугра к медиальному надмыщелку бедренной кости",
+        "От большого вертела к латеральному надмыщелку бедренной кости",
+        "От середины расстояния между седалищным бугром и большим вертелом к медиальному надмыщелку",
+        "От середины расстояния между седалищным бугром и большим вертелом к середине подколенной ямки",
+        "От седалищного бугра к середине расстояния между надмыщелками бедренной кости"
+      ]
+    },
+    {
+      "id": "top_85",
+      "arr": [
+        "Стенки переднего костно-фиброзного ложа голени образованы",
+        "Большеберцовой костью",
+        "Малоберцовой костью и межмышечной перегородкой",
+        "Собственной фасцией голени",
+        "Большеберцовой и малоберцовой костями",
+        "Передней межмышечной перегородкой"
+      ]
+    },
+    {
+      "id": "top_86",
+      "arr": [
+        "Что не является проекцией задней большеберцовой артерии",
+        "От середины подколенной ямки к середине расстояния между ахилловым сухожилием и медиальной лодыжкой",
+        "От середины подколенной ямки к середине расстояния между ахилловым сухожилием и латеральной лодыжкой",
+        "От середины подколенной ямки к ахилловым сухожилиям",
+        "От середины подколенной ямки к латеральной лодыжке",
+        "От середины подколенной ямки к медиальной лодыжке"
+      ]
+    },
+    {
+      "id": "top_87",
+      "arr": [
+        "Стенки голеноподколенного канала образованы",
+        "Камбаловидной мышцей и глубоким листком собственной фасции",
+        "Икроножной мышцей и большеберцовой костью",
+        "Длинным сгибателем большого пальца и длинным сгибателем пальцев",
+        "Задней большеберцовой мышцей",
+        "Камбаловидной мышцей и длинным сгибателем большого пальца"
+      ]
+    },
+    {
+      "id": "top_88",
+      "arr": [
+        "Какие анатомические образования проходят через сосудистую лакуну",
+        "Запирательная артерия, запирательная вена, бедренный нерв",
+        "Бедренная артерия, бедренная вена, бедренный нерв",
+        "Бедренная артерия, бедренная вена, половая ветвь бедренно-полового нерва",
+        "Верхние надчревные сосуды, бедренный нерв",
+        "Нижние надчревные сосуды, бедренный нерв"
+      ]
+    },
+    {
+      "id": "top_89",
+      "arr": [
+        "Укажите пути распространения гнойно-воспалительного процесса из мышечной лакуны",
+        "Выход на бедро натёчных гнойников",
+        "Выход гноя из тазобедренного сустава",
+        "Выход гноя из ягодичной области",
+        "Выход гноя из запирательного канала",
+        "Выход гноя из забрюшинного пространства"
+      ]
+    },
+    {
+      "id": "top_90",
+      "arr": [
+        "Где отходит запирательная артерия, когда образует \"корону смерти\"",
+        "От бедренной артерии",
+        "От нижней надчревной артерии",
+        "От внутренней подвздошной артерии",
+        "От наружной подвздошной артерии",
+        "От верхней надчревной артерии"
+      ]
+    },
+    {
+      "id": "top_91",
+      "arr": [
+        "Дно подколенной ямки образовано",
+        "Полуперепончатой мышцей",
+        "Полусухожильной мышцей",
+        "Подколенной поверхностью бедренной кости",
+        "Задней частью сумки коленного сустава со связками",
+        "Подколенной мышцей"
+      ]
+    },
+    {
+      "id": "top_92",
+      "arr": [
+        "Опишите положение стопы при повреждении глубокой ветви малоберцового нерва",
+        "\"пяточная стопа\"",
+        "\"конская стопа\"",
+        "Варусное положение стопы",
+        "Ротирование кнаружи",
+        "Стопа не меняет обычного положения"
+      ]
+    },
+    {
+      "id": "top_93",
+      "arr": [
+        "Что проходит через переднее отверстие голеноподколенного канала",
+        "N. tibialis anterior",
+        "A. tibialis anterior",
+        "N. peroneus anterior",
+        "A. peronea",
+        "A. tibialis posterior"
+      ]
+    },
+    {
+      "id": "top_94",
+      "arr": [
+        "Что содержит верхний мышечно-малоберцовый канал",
+        "N. peroneus profundus",
+        "N. peroneus superficialis",
+        "N. peroneus communis",
+        "N. saphenus",
+        "N. suralis"
+      ]
+    },
+    {
+      "id": "top_95",
+      "arr": [
+        "Через подгрушевидное отверстие выходят",
+        "Нижние ягодичные сосуды",
+        "Седалищный нерв",
+        "Бедренный нерв",
+        "Внутренние срамные сосуды и срамной нерв",
+        "Верхний ягодичный сосудисто-нервный пучок 1,2.4"
+      ]
+    },
+    {
+      "id": "top_96",
+      "arr": [
+        "Чем образован нижний мышечно-малоберцовый канал",
+        "Камбаловидная мышца и глубокий листок собственной фасции",
+        "Малоберцовая кость и межмышечная перегородка",
+        "Задняя большеберцовая мышца и большеберцовая кость",
+        "Малоберцовая кость и длинный сгибатель большого пальца",
+        "Малоберцовая кость и длинный сгибатель пальцев"
+      ]
+    },
+    {
+      "id": "top_97",
+      "arr": [
+        "Что содержит нижний мышечно-малоберцовый канал",
+        "N. peroneus profundus",
+        "N. peroneus superficialis",
+        "A. peronea",
+        "A. tibialis posterior",
+        "A. collateralis tibialis"
+      ]
+    },
+    {
+      "id": "top_98",
+      "arr": [
+        "Взаиморасположение сосудов и нервов в подколенном сосудисто-нервном пучке 1.поверхностно-n. tibialis, глубже и медиально-v. poplitea, глубже и медиальнее-a. poplitea",
+        "Поверхностно-a. poplitea, кзади-v. poplitea, глубже-n. tibialis",
+        "Поверхностно-v. poplitea, глубже к кости-a. poplitea, между ними- n. tibialis",
+        "Поверхностно-n. tibialis, глубже-a. poplitea, ближе к кости- v. poplitea",
+        "Поверхностно-a. poplitea, кзади от неё - n. tibialis, ближе к кости - v. poplitea"
+      ]
+    },
+    {
+      "id": "top_99",
+      "arr": [
+        "С сухожилием какой мышцы проходит на тыл стопы сосудисто-нервный пучок переднего ложа голени",
+        "M. tibialis anterior",
+        "M. flexor digitorum longus",
+        "M. extensor hallucis longus",
+        "M. flexor hallucis longus",
+        "M. extensor digitorum longus"
+      ]
+    },
+    {
+      "id": "top_100",
+      "arr": [
+        "Какими перегородками ограничены мышечно-фасциальные ложа бедра",
+        "Передняя перегородка",
+        "Задняя перегородка",
+        "Латеральная перегородка",
+        "Медиальная перегородка",
+        "Верхняя перегородка"
+      ]
+    },
+    {
+      "id": "top_101",
+      "arr": [
+        "В голеноподколенном канале проходят",
+        "Большеберцовый нерв, задние большеберцовые сосуды",
+        "Большеберцовый нерв, передние большеберцовые сосуды",
+        "Малоберцовые сосуды, глубокая ветвь малоберцового нерва",
+        "Поверхностная ветвь малоберцового нерва, передние большеберцовые сосуды",
+        "Глубокая ветвь большеберцового нерва, задние большеберцовые сосуды"
+      ]
+    },
+    {
+      "id": "top_102",
+      "arr": [
+        "Проекционная линия на кожу a. dorsalis pedis",
+        "От медиальной лодыжки к 1 пальцу",
+        "От латеральной лодыжки к 5 пальцу",
+        "От медиальной лодыжки к 1 межпальцевому промежутку",
+        "От середины расстояния между лодыжками к 1 межпальцевому промежутку",
+        "От латеральной лодыжки к 1 межпальцевому промежутку"
+      ]
+    },
+    {
+      "id": "top_103",
+      "arr": [
+        "Чем образован canalis calcaneus",
+        "M. flexor digitorum longus и таранная кость",
+        "M. abductor hallucis brevis и пяточная кость",
+        "M. abductor hallucis longus и пяточная кость",
+        "M. adductor hallucis longus и пяточная кость",
+        "Сухожилие m. tibialis posterior и таранная кость"
+      ]
+    },
+    {
+      "id": "top_104",
+      "arr": [
+        "Чем образован подошвенный канал",
+        "Фасциальные перегородки",
+        "M. quadratus plantae",
+        "Длинная связка подошвы",
+        "Глубокая фасция подошвы",
+        "M. flexor digitorum brevis"
+      ]
+    },
+    {
+      "id": "top_105",
+      "arr": [
+        "Перечислите мышцы медиального ложа подошвы",
+        "M. flexor hallucis brevis",
+        "M. abductor hallucis",
+        "M. adductor hallucis",
+        "M. abductor digiti minimi",
+        "M. flexor hallucis longus"
+      ]
+    },
+    {
+      "id": "top_106",
+      "arr": [
+        "Поставьте соответствие стенок голеноподколенного канала: 1) m. flexor hallucis longus; 2) m. tibialis posterior; 3) m. flexor digitorum longus; 4) глубокий листок f. cruris и m. soleus. а) передняя стенка; б) задняя стенка; в) латеральная стенка; г) медиальная стенка",
+        "1в; 2г; 3б; 4а",
+        "1б; 2а; 3г; 4в",
+        "1г; 2а; 3б; 4в",
+        "1в; 2а; 3г; 4б",
+        "1в; 2г; 3а; 4б"
+      ]
+    },
+    {
+      "id": "top_107",
+      "arr": [
+        "Поставьте соответствие стенок приводящего канала: 1) m. adductor magnus; 2) m. vastus medialis; 3) lamina vastoadductoria. а) латеральная стенка; б) медиальная стенка; в) передняя стенка",
+        "1в; 2б; 3а",
+        "1б; 2а; 3в",
+        "1а; 2б; 3в",
+        "1б; 2в; 3а",
+        "1в; 2а; 3б"
+      ]
+    },
+    {
+      "id": "top_108",
+      "arr": [
+        "Что пропускает lamina cribrosa решетчатой кости",
+        "Лобный эмиссарий",
+        "A.v. ophtalmica",
+        "Fila olfactoria",
+        "A.v.n. ethmoidalis anterior",
+        "A.v. ethmoidalis posterior"
+      ]
+    },
+    {
+      "id": "top_109",
+      "arr": [
+        "Какие черепные нервы связаны с кавернозным синусом",
+        "N. oculomotorius",
+        "N. facialis",
+        "N. trochlearis",
+        "N. abducens",
+        "N. ophthalmicus"
+      ]
+    },
+    {
+      "id": "top_110",
+      "arr": [
+        "Повреждение каких образований на внутреннем основании черепа может дать кровотечение из носа и носоглотки",
+        "Перелом тела клиновидной кости",
+        "Перелом пирамиды височной кости",
+        "Повреждение пещеристой пазухи",
+        "Перелом малых крыльев клиновидной кости",
+        "Повреждение верхнего каменистого синуса"
+      ]
+    },
+    {
+      "id": "top_111",
+      "arr": [
+        "Через какое отверстие полости черепа выходит лицевой нерв",
+        "Овальное",
+        "Шилососцевидное",
+        "Рваное",
+        "Слепое",
+        "Круглое"
+      ]
+    },
+    {
+      "id": "top_112",
+      "arr": [
+        "Какие осложнения возможны при повреждении границ треугольника Шипо во время трепанации сосцевидного отростка",
+        "Повреждение сигмовидного синуса",
+        "Повреждение поперечного синуса",
+        "Повреждение канала лицевого нерва",
+        "Повреждение полукружного канала",
+        "Повреждение верхней стенки барабанной полости"
+      ]
+    },
+    {
+      "id": "top_113",
+      "arr": [
+        "Перечислите нервы проходящие через верхнюю глазничную щель",
+        "N. opticus",
+        "N. oculomotorius",
+        "N. trochlearis",
+        "N. petrosus major",
+        "N. glossopharyngeus"
+      ]
+    },
+    {
+      "id": "top_114",
+      "arr": [
+        "Перечислите нервы проходящие через верхнюю глазничную щель",
+        "N. olfactorius",
+        "N. ophtalmicus",
+        "N. abducens",
+        "N. hypoglossus",
+        "N. intermedius"
+      ]
+    },
+    {
+      "id": "top_115",
+      "arr": [
+        "Какой способ используется для окончательной остановки кровотечения при ранении сосудов подкожно-жировой клетчатки головы",
+        "Наложение зажима",
+        "Диатермокоагуляция",
+        "Наложение лигатуры с прошиванием",
+        "Втирание воска парафиновой пасты",
+        "Тампонирование раны"
+      ]
+    },
+    {
+      "id": "top_116",
+      "arr": [
+        "Какой специальный инструмент используется для смещения надкостницы при костно-пластической трепанации черепа",
+        "Распатор Фарабефа",
+        "Краниотом Дальгрена",
+        "Проводник Поленова",
+        "Проволочная пилка Джигли",
+        "Коловорот с набором фрез"
+      ]
+    },
+    {
+      "id": "top_117",
+      "arr": [
+        "Где по схеме Кренлейна проецируется ствол средней оболочечной артерии",
+        "На пересечении верхней горизонтальной и задней вертикальной линий",
+        "На пересечении верхней горизонтальной и передней вертикальной линии",
+        "На пересечении верхней горизонтальной и средней вертикальной линии",
+        "На пересечении нижней горизонтальной и средней вертикальной линии",
+        "На пересечении нижней горизонтальной и передней вертикальной линии"
+      ]
+    },
+    {
+      "id": "top_118",
+      "arr": [
+        "Источником a. meningea media является",
+        "A. ophtalmica",
+        "A. carotis externa",
+        "A. maxillaris",
+        "A. carotis interna",
+        "A. temporalis profunda"
+      ]
+    },
+    {
+      "id": "top_119",
+      "arr": [
+        "Какие образования проходят через porus acusticus internus",
+        "A. labyrinthi",
+        "A. basilaris",
+        "N. intermedius",
+        "N. statoacusticus",
+        "N. facialis"
+      ]
+    },
+    {
+      "id": "top_120",
+      "arr": [
+        "Где по схеме Кренлейна проецируется задняя ветвь средней оболочечной артерии",
+        "На пересечении верхней горизонтальной и передней вертикальной линий",
+        "На пересечении верхней горизонтальной и средней вертикальной линий",
+        "На пересечении верхней горизонтальной и задней вертикальной линии",
+        "На пересечении нижней горизонтальной и средней вертикальной линии",
+        "На пересечении нижней горизонтальной и задней вертикальной линии"
+      ]
+    },
+    {
+      "id": "top_121",
+      "arr": [
+        "В какой области головы следует выполнять трепанацию черепа для перевязки средней оболочечной артерии",
+        "В треугольнике Шипо",
+        "В височной области",
+        "В лобной области",
+        "В теменной области",
+        "В затылочной области"
+      ]
+    },
+    {
+      "id": "top_122",
+      "arr": [
+        "Какая фасция отделяет заглоточное пространство от окологлоточного",
+        "F. stylopharyngeus",
+        "F. pharyngobasilaris",
+        "F. pharyngoprevertebralis lateralis",
+        "F. pharyngoprevertebralis media",
+        "F. prevertebralis"
+      ]
+    },
+    {
+      "id": "top_123",
+      "arr": [
+        "Назовите мышцы \"анатомического букета\"",
+        "Шилочелюстная мышца",
+        "Шилокрыловидная мышца",
+        "Шилоподъязычная мышца",
+        "Шилоязычная мышца",
+        "Шилоглоточная мышца"
+      ]
+    },
+    {
+      "id": "top_124",
+      "arr": [
+        "Назовите синус твердой мозговой оболочки, которые наиболее часто повреждается при травмах свода мозгового отдела головы",
+        "Нижний сагиттальный",
+        "Верхний сагиттальный",
+        "Прямой",
+        "Поперечный",
+        "Кавернозный"
+      ]
+    },
+    {
+      "id": "top_125",
+      "arr": [
+        "Чем характеризуется гематома подкожной клетчатки лобно-теменно-затылочной области",
+        "Имеет форму шишки",
+        "Распространяется в пределах одной кости",
+        "Имеет разлитой характер и свободно перемещается в пределах лобно-теменно-затылочной области",
+        "Свободно распространяется на подкожную клетчатку височной области и лица",
+        "Плотная с ровными краями"
+      ]
+    },
+    {
+      "id": "top_126",
+      "arr": [
+        "Чем характеризуется поднадкостничная гематома свода черепа",
+        "Имеет форму шишки",
+        "Распространяется в пределах одной кости",
+        "Имеет разлитой характер и свободно перемещается в пределах лобно-теменно-затылочной области",
+        "Свободно распространяется на подкожную клетчатку лица",
+        "Четкую характеристику дать затруднительно"
+      ]
+    },
+    {
+      "id": "top_127",
+      "arr": [
+        "Какой слой повреждается в большей степени при переломе костей свода черепа",
+        "Все слои",
+        "Наружная пластинка",
+        "Стекловидная пластинка",
+        "Губчатое вещество",
+        "Закономерность отсутствует"
+      ]
+    },
+    {
+      "id": "top_128",
+      "arr": [
+        "Чем характеризуется подапоневротическая гематома лобно-теменно-затылочной области",
+        "Мягкая, эластичная консистенция",
+        "Имеет форму овала, ориентированного в продольном направлении",
+        "Свободно перемещается в пределах лобно-теменно-затылочной области",
+        "Четкую характеристику дать затруднительно",
+        "Флюктуирует под пальцами"
+      ]
+    },
+    {
+      "id": "top_129",
+      "arr": [
+        "При переломе какой кости возникает кровотечение и ликворея из наружного слухового прохода",
+        "Височной",
+        "Крыловидной",
+        "Верхнечелюстной",
+        "Затылочной",
+        "Решетчатой"
+      ]
+    },
+    {
+      "id": "top_130",
+      "arr": [
+        "Назовите синус твёрдой мозговой оболочки, который можно повредить при трепанации сосцевидного отростка",
+        "Сагиттальный",
+        "Пещеристый",
+        "Сигмовидный",
+        "Верхний каменистый",
+        "Прямой"
+      ]
+    },
+    {
+      "id": "top_131",
+      "arr": [
+        "Перечислите синусы твердой мозговой оболочки, располагающиеся в задней черепной ямке",
+        "Кавернозный",
+        "Сигмовидный",
+        "Поперечный",
+        "Нижний каменистый",
+        "Нижний сагиттальный"
+      ]
+    },
+    {
+      "id": "top_132",
+      "arr": [
+        "Объясните, почему кровотечение из синусов твердой мозговой оболочки головного мозга не имеет тенденции к самопроизвольной обстановке",
+        "Из-за пониженной свертываемости крови",
+        "Из-за треугольной формы синуса",
+        "Из-за повышенного давления ликвора",
+        "Из-за высокого венозного давления",
+        "Из-за высокого артериального давления"
+      ]
+    },
+    {
+      "id": "top_133",
+      "arr": [
+        "Где, по схеме Кренлейна, проецируется Сильвиева борозда",
+        "По верхней горизонтальной линии",
+        "По нижней горизонтальной линии",
+        "По биссектрисе угла образованного верхней горизонталью и проекцией Роландовой борозды",
+        "По второй вертикальной линии",
+        "По третьей вертикальной линии"
+      ]
+    },
+    {
+      "id": "top_134",
+      "arr": [
+        "Назовите самую крупную цистерну субарахноидального пространства",
+        "Cisterna chiasmatis",
+        "Cisterna corporis callosi",
+        "Cisterna interpeduncularis",
+        "Cisterna pontis",
+        "Cisterna cerebellomedularis"
+      ]
+    },
+    {
+      "id": "top_135",
+      "arr": [
+        "Перевязка какого синуса твердой мозговой оболочки приведет к летальному исходу",
+        "Верхний сагиттальный синус",
+        "Нижний сагиттальный синус",
+        "Синусовый сток",
+        "Верхний каменистый синус",
+        "Сигмовидный синус"
+      ]
+    },
+    {
+      "id": "top_136",
+      "arr": [
+        "Через какое отверстие выходит из черепа 3-я ветвь тройничного нерва",
+        "Через овальное отверстие",
+        "Через круглое отверстие",
+        "Через остистое отверстие",
+        "Через верхнюю глазничную щель",
+        "Через сонный канал"
+      ]
+    },
+    {
+      "id": "top_137",
+      "arr": [
+        "Где открывается выводной проток околоушной слюнной железы",
+        "По бокам уздечки языка",
+        "У 2-го верхнего коренного зуба",
+        "У 5-го верхнего коренного зуба",
+        "У 2-го верхнего коренного зуба",
+        "У 3-го коренного зуба"
+      ]
+    },
+    {
+      "id": "top_138",
+      "arr": [
+        "Для остановки кровотечения из венозных синусов твердой мозговой оболочки применяют следующие способы",
+        "Втирание растопленного воска",
+        "Клипирование",
+        "Наложение шва",
+        "Перевязку синусов",
+        "Тампонаду"
+      ]
+    },
+    {
+      "id": "top_139",
+      "arr": [
+        "Назовите \"слабые места\" капсулы околоушной слюнной железы",
+        "Наружный отдел капсулы",
+        "Передний отдел капсулы",
+        "Медиальный отдел капсулы",
+        "Задний отдел капсулы",
+        "Верхний отдел капсулы"
+      ]
+    },
+    {
+      "id": "top_140",
+      "arr": [
+        "Укажите источник кровоснабжения жевательных мышц",
+        "Верхне-челюстная артерия",
+        "Внутренняя сонная артерия",
+        "Поверхностная височная артерия",
+        "Наружная сонная артерия",
+        "Подключичная артерия"
+      ]
+    },
+    {
+      "id": "top_141",
+      "arr": [
+        "Через какое отверстие проходит средняя мозговая артерия",
+        "Рваное",
+        "Круглое",
+        "Овальное",
+        "Остистое",
+        "Верхнюю глазничную щель"
+      ]
+    },
+    {
+      "id": "top_142",
+      "arr": [
+        "Назовите источник a. temporalis profunda",
+        "A. carotis interna",
+        "A. facialis",
+        "A. maxillaris",
+        "A. ophtalmica",
+        "A. sphenjpalatina"
+      ]
+    },
+    {
+      "id": "top_143",
+      "arr": [
+        "Назовите ветви a. maxillaris, расположенные в крыло-небной ямке",
+        "A. palatina descendens",
+        "A. palatina ascendens",
+        "A. infraorbitalis",
+        "A. tympanica",
+        "A. sphenjpalatina"
+      ]
+    },
+    {
+      "id": "top_144",
+      "arr": [
+        "Назовите клетчаточные пространства глубокой области лица",
+        "Височно-жевательное пространство",
+        "Височно-крыловидное пространство",
+        "Жевательно-челюстная щель",
+        "Межкрыловидное пространство",
+        "Крыловидно-нижнечелюстное пространство"
+      ]
+    },
+    {
+      "id": "top_145",
+      "arr": [
+        "Назовите границы крыло-небной ямки",
+        "Височная поверхность скуловой кости",
+        "Бугор верхней челюсти",
+        "Перпендикулярная пластинка небной кости",
+        "Крыловидный отросток клиновидной кости",
+        "Перпендикулярная пластинка решетчатой кости"
+      ]
+    },
+    {
+      "id": "top_146",
+      "arr": [
+        "Поставьте соответствие пары черепно-мозговых нервов с их названием: 1) nervus oculomotorius; 2) nervus abducens; 3) nervus opticus; 4) nervus glossopharyngeus; 5) nervus vestibulocochlearis; 6) nervus accessorius. а) VIII; б) II; в) IX; г) VI; д) XI; е) III",
+        "1д; 2б; 3а; 4г; 5е; 6в",
+        "1е; 2б; 3в; 4а; 5г; 6д",
+        "1е; 2г; 3б; 4в; 5а; 6д",
+        "1а; 2в; 3д; 4е; 5б; 6г",
+        "1г; 2б; 3в; 4а; 5д; 6е"
+      ]
+    },
+    {
+      "id": "top_147",
+      "arr": [
+        "Поставьте соответствие границ глубокой области лица: 1) ветвь нижней челюсти; 2) край нижней челюсти; 3) большое крыло клиновидной кости; 4) бугор верхней челюсти; 5) шиловидный отросток и мышцы \"анатомического букета\": а) спереди; б) латерально; в) сзади; г) сверху; д) снизу",
+        "1в; 2а; 3г; 4д; 5б",
+        "1б; 2д; 3г; 4а; 5в",
+        "1б; 2д; 3а; 4г; 5в",
+        "1б; 2д; 3а; 4г; 5в",
+        "1а; 2д; 3г; 4б; 5в"
+      ]
+    },
+    {
+      "id": "top_148",
+      "arr": [
+        "Назовите нерв, располагающийся в трахеопищеводной борозде",
+        "Nervus vagus sinistra",
+        "Nervus phrenicus sinistra",
+        "Nervus splanchicus major",
+        "Nervus laringeus recurens sinistra",
+        "Nervus hypoglossus"
+      ]
+    },
+    {
+      "id": "top_149",
+      "arr": [
+        "По отношению к какому анатомическому образованию различают верхнюю, среднюю и нижнюю трахеостомию",
+        "По отношению к перстневидному хрящу",
+        "По отношению к щитовидному хрящу",
+        "По отношению к подъязычной кости",
+        "По отношению к перешейку щитовидной железы",
+        "По отношению к кольцам трахеи - верхним, средним и нижним"
+      ]
+    },
+    {
+      "id": "top_150",
+      "arr": [
+        "Флегмоны каких клетчаточных пространств могут осложниться задним медиастенитом",
+        "Надгрудинного межапоневротического",
+        "Предорганного",
+        "Латерального шейного треугольника",
+        "Позадиорганного",
+        "Заглоточного"
+      ]
+    },
+    {
+      "id": "top_151",
+      "arr": [
+        "Флегмоны каких клетчаточных пространств могут осложниться передним медиастенитом",
+        "Spatium trigonum laterale",
+        "Spatium pretracheale",
+        "Spatium prevertebrale",
+        "Spatium vasa-nervorun",
+        "Spatium interaponevroticum suprasternale"
+      ]
+    },
+    {
+      "id": "top_152",
+      "arr": [
+        "В каких случаях используется катетер Фогарти",
+        "Тромбэктомии",
+        "Катетеризации мочевого пузыря",
+        "Длительной внутривенной инфузии лекарственных средств",
+        "Эмболэктомии",
+        "Пункции подключичной вены"
+      ]
+    },
+    {
+      "id": "top_153",
+      "arr": [
+        "Как расположены элементы основного сосудисто-нервного пучка шеи",
+        "Сонная артерия снаружи, яремная вена изнутри, блуждающий нерв между ними",
+        "Яремная вена снаружи, сонная артерия изнутри, блуждающий нерв сзади и между ними",
+        "Блуждающий нерв снаружи, сонная артерия изнутри, яремная вена между ними",
+        "Блуждающий нерв изнутри, сонная артерия снаружи, яремная вена между ними",
+        "Блуждающий нерв спереди, артерия сзади, яремная вена между ними"
+      ]
+    },
+    {
+      "id": "top_154",
+      "arr": [
+        "С какой артерией соприкасается звездчатый узел",
+        "С общей сонной артерией",
+        "С наружной сонной артерией",
+        "С внутренней сонной артерией",
+        "С подключичной артерией",
+        "С позвоночной артерией"
+      ]
+    },
+    {
+      "id": "top_155",
+      "arr": [
+        "Укажите место, где определяют \"френикус-симптом\"",
+        "Между ключицей и кивательной мышцей",
+        "В области яремной вырезки грудины",
+        "Между ножками кивательной мышцы",
+        "На 3 см выше середины ключицы",
+        "На середине заднего края кивательной мышцы"
+      ]
+    },
+    {
+      "id": "top_156",
+      "arr": [
+        "На каком уровне глотка переходит в пищевод",
+        "На уровне четвертого шейного позвонка",
+        "На уровне пятого шейного позвонка",
+        "На уровне шестого шейного позвонка",
+        "На уровне седьмого шейного позвонка",
+        "На уровне первого ребра"
+      ]
+    },
+    {
+      "id": "top_157",
+      "arr": [
+        "С какой целью проводят наружное дренирование грудного лимфатического протока",
+        "Дезинтоксикация",
+        "Снижение внутричерепного давления",
+        "Уточнение диагноза злокачественных новообразований лейкоза",
+        "Лечение тиреотоксикоза",
+        "Снижение венозного давления"
+      ]
+    },
+    {
+      "id": "top_158",
+      "arr": [
+        "При какой ошибке не восстанавливается дыхание после введения трахеостомической канюли",
+        "Повреждение пищевода",
+        "Повреждение голосовых связок",
+        "Не вскрыта слизистая оболочка трахеи",
+        "Низкое наложение трахеостомы",
+        "Повреждение возвратного нерва"
+      ]
+    },
+    {
+      "id": "top_159",
+      "arr": [
+        "Назовите триаду правильно выполненной вагосимпатической блокады по Вишневскому",
+        "Птоз",
+        "Мидриаз",
+        "Миоз",
+        "Энофтальм",
+        "Экзофтальм"
+      ]
+    },
+    {
+      "id": "top_160",
+      "arr": [
+        "Укажите, где производят вкол иглы при выполнении шейной вагосимпатической блокады по А.И. Вишневскому",
+        "Между ножками грудино-ключично-сосцевидной мышцы",
+        "В углу, образованном ключицей и наружным краем грудино-ключично-сосцевидной мышцы",
+        "В области яремной вырезки грудины",
+        "Пересечение заднего края грудино-ключично-сосцевидной мышцы с наружной яремной веной",
+        "На 3 см выше середины ключицы"
+      ]
+    },
+    {
+      "id": "top_161",
+      "arr": [
+        "Укажите, какие отделы щитовидной железы сохраняют при субтотальной субфасциальной резекции",
+        "Заднелатеральный",
+        "Переднелатеральный",
+        "Перешеек железы",
+        "Верхний полюс",
+        "Нижний полюс"
+      ]
+    },
+    {
+      "id": "top_162",
+      "arr": [
+        "Между какими хрящами выполняется экстренная ларинготомия",
+        "Между перстневидным хрящом и трахеей",
+        "Конусовидный и черпаловидный",
+        "Щитовидный и перстневидный",
+        "Черпаловидный и рожковидный",
+        "Между подъязычной костью и щитовидным хрящом"
+      ]
+    },
+    {
+      "id": "top_163",
+      "arr": [
+        "Какой разрез используют при резекции щитовидной железы по Николаеву",
+        "Разрез де Кервена",
+        "Разрез Кохера",
+        "Разрез Кютнера",
+        "Срединный разрез",
+        "Разрез Доллингера"
+      ]
+    },
+    {
+      "id": "top_164",
+      "arr": [
+        "Назовите особенности области шеи при операциях",
+        "Подвижность органов",
+        "Косметичность",
+        "Наличие обильной клетчатки",
+        "Возможность воздушной эмболии",
+        "Все варианты ответов верны"
+      ]
+    },
+    {
+      "id": "top_165",
+      "arr": [
+        "Какой хрящ образует нижнюю границу гортани",
+        "Щитовидный",
+        "Черпаловидный",
+        "Перстневидный",
+        "Рожковидный",
+        "Конусовидный"
+      ]
+    },
+    {
+      "id": "top_166",
+      "arr": [
+        "Укажите топографическое отношение границ сонного треугольника: 1) заднее брюшко двубрюшной мышцы; 2) верхнее брюшко лопаточно-подъязычной мышцы; 3) грудино-ключично-сосцевидная мышца. а) сзади; б) снизу; в) сверху.",
+        "1б; 2в; 3а",
+        "1а; 2в; 3б",
+        "1б; 2а; 3в",
+        "1в; 2а; 3б",
+        "1в; 2б; 3а"
+      ]
+    },
+    {
+      "id": "top_167",
+      "arr": [
+        "На каком уровне по отношению к заднему краю грудино-ключично-сосцевидной мышцы проецируется место выхода в подкожную клетчатку ветвей шейного сплетения",
+        "Нижняя треть",
+        "Верхняя треть",
+        "Передняя треть",
+        "Средняя треть",
+        "Задняя треть"
+      ]
+    },
+    {
+      "id": "top_168",
+      "arr": [
+        "Между какими фасциями шеи локализуется заглоточный (ретрофарингиальный) абсцесс",
+        "I-II",
+        "II-III",
+        "III- и париетальный листок IV",
+        "IV висцеральный и V",
+        "V и позвоночником"
+      ]
+    },
+    {
+      "id": "top_169",
+      "arr": [
+        "Какой сосуд на уровне трахеи прилежит к яремной вырезке",
+        "Дуга аорты",
+        "Перешеек аорты",
+        "Общая сонная артерия",
+        "Плечеголовной ствол",
+        "Подключичная артерия"
+      ]
+    },
+    {
+      "id": "top_170",
+      "arr": [
+        "Назовите парные хрящи гортани",
+        "Трапециевидные",
+        "Черпаловидные",
+        "Конусовидные",
+        "Рожковидные",
+        "Клиновидные"
+      ]
+    },
+    {
+      "id": "top_171",
+      "arr": [
+        "Перечислите элементы сосудисто-нервного пучка, влагалище которого образовано IV фасцией шеи",
+        "Блуждающий нерв, наружная яремная вена, внутренняя сонная артерия",
+        "Общая сонная артерия, внутренняя яремная вена, симпатический нерв",
+        "Подключичная вена, подключичная артерия, плечевое сплетение",
+        "Внутренняя яремная вена, внутренняя сонная артерия, добавочный нерв",
+        "Общая сонная артерия, внутренняя яремная вена, блуждающий нерв"
+      ]
+    },
+    {
+      "id": "top_172",
+      "arr": [
+        "Укажите, какая мышца образует диафрагму дна полости рта",
+        "Подбродочно-подъязычная",
+        "Подбородочно-язычная",
+        "Челюстно-подъязычная",
+        "Двубрюшная",
+        "Подъязычно-язычная"
+      ]
+    },
+    {
+      "id": "top_173",
+      "arr": [
+        "Назовите отделы гортани",
+        "Преддверие",
+        "Надсвязочное пространство",
+        "Межсвязочное пространство",
+        "Подсвязочное пространство",
+        "Подгортанное пространство"
+      ]
+    },
+    {
+      "id": "top_174",
+      "arr": [
+        "Ход какого нерва объясняет необходимость проведения разреза в надподъязычной области параллельно краю нижней челюсти",
+        "Поперечный нерв шеи",
+        "Щитоподъязычный нерв",
+        "Краевая ветвь лицевого нерва",
+        "Подъязычный нерв",
+        "Язычный нерв"
+      ]
+    },
+    {
+      "id": "top_175",
+      "arr": [
+        "Укажите, какой нерв лежит кнаружи от внутренней яремной вены и иннервирует грудино-ключично-сосцевидную и трапециевидную мышцы",
+        "Верхний гортанный",
+        "Добавочный",
+        "Симпатический ствол",
+        "Блуждающий",
+        "Возвратный гортанный"
+      ]
+    },
+    {
+      "id": "top_176",
+      "arr": [
+        "Укажите, в каком направлении следует рассекать щитоперстневидную связку при осуществлении коникотомии",
+        "Не имеет значения",
+        "Нельзя рассекать вообще",
+        "В поперечном",
+        "В продольном",
+        "В косом"
+      ]
+    },
+    {
+      "id": "top_177",
+      "arr": [
+        "Укажите границы треугольника Пирогова",
+        "Язычный нерв",
+        "Подъязычный нерв",
+        "Лопаточно-подъязычная мышца",
+        "Сухожильная перемычка двубрюшной мышцы",
+        "Челюстно-подъязычная мышцы"
+      ]
+    },
+    {
+      "id": "top_178",
+      "arr": [
+        "Укажите, как по отношению к трахее лежит правый гортанный нерв",
+        "Спереди",
+        "Сзади",
+        "Латерально",
+        "Медиально",
+        "Снизу"
+      ]
+    },
+    {
+      "id": "top_179",
+      "arr": [
+        "Укажите, как по отношению к пищеводу проходит правый возвратный гортанный нерв",
+        "По передней стенке пищевода",
+        "Между трахеей и пищеводом",
+        "У правого края пищевода",
+        "По передней стенке пищевода в трахеопищеводной борозде",
+        "По боковой стенке пищевода"
+      ]
+    },
+    {
+      "id": "top_180",
+      "arr": [
+        "Укажите, какие венозные образования располагаются в претрахеальном клетчаточном пространстве",
+        "Яремная венозная дуга",
+        "Трахеальные вены",
+        "Нижняя гортанная вена",
+        "Нижняя щитовидная вена",
+        "Непарное щитовидное сплетение"
+      ]
+    },
+    {
+      "id": "top_181",
+      "arr": [
+        "Укажите варианты скелетотопии звездчатого (нижнего) узла симпатического ствола",
+        "C III -C IV",
+        "C V",
+        "C VII",
+        "Головка 1 ребра",
+        "Головка 2 ребра"
+      ]
+    },
+    {
+      "id": "top_182",
+      "arr": [
+        "Укажите, как по отношению к пищеводу проходит левый возвратный гортанный нерв",
+        "По боковой стенке пищевода",
+        "По задней стенке пищевода",
+        "По передней стенке пищевода",
+        "Между трахеей и пищеводом",
+        "По передней стенке трахеи"
+      ]
+    },
+    {
+      "id": "top_183",
+      "arr": [
+        "Какие образования лежат на наружной поверхности передней лестничной мышцы",
+        "Добавочный нерв",
+        "Диафрагмальный нерв",
+        "Шейная петля",
+        "Поверхностная шейная артерия",
+        "Восходящая шейная артерия"
+      ]
+    },
+    {
+      "id": "top_184",
+      "arr": [
+        "Нижний угол лопатки находится на уровне",
+        "VI ребра",
+        "IV ребра",
+        "VII ребра",
+        "V ребра",
+        "IX ребра"
+      ]
+    },
+    {
+      "id": "top_185",
+      "arr": [
+        "Какие образования лежат в лестнично-позвоночном треугольнике",
+        "Звездчатый узел",
+        "Правый возвратный нерв",
+        "Левый возвратный нерв",
+        "Лимфатический проток",
+        "Блуждающий нерв"
+      ]
+    },
+    {
+      "id": "top_186",
+      "arr": [
+        "Какой сосуд пересекает нижнюю щитовидную артерию спереди",
+        "Внутреннюю сонную артерию",
+        "Наружную сонную артерию",
+        "Внутреннюю яремную вену",
+        "Позвоночную артерию",
+        "Подключичную вену"
+      ]
+    },
+    {
+      "id": "top_187",
+      "arr": [
+        "Отток лимфы от верхнемедиального квадранта молочной железы осуществляется",
+        "В загрудинные лимфоузлы",
+        "В лимфоузлы передней брюшной стенки",
+        "В подмышечные лимфоузлы",
+        "В подключичные лимфоузлы",
+        "В надключичные лимфоузлы"
+      ]
+    },
+    {
+      "id": "top_188",
+      "arr": [
+        "При ретромаммарных флегмонах поражается клетчатка расположенная",
+        "Под большой грудной мышцей",
+        "Позади капсулы молочной железы",
+        "Подкожно",
+        "Вокруг долек железы",
+        "Под малой грудной мышцей"
+      ]
+    },
+    {
+      "id": "top_189",
+      "arr": [
+        "Поставьте соответствие клетчаточных пространств шеи и фасций, которые их образуют: 1) sp. retroviscerale; 2) sp. prevertebrale; 3) sp. trigonum laterale; 4) sp. Grubera; 5) sp. pretracheale: а) 2 и 3; б) 4 и 5; в) 2 и 5; г) 4; д)",
+        "1в; 2а; 3г; 4б; 5д",
+        "1а; 2в; 3г; 4д; 5б",
+        "1б; 2а; 3г; 4д; 5в",
+        "1б: 2д; 3в; 4а; 5г",
+        "1д; 2б; 3а; 4в; 5г"
+      ]
+    },
+    {
+      "id": "top_190",
+      "arr": [
+        "В каком направлении целесообразно делать разрезы для вскрытия интрамаммарных абсцессов",
+        "В радиальном",
+        "В полукружном",
+        "В косом",
+        "В вертикальном",
+        "Направление не имеет значения"
+      ]
+    },
+    {
+      "id": "top_191",
+      "arr": [
+        "Отток лимфы от нижнемедиального квадранта молочной железы осуществляется",
+        "В подмышечные лимфоузлы",
+        "В окологрудинные лимфоузлы",
+        "В подключичные лимфоузлы",
+        "В поддиафрагмальные лимфоузлы",
+        "В подпеченочные лимфоузлы"
+      ]
+    },
+    {
+      "id": "top_192",
+      "arr": [
+        "Какие слои не относятся к передней грудной стенке",
+        "Поверхностная фасция",
+        "Скарповская фасция",
+        "Томпсонова фасция",
+        "Ключично-грудная фасция",
+        "Грудная фасция"
+      ]
+    },
+    {
+      "id": "top_193",
+      "arr": [
+        "Межреберный сосудисто-нервный пучок расположен",
+        "Под грудной фасцией",
+        "Между межреберными мышцами",
+        "В параплевральной клетчатке",
+        "Под поверхностной фасцией",
+        "Все варианты ответов не верны"
+      ]
+    },
+    {
+      "id": "top_194",
+      "arr": [
+        "Назовите ветви щито-шейного ствола",
+        "Верхняя щитовидная артерия",
+        "Нижняя щитовидная артерия",
+        "Восходящая шейная артерия",
+        "Поверхностная шейная артерия",
+        "Надлопаточная артерия"
+      ]
+    },
+    {
+      "id": "top_195",
+      "arr": [
+        "Какие образования не относятся к плевральным синусам",
+        "Реберно-диафрагмальный синус",
+        "Передне-нижний синус",
+        "Средостенно-диафрагмальный синус",
+        "Реберно-средостенный синус",
+        "Поперечный синус"
+      ]
+    },
+    {
+      "id": "top_196",
+      "arr": [
+        "Пункцию плевральной полости производят по верхнему краю ребра",
+        "Для облегчения анестезии",
+        "Из-за повреждения межреберных мышц",
+        "Из-за повреждения межреберного сосудисто-нервного пучка",
+        "Из-за возможности пневмоторокса",
+        "Из-за особенностей строения надкостницы"
+      ]
+    },
+    {
+      "id": "top_197",
+      "arr": [
+        "Какие образования относятся к элементам корня легкого",
+        "Легочная артерия",
+        "Межреберный нерв",
+        "Бронхиальная артерия",
+        "Лимфатические узлы",
+        "Главный бронх"
+      ]
+    },
+    {
+      "id": "top_198",
+      "arr": [
+        "Какие образования относятся к элементам корня легкого",
+        "Легочная вена",
+        "Зональный бронх",
+        "Грудной лимфатический проток",
+        "Лимфатические сосуды",
+        "Бронхиальная вена"
+      ]
+    },
+    {
+      "id": "top_199",
+      "arr": [
+        "Укажите расположение лимфатического узла Зоргиуса",
+        "По ходу внутренней грудной артерии",
+        "Под наружным краем большой грудной мышцы на уровне III ребра",
+        "Между большой и малой грудными мышцами",
+        "На IV зубце передней зубчатой мышцы",
+        "Над ключицей кзади от грудино-ключично-сосцевидной мышцы"
+      ]
+    },
+    {
+      "id": "top_200",
+      "arr": [
+        "Укажите расположение лимфатического узла Бартельса",
+        "Между большой и малой грудными мышцами",
+        "В ямке Моренгейма",
+        "На IV зубце передней зубчатой мышцы",
+        "На 1,5 см вверх от ключичной ножки грудино-ключично-сосцевидной мышцы",
+        "По переднему краю линии роста волос подмышечной ямки"
+      ]
+    },
+    {
+      "id": "top_201",
+      "arr": [
+        "Укажите расположение лимфатического узла Роттера",
+        "В ямке Моренгейма",
+        "На III зубце передней зубчатой мышцы",
+        "На 1,5 см вверх от ключичной ножки грудино-ключично-сосцевидной мышцы",
+        "Между большой и малой грудными мышцами",
+        "В проекции вырезки грудины"
+      ]
+    },
+    {
+      "id": "top_202",
+      "arr": [
+        "Укажите расположение лимфатического узла Труазье",
+        "На 1,5 см вверх от ключичной ножки грудино-ключично-сосцевидной мышцы",
+        "Между большой и малой грудными мышцами",
+        "По ходу внутренней грудной артерии",
+        "На V зубце передней зубчатой мышцы",
+        "В ямке Моренгейма"
+      ]
+    },
+    {
+      "id": "top_203",
+      "arr": [
+        "Топография основных элементов в корне правого легкого сверху вниз",
+        "Бронх, легочная артерия, легочная вена",
+        "Легочная вена, бронх, легочная артерия",
+        "Легочная артерия, бронх, легочная вена",
+        "Легочная артерия, легочная вена, бронх",
+        "Бронх, легочная вена, легочная артерия"
+      ]
+    },
+    {
+      "id": "top_204",
+      "arr": [
+        "Топография основных элементов в корне левого легкого сверху вниз",
+        "Легочная артерия, легочная вена, бронх",
+        "Бронх, легочная артерия, легочная вена",
+        "Легочная артерия, бронх, легочная вена",
+        "Бронх, легочная вена, легочная артерия",
+        "Легочная вена, легочная артерия, бронх"
+      ]
+    },
+    {
+      "id": "top_205",
+      "arr": [
+        "Топография основных элементов в корнях легких спереди -назад",
+        "Легочная артерия, легочная вена, бронх",
+        "Легочная вена, легочная артерия, бронх",
+        "Легочная артерия, бронх, легочная вена",
+        "Бронх, легочная вена, легочная артерия",
+        "Бронх, легочная артерия, легочная вена"
+      ]
+    },
+    {
+      "id": "top_206",
+      "arr": [
+        "На каком уровне производят пункцию при свободном выпоте в плевральную полость",
+        "На уровне верхнего края выпота",
+        "В центре выпота",
+        "В наиболее низкой точке полости",
+        "Ниже уровня жидкости",
+        "Выбор уровня не имеет значения"
+      ]
+    },
+    {
+      "id": "top_207",
+      "arr": [
+        "Какой нерв не принимает участия в иннервации сердца",
+        "Блуждающий нерв",
+        "Симпатический ствол",
+        "Возвратный нерв",
+        "Диафрагмальный нерв",
+        "Чревные нервы"
+      ]
+    },
+    {
+      "id": "top_208",
+      "arr": [
+        "В каком положении больного производят пункцию плевральной полости",
+        "Положение больного не имеет значения",
+        "В положении сидя, с согнутым туловищем",
+        "Лежа на противоположном боку",
+        "Лежа на животе",
+        "В полусидячем положении"
+      ]
+    },
+    {
+      "id": "top_209",
+      "arr": [
+        "Что является ориентиром для рассечения средостенной плевры во время операции на открытом артериальном протоке",
+        "III межреберный нерв",
+        "Промежуток между блуждающим и диафрагмальным нервами",
+        "Промежуток между блуждающим и возвратным нервами",
+        "Большой внутренностный нерв",
+        "Промежуток между блуждающим нервом и симпатическим стволом"
+      ]
+    },
+    {
+      "id": "top_210",
+      "arr": [
+        "Какие образования не являются границей средостения",
+        "Грудина и реберные хрящи",
+        "Позвоночник",
+        "Ключица",
+        "Ребра",
+        "Диафрагма"
+      ]
+    },
+    {
+      "id": "top_211",
+      "arr": [
+        "По какому краю ребра производится вкол иглы при пункции плевральной полости",
+        "По нижнему краю ребра",
+        "По верхнему краю ребра",
+        "Выбор точки зависит от проведения пункции",
+        "По середине межреберья",
+        "Все ответы верны"
+      ]
+    },
+    {
+      "id": "top_212",
+      "arr": [
+        "Назовите средостенные ветви a. toracica interna",
+        "A. epigastrica inferior",
+        "A. pericardiacophrenica",
+        "A. musculoepigastrica",
+        "A. musculophrenica",
+        "A. epigastrica superior"
+      ]
+    },
+    {
+      "id": "top_213",
+      "arr": [
+        "Скелетотопия корня легкого определяется",
+        "Th 3 - Th",
+        "Th 4 - Th",
+        "Th 5 - Th",
+        "Th 5 - Th",
+        "Th 6 - Th"
+      ]
+    },
+    {
+      "id": "top_214",
+      "arr": [
+        "Какие образования не относятся к органам верхнего средостения",
+        "Плечеголовные вены",
+        "Вилочковая железа",
+        "Трахея",
+        "Щитовидная железа и паращитовидные железы",
+        "Сердце с перикардом"
+      ]
+    },
+    {
+      "id": "top_215",
+      "arr": [
+        "Какие образования относятся к заднему средостению",
+        "Диафрагмальные нервы",
+        "Полунепарная вена",
+        "Пищевод",
+        "Блуждающие нервы",
+        "Нижняя полая вена"
+      ]
+    },
+    {
+      "id": "top_216",
+      "arr": [
+        "Какого отдела перикарда не существует",
+        "Грудино-реберный",
+        "Диафрагмальный",
+        "Брюшной",
+        "Средостенный",
+        "Верхний"
+      ]
+    },
+    {
+      "id": "top_217",
+      "arr": [
+        "Какие сосуды входят в правое предсердие сердца",
+        "Нижняя полая вена",
+        "Легочные вены",
+        "Легочные артерии",
+        "Верхняя полая вена",
+        "Легочной ствол"
+      ]
+    },
+    {
+      "id": "top_218",
+      "arr": [
+        "Какие сосуды входят в левое предсердие сердца",
+        "Нижняя полая вена",
+        "Легочные вены",
+        "Легочные артерии",
+        "Верхняя полая вена",
+        "Легочной ствол"
+      ]
+    },
+    {
+      "id": "top_219",
+      "arr": [
+        "При каком виде пневмоторакса наблюдаются наиболее тяжелые нарушения",
+        "При открытом",
+        "При закрытом",
+        "При клапанном",
+        "При спонтанном",
+        "При комбинированном"
+      ]
+    },
+    {
+      "id": "top_220",
+      "arr": [
+        "Чем сопровождается проникающее ранение грудной клетки",
+        "Ателектаз легкого",
+        "Эмфизема легкого",
+        "Гемоторакс",
+        "Эмпиема легкого",
+        "Плевропульмональный шок"
+      ]
+    },
+    {
+      "id": "top_221",
+      "arr": [
+        "Виды пневмоторакса при проникающих ранениях груди",
+        "Открытый",
+        "Смешанный",
+        "Закрытый",
+        "Спонтанный",
+        "Клапанный"
+      ]
+    },
+    {
+      "id": "top_222",
+      "arr": [
+        "Мастэктомия по Холстеду-Маеру предполагает",
+        "Удаление половины молочной железы, подмышечной клетчатки, с сохранением грудных мышц",
+        "Удаление молочной железы, подмышечной клетчатки с сохранением грудных мышц",
+        "Удаление молочной железы, подмышечной клетчатки и малой грудной мышцы",
+        "Удаление молочной железы, подмышечной клетчатки, большой и малой грудных мышц",
+        "Удаление молочной железы, большой и малой грудных мышц, клетчатки надплечья и парастернальных лимфоузлов"
+      ]
+    },
+    {
+      "id": "top_223",
+      "arr": [
+        "Укажите хирургические доступы при операциях на органах грудной клетки",
+        "Плевральный доступ",
+        "Внеплевральный доступ",
+        "Чресплевральный доступ",
+        "Чресдвуплевральный доступ",
+        "Чресдиафрагмальный"
+      ]
+    },
+    {
+      "id": "top_224",
+      "arr": [
+        "В зависимости от направления оси операционного действия различают следующие доступы к органам грудной полости",
+        "Переднебоковые",
+        "Заднебоковые",
+        "Горизонтальные",
+        "Верхнебоковые",
+        "Продольные"
+      ]
+    },
+    {
+      "id": "top_225",
+      "arr": [
+        "Легочные артерии являются ветвями",
+        "Нисходящей аорты",
+        "Восходящей аорты",
+        "Легочного ствола",
+        "Межреберные артерии",
+        "Бронхиальные артерии"
+      ]
+    },
+    {
+      "id": "top_226",
+      "arr": [
+        "Задняя межжелудочковая ветвь отходит",
+        "Левой венечной артерии сердца",
+        "Правой венечной артерии сердца",
+        "Восходящей аорты",
+        "Легочного ствола",
+        "Левой легочной артерии"
+      ]
+    },
+    {
+      "id": "top_227",
+      "arr": [
+        "Какие образования не находятся позади вилочковой железы",
+        "Щитовидная железа",
+        "Плечеголовной ствол",
+        "Левая общая сонная артерия",
+        "Плечеголовные вены",
+        "Пищевод"
+      ]
+    },
+    {
+      "id": "top_228",
+      "arr": [
+        "Какие образования лежат позади дуги аорты",
+        "Трахея",
+        "Пищевод",
+        "Грудной лимфатический проток",
+        "Левый возвратный нерв",
+        "Все варианты ответов верны"
+      ]
+    },
+    {
+      "id": "top_229",
+      "arr": [
+        "Выберите элементы, расположенные кзади от нисходящей аорты",
+        "V. azygos",
+        "V. hemiazygos",
+        "Truncus sympathicus",
+        "V. hemiazygos accessoria",
+        "Oesophagus"
+      ]
+    },
+    {
+      "id": "top_230",
+      "arr": [
+        "Укажите элементы, проходящие в средостении позади пищевода",
+        "Полунепарная вена",
+        "Правые межреберные артерии",
+        "Правый блуждающий нерв",
+        "Грудной проток",
+        "Внутренняя грудная артерия"
+      ]
+    },
+    {
+      "id": "top_231",
+      "arr": [
+        "Формирование ductus toracicus происходит",
+        "В брюшной полости",
+        "В заднем средостении",
+        "В переднем средостении",
+        "В забрюшинном пространстве",
+        "На шее, в зоне венозного угла Пирогова"
+      ]
+    },
+    {
+      "id": "top_232",
+      "arr": [
+        "Внутренняя грудная артерия является ветвью",
+        "Дуги аорты",
+        "Плечеголовного ствола",
+        "Подключичной артерии 2-го отдела",
+        "Подключичной артерии 1-го отдела",
+        "Подмышечной артерии 3-го отдела"
+      ]
+    },
+    {
+      "id": "top_233",
+      "arr": [
+        "Какие отделы сердца прилежат к передней грудной стенке",
+        "Правое ушко",
+        "Правое предсердие",
+        "Левое предсердие",
+        "Правый желудочек",
+        "Верхушка левого желудочка"
+      ]
+    },
+    {
+      "id": "top_234",
+      "arr": [
+        "Укажите последовательность анатомических образований верхнего средостения спереди-назад: 1) дуга аорты; 2) трахея; 3) тимус; 4) плечеголовные вены. а) 1; б) 2; в) 3; г) 4.",
+        "3а; 4б; 1в; 2г",
+        "2а; 4б; 3в; 1г",
+        "4а; 1б; 2в; 3г",
+        "3а; 1б; 4в; 2г",
+        "1а; 3б; 2в; 4г"
+      ]
+    },
+    {
+      "id": "top_235",
+      "arr": [
+        "Установите соответствие оболочек сердца с их названием: 1) внутренняя оболочка сердца; 2) средняя оболочка сердца; 3) наружная оболочка сердца; 4) околосердечная сумка. а) миокард; б) перикард; в) эндокард; г) эпикард",
+        "1в; 2а; 3б; 4г",
+        "1в; 2б; 3г; 4а",
+        "1в; 2а; 3г; 4б",
+        "1г; 2б; 3а; 4в",
+        "1а; 2г; 3б; 4в"
+      ]
+    },
+    {
+      "id": "top_236",
+      "arr": [
+        "Соотнесите анатомические ориентиры согласно расположению Баталова протока: 1) дуга аорты; 2) легочной ствол; 3) возвратный нерв: а) сверху; б) сзади; в) снизу",
+        "1б; 2в; 3а",
+        "1б; 2а; 3в",
+        "1а; 2б; 3в",
+        "1в; 2а; 3б",
+        "1а; 2в; 3б"
+      ]
+    },
+    {
+      "id": "top_237",
+      "arr": [
+        "Между медиальными ножками диафрагмы проходят",
+        "Грудной проток",
+        "Диафрагмальный нерв",
+        "Симпатический ствол",
+        "Аорта",
+        "Нижняя полая вена"
+      ]
+    },
+    {
+      "id": "top_238",
+      "arr": [
+        "Между медиальными ножками диафрагмы проходят",
+        "Симпатический ствол",
+        "Пищевод",
+        "Верхняя полая вена",
+        "Блуждающие нервы",
+        "Полунепарная вена"
+      ]
+    },
+    {
+      "id": "top_239",
+      "arr": [
+        "Укажите элементы проходящие через сухожильный центр диафрагмы",
+        "Верхняя полая вена",
+        "Нижняя полая вена",
+        "Большой внутренностный нерв",
+        "Правый диафрагмальный нерв",
+        "Левый диафрагмальный нерв"
+      ]
+    },
+    {
+      "id": "top_240",
+      "arr": [
+        "Органы, проецируемые в правую боковую область",
+        "Слепая кишка",
+        "Почка и мочеточник",
+        "Восходящая ободочная кишка",
+        "Двенадцатиперстная кишка",
+        "Червеобразный отросток"
+      ]
+    },
+    {
+      "id": "top_241",
+      "arr": [
+        "Органы, проецируемые в левую боковую область",
+        "Петли подвздошной кишки",
+        "Нисходящая ободочная кишка",
+        "Петли тощей кишки",
+        "Левый мочеточник",
+        "Селезенка"
+      ]
+    },
+    {
+      "id": "top_242",
+      "arr": [
+        "В срединной складке брюшины располагаются",
+        "Облитерированные пупочные артерии",
+        "Облитерированные пупочные вены",
+        "Облитерированный мочевой проток",
+        "Верхние надчревные сосуды",
+        "Нижние надчревные сосуды"
+      ]
+    },
+    {
+      "id": "top_243",
+      "arr": [
+        "В латеральных складках брюшины располагаются",
+        "Облитерированные пупочные артерии",
+        "Облитерированные пупочные вены",
+        "Облитерированный мочевой проток",
+        "Верхние надчревные сосуды",
+        "Нижние надчревные сосуды"
+      ]
+    },
+    {
+      "id": "top_244",
+      "arr": [
+        "Источники иннервации брюшной стенки",
+        "Подвздошно-подчревный нерв",
+        "Нервы крестцового сплетения",
+        "Подвздошно-паховый нерв",
+        "VI пар нижних межреберных нервов",
+        "Латеральный нерв груди"
+      ]
+    },
+    {
+      "id": "top_245",
+      "arr": [
+        "В медиальных складках брюшины располагаются",
+        "Облитерированные пупочные артерии",
+        "Облитерированные пупочные вены",
+        "Облитерированный мочевой проток",
+        "Верхние надчревные сосуды",
+        "Нижние надчревные сосуды"
+      ]
+    },
+    {
+      "id": "top_246",
+      "arr": [
+        "Установите соответствие стенок пахового канала грыженосителя: 1) апоневроз наружной косой мышцы живота; 2) поперечная и внутренняя косая мышцы живота; 3) паховая связка; 4) поперечная фасция. а) сверху; б) снизу; в) сзади; г) спереди",
+        "1г; 2в; 3б; 4а",
+        "1в; 2а; 3г; 4б",
+        "1б; 2а; 3в; 4г",
+        "1а; 2в; 3г; 4б",
+        "1г; 2а; 3б; 4в"
+      ]
+    },
+    {
+      "id": "top_247",
+      "arr": [
+        "Укажите характеристики для косой паховой грыжи",
+        "Повторяет ход пахового канала",
+        "Идет через паховый промежуток",
+        "Бывает и врожденная и приобретенная",
+        "Семенной канатик изолирован от грыжевого мешка",
+        "Опускается в мошонку"
+      ]
+    },
+    {
+      "id": "top_248",
+      "arr": [
+        "Стенками пахового канала являются",
+        "Латеральный край прямой мышцы живота",
+        "Апоневроз наружной косой мышцы живота",
+        "Поперечная фасция",
+        "Томпсонова фасция",
+        "Париетальная брюшина"
+      ]
+    },
+    {
+      "id": "top_249",
+      "arr": [
+        "Стенками пахового канала являются",
+        "Прямая мышца живота",
+        "Внутренняя косая мышца",
+        "Висцеральная брюшина",
+        "Поперечная фасция",
+        "Паховая связка"
+      ]
+    },
+    {
+      "id": "top_250",
+      "arr": [
+        "Укажите характеристики для прямой паховой грыжи",
+        "Часто бывает двухсторонняя",
+        "Не повторяет ход пахового канала",
+        "Семенной канатик расположен кнутри от грыжевого мешка",
+        "Никогда не бывает врожденной",
+        "Идет латеральнее от латеральной паховой складки"
+      ]
+    },
+    {
+      "id": "top_251",
+      "arr": [
+        "Слабые места передней брюшной стенки",
+        "Треугольник Пти",
+        "Треугольник Бохдалека",
+        "Пупочное кольцо",
+        "Треугольник Морганьи",
+        "Полукружная линия"
+      ]
+    },
+    {
+      "id": "top_252",
+      "arr": [
+        "Слабые места передней брюшной стенки",
+        "Влагалище прямой мышцы живота",
+        "Паховый промежуток",
+        "Белая линия живота",
+        "Спигелиева линия",
+        "Паховая связка"
+      ]
+    },
+    {
+      "id": "top_253",
+      "arr": [
+        "Слабые места передней брюшной стенки",
+        "Дугласова линия",
+        "Латеральная ямка",
+        "Треугольник Ларрея",
+        "Надпузырная ямка",
+        "Треугольник Лесгафта"
+      ]
+    },
+    {
+      "id": "top_254",
+      "arr": [
+        "Место выхода прямой паховой грыжи",
+        "Латеральная паховая ямка",
+        "Медиальная паховая ямка",
+        "Надпузырная ямка",
+        "Пупочное кольцо",
+        "Наружное отверстие пахового канала"
+      ]
+    },
+    {
+      "id": "top_255",
+      "arr": [
+        "Место входа косой паховой грыжи",
+        "Медиальная паховая ямка",
+        "Надпузырная ямка",
+        "Латеральная паховая ямка",
+        "Пупочное кольцо",
+        "Наружное отверстие пахового канала"
+      ]
+    },
+    {
+      "id": "top_256",
+      "arr": [
+        "Способы укрепления передней стенки пахового канала",
+        "Способ Жирара-Спасокукоцкого",
+        "Способ Бассини",
+        "Способ Боброва",
+        "Способ Лексера",
+        "Способ Мейо"
+      ]
+    },
+    {
+      "id": "top_257",
+      "arr": [
+        "Способы укрепления передней стенки пахового канала",
+        "Способ Жирара-Спасокукоцкого со швами Кимбаровского",
+        "Способ Лука-Боброва",
+        "Способ Сапежко",
+        "Способ Мейо",
+        "Способ Жирара"
+      ]
+    },
+    {
+      "id": "top_258",
+      "arr": [
+        "Способы укрепления задней стенки пахового канала",
+        "Способ Жирара-Спасокукоцкого",
+        "Способ Сапежко",
+        "Способ Бассини",
+        "Способ Мейо",
+        "Способ Постемпского"
+      ]
+    },
+    {
+      "id": "top_259",
+      "arr": [
+        "Укажите связки, которые образуют малый сальник",
+        "Lig. phrenicogastricum",
+        "Lig. hepatogastricum",
+        "Lig. gastrolienalis",
+        "Lig. hepatoduodenale",
+        "Lig. phrenicocolicum"
+      ]
+    },
+    {
+      "id": "top_260",
+      "arr": [
+        "Какие образования лежат между листками lig. hepatoduodenale",
+        "A. gastrica dextra",
+        "V. porta",
+        "V. coronaria ventriculi",
+        "Ductus choledochus",
+        "A. hepatica propria"
+      ]
+    },
+    {
+      "id": "top_261",
+      "arr": [
+        "Передняя стенка влагалища прямой мышцы живота выше пупка образована",
+        "Апоневрозом наружной косой мышцы живота",
+        "Поверхностным листком апоневроза внутренней косой мышцы живота",
+        "Глубоким листком апоневроза внутренней мышцы живота",
+        "Поперечной фасцией",
+        "Париетальной брюшиной"
+      ]
+    },
+    {
+      "id": "top_262",
+      "arr": [
+        "Задняя стенка влагалища прямой мышцы живота ниже пупка образована",
+        "Апоневрозом наружной косой мышцы живота",
+        "Поверхностным листком апоневроза внутренней косой мышцы живота",
+        "Глубоким листком апоневроза внутренней мышцы живота",
+        "Апоневрозом поперечной мышцы живота",
+        "Поперечной фасцией"
+      ]
+    },
+    {
+      "id": "top_263",
+      "arr": [
+        "Брюшную полость на этажи делит",
+        "Поперечно-ободочная кишка",
+        "Брыжейка поперечно-ободочной кишки",
+        "Малый сальник",
+        "Брыжейка тонкой кишки",
+        "Большой сальник"
+      ]
+    },
+    {
+      "id": "top_264",
+      "arr": [
+        "Что образует печеночную сумку",
+        "Правая доля печени",
+        "Серповидная связка печени",
+        "Круглая связка печени",
+        "Коронарная связка печени",
+        "Диафрагма"
+      ]
+    },
+    {
+      "id": "top_265",
+      "arr": [
+        "Что образует печеночную сумку",
+        "Передняя брюшная стенка",
+        "Правая почка",
+        "Желудок",
+        "Брыжейка поперечно-ободочной кишки",
+        "12-ти перстная кишка"
+      ]
+    },
+    {
+      "id": "top_266",
+      "arr": [
+        "Какая из перечисленных сумок брюшной полости располагается более глубоко",
+        "Печеночная",
+        "Преджелудочная",
+        "Желудочная",
+        "Сальниковая",
+        "Почечная"
+      ]
+    },
+    {
+      "id": "top_267",
+      "arr": [
+        "Укажите, какая из перечисленных сумок является изолированной",
+        "Преджелудочная",
+        "Сальниковая",
+        "Предпеченочная",
+        "Печеночная",
+        "Предсальниковый промежуток"
+      ]
+    },
+    {
+      "id": "top_268",
+      "arr": [
+        "Через какое образование происходит сообщение печеночной и преджелудочной сумок",
+        "Правый боковой канал",
+        "Сальниковое отверстие",
+        "Левый боковой канал",
+        "Предсальниковый промежуток",
+        "Трейцева связка"
+      ]
+    },
+    {
+      "id": "top_269",
+      "arr": [
+        "Перечислите органы брюшной полости, покрытые брюшиной со всех сторон",
+        "Печень",
+        "Желудок",
+        "Селезенка",
+        "Слепая кишка",
+        "Восходящий отдел толстого кишечника"
+      ]
+    },
+    {
+      "id": "top_270",
+      "arr": [
+        "Связка печени, содержащая только артериальные и венозные сосуды",
+        "Печеночно-двенадцатиперстная",
+        "Серповидная",
+        "Печеночно-почечная",
+        "Венечная",
+        "Печеночно-желудочная"
+      ]
+    },
+    {
+      "id": "top_271",
+      "arr": [
+        "Перечислите элементы, расположенные в левой продольной борозде печени",
+        "Воротная вена",
+        "Венозная связка",
+        "Нижняя полая вена",
+        "Круглая связка печени",
+        "Серповидная связка печени"
+      ]
+    },
+    {
+      "id": "top_272",
+      "arr": [
+        "Что образует сальниковую сумку",
+        "Желудок и малый сальник",
+        "Хвостатая доля печени",
+        "Правая почка",
+        "Париетальная брюшина, покрывающая поджелудочную железу",
+        "12-ти перстная кишка"
+      ]
+    },
+    {
+      "id": "top_273",
+      "arr": [
+        "Что образует сальниковую сумку",
+        "Селезенка",
+        "Тонкий кишечник",
+        "Брыжейка поперечно-ободочной кишки",
+        "Воротная вена печени",
+        "Диафрагма"
+      ]
+    },
+    {
+      "id": "top_274",
+      "arr": [
+        "Что образует преджелудочную сумку",
+        "Поперечно-ободочная кишка с брыжейкой",
+        "Передняя стенка желудка",
+        "Задняя стенка желудка",
+        "Нижняя полая вена",
+        "Серповидная связка печени"
+      ]
+    },
+    {
+      "id": "top_275",
+      "arr": [
+        "Заднюю стенку преджелудочной сумки образует",
+        "Диафрагма",
+        "Левая доля печени",
+        "Малый сальник",
+        "Передняя брюшная стенка",
+        "Передняя поверхность желудка с его связками"
+      ]
+    },
+    {
+      "id": "top_276",
+      "arr": [
+        "Какие нервы располагаются в паховом канале",
+        "N. iliohypogastricus",
+        "N. ilioinguinalis",
+        "Ramus femoralis n. genitofemoralis",
+        "Ramus genitalis n. genitofemoralis",
+        "N. pudendus"
+      ]
+    },
+    {
+      "id": "top_277",
+      "arr": [
+        "Что является грыжевым мешком при врожденной паховой грыже",
+        "Висцеральная брюшина",
+        "Поперечная фасция",
+        "Влагалищный отросток брюшины",
+        "Париетальный отросток брюшины",
+        "Внутренностная фасция живота"
+      ]
+    },
+    {
+      "id": "top_278",
+      "arr": [
+        "Границами треугольника Кало являются",
+        "Левый печеночный проток",
+        "Пузырный проток",
+        "Общий печеночный проток",
+        "Пузырная артерия",
+        "Правая печеночная артерия"
+      ]
+    },
+    {
+      "id": "top_279",
+      "arr": [
+        "Укажите скелетотопию внебрюшинного поля печени",
+        "10 ребро задняя подмышечная линия-12 ребро задняя подмышечная линия",
+        "10 ребро лопаточная линия-12 ребро паравертебральная линия",
+        "9 ребро задняя подмышечная линия-11 ребро лопаточная линия",
+        "9 ребро лопаточная линия-11 ребро паравертебральная линия",
+        "8 ребро лопаточная линия- 10 ребро паравертебральная линия"
+      ]
+    },
+    {
+      "id": "top_280",
+      "arr": [
+        "Патологические жидкости распространяются из верхнего этажа брюшной полости в нижний через",
+        "Правую брыжеечную пазуху",
+        "Левый боковой канал",
+        "Печеночную сумку в правый боковой канал",
+        "Сальниковую сумку",
+        "Преджелудочную сумку"
+      ]
+    },
+    {
+      "id": "top_281",
+      "arr": [
+        "Дно желчного пузыря на переднюю брюшную стенку проецируется",
+        "Нижний край V ребра по правой сосковой линии",
+        "Пересечение наружного края прямой мышцы живота с реберной дугой",
+        "По краю реберной дуги на уровне сосковой линии",
+        "Середина расстояния между пупком и мечевидным отростком",
+        "Нет правильных ответов"
+      ]
+    },
+    {
+      "id": "top_282",
+      "arr": [
+        "В какой связке проходят короткие желудочные сосуды",
+        "Желудочно-селезеночной",
+        "Селезеночно-диафрагмальной",
+        "Селезеночно-почечной",
+        "Желудочно-диафрагмальной",
+        "Поджелудочно-селезеночной"
+      ]
+    },
+    {
+      "id": "top_283",
+      "arr": [
+        "Венозный отток от селезенки идет",
+        "В воротную вену печени",
+        "В верхнюю брыжеечную вену",
+        "В нижнюю полую вену",
+        "В венечную вену желудка",
+        "В нижнюю брыжеечную вену"
+      ]
+    },
+    {
+      "id": "top_284",
+      "arr": [
+        "Поджелудочная железа расположена",
+        "Внутрибрюшинно",
+        "Забрюшинно",
+        "Покрыта брюшиной с трёх сторон",
+        "Подбрюшинно",
+        "Не покрыта брюшиной"
+      ]
+    },
+    {
+      "id": "top_285",
+      "arr": [
+        "Скелетотопия головки поджелудочной железы",
+        "Th11-Th12",
+        "Th12-L3",
+        "L2-L3",
+        "L1-L2",
+        "Th10-Th11"
+      ]
+    },
+    {
+      "id": "top_286",
+      "arr": [
+        "Между листками печеночно-желудочной связки находится",
+        "Правая желудочная артерия",
+        "Левая желудочная артерия",
+        "Правая желудочно-ободочная артерия",
+        "Чревный ствол",
+        "Венечная вена желудка"
+      ]
+    },
+    {
+      "id": "top_287",
+      "arr": [
+        "Волокнами каких мышц образована m. cremaster",
+        "Пирамидальная мышца",
+        "Наружная косая мышца живота",
+        "Внутренняя косая мышца живота",
+        "Прямая мышца живота",
+        "Поперечная мышца живота"
+      ]
+    },
+    {
+      "id": "top_288",
+      "arr": [
+        "Нижняя граница правой доли печени соответствует",
+        "Горизонтальной линии, соединяющей нижние точки X ребер",
+        "На 2 см ниже края правой реберной дуги",
+        "Уровню XII грудного позвонка",
+        "VII межреберью справа по средней ключичной линии",
+        "VIII межреберью справа по передней подмышечной линии"
+      ]
+    },
+    {
+      "id": "top_289",
+      "arr": [
+        "Расставьте этапы операции при не ущемлённой грыже с момента доступа: 1) 1 этап; 2) 2 этап; 3) 3 этап; 4) 4 этап; 5) 5 этап; 6) 6 этап. а) вскрытие пахового канала; б) вскрытие грыжевого мешка; в) выделение грыжевого мешка; г) отсечение грыжевого мешка; д) погружение культи в брюшную полость; е) наложение кисетного шва на брюшину",
+        "1а; 2в; 3б; 4г; 5д; 6е",
+        "1в; 2а; 3б; 4е; 5г; 6д",
+        "1в; 2б; 3а; 4г; 5д; 6е",
+        "1б; 2а; 3в; 4д; 5г; 6е",
+        "1в; 2г; 3б; 4а; 5е; 6д"
+      ]
+    },
+    {
+      "id": "top_290",
+      "arr": [
+        "Расставьте этапы операции при ущемленной грыже с момента доступа: 1) 1 этап; 2) 2 этап; 3) 3 этап; 4) 4 этап; 5) 5 этап; 6) 6 этап; 7) этап. а) вскрытие пахового канала; б) выделение грыжевого мешка; в) вскрытие грыжевого мешка; г) наложение кисетного шва; д) ревизия грыжевого мешка; е) погружение культи; ж) отсечение грыжевого мешка",
+        "1а; 2в; 3б; 4д; 5ж; 6е; 7г",
+        "1б; 2в; 3а; 4д; 5ж; 6г; 7е",
+        "1б; 2а; 3в; 4д; 5г; 6ж; 7е",
+        "1в; 2б; 3ф; 4г; 5д; 6е; 7ж",
+        "1б; 2в; 3а; 4д; 5г; 6ж; 7е"
+      ]
+    },
+    {
+      "id": "top_291",
+      "arr": [
+        "Скелетотопия селезенки",
+        "IX-XI ребро слева",
+        "X-XII ребро слева",
+        "IX-XII ребро слева",
+        "VIII-X ребро слева",
+        "Все ответы не верны"
+      ]
+    },
+    {
+      "id": "top_292",
+      "arr": [
+        "Скелетотопия селезенки",
+        "Th12-L1",
+        "Th10-L3",
+        "Th10-L1",
+        "Th8-Th12",
+        "Th9-L2"
+      ]
+    },
+    {
+      "id": "top_293",
+      "arr": [
+        "Как лежит желудок по отношению к брюшине",
+        "Ретроперитонеально",
+        "Интраперитонеально",
+        "Мезоперитонеально",
+        "Задняя стенка ретроперитонеально",
+        "Передняя стенка мезоперитонеально"
+      ]
+    },
+    {
+      "id": "top_294",
+      "arr": [
+        "Составными частями грыжи являются",
+        "Грыжевые ворота",
+        "Грыжевая щель",
+        "Грыжевой канал",
+        "Грыжевое содержимое",
+        "Грыжевой мешок"
+      ]
+    },
+    {
+      "id": "top_295",
+      "arr": [
+        "Куда впадает общий желчный проток",
+        "В тощую кишку",
+        "В подвздошную кишку",
+        "В нисходящую часть 12-ти перстной кишки",
+        "В поперечно-ободочную кишку",
+        "В верхний отдел 12-ти перстной кишки"
+      ]
+    },
+    {
+      "id": "top_296",
+      "arr": [
+        "Какие образования по синтопии располагаются кзади от поджелудочной железы",
+        "Нижняя полая вена",
+        "Воротная вена",
+        "Аорта",
+        "Селезенка",
+        "Левая почка"
+      ]
+    },
+    {
+      "id": "top_297",
+      "arr": [
+        "Голотопия слепой кишки",
+        "Пупочная область",
+        "Левая подвздошно-паховая область",
+        "Правая подвздошно-паховая область",
+        "На уровне гребня подвздошной кости",
+        "Правая подреберная область"
+      ]
+    },
+    {
+      "id": "top_298",
+      "arr": [
+        "Установите соответствие русских и латинских названий операций на желудке: 1) вскрытие желудка; 2) наложение желудочного свища; 3) желудочно-кишечное соустье; 4) ушивание прободной язвы желудка. а) gastroenterostomia; б) gastrorraphia; в) gastrostomia; г) gastrotomia",
+        "1а; 2в; 3б; 4г",
+        "1г; 2а; 3б; 4в",
+        "1б; 2а; 3г; 4в",
+        "1г; 2в; 3а; 4б",
+        "1в; 2г; 3б; 4а"
+      ]
+    },
+    {
+      "id": "top_299",
+      "arr": [
+        "Какой отдел кишечника, не имеющий брыжейки расположен интраперитонеально",
+        "Тонкая кишка",
+        "Слепая кишка",
+        "Восходящая ободочная кишка",
+        "Поперечно-ободочная кишка",
+        "Сигмовидная кишка"
+      ]
+    },
+    {
+      "id": "top_300",
+      "arr": [
+        "Укажите, какие органы расположены к брюшине интраперитонеально",
+        "Поджелудочная железа",
+        "Желудок",
+        "Желчный пузырь",
+        "Тонкий кишечник",
+        "Нисходящий отдел толстого кишечника"
+      ]
+    },
+    {
+      "id": "top_301",
+      "arr": [
+        "Укажите, какие органы расположены к брюшине интраперитонеально",
+        "Сигмовидная кишка",
+        "Восходящий отдел толстого кишечника",
+        "Селезенка",
+        "Печень",
+        "Поперечно-ободочная кишка"
+      ]
+    },
+    {
+      "id": "top_302",
+      "arr": [
+        "Укажите, какие органы расположены к брюшине мезоперитонеально",
+        "Желудок",
+        "Печень",
+        "Нисходящий отдел толстого кишечника",
+        "Селезенка",
+        "Желчный пузырь"
+      ]
+    },
+    {
+      "id": "top_303",
+      "arr": [
+        "Укажите, какие органы расположены к брюшине ретроперитонеально",
+        "Почки",
+        "Поджелудочная железа",
+        "Сигмовидная кишка",
+        "Нисходящий отдел 12-ти перстной кишки",
+        "Слепая кишка"
+      ]
+    },
+    {
+      "id": "top_304",
+      "arr": [
+        "Какие хирургические доступы используют при аппендэктомии",
+        "По Волковичу-Дьяконову",
+        "По Леннандеру",
+        "По Федорову",
+        "Нижний срединный",
+        "По Бергману-Израэлю"
+      ]
+    },
+    {
+      "id": "top_305",
+      "arr": [
+        "Укажите хирургические доступы к почке",
+        "Разрез Рио-Бранко",
+        "Разрез Федорова",
+        "Разрез Пеана",
+        "Разрез Симона",
+        "Разрез Бергмана-Израэля"
+      ]
+    },
+    {
+      "id": "top_306",
+      "arr": [
+        "Где находится проекция почечных ворот на заднюю стенку живота",
+        "Угол, между наружным краем разгибателя туловища и 12 ребром",
+        "Наружный край 12 ребра",
+        "Середина расстояния между 12 ребром и гребнем подвздошной кости",
+        "По середине ширины разгибателя туловища",
+        "В месте сочленения 12 ребра с позвоночником"
+      ]
+    },
+    {
+      "id": "top_307",
+      "arr": [
+        "Где находится проекция почечных ворот на переднюю стенку живота",
+        "Точка Керра",
+        "Угол между наружным краем прямой мышцы живота и реберной дугой",
+        "Пересечение внутренней косой мышцы живота с прямой мышцей",
+        "Пересечение мышцы разгибателя туловища с наружной косой мышцей живота",
+        "Пересечение 10 ребра с наружной косой мышцей живота"
+      ]
+    },
+    {
+      "id": "top_308",
+      "arr": [
+        "Мышцы, образующие второй слой поясничной области",
+        "Широчайшая мышца спины",
+        "Мышца, выпрямляющая позвоночник",
+        "Нижняя зубчатая мышца",
+        "Внутренняя косая мышца живота",
+        "Квадратная мышца спины"
+      ]
+    },
+    {
+      "id": "top_309",
+      "arr": [
+        "Мышцы, не образующие третий слой поясничной области",
+        "Широчайшая мышца спины",
+        "Поперечная мышца живота",
+        "Подвздошно-поясничная мышца",
+        "Квадратная мышца поясницы",
+        "Большая поясничная мышца"
+      ]
+    },
+    {
+      "id": "top_310",
+      "arr": [
+        "При наложении шва Кузнецова-Пенского лигатуры по отношению к сосудам накладываются:",
+        "В косом направлении",
+        "В поперечном направлении",
+        "В продольном направлении",
+        "Крестообразно",
+        "По диагонали"
+      ]
+    },
+    {
+      "id": "top_311",
+      "arr": [
+        "Назовите ветви нижней брыжеечной артерии",
+        "A. colica sinistra",
+        "A. iliocolica",
+        "A. rectalis media",
+        "A. rectalis superior",
+        "A. sigmoideae"
+      ]
+    },
+    {
+      "id": "top_312",
+      "arr": [
+        "Укажите скелетотопию печеночного изгиба поперечно-ободочной кишки",
+        "Хрящ IX ребра",
+        "Хрящ VII ребра",
+        "Хрящ VI ребра",
+        "Хрящ X ребра",
+        "Хрящ VIII ребра"
+      ]
+    },
+    {
+      "id": "top_313",
+      "arr": [
+        "Укажите скелетотопию селезеночного изгиба поперечно-ободочной кишки",
+        "Хрящ VII ребра",
+        "Хрящ VIII ребра",
+        "Хрящ X ребра",
+        "Хрящ IX ребра",
+        "Хрящ VI ребра"
+      ]
+    },
+    {
+      "id": "top_314",
+      "arr": [
+        "Какие связки желудка соответствуют большой кривизне",
+        "Желудочно-ободочная",
+        "Желудочно-печеночная",
+        "Желудочно-селезеночная",
+        "Желудочно-диафрагмальная",
+        "Печеночно-двенадцатиперстная"
+      ]
+    },
+    {
+      "id": "top_315",
+      "arr": [
+        "Венозный отток от печени идет",
+        "В воротную вену печени",
+        "В нижнюю полую вену",
+        "В верхнюю брыжеечную вену",
+        "В коронарную вену желудка",
+        "В нижнюю брыжеечную вену"
+      ]
+    },
+    {
+      "id": "top_316",
+      "arr": [
+        "Ревизию каких органов производят через сальниковую сумку",
+        "Поджелудочная железа",
+        "Левая почка",
+        "Задняя стенка желудка",
+        "Правая почка",
+        "Правый надпочечник"
+      ]
+    },
+    {
+      "id": "top_317",
+      "arr": [
+        "Общий желчный проток образуется при слиянии",
+        "Печеночных протоков",
+        "Пузырного и венозного протоков",
+        "Пузырного и общепеченочного протоков",
+        "Общего печеночного с Вирсунговым протоком",
+        "Печеночного с Санториниевым протоком"
+      ]
+    },
+    {
+      "id": "top_318",
+      "arr": [
+        "Сторонами треугольника Пти являются",
+        "Широчайшая мышца спины",
+        "Внутренняя косая мышца живота",
+        "Наружная косая мышца живота",
+        "Подвздошно-поясничная мышца",
+        "Гребень подвздошной кости"
+      ]
+    },
+    {
+      "id": "top_319",
+      "arr": [
+        "Укажите соответствие сторон ромба Лесгафта-Грюнфельда: 1) m. obliquus abdominis internus; 2) XII ребро и m. serratus posterior inferior; 3) m. erector spinae. а) латерально и сверху; б) медиально; в) снизу",
+        "1б; 2в; 3а",
+        "1б; 2а; 3в",
+        "1а; 2в; 3б",
+        "1а; 2б; 3в",
+        "1в; 2а; 3б"
+      ]
+    },
+    {
+      "id": "top_320",
+      "arr": [
+        "Укажите какие образования в синтопии с правой почкой со стороны брюшной полости",
+        "Печень",
+        "Нисходящий отдел 12-ти перстной кишки",
+        "Воротная вена",
+        "Желудок",
+        "Восходящая ободочная кишка"
+      ]
+    },
+    {
+      "id": "top_321",
+      "arr": [
+        "Укажите какие образования в синтопии с левой почкой со стороны брюшной полости",
+        "Нисходящий отдел 12-ти перстной кишки",
+        "Желудок",
+        "Поджелудочная железа",
+        "Нижняя полая вена",
+        "Селезеночный изгиб поперечно-ободочной кишки"
+      ]
+    },
+    {
+      "id": "top_322",
+      "arr": [
+        "Какие мышцы образуют почкам мышечное ложе",
+        "M. psoas major",
+        "M. psoas minor",
+        "M. iliopsoas",
+        "M. quadratus lumborum",
+        "M. erector spinae"
+      ]
+    },
+    {
+      "id": "top_323",
+      "arr": [
+        "Какие парные ветви брюшной аорты располагаются в textus cellulosus retroperitonealis",
+        "A. suprarenalis superior",
+        "A. suprarenalis media",
+        "A. suprarenalis inferior",
+        "A. renalis",
+        "A. ovarica (testicularis)"
+      ]
+    },
+    {
+      "id": "top_324",
+      "arr": [
+        "Какие образования проходят через диафрагму между срединной и средней ножкой справа",
+        "V. azygos",
+        "V. hemiazygos",
+        "Truncus sympathicus",
+        "N. splanchnicus major",
+        "N. splanchnicus minor"
+      ]
+    },
+    {
+      "id": "top_325",
+      "arr": [
+        "Какие образования проходят через диафрагму между срединной и средней ножкой слева",
+        "V. azygos",
+        "V. hemiazygos",
+        "Truncus sympathicus",
+        "N. splanchnicus major",
+        "N. splanchnicus minor"
+      ]
+    },
+    {
+      "id": "top_326",
+      "arr": [
+        "Что проходит через сухожильный центр диафрагмы",
+        "Ductus thoracicus",
+        "V. cava inferior",
+        "Truncus sympathicus",
+        "N. phrenicus sinistra",
+        "N. phrenicus dextra"
+      ]
+    },
+    {
+      "id": "top_327",
+      "arr": [
+        "Укажите слабые места диафрагмы",
+        "Trigonum sterno-costalis",
+        "Trigonum Pti",
+        "Trigonum costo-lumbalis",
+        "Hiatus esophageus",
+        "Hiatus aorticus"
+      ]
+    },
+    {
+      "id": "top_328",
+      "arr": [
+        "Ориентиры, отделяющие малый таз от большого",
+        "Мыс",
+        "Лобковый симфиз",
+        "Гребень лонной кости",
+        "Дугообразная линия подвздошной кости",
+        "Верхний край V поясничного позвонка"
+      ]
+    },
+    {
+      "id": "top_329",
+      "arr": [
+        "Мышцы малого таза",
+        "Подвздошно-поясничная",
+        "Наружная запирательная",
+        "Мышца, поднимающая задний проход",
+        "Грушевидная",
+        "Внутренняя запирательная"
+      ]
+    },
+    {
+      "id": "top_330",
+      "arr": [
+        "Какая фасция образует сухожильную дугу тазовой фасции",
+        "F. endoabdominalis",
+        "F. pelvis париетальный листок",
+        "F. pelvis висцеральный листок",
+        "F. transversa",
+        "F. iliopsoas"
+      ]
+    },
+    {
+      "id": "top_331",
+      "arr": [
+        "Выберите образования, которые участвуют в формировании стенок седалищно-прямокишечной ямки",
+        "M. coccygeus",
+        "M. levator ani",
+        "Симфиз",
+        "M. obturatorius interna",
+        "Гребень подвздошной кости"
+      ]
+    },
+    {
+      "id": "top_332",
+      "arr": [
+        "Выберите образования, которые участвуют в формировании стенок седалищно-прямокишечной ямки",
+        "M. shpincter ani externus",
+        "M. iliopsoas",
+        "Седалищный бугор",
+        "M. sphincter urethrae",
+        "M. transversus perinei profundus"
+      ]
+    },
+    {
+      "id": "top_333",
+      "arr": [
+        "К висцеральным клетчаточным пространствам таза относятся",
+        "Параректальное пространство",
+        "Предбрюшинное пространство",
+        "Седалищно-пещеристое пространство",
+        "Параметральное пространство",
+        "Седалищно-губчатое пространство"
+      ]
+    },
+    {
+      "id": "top_334",
+      "arr": [
+        "К пристеночным клетчаточным пространствам таза относятся",
+        "Предпузырное пространство",
+        "Околопузырное пространство",
+        "Боковые пространства",
+        "Околоматочное пространство",
+        "Позадипрямокишечное пространство"
+      ]
+    },
+    {
+      "id": "top_335",
+      "arr": [
+        "Пути мочевых затеков при переломе переднего полукольца таза",
+        "Паравезикальная клетчатка",
+        "Клетчатка ягодичной области",
+        "Задняя область бедра",
+        "Превезикальная клетчатка",
+        "Пристеночная клетчатка"
+      ]
+    },
+    {
+      "id": "top_336",
+      "arr": [
+        "Пути распространения гноя из позадипрямокишечного пространства",
+        "Параректальное пространство",
+        "Предпузырное пространство",
+        "Забрюшинное пространство",
+        "Пристеночные пространства таза",
+        "Брюшная полость"
+      ]
+    },
+    {
+      "id": "top_337",
+      "arr": [
+        "Пути распространения гноя из параметрального пространства",
+        "Околопрямокишечная клетчатка",
+        "Пристеночное пространство таза",
+        "Предпузырная клетчатка",
+        "На переднюю поверхность бедра",
+        "В паховый канал"
+      ]
+    },
+    {
+      "id": "top_338",
+      "arr": [
+        "Пути распространения гноя из параметрального пространства",
+        "Забрюшинная клетчатка",
+        "Клетчатка ягодичной области",
+        "Позадипузырное пространство",
+        "Задняя область бедра",
+        "Седалищно-прямокишечная ямка"
+      ]
+    },
+    {
+      "id": "top_339",
+      "arr": [
+        "Хирургические доступы к предстательной железе",
+        "Чрезпузырный",
+        "Чрезбрюшинный",
+        "Трансуретральный",
+        "Промежностный",
+        "Трансректальный"
+      ]
+    },
+    {
+      "id": "top_340",
+      "arr": [
+        "Доступ к маточно-прямокишечному углублению",
+        "Через переднюю брюшную стенку",
+        "Через передний свод влагалища",
+        "Через задний свод влагалища",
+        "Через мочевой пузырь",
+        "Через промежность"
+      ]
+    },
+    {
+      "id": "top_341",
+      "arr": [
+        "Гнойные затеки из позадипузырного клетчаточного пространства могут распространяться",
+        "В паховый канал, вдоль семявыносящих протоков",
+        "В забрюшинное клетчаточное пространство, по ходу мочеточников",
+        "В медиальное ложе бедра, через запирательный канал",
+        "В переднее ложе бедра, через сосудистую лакуну",
+        "Все ответы верны"
+      ]
+    },
+    {
+      "id": "top_342",
+      "arr": [
+        "Доступ к боковому клетчаточному пространству таза",
+        "Через переднюю брюшную стенку",
+        "Через прямую кишку",
+        "Через запирательное отверстие",
+        "Через мочевой пузырь",
+        "Через промежность"
+      ]
+    },
+    {
+      "id": "top_343",
+      "arr": [
+        "Укажите источники артерий, питающих яичник",
+        "Брюшной отдел аорты",
+        "Общая подвздошная артерия",
+        "Наружная подвздошная артерия",
+        "Внутренняя подвздошная артерия",
+        "Маточная артерия"
+      ]
+    },
+    {
+      "id": "top_344",
+      "arr": [
+        "Назовите органы, расположенные впереди прямой кишки у мужчин",
+        "Мочевой пузырь",
+        "Предстательная железа",
+        "Семенные пузырьки",
+        "Мочеточники",
+        "Семенной канатик"
+      ]
+    },
+    {
+      "id": "top_345",
+      "arr": [
+        "Укажите пути оттока венозной крови от прямой кишки",
+        "В верхнюю брыжеечную вену",
+        "В нижнюю брыжеечную вену",
+        "В среднюю брыжеечную вену",
+        "Во внутреннюю подвздошную вену",
+        "Во внутреннюю срамную вену"
+      ]
+    },
+    {
+      "id": "top_346",
+      "arr": [
+        "Назовите венозные сплетения прямой кишки",
+        "Подкожное",
+        "Подслизистое",
+        "Подмышечное",
+        "Подфасциальное",
+        "Подбрюшинное"
+      ]
+    },
+    {
+      "id": "top_347",
+      "arr": [
+        "Составные элементы семенного канатика",
+        "Мышца, поднимающая яичко",
+        "Семявыносящий проток",
+        "Проводник яичка",
+        "Артерия семявыносящего протока",
+        "Пузырные артерии"
+      ]
+    },
+    {
+      "id": "top_348",
+      "arr": [
+        "Составные элементы семенного канатика",
+        "Артерия и вена семявыносящего протока",
+        "Яичковая артерия",
+        "Дорзальная вена полового члена",
+        "Семявыбрасывающий проток",
+        "Гроздьевидное сплетение"
+      ]
+    },
+    {
+      "id": "top_349",
+      "arr": [
+        "На всем протяжении мочеточник по отношению к брюшине может быть",
+        "Экстраперитонеально",
+        "Мезоперитонеально",
+        "Ретроперитонеально",
+        "Интраперитонеально",
+        "Отношение к брюшине меняется, в зависимости от топографии"
+      ]
+    },
+    {
+      "id": "top_350",
+      "arr": [
+        "Место отхождения внутренней подвздошной артерии от общей подвздошной",
+        "На уровне мыса",
+        "На уровне гребня подвздошной кости",
+        "На уровне крестцово-подвздошного сочленения",
+        "На уровне задней верхней подвздошной ости",
+        "На уровне симфиза"
+      ]
+    },
+    {
+      "id": "top_351",
+      "arr": [
+        "Слоями маточной стенки являются",
+        "Периметриум",
+        "Миометриум",
+        "Параметриум",
+        "Серозная",
+        "Эндометриум"
+      ]
+    },
+    {
+      "id": "top_352",
+      "arr": [
+        "Назовите источники артерий, кровоснабжающих мочевой пузырь",
+        "Общая подвздошная артерия",
+        "Наружная подвздошная артерия",
+        "Внутренняя подвздошная артерия",
+        "Пупочная артерия",
+        "Средняя прямокишечная артерия"
+      ]
+    },
+    {
+      "id": "top_353",
+      "arr": [
+        "Какие нервы являются ветвями поясничного сплетения",
+        "Подреберный",
+        "Пояснично-паховый",
+        "Седалищный",
+        "Запирательный",
+        "Верхний ягодичный"
+      ]
+    },
+    {
+      "id": "top_354",
+      "arr": [
+        "Какие нервы являются ветвями поясничного сплетения",
+        "Бедренно-половой",
+        "Бедренный",
+        "Нижний ягодичный",
+        "Задний кожный нерв бедра",
+        "Подвздошно-паховый"
+      ]
+    },
+    {
+      "id": "top_355",
+      "arr": [
+        "Назовите этажи таза",
+        "Брюшинный",
+        "Предбрюшинный",
+        "Подбрюшинный",
+        "Субфасциальный",
+        "Подкожный"
+      ]
+    },
+    {
+      "id": "top_356",
+      "arr": [
+        "Какой орган расположен во всех этажах таза",
+        "Предстательная железа",
+        "Мочевой пузырь",
+        "Прямая кишка",
+        "Матка",
+        "Мочеточник"
+      ]
+    },
+    {
+      "id": "top_357",
+      "arr": [
+        "Назовите источники артерий, кровоснабжающих предстательную железу",
+        "Внутренняя подвздошная артерия",
+        "Наружная подвздошная артерия",
+        "Нижняя пузырная артерия",
+        "Средняя прямокишечная артерия",
+        "Запирательная артерия"
+      ]
+    },
+    {
+      "id": "top_358",
+      "arr": [
+        "Кровоснабжение предстательной железы",
+        "Верхняя пузырная",
+        "Нижняя пузырная",
+        "Средняя прямокишечная",
+        "Верхняя прямокишечная",
+        "Нижняя прямокишечная"
+      ]
+    },
+    {
+      "id": "top_359",
+      "arr": [
+        "Первый перекрест маточной артерии и мочеточника",
+        "Выше линии терминалис таза кпереди от крестцово-подвздошного сочленения",
+        "Ниже линии терминалис таза кпереди от крестцово-подвздошного сочленения",
+        "В основании широкой связки матки",
+        "На уровне наружного зева матки",
+        "На уровне пузырно-маточного углубления"
+      ]
+    },
+    {
+      "id": "top_360",
+      "arr": [
+        "Второй перекрест маточной артерии и мочеточника",
+        "У входа в таз",
+        "На уровне маточно-прямокишечного углубления",
+        "В основании широкой связки матки",
+        "На уровне наружного зева матки",
+        "На уровне пузырно-маточного углубления"
+      ]
+    },
+    {
+      "id": "top_361",
+      "arr": [
+        "Какие образования пересекает правый мочеточник в тазовом отделе у мужчин",
+        "Общую подвздошную артерию",
+        "Наружную подвздошную артерию",
+        "Запирательные сосуды",
+        "Семявыносящую артерию",
+        "Семявыносящий проток"
+      ]
+    },
+    {
+      "id": "top_362",
+      "arr": [
+        "Какие образования пересекает левый мочеточник в тазовом отделе у мужчин",
+        "Общую подвздошную артерию",
+        "Наружную подвздошную артерию",
+        "Запирательные сосуды",
+        "Семявыносящую артерию",
+        "Семявыносящий проток"
+      ]
+    },
+    {
+      "id": "top_363",
+      "arr": [
+        "Какие образования пересекает правый мочеточник в тазовом отделе у женщин",
+        "Общую подвздошную артерию",
+        "Наружную подвздошную артерию",
+        "Запирательные сосуды",
+        "Маточную артерию",
+        "Кардинальную связку"
+      ]
+    },
+    {
+      "id": "top_364",
+      "arr": [
+        "Какие образования пересекает левый мочеточник в тазовом отделе у женщин",
+        "Общую подвздошную артерию",
+        "Наружную подвздошную артерию",
+        "Запирательные сосуды",
+        "Маточную артерию",
+        "Кардинальную связку"
+      ]
+    },
+    {
+      "id": "top_365",
+      "arr": [
+        "При первом перекресте топография маточной артерии и мочеточника следующая",
+        "Мочеточник позади, артерия впереди",
+        "Мочеточник впереди, артерия медиально",
+        "Мочеточник позади, артерия снизу",
+        "Мочеточник впереди, артерия позади",
+        "Мочеточник снизу, артерия впереди"
+      ]
+    },
+    {
+      "id": "top_366",
+      "arr": [
+        "При втором перекресте топография маточной артерии и мочеточника следующая",
+        "Мочеточник впереди, артерия латерально",
+        "Мочеточник впереди, артерия медиально",
+        "Мочеточник позади, артерия впереди",
+        "Мочеточник впереди, артерия позади",
+        "Мочеточник снизу, артерия впереди"
+      ]
+    },
+    {
+      "id": "top_367",
+      "arr": [
+        "Что проходит через мочеполовую диафрагму у мужчины",
+        "Дорзальная вена полового члена",
+        "Задние мошоночные вены",
+        "Промежностная артерия",
+        "Перепончатая часть уретры",
+        "Губчатая часть уретры"
+      ]
+    },
+    {
+      "id": "top_368",
+      "arr": [
+        "Какие мышцы начинаются от сухожильной дуги фасции таза",
+        "Лобково-копчиковая мышца",
+        "Наружный сфинктер заднего прохода",
+        "Копчиковая мышца",
+        "Подвздошно-копчиковая мышца",
+        "Лобково-прямокишечная мышца"
+      ]
+    },
+    {
+      "id": "top_369",
+      "arr": [
+        "Какие образования проходят через малое седалищное отверстие",
+        "Половой нерв",
+        "Седалищный нерв",
+        "Наружная запирательная мышца",
+        "Внутренняя запирательная мышца",
+        "Внутренний половой сосудистый пучок"
+      ]
+    },
+    {
+      "id": "top_370",
+      "arr": [
+        "На какой мышце лежит крестцовое сплетение",
+        "M. coccygeus",
+        "M. levator ani",
+        "M. gemellus inferior",
+        "M. periformis",
+        "M. obturatorius interna"
+      ]
+    },
+    {
+      "id": "top_371",
+      "arr": [
+        "Ближе к какому отделу мочевого пузыря желательно осуществлять цистотомию",
+        "Верхушке",
+        "Телу",
+        "Дну",
+        "Шейке",
+        "Мочеточниковым отверстиям"
+      ]
+    },
+    {
+      "id": "top_372",
+      "arr": [
+        "Укажите, какая оболочка не захватывается в шов при ушивании раны стенки мочевого пузыря из-за опасности отложения мочевых солей",
+        "Серозная оболочка",
+        "Подсерозная оболочка",
+        "Мышечная оболочка",
+        "Подслизистая основа",
+        "Слизистая оболочка"
+      ]
+    },
+    {
+      "id": "top_373",
+      "arr": [
+        "К какому слою передней брюшной стенки фиксируют катетер мочевого пузыря при цистотомии",
+        "Коже",
+        "Собственной фасции",
+        "Мышцам",
+        "Внутрибрюшной фасции",
+        "Брюшине"
+      ]
+    },
+    {
+      "id": "top_374",
+      "arr": [
+        "На поверхности какой связки фиксирован яичник",
+        "Круглой",
+        "Задней поверхности широкой",
+        "На собственной связке",
+        "На связке, подвешивающей яичник",
+        "Лобково-пузырной"
+      ]
+    },
+    {
+      "id": "top_375",
+      "arr": [
+        "Какие связки матки относятся к фиксирующему аппарату",
+        "Лобково-пузырная связка",
+        "Крестцово-маточная связка",
+        "Широкая связка",
+        "Круглая связка",
+        "Кардинальная связка"
+      ]
+    },
+    {
+      "id": "top_376",
+      "arr": [
+        "Какие связки матки и придатков относятся к подвешивающему аппарату",
+        "Широкая связка",
+        "Круглая связка",
+        "Собственная связка яичника",
+        "Кардинальная связка",
+        "Поддерживающая связка яичника"
+      ]
+    },
+    {
+      "id": "top_377",
+      "arr": [
+        "Чем покрыт яичник",
+        "Брюшиной",
+        "Париетальным листком тазовой фасции",
+        "Висцеральным листком тазовой фасции",
+        "Зародышевым эпителием",
+        "Не имеет покрытия"
+      ]
+    },
+    {
+      "id": "top_378",
+      "arr": [
+        "Ретрактор ампутационный используют",
+        "Для перепиливания костей",
+        "Для сшивания мышц после ампутации",
+        "Для оттягивания и защиты мягких тканей при перепиливании кости",
+        "Для остановки кровотечения в месте ампутации",
+        "Для фиксации костных отломков"
+      ]
+    },
+    {
+      "id": "top_379",
+      "arr": [
+        "Выберите инструменты для резекции ребра",
+        "Ретрактор",
+        "Однозубый крючок",
+        "Распатор Дуайена",
+        "Реберные кусачки Штилля",
+        "Распатор Фарабефа"
+      ]
+    },
+    {
+      "id": "top_380",
+      "arr": [
+        "Для отслаивания надкостницы используется",
+        "Ретрактор",
+        "Пуговчатый зонд",
+        "Распатор Фарабефа",
+        "Лопатка Буяльского",
+        "Распатор Дуайена"
+      ]
+    },
+    {
+      "id": "top_381",
+      "arr": [
+        "Выберите инструменты для вскрытия полости черепа",
+        "Кусачки Люэра",
+        "Кусачки Дальгрена",
+        "Проводник Поленова",
+        "Пила Джильи",
+        "Коловорот"
+      ]
+    },
+    {
+      "id": "top_382",
+      "arr": [
+        "Выберите инструменты для придания костям черепа безопасной формы после ЧМТ",
+        "Кусачки Листона",
+        "Кусачки Люэра",
+        "Кусачки Дальгрена",
+        "Пила Джильи",
+        "Распатор Фарабефа"
+      ]
+    },
+    {
+      "id": "top_383",
+      "arr": [
+        "Лигатурная игла Дешана относится к инструментам для",
+        "Разъединения тканей",
+        "Соединения тканей",
+        "Остановки кровотечения",
+        "Послойного рассечения тканей",
+        "Перевязки нерва"
+      ]
+    },
+    {
+      "id": "top_384",
+      "arr": [
+        "Зонд Кохера используется для",
+        "Послойного разъединения тканей",
+        "Зондирование свищевого хода",
+        "Подведение лигатуры",
+        "Выделение сосудисто-нервного пучка из фасциального влагалища",
+        "Для тупого разъединения мышечных волокон"
+      ]
+    },
+    {
+      "id": "top_385",
+      "arr": [
+        "Желобоватый зонд используется для",
+        "Защиты подлежащих тканей при рассечении фасций, апоневрозов, брюшины",
+        "Остановка кровотечения",
+        "Защита нерва при наложении лигатуры",
+        "Исследование глубоких ран, полостей",
+        "Соединение тканей"
+      ]
+    },
+    {
+      "id": "top_386",
+      "arr": [
+        "Зажим Микулича предназначен для",
+        "Фиксации краев рассеченной брюшины",
+        "Для остановки кровотечения из крупных сосудов",
+        "Захвата листков брюшины",
+        "Захвата тонкого кишечника",
+        "Фиксации операционного белья к брюшине"
+      ]
+    },
+    {
+      "id": "top_387",
+      "arr": [
+        "Для остановки кровотечения из сосудов подкожно жировой клетчатки используют",
+        "Зажим Бильрот",
+        "Зажим Москит",
+        "Сосудистые клеммы",
+        "Зажим Кохер",
+        "Зажим Пеан"
+      ]
+    },
+    {
+      "id": "top_388",
+      "arr": [
+        "Укажите инструменты для резекции тонкого кишечника",
+        "Окончатый зажим",
+        "Жом Пайера",
+        "Корцанг",
+        "Мягкий кишечный жом",
+        "Троакар"
+      ]
+    },
+    {
+      "id": "top_389",
+      "arr": [
+        "Укажите инструменты общего хирургического назначения",
+        "Цапка бельевая",
+        "Кусачки Листона",
+        "Лопатка Буяльского",
+        "Пинцет хирургический",
+        "Распатор Фарабефа"
+      ]
+    },
+    {
+      "id": "top_390",
+      "arr": [
+        "К анатомической резекции печени относятся",
+        "Сегментарная резекция",
+        "Левосторонняя и правосторонняя гемигепатэктомия",
+        "Левосторонняя и правосторонняя латеральная лобэктомия",
+        "Клиновидная резекция",
+        "Краевая резекция"
+      ]
+    },
+    {
+      "id": "top_391",
+      "arr": [
+        "К атипичной резекции печени относятся",
+        "Сегментэктомия",
+        "Краевая",
+        "Клиновидная",
+        "Плоскостная",
+        "Поперечная"
+      ]
+    },
+    {
+      "id": "top_392",
+      "arr": [
+        "Желудочная фаза пищеварения отсутствует при резекции желудка методом",
+        "Бильрот",
+        "Бильрот",
+        "По Гофмейстеру-Финстереру",
+        "По Рейхель-Полиа",
+        "По Витцелю"
+      ]
+    },
+    {
+      "id": "top_393",
+      "arr": [
+        "Сопоставьте методы гастростомии: 1) Витцелю; 2) Кадеру; 3) Топроверу. а) стенка желудка в ране в виде конуса. 3 кисетных шва. Швы затягивают формируя цилиндр из передней стенки желудка; б) резиновая трубка окружена стенкой желудка в виде желоба по оси органа; в) стенка желудка в ране в виде конуса. 3 кисетных шва. Швы затягивают, погружая конус в полость желудка",
+        "1б; 2а; 3в",
+        "1в; 2б; 3а",
+        "1б; 2в; 3а",
+        "1а; 2в; 3б",
+        "1а; 2б; 3в"
+      ]
+    },
+    {
+      "id": "top_394",
+      "arr": [
+        "Межкишечный анастомоз по Брауну накладывается для",
+        "Создания отводящей петли",
+        "Во избежание развития порочного круга",
+        "Создания передних губ анастомоза",
+        "Создания задних губ анастомоза",
+        "Создания приводящей петли"
+      ]
+    },
+    {
+      "id": "top_395",
+      "arr": [
+        "Н.Н. Бурденко рекомендовал при выполнении любого оперативного вмешательства руководствоваться следующей триадой",
+        "Анатомическая возможность",
+        "Анатомическая доступность",
+        "Физиологическая дозволенность",
+        "Техническая возможность",
+        "Техническая дозволенность"
+      ]
+    },
+    {
+      "id": "top_396",
+      "arr": [
+        "Укажите, куда рассекается ущемляющее кольцо при ущемленной бедренной грыже",
+        "Кнутри",
+        "Кнаружи",
+        "Кпереди",
+        "Кзади",
+        "Вверх"
+      ]
+    },
+    {
+      "id": "top_397",
+      "arr": [
+        "Укажите, какими способами вскрывается бедренный канал при бедренной грыже",
+        "Паховый",
+        "Через влагалище прямой мышцы",
+        "Бедренный",
+        "Через медиальное ложе бедра",
+        "Через промежность"
+      ]
+    },
+    {
+      "id": "top_398",
+      "arr": [
+        "Укажите последовательность этапов при холецистэктомии: 1) 1 этап; 2) 2 этап; 3) 3 этап; 4) 4 этап; 5) 5 этап; 6) 6 этап. а) перевязка и пересечение пузырной артерии; б) ушивание ложа пузыря; в) выделение пузыря из ложа и рассечение брюшины; г) перевязка и пересечение пузырного протока; д) ревизия пузыря и протоков; е) проверка проходимости общего желчного протока",
+        "1в; 2д; 3г; 4а; 5б; 6е",
+        "1д; 2а; 3в; 4б; 5г; 6е",
+        "1е; 2г; 3в; 4ф; 5б; 6д",
+        "1д; 2в; 3а; 4г; 5е; 6б",
+        "1д; 2а; 3в; 4б; 5е; 6г"
+      ]
+    },
+    {
+      "id": "top_399",
+      "arr": [
+        "Укажите, какие доступы при пупочных грыжах имеют поперечное направление",
+        "Мейо",
+        "Сапежко",
+        "Рио-Бранка",
+        "Лексера",
+        "Пеана"
+      ]
+    }
+  ]
+}

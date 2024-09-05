@@ -1,0 +1,11743 @@
+{
+  "answers": {
+    "medBrat_0": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_1": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "medBrat_2": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_3": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "medBrat_4": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_5": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_6": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_7": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "medBrat_8": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_9": {
+      "type": "multi",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "medBrat_10": {
+      "type": "multi",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "medBrat_11": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_12": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_13": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_14": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_15": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_16": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_17": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_18": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_19": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "medBrat_20": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_21": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_22": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_23": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_24": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_25": {
+      "type": "multi",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "medBrat_26": {
+      "type": "multi",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "medBrat_27": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_28": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_29": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_30": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_31": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_32": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_33": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_34": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "medBrat_35": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_36": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_37": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "medBrat_38": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_39": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_40": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_41": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_42": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_43": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_44": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_45": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_46": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_47": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_48": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_49": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "medBrat_50": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_51": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_52": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_53": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_54": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "medBrat_55": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "medBrat_56": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "medBrat_57": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_58": {
+      "type": "multi",
+      "answer": [
+        2,
+        3,
+        4
+      ]
+    },
+    "medBrat_59": {
+      "type": "multi",
+      "answer": [
+        1,
+        2
+      ]
+    },
+    "medBrat_60": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_61": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_62": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_63": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        4
+      ]
+    },
+    "medBrat_64": {
+      "type": "multi",
+      "answer": [
+        0,
+        2
+      ]
+    },
+    "medBrat_65": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_66": {
+      "type": "multi",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "medBrat_67": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_68": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_69": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_70": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_71": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_72": {
+      "type": "multi",
+      "answer": [
+        0,
+        3
+      ]
+    },
+    "medBrat_73": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        4
+      ]
+    },
+    "medBrat_74": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_75": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_76": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_77": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "medBrat_78": {
+      "type": "multi",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "medBrat_79": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4
+      ]
+    },
+    "medBrat_80": {
+      "type": "multi",
+      "answer": [
+        2,
+        3,
+        4
+      ]
+    },
+    "medBrat_81": {
+      "type": "multi",
+      "answer": [
+        1,
+        2
+      ]
+    },
+    "medBrat_82": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_83": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "medBrat_84": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_85": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_86": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_87": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_88": {
+      "type": "multi",
+      "answer": [
+        0,
+        2
+      ]
+    },
+    "medBrat_89": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "medBrat_90": {
+      "type": "multi",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "medBrat_91": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "medBrat_92": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medBrat_93": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_94": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medBrat_95": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "medBrat_96": {
+      "type": "multi",
+      "answer": [
+        0,
+        3,
+        4
+      ]
+    },
+    "medBrat_97": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4
+      ]
+    },
+    "medBrat_98": {
+      "type": "multi",
+      "answer": [
+        0,
+        3,
+        4,
+        5
+      ]
+    },
+    "medBrat_99": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_100": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_101": {
+      "type": "multi",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "medBrat_102": {
+      "type": "multi",
+      "answer": [
+        0,
+        3,
+        4
+      ]
+    },
+    "medBrat_103": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4,
+        5
+      ]
+    },
+    "medBrat_104": {
+      "type": "multi",
+      "answer": [
+        0,
+        3
+      ]
+    },
+    "medBrat_105": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medBrat_106": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_107": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "medBrat_108": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "medBrat_109": {
+      "type": "multi",
+      "answer": [
+        0,
+        4
+      ]
+    },
+    "medBrat_110": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "medBrat_111": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_112": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4
+      ]
+    },
+    "medBrat_113": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "medBrat_114": {
+      "type": "multi",
+      "answer": [
+        1,
+        3,
+        4
+      ]
+    },
+    "medBrat_115": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "medBrat_116": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    "medBrat_117": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    "medBrat_118": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medBrat_119": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "medBrat_120": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3,
+        4,
+        6
+      ]
+    },
+    "medBrat_121": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "medBrat_122": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "medBrat_123": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        5
+      ]
+    },
+    "medBrat_124": {
+      "type": "multi",
+      "answer": [
+        1,
+        3
+      ]
+    },
+    "medBrat_125": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        4
+      ]
+    },
+    "medBrat_126": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "medBrat_127": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_128": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "medBrat_129": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_130": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "medBrat_131": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_132": {
+      "type": "multi",
+      "answer": [
+        1,
+        2
+      ]
+    },
+    "medBrat_133": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "medBrat_134": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    "medBrat_135": {
+      "type": "multi",
+      "answer": [
+        0,
+        3,
+        4
+      ]
+    },
+    "medBrat_136": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "medBrat_137": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4
+      ]
+    },
+    "medBrat_138": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medBrat_139": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "medBrat_140": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medBrat_141": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "medBrat_142": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "medBrat_143": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medBrat_144": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "medBrat_145": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "medBrat_146": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    "medBrat_147": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medBrat_148": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "medBrat_149": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "medBrat_150": {
+      "type": "multi",
+      "answer": [
+        0,
+        2
+      ]
+    },
+    "medBrat_151": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medBrat_152": {
+      "type": "multi",
+      "answer": [
+        0,
+        2
+      ]
+    },
+    "medBrat_153": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_154": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        4
+      ]
+    },
+    "medBrat_155": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_156": {
+      "type": "order",
+      "answer": [
+        2,
+        0,
+        1
+      ]
+    },
+    "medBrat_157": {
+      "type": "order",
+      "answer": [
+        1,
+        0,
+        2
+      ]
+    },
+    "medBrat_158": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_159": {
+      "type": "order",
+      "answer": [
+        1,
+        2,
+        3,
+        0
+      ]
+    },
+    "medBrat_160": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medBrat_161": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "medBrat_162": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "medBrat_163": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "medBrat_164": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_165": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_166": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_167": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_168": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_169": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_170": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medBrat_171": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    "medBrat_172": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "medBrat_173": {
+      "type": "multi",
+      "answer": [
+        0,
+        3,
+        4,
+        6
+      ]
+    },
+    "medBrat_174": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    "medBrat_175": {
+      "type": "multi",
+      "answer": [
+        1,
+        3,
+        4
+      ]
+    },
+    "medBrat_176": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_177": {
+      "type": "multi",
+      "answer": [
+        2,
+        4,
+        5
+      ]
+    },
+    "medBrat_178": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        5
+      ]
+    },
+    "medBrat_179": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        8
+      ]
+    },
+    "medBrat_180": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    "medBrat_181": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_182": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "medBrat_183": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    "medBrat_184": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "medBrat_185": {
+      "type": "multi",
+      "answer": [
+        1,
+        3
+      ]
+    },
+    "medBrat_186": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    "medBrat_187": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        5
+      ]
+    },
+    "medBrat_188": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    "medBrat_189": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        4
+      ]
+    },
+    "medBrat_190": {
+      "type": "multi",
+      "answer": [
+        0,
+        3
+      ]
+    },
+    "medBrat_191": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medBrat_192": {
+      "type": "multi",
+      "answer": [
+        0,
+        3,
+        4,
+        5
+      ]
+    },
+    "medBrat_193": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "medBrat_194": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_195": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "medBrat_196": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4,
+        5
+      ]
+    },
+    "medBrat_197": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medBrat_198": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    "medBrat_199": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medBrat_200": {
+      "type": "multi",
+      "answer": [
+        1,
+        3
+      ]
+    },
+    "medBrat_201": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "medBrat_202": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "medBrat_203": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "medBrat_204": {
+      "type": "multi",
+      "answer": [
+        0,
+        2
+      ]
+    },
+    "medBrat_205": {
+      "type": "multi",
+      "answer": [
+        1,
+        2
+      ]
+    },
+    "medBrat_206": {
+      "type": "order",
+      "answer": [
+        3,
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "medBrat_207": {
+      "type": "order",
+      "answer": [
+        2,
+        1,
+        3,
+        0,
+        4
+      ]
+    },
+    "medBrat_208": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "medBrat_209": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "medBrat_210": {
+      "type": "multi",
+      "answer": [
+        1,
+        2
+      ]
+    },
+    "medBrat_211": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_212": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_213": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "medBrat_214": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "medBrat_215": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "medBrat_216": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medBrat_217": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medBrat_218": {
+      "type": "multi",
+      "answer": [
+        1,
+        2
+      ]
+    },
+    "medBrat_219": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "medBrat_220": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "medBrat_221": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    "medBrat_222": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medBrat_223": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "medBrat_224": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "medBrat_225": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "medBrat_226": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    "medBrat_227": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "medBrat_228": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_229": {
+      "type": "order",
+      "answer": [
+        1,
+        2,
+        0,
+        3,
+        4,
+        5
+      ]
+    },
+    "medBrat_230": {
+      "type": "order",
+      "answer": [
+        3,
+        0,
+        2,
+        1
+      ]
+    },
+    "medBrat_231": {
+      "type": "multi",
+      "answer": [
+        0,
+        2
+      ]
+    },
+    "medBrat_232": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "medBrat_233": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    "medBrat_234": {
+      "type": "multi",
+      "answer": [
+        0,
+        4
+      ]
+    },
+    "medBrat_235": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medBrat_236": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        5
+      ]
+    },
+    "medBrat_237": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "medBrat_238": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "medBrat_239": {
+      "type": "multi",
+      "answer": [
+        0,
+        2
+      ]
+    },
+    "medBrat_240": {
+      "type": "multi",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "medBrat_241": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_242": {
+      "type": "multi",
+      "answer": [
+        1,
+        3,
+        4
+      ]
+    },
+    "medBrat_243": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "medBrat_244": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ]
+    },
+    "medBrat_245": {
+      "type": "order",
+      "answer": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        3,
+        9,
+        10
+      ]
+    },
+    "medBrat_246": {
+      "type": "order",
+      "answer": [
+        0,
+        2,
+        1,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "medBrat_247": {
+      "type": "order",
+      "answer": [
+        1,
+        0,
+        3,
+        2,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "medBrat_248": {
+      "type": "order",
+      "answer": [
+        1,
+        2,
+        4,
+        0,
+        3,
+        5
+      ]
+    },
+    "medBrat_249": {
+      "type": "order",
+      "answer": [
+        0,
+        1,
+        3,
+        2,
+        4,
+        6,
+        7,
+        5
+      ]
+    },
+    "medBrat_250": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    "medBrat_251": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3
+      ]
+    },
+    "medBrat_252": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3,
+        4,
+        5
+      ]
+    },
+    "medBrat_253": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    "medBrat_254": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_255": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_256": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medBrat_257": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_258": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_259": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_260": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_261": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_262": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medBrat_263": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_264": {
+      "type": "multi",
+      "answer": [
+        0,
+        3
+      ]
+    },
+    "medBrat_265": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_266": {
+      "type": "multi",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "medBrat_267": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_268": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_269": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_270": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_271": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_272": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_273": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_274": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_275": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_276": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_277": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_278": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_279": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_280": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_281": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_282": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_283": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_284": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_285": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_286": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_287": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_288": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_289": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_290": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_291": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_292": {
+      "type": "multi",
+      "answer": [
+        1,
+        3
+      ]
+    },
+    "medBrat_293": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_294": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_295": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_296": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_297": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_298": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_299": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_300": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_301": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_302": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_303": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_304": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_305": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_306": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_307": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_308": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_309": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_310": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_311": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_312": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_313": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_314": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_315": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_316": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_317": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_318": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_319": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_320": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_321": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_322": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_323": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_324": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_325": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_326": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_327": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_328": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_329": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_330": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_331": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_332": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_333": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_334": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_335": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_336": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_337": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_338": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_339": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_340": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_341": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_342": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_343": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_344": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_345": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_346": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_347": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_348": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_349": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_350": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_351": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_352": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_353": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_354": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_355": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_356": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_357": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_358": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_359": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_360": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_361": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_362": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_363": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_364": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_365": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_366": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_367": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_368": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_369": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_370": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_371": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_372": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_373": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_374": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_375": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_376": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_377": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_378": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_379": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_380": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_381": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_382": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_383": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_384": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_385": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_386": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_387": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_388": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_389": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_390": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_391": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_392": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_393": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_394": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_395": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_396": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_397": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_398": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_399": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_400": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_401": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_402": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_403": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_404": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_405": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medBrat_406": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_407": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_408": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_409": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_410": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_411": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_412": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_413": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_414": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_415": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_416": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_417": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_418": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_419": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_420": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_421": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_422": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_423": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_424": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_425": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_426": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_427": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_428": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_429": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_430": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_431": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_432": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_433": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_434": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_435": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_436": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_437": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_438": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_439": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_440": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_441": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_442": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_443": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_444": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_445": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_446": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_447": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_448": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_449": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_450": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_451": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_452": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_453": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_454": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_455": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_456": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_457": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_458": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_459": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_460": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_461": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_462": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_463": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_464": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_465": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_466": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_467": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_468": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_469": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_470": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_471": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_472": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_473": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_474": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_475": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_476": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_477": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_478": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_479": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_480": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_481": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_482": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_483": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_484": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_485": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_486": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_487": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_488": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_489": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_490": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_491": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_492": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_493": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_494": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_495": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_496": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_497": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_498": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_499": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_500": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_501": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_502": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_503": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_504": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_505": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_506": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_507": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_508": {
+      "type": "multi",
+      "answer": [
+        2,
+        4
+      ]
+    },
+    "medBrat_509": {
+      "type": "multi",
+      "answer": [
+        0,
+        3,
+        4
+      ]
+    },
+    "medBrat_510": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_511": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_512": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_513": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_514": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_515": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_516": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_517": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_518": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medBrat_519": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_520": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_521": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_522": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_523": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_524": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_525": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_526": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_527": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_528": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_529": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_530": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_531": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_532": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medBrat_533": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_534": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_535": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_536": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_537": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_538": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_539": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_540": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_541": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_542": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_543": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_544": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_545": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_546": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_547": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_548": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_549": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_550": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_551": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_552": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_553": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_554": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_555": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_556": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_557": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_558": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_559": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_560": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_561": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_562": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_563": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_564": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_565": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_566": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_567": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_568": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_569": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_570": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_571": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_572": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_573": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_574": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_575": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_576": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_577": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_578": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_579": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_580": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_581": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_582": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_583": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_584": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_585": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_586": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_587": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_588": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_589": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_590": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_591": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_592": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_593": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_594": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_595": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_596": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_597": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_598": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_599": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_600": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_601": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_602": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_603": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_604": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_605": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_606": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_607": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_608": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_609": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_610": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_611": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_612": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_613": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_614": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_615": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_616": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_617": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_618": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_619": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_620": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_621": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_622": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_623": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_624": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_625": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_626": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_627": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_628": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_629": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_630": {
+      "type": "multi",
+      "answer": [
+        0,
+        3
+      ]
+    },
+    "medBrat_631": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_632": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_633": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_634": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medBrat_635": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_636": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_637": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_638": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_639": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_640": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_641": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_642": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_643": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_644": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "medBrat_645": {
+      "type": "multi",
+      "answer": [
+        1,
+        3
+      ]
+    },
+    "medBrat_646": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_647": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_648": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medBrat_649": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_650": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_651": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_652": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_653": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_654": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_655": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_656": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_657": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_658": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_659": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_660": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_661": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_662": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_663": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_664": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_665": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_666": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_667": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_668": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_669": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_670": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_671": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_672": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_673": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_674": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_675": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_676": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_677": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_678": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_679": {
+      "type": "multi",
+      "answer": [
+        0,
+        2
+      ]
+    },
+    "medBrat_680": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_681": {
+      "type": "multi",
+      "answer": [
+        0,
+        2
+      ]
+    },
+    "medBrat_682": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_683": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_684": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_685": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_686": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_687": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_688": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_689": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_690": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_691": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_692": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_693": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_694": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medBrat_695": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_696": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medBrat_697": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medBrat_698": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medBrat_699": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "medBrat_0",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНаука о профессиональном поведении медработника:",
+        "Медицинская этика",
+        "Медицинская деонтология"
+      ]
+    },
+    {
+      "id": "medBrat_1",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nОсновные задачи медицинской деонтологии:",
+        "Изучение принципов поведения медицинского персонала",
+        "Исключение неблагоприятных факторов в медицинской деятельности",
+        "Изучение системы взаимоотношений между персоналом и больными",
+        "Выполнение своих функциональных обязанностей"
+      ]
+    },
+    {
+      "id": "medBrat_2",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nК ятрогенным относятся заболевания:",
+        "Обусловленные вредными факторами производства",
+        "Обусловленные неосторожными действиями или высказываниями медработников",
+        "С неблагоприятным прогнозом",
+        "Наследственного генеза"
+      ]
+    },
+    {
+      "id": "medBrat_3",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nВзаимоотношения в коллективе основываются на:",
+        "Взаимном уважении",
+        "Субординации",
+        "Четком выполнении своих профессиональных обязанностей",
+        "Подчинении старшему по возрасту независимо от должности"
+      ]
+    },
+    {
+      "id": "medBrat_4",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДолг медицинского работника:",
+        "Не участвовать в действиях, направленных против здоровья людей",
+        "Участвовать в действиях, направленных против здоровья людей, что оправданно в военное время"
+      ]
+    },
+    {
+      "id": "medBrat_5",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТактика медицинской сестры при обращении пациента без направления врача:",
+        "Вызвать дежурного врача, оказать пациенту необходимую медицинскую помощь",
+        "Вызвать машину скорой помощи",
+        "Послать больного за направлением в поликлинику"
+      ]
+    },
+    {
+      "id": "medBrat_6",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПалатная медсестра находится в непосредственном подчинении:",
+        "Главной медицинской сестры",
+        "Старшей сестры отделения",
+        "Сестры-хозяйки"
+      ]
+    },
+    {
+      "id": "medBrat_7",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nТранспортировка тяжелого больного из приемного покоя в отделение проводится:",
+        "На носилках",
+        "На каталке",
+        "На кресле-каталке",
+        "Тремя санитарами",
+        "Пешком, в сопровождении медицинской сестры"
+      ]
+    },
+    {
+      "id": "medBrat_8",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nУ планового больного, направленного на госпитализацию, обнаружены платяные вши. Тактика медсестры:",
+        "Отказать в госпитализации",
+        "Одежду и белье больного отправить в дезинфекционную камеру и провести санитарную обработку больного",
+        "Провести санитарную обработку со стрижкой волос",
+        "Вымыть голову с мылом «К» или 10% раствором столового уксуса",
+        "Больного госпитализировать, одежду отправить домой"
+      ]
+    },
+    {
+      "id": "medBrat_9",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nУход за больными осуществляют:",
+        "Средний и младший медицинский персонал",
+        "Родственники больного",
+        "Только младший медицинский персонал"
+      ]
+    },
+    {
+      "id": "medBrat_10",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nВиды транспортировки больного в отделение:",
+        "Пешком, в сопровождении медсестры",
+        "В кресле-каталке",
+        "Только на каталке",
+        "Только на лифте",
+        "Вид транспортировки не играет роли"
+      ]
+    },
+    {
+      "id": "medBrat_11",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМаксимальное артериальное давление определяется во время:",
+        "Систолы сердца",
+        "Диастолы сердца"
+      ]
+    },
+    {
+      "id": "medBrat_12",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПовышение АД называется:",
+        "Артериальной гипотензией",
+        "Артериальной гипертензией",
+        "Коллапсом",
+        "Цианозом"
+      ]
+    },
+    {
+      "id": "medBrat_13",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nХарактеристика артериального пульса:",
+        "Постоянность",
+        "Гибкость",
+        "Лабильность",
+        "Наполнение, напряжение"
+      ]
+    },
+    {
+      "id": "medBrat_14",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля измерения АД используется:",
+        "Урометр",
+        "Манометр",
+        "Тонометр",
+        "Динамометр"
+      ]
+    },
+    {
+      "id": "medBrat_15",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЧастота пульсовых волн в норме у взрослого пациента:",
+        "90-100 в 1 мин.",
+        "60-80 в 1 мин.",
+        "80-100 в 1 мин.",
+        "80-90 в 1 мин."
+      ]
+    },
+    {
+      "id": "medBrat_16",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМинимальное артериальное давление определяется во время:",
+        "Систолы сердца",
+        "Диастолы сердца"
+      ]
+    },
+    {
+      "id": "medBrat_17",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри брадикардии частота пульса меньше:",
+        "100-120 уд. /мин.",
+        "100-90 уд. /мин.",
+        "60 уд. /мин."
+      ]
+    },
+    {
+      "id": "medBrat_18",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nРазница между числом сердечных сокращений и числом пульса на периферии называется:",
+        "Дефицитом пульса",
+        "Пульсовым давлением"
+      ]
+    },
+    {
+      "id": "medBrat_19",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nСвойства пульса:",
+        "Частота",
+        "Ритм",
+        "Наполнение",
+        "Напряжение",
+        "Скорость"
+      ]
+    },
+    {
+      "id": "medBrat_20",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nФизиологическое повышение артериального давления может наблюдаться при:",
+        "Эмоциональных нагрузках",
+        "Инфекционных заболеваниях"
+      ]
+    },
+    {
+      "id": "medBrat_21",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри экспираторном типе одышки характерно:",
+        "Учащенное поверхностное дыхание при хронической недостаточности кровообращения",
+        "Затрудненный шумный вдох при стенозе гортани",
+        "Затрудненный выдох вследствие спазма бронхов при бронхиальной астме"
+      ]
+    },
+    {
+      "id": "medBrat_22",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЧастота дыхания в покое у взрослого здорового человека:",
+        "4-6 в мин.",
+        "16-20 в мин.",
+        "39-40 в мин.",
+        "70-80 в мин."
+      ]
+    },
+    {
+      "id": "medBrat_23",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри инспираторном типе одышки наблюдается:",
+        "Учащенное поверхностное дыхание при хронической недостаточности кровообращения",
+        "Затрудненный шумный вдох при стенозе гортани",
+        "Затрудненный выдох вследствие спазма бронхов при бронхиальной астме"
+      ]
+    },
+    {
+      "id": "medBrat_24",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля определения микобактерий туберкулеза мокроту накапливают в течение:",
+        "1-3 суток",
+        "Одной ночи",
+        "Дня"
+      ]
+    },
+    {
+      "id": "medBrat_25",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nЛёгочное кровохарканье возможно при:",
+        "Раке легких",
+        "Туберкулезе",
+        "Бронхиальной астме",
+        "Остром бронхите"
+      ]
+    },
+    {
+      "id": "medBrat_26",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПризнаки легочного кровотечения:",
+        "Кровь алая, пенистая",
+        "Кровь выделяется кашлевыми толчками",
+        "Кровь темная, выделяется сгустками типа «кофейной гущи»"
+      ]
+    },
+    {
+      "id": "medBrat_27",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЖалобы, характерные для заболевания органов дыхания:",
+        "Озноб, ночной проливной пот",
+        "Лихорадка, кровохарканье",
+        "Одышка, кашель, боли в грудной клетке"
+      ]
+    },
+    {
+      "id": "medBrat_28",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВо время приступа бронхиальной астмы для облегчения состояния больной принимает:",
+        "Вынужденное положение",
+        "Активное положение"
+      ]
+    },
+    {
+      "id": "medBrat_29",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТип дыхания с преимущественным участием живота:",
+        "Грудное",
+        "Брюшное",
+        "Агональное",
+        "Смешанное"
+      ]
+    },
+    {
+      "id": "medBrat_30",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТип дыхания с преимущественным участием грудной клетки:",
+        "Грудное",
+        "Брюшное",
+        "Агональное",
+        "Смешанное"
+      ]
+    },
+    {
+      "id": "medBrat_31",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТип дыхания, в котором участвуют мышцы живота и грудной клетки:",
+        "Грудное",
+        "Брюшное",
+        "Агональное",
+        "Смешанное"
+      ]
+    },
+    {
+      "id": "medBrat_32",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nФизиологический тип дыхания у большинства мужчин:",
+        "Брюшной",
+        "Грудной",
+        "Смешанный"
+      ]
+    },
+    {
+      "id": "medBrat_33",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри кровотечении с источником в желудке кал бывает:",
+        "Жирный, глинистый, мажущийся",
+        "Черный, дегтеобразный",
+        "Светлый",
+        "В виде «рисового отвара»",
+        "Жидкий"
+      ]
+    },
+    {
+      "id": "medBrat_34",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nСимптомы почечной колики:",
+        "Боли внизу живота",
+        "Понос",
+        "Боли в поясничной области",
+        "Дизурия"
+      ]
+    },
+    {
+      "id": "medBrat_35",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nНормальное соотношение дневного и ночного количества мочи:",
+        "1:1",
+        "1:2",
+        "1:3",
+        "3:1"
+      ]
+    },
+    {
+      "id": "medBrat_36",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nМоча приобретает цвет «мясных помоев» вследствие наличия примесей:",
+        "Гноя",
+        "Слизи",
+        "Солей",
+        "Крови"
+      ]
+    },
+    {
+      "id": "medBrat_37",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПри исследовании мочи по Нечипоренко проводят подсчет:",
+        "Лейкоцитов",
+        "Эритроцитов",
+        "Цилиндров",
+        "Эозинофилов"
+      ]
+    },
+    {
+      "id": "medBrat_38",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\n«Никтурия» - это:",
+        "Ночное недержание мочи",
+        "Преобладание ночного диуреза над дневным"
+      ]
+    },
+    {
+      "id": "medBrat_39",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОсновная функциональная единица почек:",
+        "Почечная чашечка",
+        "Почечная лоханка",
+        "Почечный нефрон"
+      ]
+    },
+    {
+      "id": "medBrat_40",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\n«Олигоурия» – это:",
+        "Полное отсутствие мочи",
+        "Уменьшение выделения мочи менее 300 мл в сутки",
+        "Уменьшение выделения мочи менее 500-700 мл в сутки"
+      ]
+    },
+    {
+      "id": "medBrat_41",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nАнурия – это:",
+        "Полное отсутствие мочи или его выделение менее 300 мл в сутки",
+        "Уменьшение выделения мочи до 1,5 литра в сутки"
+      ]
+    },
+    {
+      "id": "medBrat_42",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМикрогематурия – это:",
+        "Невидимое невооруженным глазом наличие крови в моче",
+        "Видимое невооруженном глазом (без микроскопа) наличие крови в моче"
+      ]
+    },
+    {
+      "id": "medBrat_43",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПолиурия – это:",
+        "Повышение суточного выделения мочи до 3-х литров и более",
+        "Повышение количества суточной мочи более 1,5 литра"
+      ]
+    },
+    {
+      "id": "medBrat_44",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМакрогематурия – это:",
+        "Видимое без микроскопа наличие крови в моче",
+        "Невидимое без микроскопа наличие крови в моче"
+      ]
+    },
+    {
+      "id": "medBrat_45",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКто должен осуществлять уход за больными:",
+        "Родственники больного",
+        "Средний и младший медицинский персонал",
+        "Все медицинские работники, а также родственники больного, причем каждый из них имеет свои определенные функции по организации ухода"
+      ]
+    },
+    {
+      "id": "medBrat_46",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЧто изучает медицинская деонтология:",
+        "Взаимоотношения между врачом и больным",
+        "Широкий круг вопросов долга, морали и профессиональной этики медицинских работников",
+        "Ятрогенные заболевания"
+      ]
+    },
+    {
+      "id": "medBrat_47",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКаким должно быть соотношение белков, жиров и углеводов в пищевом рационе больных:",
+        "1:1:4",
+        "Содержание белков должно преобладать",
+        "Соотношение белков, жиров и углеводов должно определяться характером заболевания"
+      ]
+    },
+    {
+      "id": "medBrat_48",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nРационально ли повышать энергетическую ценность пищевого рациона за счет увеличения в нем содержания белков:",
+        "Да, поскольку 1 г белков дает организму 4,1 ккал",
+        "Нет, потому что 1 г белков дает значительно меньше энергии, чем 1 г жиров",
+        "Нет, поскольку белки преимущественно используются как пластический материал"
+      ]
+    },
+    {
+      "id": "medBrat_49",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакое значение для организма имеет включение в рацион питания пищевых волокон:",
+        "Повышается энергетическая ценность пищи",
+        "Нормализуется функция органов пищеварения",
+        "Нормализуется деятельность кишечной микрофлоры",
+        "Увеличивается поступление в организм микроэлементов"
+      ]
+    },
+    {
+      "id": "medBrat_50",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля какого исследования необходимо накапливать мокроту в течение 1-3 суток:",
+        "На наличие атипичных клеток",
+        "На наличие микобактерий туберкулеза",
+        "Посев мокроты с целью выявления микрофлоры и ее чувствительности к антибиотикам"
+      ]
+    },
+    {
+      "id": "medBrat_51",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nС какой целью при оксигенотерапии проводят увлажнение кислорода:",
+        "Предотвращения его излишней потери",
+        "Соблюдения правил техники безопасности",
+        "Предупреждения токсического действия кислорода на организм"
+      ]
+    },
+    {
+      "id": "medBrat_52",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДефицит пульса наблюдается:",
+        "При низком артериальном давлении",
+        "Когда частота пульса меньше частоты сердечных сокращений",
+        "При редких сердечных сокращениях"
+      ]
+    },
+    {
+      "id": "medBrat_53",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПульсовое давление отражает:",
+        "Разницу между систолическим и диастолическим давлением",
+        "Одновременную регистрацию артериального давления и частоты пульса",
+        "Уровень давления в манжете, при котором начинают появляться пульсовые волны на лучевой артерии"
+      ]
+    },
+    {
+      "id": "medBrat_54",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПри уходе за больным с хронической сердечной недостаточностью особенно важны:",
+        "Постельный режим",
+        "Контроль динамики отеков",
+        "Создание возвышенного положения",
+        "Оксигенотерапия",
+        "Частая смена нательного и постельного белья"
+      ]
+    },
+    {
+      "id": "medBrat_55",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПри лечении больных с хронической почечной недостаточностью рекомендуют:",
+        "Ограничение употребления поваренной соли",
+        "Уменьшение содержания белков в пищевом рационе",
+        "Ограничение приема жидкости",
+        "Контроль уровня артериального давления и отеков",
+        "Применение спазмолитиков"
+      ]
+    },
+    {
+      "id": "medBrat_56",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПри недержании мочи рекомендуют:",
+        "Использование мочеприемника",
+        "Тщательный туалет кожных покровов",
+        "Контроль чистоты нательного и постельного белья",
+        "Применение грелки на область поясницы"
+      ]
+    },
+    {
+      "id": "medBrat_57",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЧто понимают под терминальным состоянием:",
+        "Состояние клинической смерти",
+        "Агональный период",
+        "Период умирания",
+        "Пограничное состояние между жизнью и смертью"
+      ]
+    },
+    {
+      "id": "medBrat_58",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие симптомы являются достоверными признаками биологической смерти:",
+        "Прекращение дыхания",
+        "Прекращение сердечной деятельности",
+        "Появление трупных пятен",
+        "Снижение температуры кожи ниже 20°С",
+        "Появление трупного окоченения"
+      ]
+    },
+    {
+      "id": "medBrat_59",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nУ больного выявлена злокачественная опухоль желудка в стадии, когда она может быть радикально удалена хирургическим путем. Больной категорически от операции отказывается. Ваша тактика:",
+        "Скрыть истинный диагноз, посоветовать выписаться и подумать",
+        "Сослаться на незнание диагноза и посоветовать решить этот вопрос с лечащим врачом",
+        "Сказать больному о наличии у него другого заболевания (например, язвенной болезни), которое лечится хирургически",
+        "Сказать больному истинный диагноз"
+      ]
+    },
+    {
+      "id": "medBrat_60",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЧто означает понятие «специальный» уход:",
+        "Уход, осуществляемый особенно тщательно",
+        "Уход, проводимый в специальных условиях",
+        "Уход, требующий присутствия определенных специалистов",
+        "Уход, который предусматривает дополнительные мероприятия в связи со спецификой заболевания"
+      ]
+    },
+    {
+      "id": "medBrat_61",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВ приемное отделение поступил больной с жалобами на боли в животе. Общее состояние больного удовлетворительное. Можно ли ему принять гигиеническую ванну:",
+        "Можно",
+        "Нельзя",
+        "Можно после исключения острого хирургического заболевания"
+      ]
+    },
+    {
+      "id": "medBrat_62",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВ приемное отделение доставлен больной с подозрением на желудочно-кишечное кровотечение (3 часа назад была рвота содержимым типа «кофейной гущи»). Чувствует себя субъективно удовлетворительно, может передвигаться самостоятельно. Как транспортировать больного в отделение:",
+        "Пешком, в сопровождении медсестры",
+        "В кресле-каталке",
+        "Только на каталке"
+      ]
+    },
+    {
+      "id": "medBrat_63",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие манипуляции проводят в процедурном кабинете:",
+        "Инъекции",
+        "Пункция плевральной полости",
+        "Постановка банок, горчичников",
+        "Прием лечебных ванн",
+        "Определение групп крови"
+      ]
+    },
+    {
+      "id": "medBrat_64",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие дезинфицирующие растворы используют для влажной уборки:",
+        "0,5% р-р хлорной извести",
+        "10% р-р хлорной извести",
+        "1% р-р хлорамина",
+        "3% р-р перекиси водорода",
+        "Раствор марганцевокислого калия"
+      ]
+    },
+    {
+      "id": "medBrat_65",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКак часто следует проводить влажную уборку палат:",
+        "Ежедневно",
+        "По мере необходимости",
+        "По мере необходимости, но не реже двух раз в день"
+      ]
+    },
+    {
+      "id": "medBrat_66",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nЧто способствует появлению тараканов в отделениях больницы:",
+        "Несвоевременное удаление пищевых отходов, плохая уборка помещений пищеблока",
+        "Щели в стенах и плинтусах",
+        "Внутрибольничные инфекции",
+        "Недостаточная санитарная обработка больных"
+      ]
+    },
+    {
+      "id": "medBrat_67",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nС какой целью больным с заболеваниями сердечно-сосудистой системы, страдающим тяжелой одышкой, рекомендуют принимать в постели полусидячее положение:",
+        "В таком положении удобнее кормить",
+        "Уменьшается застой крови в малом круге кровообращения",
+        "Уменьшается опасность возникновения пролежней"
+      ]
+    },
+    {
+      "id": "medBrat_68",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВ чем заключается основное назначение функциональной кровати:",
+        "Позволяет придать больному наиболее выгодное и удобное для него положение",
+        "Ее можно легко и быстро передвигать",
+        "Облегчает медперсоналу выполнение их функций по лечению и уходу"
+      ]
+    },
+    {
+      "id": "medBrat_69",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКак часто следует проводить смену нательного и постельного белья:",
+        "1 раз в 10 дней",
+        "Еженедельно, после принятия душа или ванны",
+        "По мере его загрязнения, но не реже 1 раза в 10 дней"
+      ]
+    },
+    {
+      "id": "medBrat_70",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМогут ли возникать пролежни при вынужденном сидячем положении больных:",
+        "Не могут, поскольку пролежни образуются только при положении больного на спине, на животе или на боку",
+        "Могут в области седалищных бугров",
+        "Не могут, поскольку при сидячем положении между костными выступами и матрацем остается большой слой подкожно-жировой клетчатки и мышечной ткани"
+      ]
+    },
+    {
+      "id": "medBrat_71",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПочему подкладной круг нельзя надувать слишком сильно:",
+        "Он быстро выйдет из строя",
+        "Ему трудно будет придать в постели устойчивое положение",
+        "Он должен менять свою форму при движениях больного"
+      ]
+    },
+    {
+      "id": "medBrat_72",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nЧто следует предпринять в начальной стадии образования пролежней:",
+        "Усилить все профилактические мероприятия (содержание постели, смену положения больного, тщательный туалет кожи)",
+        "Использовать различные биологически активные мази",
+        "Провести хирургическое лечение",
+        "Назначить физиопроцедуры на пораженную область (УВЧ, УФО)",
+        "Обработать пораженные участки 1% раствором бриллиантового зеленого, крепким раствором марганцевокислого калия, 5-10% раствором йода"
+      ]
+    },
+    {
+      "id": "medBrat_73",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nУ больного с воспалением легких, получающего антибиотики, появились белые налеты на слизистой оболочке полости рта. Что следует предпринять:",
+        "Усилить уход за полостью рта",
+        "Взять мазок со слизистой оболочки полости рта для бактериологического исследования",
+        "Рекомендовать больному более часто чистить зубы",
+        "Рекомендовать больному снять зубные протезы",
+        "Назначить противогрибковые препараты (например, нистатин)"
+      ]
+    },
+    {
+      "id": "medBrat_74",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПочему нецелесообразно закапывать в глаза более 1-2 капель лекарственных растворов:",
+        "Глазные капли содержат сильнодействующие вещества",
+        "В конъюнктивальной полости не удерживается больше 1 капли раствора",
+        "Большое количество жидкости неблагоприятно отражается на состоянии конъюнктивы"
+      ]
+    },
+    {
+      "id": "medBrat_75",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНужно ли при носовом кровотечении рекомендовать больному запрокидывать голову назад:",
+        "Да, поскольку при этом быстрее остановится кровотечение",
+        "Следует рекомендовать только при очень сильном носовом кровотечении",
+        "Не нужно, т. к. кровотечение не остановится: кровь будет стекать по задней стенке носоглотки, что затруднит правильную оценку динамики кровотечения"
+      ]
+    },
+    {
+      "id": "medBrat_76",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКонцентрация перекиси водорода для приготовления моющего раствора составляет:",
+        "5%",
+        "10%",
+        "3%",
+        "1%"
+      ]
+    },
+    {
+      "id": "medBrat_77",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакое значение для организма имеет включение в рацион питания больных пищевых волокон:",
+        "Повышается энергетическая ценность пищи",
+        "Уменьшается калорийность пищевого рациона",
+        "Нормализуется функция органов пищеварения",
+        "Нормализуется деятельность кишечной флоры",
+        "Увеличивается поступление в организм микроэлементов"
+      ]
+    },
+    {
+      "id": "medBrat_78",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие рекомендации по составлению пищевого рациона Вы бы дали больному с недостаточностью кровообращения:",
+        "Ограничение приема жидкости",
+        "Уменьшение употребления поваренной соли",
+        "Механическое щажение",
+        "Уменьшение калорийности пищевого рациона"
+      ]
+    },
+    {
+      "id": "medBrat_79",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакими рекомендациями Вы бы воспользовались при составлении пищевого рациона больному язвенной болезнью:",
+        "Частое, дробное питание",
+        "Ограничение приема жидкости",
+        "Механическое и химическое щажение",
+        "Уменьшение калорийности пищевого рациона",
+        "Увеличение содержания белка в пищевом рационе",
+        "Организация разгрузочных дней"
+      ]
+    },
+    {
+      "id": "medBrat_80",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nВ каких случаях применяют искусственное питание больных через назогастральный зонд:",
+        "При ожогах, неоперабельных опухолях пищевода и глотки",
+        "После операций на пищеводе",
+        "При нарушениях глотания",
+        "При переломах челюстей",
+        "При бессознательном состоянии"
+      ]
+    },
+    {
+      "id": "medBrat_81",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nВ каких случаях применяется искусственное питание больных через гастростому:",
+        "При расстройствах глотания после нарушений мозгового кровообращения",
+        "После операций на пищеводе",
+        "При неоперабельных опухолях пищевода",
+        "При травмах челюстей",
+        "В случаях отказа от еды при психических заболеваниях"
+      ]
+    },
+    {
+      "id": "medBrat_82",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЧто представляет собой парентеральное питание:",
+        "Питание, которое осуществляется искусственным путем",
+        "Введение с целью питания смесей определенного состава",
+        "Введение с целью питания различных веществ, минуя желудочно-кишечный тракт"
+      ]
+    },
+    {
+      "id": "medBrat_83",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие состояния могут приводить к физиологическому повышению температуры тела:",
+        "Мышечные усилия",
+        "Сон",
+        "Прием пищи",
+        "Эмоциональные нагрузки",
+        "Инфекционные заболевания"
+      ]
+    },
+    {
+      "id": "medBrat_84",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nС какой целью перед измерением температуры рекомендуют досуха вытирать подмышечную впадину:",
+        "Из гигиенических соображений",
+        "Чтобы термометр находился в более устойчивом положении",
+        "Чтобы не получить заниженных результатов измерения"
+      ]
+    },
+    {
+      "id": "medBrat_85",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТемпература тела, измеренная у больного в прямой кишке, составляет 37,1°C. Как можно характеризовать такую температуру:",
+        "Как нормальную",
+        "Умеренно высокую",
+        "Субфебрильную"
+      ]
+    },
+    {
+      "id": "medBrat_86",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nГде в отделении должны храниться медицинские термометры:",
+        "В футлярах на посту медицинской сестры",
+        "В банке, на дно которой положена вата и добавлен дезинфицирующий раствор",
+        "У каждого больного"
+      ]
+    },
+    {
+      "id": "medBrat_87",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nУ больного в течение 2 нед. утренняя температура сохраняется в пределах 36,0°-36,5°C, вечерняя – в пределах 37,5°-38,0°C. Какой тип лихорадки у больного:",
+        "Послабляющая, ремиттирующая",
+        "Истощающая, гектическая",
+        "Извращенная, неправильная",
+        "Перемежающаяся"
+      ]
+    },
+    {
+      "id": "medBrat_88",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКак изменяются процессы терморегуляции в первой стадии повышения температуры:",
+        "Суживаются кровеносные сосуды кожи",
+        "Расширяются кровеносные сосуды кожи",
+        "Усиливается теплопродукция в скелетных мышцах",
+        "Усиливается потоотделение"
+      ]
+    },
+    {
+      "id": "medBrat_89",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКак изменяются процессы терморегуляции в стадии падения температуры:",
+        "Усиливается теплопродукция в скелетных мышцах",
+        "Усиливается потоотделение",
+        "Расширяются кровеносные сосуды кожи",
+        "Уменьшается теплопродукция в скелетных мышцах"
+      ]
+    },
+    {
+      "id": "medBrat_90",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие мероприятия по уходу за больным следует применять в первой стадии лихорадки (стадии повышения температуры):",
+        "Напоить больного горячим чаем",
+        "Тепло укрыть больного, обложить его грелками",
+        "Сменить постельное белье",
+        "Положить холодный компресс на лоб"
+      ]
+    },
+    {
+      "id": "medBrat_91",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие мероприятия по уходу за больным следует применять во второй стадии лихорадки (стадии сохранения максимальной температуры):",
+        "Согреть больного, обложить грелками",
+        "Следить за частотой пульса и дыхания, уровнем артериального давления",
+        "Следить за состоянием центральной нервной системы",
+        "Осуществлять уход за полостью рта"
+      ]
+    },
+    {
+      "id": "medBrat_92",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие мероприятия по уходу за больным следует применять при критическом падении температуры:",
+        "Тщательно следить за состоянием сердечно-сосудистой системы (частотой пульса и его наполнением, уровнем АД)",
+        "Своевременно сменить нательное и постельное белье",
+        "Следить за состоянием полости рта",
+        "Согреть больного и напоить горячим чаем",
+        "Проводить профилактику пролежней"
+      ]
+    },
+    {
+      "id": "medBrat_93",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКак часто необходимо менять влажный холодный компресс:",
+        "Через 2-3 мин.",
+        "Как только он высохнет",
+        "Через 10-15 мин."
+      ]
+    },
+    {
+      "id": "medBrat_94",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nВ каких случаях применяют пузырь со льдом:",
+        "Внутреннего кровотечения",
+        "Сильных головных болей и бреда на высоте лихорадки",
+        "Почечной колики",
+        "Острого холецистита или острого панкреатита",
+        "Для рассасывания постинъекционных инфильтратов"
+      ]
+    },
+    {
+      "id": "medBrat_95",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКаковы противопоказания грелок на область живота:",
+        "Боль при обострении язвенной болезни",
+        "Кишечная колика",
+        "Внутреннее кровотечение",
+        "Подозрение на острое хирургическое заболевание органов брюшной полости"
+      ]
+    },
+    {
+      "id": "medBrat_96",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nВ каких случаях применяют горчичники:",
+        "Острые простудные заболевания",
+        "Заболевания кожи",
+        "Сразу после травмы",
+        "При приступе стенокардии",
+        "При миозитах, радикулитах, невралгии"
+      ]
+    },
+    {
+      "id": "medBrat_97",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакое действие на организм оказывают непродолжительные холодные ванны:",
+        "Возбуждающее влияние на центральную нервную систему",
+        "Успокаивающее влияние на центральную нервную систему",
+        "Снимающее спазм гладкой мускулатуры внутренних органов",
+        "Расширяющее гладкую мускулатуру внутренних органов",
+        "Стимуляции обмена веществ"
+      ]
+    },
+    {
+      "id": "medBrat_98",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакое действие на организм оказывают непродолжительные горячие ванны:",
+        "Возбуждающее влияние на центральную нервную систему",
+        "Успокаивающее влияние на центральную нервную систему",
+        "Снимающее спазм гладкой мускулатуры внутренних органов",
+        "Расширяющее гладкую мускулатуру внутренних органов",
+        "Усиливающее теплоотдачу",
+        "Стимуляции обмена веществ"
+      ]
+    },
+    {
+      "id": "medBrat_99",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКакой способ введения лекарственных препаратов называется парентеральным:",
+        "Применение лекарственных средств с помощью инъекций",
+        "Любой способ введения лекарственных препаратов, минуя желудочно-кишечный тракт;",
+        "Наружное применение лекарственных средств"
+      ]
+    },
+    {
+      "id": "medBrat_100",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВ каких случаях лекарственные препараты назначают внутрь после приема пищи:",
+        "Если они раздражают слизистую оболочку желудка",
+        "Если они участвуют в процессе пищеварения",
+        "Если они разрушаются соляной кислотой желудочного сока и пищеварительными ферментами"
+      ]
+    },
+    {
+      "id": "medBrat_101",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nВ каких случаях используют ректальный способ введения лекарственных препаратов:",
+        "Если невозможен или нежелателен их пероральный прием",
+        "Если необходимо оказать местное лечебное действие",
+        "Если необходимо получит быстрый и выраженный эффект"
+      ]
+    },
+    {
+      "id": "medBrat_102",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nВ каких случаях целесообразно использовать инъекционные способы введения лекарственных средств:",
+        "Если необходимо получить быстрый лечебный эффект",
+        "Если препарат действует очень кратковременно",
+        "Если препарат обладает высокой токсичностью",
+        "Если нужно обеспечить точную концентрацию препарата в крови",
+        "Если отсутствуют другие способы введения препарата"
+      ]
+    },
+    {
+      "id": "medBrat_103",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие области тела наиболее удобны для подкожных инъекций:",
+        "Наружная поверхность плеча",
+        "Внутренняя поверхность плеча",
+        "Наружная поверхность бедра",
+        "Внутренняя поверхность бедра",
+        "Подлопаточная область",
+        "Боковая поверхность брюшной стенки"
+      ]
+    },
+    {
+      "id": "medBrat_104",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие области тела наиболее удобны для проведения внутримышечных инъекций:",
+        "Наружная поверхность бедра",
+        "Внутренняя поверхность бедра",
+        "Боковая поверхность брюшной стенки",
+        "Верхненаружный квадрант ягодицы"
+      ]
+    },
+    {
+      "id": "medBrat_105",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие существуют показания для применения внутривенных вливаний:",
+        "Снижение объема циркулирующей крови",
+        "Интоксикация организма при инфекционных заболеваниях и отравлениях",
+        "Повышение артериального давления",
+        "Нарушение водно-электролитного баланса и кислотно-щелочного состояния"
+      ]
+    },
+    {
+      "id": "medBrat_106",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКакова роль воздуховодной трубки в системе для внутривенных капельных вливаний:",
+        "Вытесняет жидкость из флакона с раствором",
+        "Препятствует проникновению воздуха в трубки системы",
+        "Способствует капельному движению жидкости в системе"
+      ]
+    },
+    {
+      "id": "medBrat_107",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие осложнения связаны с нарушением правил асептики и антисептики при проведении инъекций:",
+        "Воздушная и жировая эмболия",
+        "Аллергические реакции",
+        "Развитие постинъекционных инфильтратов и абсцессов",
+        "Заболевание сывороточным гепатитом"
+      ]
+    },
+    {
+      "id": "medBrat_108",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие из перечисленных методов исследования дыхательной системы относятся к рентгенологическим:",
+        "Бронхография",
+        "Бронхоскопия",
+        "Флюорография",
+        "Томография",
+        "Спирография"
+      ]
+    },
+    {
+      "id": "medBrat_109",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие признаки характерны для болей в грудной клетке, связанных с поражением плевры:",
+        "Усиление болей при глубоком дыхании и кашле",
+        "Колющий характер болей",
+        "Сжимающий характер болей",
+        "Усиление болей при положении на больном боку",
+        "Уменьшение болей при положении на больном боку",
+        "Усиление болей при надавливании на грудную клетку"
+      ]
+    },
+    {
+      "id": "medBrat_110",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие процедуры целесообразно назначать больному для уменьшения упорного сухого кашля:",
+        "Дренаж бронхов с изменением положения тела",
+        "Теплое щелочное питье",
+        "Банки, горчичники",
+        "Отхаркивающие и противокашлевые средства",
+        "Ингаляции кислорода"
+      ]
+    },
+    {
+      "id": "medBrat_111",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nРабочий раствор хлорамина годен в течение (дни):",
+        "45",
+        "1",
+        "30",
+        "14"
+      ]
+    },
+    {
+      "id": "medBrat_112",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие признаки кровотечения указывают на его легочное происхождение:",
+        "Кровь алая, пенистая",
+        "Кровь темная, сгустками, типа «кофейной гущи»",
+        "Выделяющаяся кровь имеет щелочную реакцию",
+        "Выделяющаяся кровь имеет кислую реакцию",
+        "Выделение крови с кашлевыми толчками"
+      ]
+    },
+    {
+      "id": "medBrat_113",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие меры следует принять при возникновении у больного легочного кровотечения:",
+        "Назначить полный покой",
+        "Положить пузырь со льдом на область грудной клетки",
+        "Ввести викасол и хлористый кальций",
+        "Поставить банки или горчичники",
+        "Применить ингаляции кислорода"
+      ]
+    },
+    {
+      "id": "medBrat_114",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие заболевания легких могут сопровождаться кровохарканьем:",
+        "Острый бронхит",
+        "Крупозная пневмония",
+        "Бронхиальная астма",
+        "Бронхоэктатическая болезнь",
+        "Рак легкого"
+      ]
+    },
+    {
+      "id": "medBrat_115",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКаково назначение плевральной пункции:",
+        "Удаление жидкости из плевральной полости с диагностической целью",
+        "Удаление жидкости из плевральной полости с лечебной целью",
+        "Введение в плевральную полость лекарственных средств",
+        "Разъединение плевральных сращений",
+        "Отсасывание мокроты из бронхов и их промывание"
+      ]
+    },
+    {
+      "id": "medBrat_116",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакую помощь необходимо оказать больному при обмороке:",
+        "Придать положение с возвышенным изголовьем",
+        "Придать положение с низким изголовьем",
+        "Освободить от стесняющей одежды",
+        "Обеспечить доступ свежего воздуха",
+        "Дать нитроглицерин",
+        "Дать понюхать ватку с нашатырным спиртом"
+      ]
+    },
+    {
+      "id": "medBrat_117",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nОтличительными признаками перитонеальных болей являются:",
+        "Схваткообразный или ноющий характер",
+        "Острый, режущий характер",
+        "Четкая локализация",
+        "Неопределенная локализация, диффузные боли",
+        "Усиление болей при движении",
+        "Боли сопровождаются напряжением мышц брюшной стенки"
+      ]
+    },
+    {
+      "id": "medBrat_118",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nЧем опасна упорная, неукротимая рвота:",
+        "Нарушением электролитного баланса организма",
+        "Обезвоживанием организма",
+        "Вовлечением в патологический процесс брюшины",
+        "Надрывом слизистой оболочки желудка и пищевода с последующим кровотечением"
+      ]
+    },
+    {
+      "id": "medBrat_119",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие мероприятия следует проводить при метеоризме:",
+        "Введение газоотводной трубки",
+        "Ограничение продуктов, богатых клетчаткой и крахмалом",
+        "Применение активированного угля, ветрогонных трав",
+        "Промывание желудка",
+        "Применение ферментных препаратов"
+      ]
+    },
+    {
+      "id": "medBrat_120",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакими симптомами проявляется желудочно-кишечное кровотечение:",
+        "Рвота со сгустками крови (гематемезис)",
+        "Черный дегтеобразный стул (мелена)",
+        "Обесцвеченный стул",
+        "Снижение артериального давления",
+        "Тахикардия",
+        "Цианоз",
+        "Бледность кожных покровов"
+      ]
+    },
+    {
+      "id": "medBrat_121",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие мероприятия необходимо проводить при желудочно-кишечном кровотечении:",
+        "Обеспечение полного покоя",
+        "Холод на живот",
+        "Введение викасола, хлористого кальция",
+        "Срочное рентгенологическое и эндоскопическое исследования желудочно-кишечного тракта",
+        "Постановка сифонной клизмы",
+        "Постановка очистительной клизмы",
+        "Промывание желудка"
+      ]
+    },
+    {
+      "id": "medBrat_122",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПротивопоказания для промывания желудка:",
+        "Желудочное кровотечение",
+        "Поздний период после химических ожогов глотки, пищевода",
+        "Нарушения мозгового кровообращения",
+        "Инфаркт миокарда",
+        "Сужение выходного отдела пищевода",
+        "Хроническая почечная недостаточность с развитием уремического гастрита"
+      ]
+    },
+    {
+      "id": "medBrat_123",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПоказания для очистительных клизм:",
+        "Задержка стула",
+        "Отравления",
+        "Предродовой период",
+        "Язвенное поражение толстой кишки",
+        "Первые дни после операций на органах брюшной полости",
+        "Подготовка к рентгенологическим и эндоскопическим исследованиям толстой кишки",
+        "Кишечное кровотечение"
+      ]
+    },
+    {
+      "id": "medBrat_124",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nС какой целью применяют гипертонические клизмы:",
+        "Для введения в организм жидкости",
+        "Для опорожнения кишечника при атонических запорах",
+        "Для опорожнения кишечника при спастических запорах",
+        "Для борьбы с отеками"
+      ]
+    },
+    {
+      "id": "medBrat_125",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nВ каких случаях применяют сифонные клизмы:",
+        "Для диагностики кишечной непроходимости",
+        "Для лечения кишечной непроходимости",
+        "С целью введения жидкости при обезвоживании организма",
+        "Перед постановкой лекарственных клизм",
+        "При отравлениях"
+      ]
+    },
+    {
+      "id": "medBrat_126",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакой наконечник вводят в прямую кишку при постановке сифонной клизмы:",
+        "Пластмассовый или стеклянный длиной 10-12 см",
+        "Резиновый длиной 10-12 см",
+        "Резиновый длиной 20-30 см",
+        "Толстый желудочный зонд или кишечную трубку"
+      ]
+    },
+    {
+      "id": "medBrat_127",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКакое количество промывной жидкости необходимо приготовить для постановки сифонной клизмы взрослому пациенту:",
+        "1-1,5 л",
+        "50-100 мл",
+        "5-6 л",
+        "10-12 л"
+      ]
+    },
+    {
+      "id": "medBrat_128",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nЛекарственные клизмы:",
+        "Являются чаще всего микроклизмами",
+        "Применяются для введения препаратов, хорошо всасывающихся в толстой кишке",
+        "Применяются для местного воздействия на слизистую оболочку прямой и сигмовидной кишок",
+        "Применяются для лечения кишечной непроходимости"
+      ]
+    },
+    {
+      "id": "medBrat_129",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОсобенности подготовки больного к рентгенологическому исследованию желудка:",
+        "Обязательно в день исследования натощак",
+        "Обязательно очистительная клизма накануне",
+        "Обязательно бесшлаковая диета"
+      ]
+    },
+    {
+      "id": "medBrat_130",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nОсобенности подготовки больного к ультразвуковому исследованию органов брюшной полости:",
+        "Соблюдение бесшлаковой диеты в течение нескольких дней",
+        "Прием адсорбентов (активированного угля) в течение нескольких дней перед исследованием",
+        "В день исследования очистительная клизма натощак",
+        "Очистительная клизма накануне исследования",
+        "Прием слабительных препаратов накануне исследования"
+      ]
+    },
+    {
+      "id": "medBrat_131",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМожет ли эзофагогастроскопия проводиться не натощак, а спустя какое-то время после приема пищи:",
+        "Нет, больной должен быть обязательно натощак",
+        "Да, но в таком случае необходимо предварительно сделать промывание желудка",
+        "Да, в экстренных ситуациях эзофагогастродуоденоскопию проводят независимо от времени, прошедшего с момента приема пищи (например, при желудочно-кишечном кровотечении)"
+      ]
+    },
+    {
+      "id": "medBrat_132",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nВ чем заключается неотложная помощь при почечной колике:",
+        "Пузырь со льдом на область поясницы",
+        "Грелка на область поясницы или горячая ванна",
+        "Применение спазмолитиков (например, баралгина); холинолитиков (например, атропина)",
+        "Применение мочегонных препаратов"
+      ]
+    },
+    {
+      "id": "medBrat_133",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПри лечении больных с хронической почечной недостаточностью рекомендуют:",
+        "Ограничение применения поваренной соли",
+        "Уменьшение содержания белков в пищевом рационе",
+        "Ограничение приема жидкости",
+        "Контроль уровня артериального давления и отеков",
+        "Применение спазмолитиков и холинолитиков"
+      ]
+    },
+    {
+      "id": "medBrat_134",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКакие заболевания и состояния сопровождаются острой задержкой мочи:",
+        "Опухоль или аденома предстательной железы",
+        "Почечная недостаточность",
+        "Сдавление обоих мочеточников (например, опухолью)",
+        "После операций на органах брюшной полости",
+        "Послеродовой период"
+      ]
+    },
+    {
+      "id": "medBrat_135",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nДля ликвидации острой задержки мочи применяют:",
+        "Катетеризацию мочевого пузыря",
+        "Цистостомию",
+        "Подкожное введение прозерина",
+        "Подкожное введение атропина",
+        "Применение спазмолитиков (но-шпы, баралгина)"
+      ]
+    },
+    {
+      "id": "medBrat_136",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПри недержании мочи рекомендуют:",
+        "Использование мочеприемника",
+        "Тщательный туалет кожных покровов",
+        "Контроль чистоты нательного и постельного белья",
+        "Применение тепла на область поясницы",
+        "Подкожное введение прозерина"
+      ]
+    },
+    {
+      "id": "medBrat_137",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nВ обязанности медицинской сестры приёмного покоя входит:",
+        "Заполнение паспортной части истории болезни",
+        "Заполнение листа анамнеза",
+        "Измерение температуры тела",
+        "Назначение необходимой лечебной помощи больному",
+        "Осмотр на педикулёз"
+      ]
+    },
+    {
+      "id": "medBrat_138",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПорядок сдачи дежурств среднего медицинского персонала включает:",
+        "Передачу медицинского инструментария",
+        "Передачу лекарственных препаратов",
+        "Сводку движения больных",
+        "Передачу ключей от сейфа с лекарственными препаратами списка А"
+      ]
+    },
+    {
+      "id": "medBrat_139",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nМедицинская документация, передающаяся по дежурству:",
+        "Журнал учета и расходования наркотических средств",
+        "Журнал учета ядовитых и сильнодействующих препаратов",
+        "Журнал приема и передачи дежурств",
+        "Составленное порционное требование в 2-х экземплярах"
+      ]
+    },
+    {
+      "id": "medBrat_140",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nЖурнал приема и передачи дежурств предусматривает:",
+        "Список лихорадящих больных",
+        "Перечень срочных назначений",
+        "Процедурные и температурные листы",
+        "Наличие медицинского инструментария по списку"
+      ]
+    },
+    {
+      "id": "medBrat_141",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nВ обязанности постовой медицинской сестры входят:",
+        "Проведение туалета детей грудного возраста",
+        "Выполнение врачебных назначений",
+        "Сбор материала для анализов",
+        "Раздача лекарств",
+        "Обеспечение ухода за больным"
+      ]
+    },
+    {
+      "id": "medBrat_142",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nВ обязанности постовой медицинской сестры входят:",
+        "Контроль соблюдения лечебно-охранительного режима в отделении",
+        "Контроль лечебного питания",
+        "Контроль образцового содержания сестринского поста",
+        "Контроль санитарного состояния больных",
+        "Контроль передач для детей от родителей"
+      ]
+    },
+    {
+      "id": "medBrat_143",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nСтаршая медицинская сестра обязана:",
+        "При получении лекарственных средств контролировать оформление этикетки",
+        "Инструктировать медицинских сестер о сроках хранения каждого полученного из аптеки средства",
+        "Обеспечить лабораторно-диагностическое обследование",
+        "Инструктировать медицинских сестер о способах хранения медикаментов и растворов"
+      ]
+    },
+    {
+      "id": "medBrat_144",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nУстанавливаются следующие сроки хранения средств, приготовленных в аптеках:",
+        "Для инъекционных растворов – 2 суток",
+        "Для отваров, настоев, капель – 2 суток",
+        "Для эмульсий – 3 суток",
+        "Для лекарственных средств, приготовленных в аптеках, – 2 месяца",
+        "Для лекарственных средств заводского изготовления – 2-5 лет"
+      ]
+    },
+    {
+      "id": "medBrat_145",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nРаздача лекарственных средств предусматривает:",
+        "Сверку записи в листе врачебных назначений с аптечной этикеткой",
+        "Соблюдение гигиенических правил при раздаче лекарств",
+        "Контроль приема лекарств",
+        "При наличии нескольких лекарств все помещаются в одну мензурку",
+        "Спиртовые настойки, жидкие экстракты отмеряются с помощью чистых пипеток"
+      ]
+    },
+    {
+      "id": "medBrat_146",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nОсобенности транспортировки при переломе костей черепа включают следующие мероприятия:",
+        "Голову фиксируют с помощью специальной шины",
+        "Транспортируют лежа на носилках",
+        "Приподнимают головной конец",
+        "Вокруг головы кладут валик из одеяла",
+        "Подголовник опускают"
+      ]
+    },
+    {
+      "id": "medBrat_147",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nВо время транспортировки больного с кровоизлиянием в головной мозг проводятся следующие мероприятия:",
+        "Голову больного поворачивают набок",
+        "Следят, чтобы рвотные массы не попали в дыхательные пути",
+        "Вокруг головы кладут валик",
+        "Транспортируют на носилках лежа"
+      ]
+    },
+    {
+      "id": "medBrat_148",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nБольного с сердечно-сосудистой недостаточностью транспортируют:",
+        "На носилках лежа",
+        "К ногам кладется грелка",
+        "Хорошо укрывают",
+        "В полусидячем положении"
+      ]
+    },
+    {
+      "id": "medBrat_149",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nЛичная гигиена больного включает протирание полости рта ватным шариком, смоченным:",
+        "В 5% растворе борной кислоты",
+        "В 10% растворе перекиси водорода",
+        "В 2% растворе натрия гидрокарбоната",
+        "В растворе фурацилина 1:5000"
+      ]
+    },
+    {
+      "id": "medBrat_150",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПеречислите правила ухода за ушами больного ребенка:",
+        "Оттянуть ушную раковину кзади и кверху",
+        "Осторожно ввести зонд с навернутой ватой в наружный слуховой проход",
+        "Очистить с помощью ватной турунды",
+        "Очистить мягким вращением зонда"
+      ]
+    },
+    {
+      "id": "medBrat_151",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nУход за глазами проводится с помощью стерильных марлевых тампонов, смоченных:",
+        "В 2% растворе борной кислоты",
+        "В изотоническом растворе натрия хлорида",
+        "В растворе калия перманганата 1:500",
+        "В растворе фурацилина 1:5000"
+      ]
+    },
+    {
+      "id": "medBrat_152",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПравила подмывания детей включают:",
+        "Подмывание девочек в направлении от лобка к анусу",
+        "Подмывание девочек в направлении от ануса к лобку",
+        "Подмывание мальчиков и девочек производят под струей теплой воды",
+        "Подмывание мальчиков и девочек производят непроточной водой"
+      ]
+    },
+    {
+      "id": "medBrat_153",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПосле подмывания кожу ребёнка просушивают:",
+        "Вытирая пелёнкой",
+        "Пелёнкой промокательными движениями",
+        "Феном"
+      ]
+    },
+    {
+      "id": "medBrat_154",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПосле подмывания кожу здорового ребенка 1-го года жизни обрабатывают:",
+        "Мазью с антибиотиком",
+        "Стерильным растительным маслом",
+        "Специальным детским кремом",
+        "Раствором фурацилина",
+        "Специальным детским косметическим маслом",
+        "Обрабатывать не нужно"
+      ]
+    },
+    {
+      "id": "medBrat_155",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nГигиеническая ванна детям в лечебном отделении проводится 1 раз в:",
+        "День",
+        "3-5 дней",
+        "5-7 дней"
+      ]
+    },
+    {
+      "id": "medBrat_156",
+      "arr": [
+        "ПЕРЕЧИСЛИТЕ ПРАВИЛЬНЫЙ ПОРЯДОК ОТВЕТОВ\nУкажите порядок смены нательного белья у тяжелобольного ребёнка – сначала освобождают:",
+        "Голову",
+        "Руки",
+        "Туловище"
+      ]
+    },
+    {
+      "id": "medBrat_157",
+      "arr": [
+        "ПЕРЕЧИСЛИТЕ ПРАВИЛЬНЫЙ ПОРЯДОК ОТВЕТОВ\nУкажите порядок смены нательного белья у тяжелобольного ребёнка - сначала чистое бельё надевают на:",
+        "Голову",
+        "Руки",
+        "Туловище"
+      ]
+    },
+    {
+      "id": "medBrat_158",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПролежень – это:",
+        "Гнойное воспаление кожи и подкожной клетчатки",
+        "Грибковое поражение кожи",
+        "Некроз мягких тканей в местах сдавления",
+        "Аллергическое поражение кожи"
+      ]
+    },
+    {
+      "id": "medBrat_159",
+      "arr": [
+        "ПЕРЕЧИСЛИТЕ ПРАВИЛЬНЫЙ ПОРЯДОК ОТВЕТОВ\nУкажите порядок появления симптомов пролежня:",
+        "Отслаивание эпидермиса",
+        "Очаг побледнения кожи",
+        "Отёк кожи",
+        "Гиперемия кожи"
+      ]
+    },
+    {
+      "id": "medBrat_160",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПрофилактика пролежней предусматривает следующие мероприятия:",
+        "Слежение за чистотой постельного и нательного белья",
+        "Уход за кожными покровами",
+        "Протирание кожи марлей, смоченной изотоническим раствором натрия хлорида",
+        "Протирание кожи марлей, смоченной камфорным спиртом"
+      ]
+    },
+    {
+      "id": "medBrat_161",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nЛечение пролежней включает следующие мероприятия:",
+        "Под крестец и копчик подкладывается резиновый круг",
+        "Места пролежней обрабатываются концентрированным раствором калия перманганата",
+        "Смазывают поврежденную кожу 2% спиртовым раствором бриллиантового зеленого",
+        "Накладывается асептическая повязка при ограниченном поражении кожи"
+      ]
+    },
+    {
+      "id": "medBrat_162",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПосле удаления омертвевших тканей используют повязки с мазями:",
+        "Вишневского",
+        "Синтомициновой",
+        "Мазью с солкосерилом",
+        "Закрывают салфеткой, смоченной 40% спиртом",
+        "Мазью с апилаком"
+      ]
+    },
+    {
+      "id": "medBrat_163",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nК основным антропометрическим показателям относятся:",
+        "Рост",
+        "Окружность головы",
+        "Масса тела",
+        "Окружность груди"
+      ]
+    },
+    {
+      "id": "medBrat_164",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПервое вытяжение (ускорение роста) у мальчиков отмечается в возрасте:",
+        "3-4 лет",
+        "4-6 лет",
+        "6-9 лет",
+        "9-10 лет"
+      ]
+    },
+    {
+      "id": "medBrat_165",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПервое вытяжение (ускорение роста) у девочек отмечается в возрасте:",
+        "4-6 лет",
+        "6-7 лет",
+        "7-9 лет",
+        "9-10 лет"
+      ]
+    },
+    {
+      "id": "medBrat_166",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВторое вытяжение (ускорение роста) у мальчиков отмечается в возрасте:",
+        "8-10 лет",
+        "11-12 лет",
+        "13-16 лет"
+      ]
+    },
+    {
+      "id": "medBrat_167",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВторое вытяжение (ускорение роста) у девочек отмечается в возрасте:",
+        "8-10 лет",
+        "10-12 лет",
+        "12-14 лет"
+      ]
+    },
+    {
+      "id": "medBrat_168",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСредняя длина тела доношенного новорожденного соответствует:",
+        "45 – 47 см",
+        "48 – 49 см",
+        "50 – 52 см",
+        "53 – 55 см",
+        "55 – 57 см"
+      ]
+    },
+    {
+      "id": "medBrat_169",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСредняя масса тела доношенного новорожденного составляет:",
+        "2500 - 3000 г",
+        "3000 - 3300 г",
+        "3300-3500 г",
+        "3500-4000 г"
+      ]
+    },
+    {
+      "id": "medBrat_170",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКонтрольное кормление проводится:",
+        "При заболеваниях ребенка",
+        "При недостаточной прибавке ребенка в массе",
+        "При избыточной прибавке ребенка в массе",
+        "При дефиците молока у матери"
+      ]
+    },
+    {
+      "id": "medBrat_171",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПри стерилизации сосок необходимо соблюдать следующие правила:",
+        "Промывать соску после кормления в проточной воде",
+        "Промывать в теплой воде с содой",
+        "Кипятить 40-45 минут",
+        "Хранить стерильные соски в закрытой стеклянной посуде",
+        "Доставать соску из посуды стерильным пинцетом"
+      ]
+    },
+    {
+      "id": "medBrat_172",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПравила стерилизации бутылочек предусматривают:",
+        "Обезжиривание бутылочек (раствором горчицы)",
+        "Промывание с помощью проточной воды и ерша",
+        "Использование сухожарового шкафа для стерилизации",
+        "Хранение стерильных бутылочек в металлических сетках вниз горлышком"
+      ]
+    },
+    {
+      "id": "medBrat_173",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПоказания к применению основного варианта диеты:",
+        "Хронический гастрит, язвенная болезнь желудка и двенадцатиперстной кишки в стадии ремиссии",
+        "Хронический гастрит, язвенная болезнь желудка и двенадцатиперстной кишки в стадии обострения и нестойкой ремиссии",
+        "Гастроэзофагеальная рефлюксная болезнь",
+        "Хронический холецистит и желчнокаменная болезнь",
+        "Острый холецистит и острый гепатит в стадии выздоровления",
+        "Хронический панкреатит в стадии ремиссии",
+        "Острые инфекционные заболевания"
+      ]
+    },
+    {
+      "id": "medBrat_174",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПоказания к применению диеты с механическим и химическим щажением:",
+        "Хронический гастрит, язвенная болезнь желудка и двенадцатиперстной кишки в стадии ремиссии",
+        "Хронический гастрит, язвенная болезнь желудка и двенадцатиперстной кишки в стадии обострения и нестойкой ремиссии",
+        "В период выздоровления после острых инфекции, после операций (не на внутренних органах)",
+        "Гастроэзофагеальная рефлюксная болезнь",
+        "Туберкулез легких; нагноительные процессы",
+        "Нарушения функции жевательного аппарата",
+        "Ожирение"
+      ]
+    },
+    {
+      "id": "medBrat_175",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПоказания к применению диеты с повышенным количеством белка:",
+        "Хронический гастрит, язвенная болезнь желудка и двенадцатиперстной кишки в стадии обострения и нестойкой ремиссии",
+        "Ожоговая болезнь",
+        "В период выздоровления после острых инфекции, после операций (не на внутренних органах)",
+        "Ревматизм в стадии затухающего обострения",
+        "Туберкулез легких; нагноительные процессы",
+        "Нарушения функции жевательного аппарата",
+        "Ожирение"
+      ]
+    },
+    {
+      "id": "medBrat_176",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПоказания к применению диеты с пониженным количеством белка:",
+        "В период выздоровления после острых инфекций",
+        "Ожирение",
+        "Ожоговая болезнь",
+        "Хронический гломерулонефрит с нарушением функции почек",
+        "Ревматизм в стадии затухающего обострения",
+        "Туберкулез легких; нагноительные процессы нарушения функции жевательного аппарата"
+      ]
+    },
+    {
+      "id": "medBrat_177",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПоказания к применению диеты с пониженной калорийностью:",
+        "Туберкулез легких; нагноительные процессы нарушения функции жевательного аппарата",
+        "В период выздоровления после острых инфекций",
+        "Сахарный диабет типа 2 с ожирением",
+        "Ожоговая болезнь",
+        "Алиментарное ожирение",
+        "Сердечно-сосудистые заболевания при наличии избыточной массы и ожирения"
+      ]
+    },
+    {
+      "id": "medBrat_178",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nДиета с механическим и химическим щажением предусматривает:",
+        "Питание 5-6 раз в день",
+        "Блюда приготавливаются в запеченном или жареном виде",
+        "Ограничение поваренной соли",
+        "Питание 2-3 раза в день",
+        "Поваренная соль не ограничивается",
+        "Блюда приготавливаются в отварном виде или на пару"
+      ]
+    },
+    {
+      "id": "medBrat_179",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nДиета с пониженной калорийностью предусматривает:",
+        "Поваренная соль не ограничивается",
+        "Питание 4-6 раз в день",
+        "Исключение простых сахаров",
+        "Ограничение животных жиров",
+        "Ограничение поваренной соли",
+        "Питание 2-3 раза в день",
+        "Ограничение растительных жиров",
+        "Включение пищевых волокон",
+        "Блюда приготавливаются в отварном виде или на пару"
+      ]
+    },
+    {
+      "id": "medBrat_180",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПравила измерения температуры включают следующие мероприятия:",
+        "Измерение температуры 2 раза в сутки",
+        "Измерение производят после приема пищи",
+        "Длительность измерения температуры - не менее 10 минут",
+        "Выбор суточного времени измерения температуры соответствует 6-8 час. утра и 16-18 час. вечера",
+        "Измерение температуры в подмышечной ямке предусматривает просушивание кожи от пота"
+      ]
+    },
+    {
+      "id": "medBrat_181",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТемпература в прямой кишке по сравнению с температурой в подмышечной впадине:",
+        "Выше на 0,5°-1°С",
+        "Ниже на 0,5°-1°С",
+        "Выше на 1°-1,5°С",
+        "Ниже на 1°-1,5°С"
+      ]
+    },
+    {
+      "id": "medBrat_182",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nВ температурном листе отмечаются следующие параметры состояния организма ребенка:",
+        "Частота пульса",
+        "Данные артериального давления",
+        "Данные частоты дыхания",
+        "Количество выпитой жидкости",
+        "Суточный диурез",
+        "Проведение гигиенических процедур"
+      ]
+    },
+    {
+      "id": "medBrat_183",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nНаиболее часто встречающиеся виды лихорадки:",
+        "Субфебрильная (37°-38° С)",
+        "Фебрильная (38°-39° С)",
+        "Сниженная (36°-35° С)",
+        "Высокая фебрильная (39°-40° С)",
+        "Гиперпиретическая (40°-41° С)"
+      ]
+    },
+    {
+      "id": "medBrat_184",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКритическое снижение температуры тела характеризуется:",
+        "Быстрым падением температуры тела",
+        "Постепенным снижением температуры тела",
+        "Развитием сильной слабости, обильного потоотделения",
+        "Падением артериального давления"
+      ]
+    },
+    {
+      "id": "medBrat_185",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nЛитическое снижение температуры тела характеризуется:",
+        "Быстрым падением температуры тела",
+        "Постепенным снижением температуры тела",
+        "Развитием сильной слабости, обильного потоотделения",
+        "Развитием умеренной слабости, небольшой испарины"
+      ]
+    },
+    {
+      "id": "medBrat_186",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nУ лихорадящего больного медицинская сестра должна контролировать:",
+        "Температуру тела",
+        "Общее состояние",
+        "Цвет мочи и стула",
+        "Пульс и артериальное давление",
+        "Количество выпитой жидкости и выделенной мочи"
+      ]
+    },
+    {
+      "id": "medBrat_187",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПитание лихорадящего больного должно быть:",
+        "Более частыми малыми порциями",
+        "Более редким",
+        "С уменьшенным содержанием белка и жира",
+        "С увеличенным содержанием белка",
+        "С физиологическим объемом жидкости",
+        "С дополнительным приемом жидкости"
+      ]
+    },
+    {
+      "id": "medBrat_188",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nЛечение лихорадки показано:",
+        "При умеренном повышении температуры у детей в возрасте до 3-х лет",
+        "При указании в анамнезе на наличие фебрильных судорог",
+        "При розовой лихорадке",
+        "При сопутствующих заболеваниях сердца, легких, ЦНС",
+        "При гипертермии более 6-8 часов"
+      ]
+    },
+    {
+      "id": "medBrat_189",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПотница развивается вследствие:",
+        "Раздражения выводных протоков сальных желез",
+        "Раздражения выводных протоков потовых желез",
+        "Перегревания ребенка",
+        "Переохлаждения ребенка",
+        "Дефектов ухода за кожей"
+      ]
+    },
+    {
+      "id": "medBrat_190",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nЭлементы ухода и лечения кожи детей при потнице включают:",
+        "Устранение дефектов ухода",
+        "Мазевые повязки",
+        "Лечебные ванны с крахмалом",
+        "Лечебные ванны с раствором перманганата калия"
+      ]
+    },
+    {
+      "id": "medBrat_191",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nОпрелость (пеленочный дерматит) – это воспалительный процесс на коже, проявляющийся:",
+        "Покраснением кожи",
+        "Мокнутием кожи",
+        "Гнойничковыми элементами",
+        "Эрозиями",
+        "Сыпями (пятнами и папулами)"
+      ]
+    },
+    {
+      "id": "medBrat_192",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nУход за кожей ребенка при опрелостях включает:",
+        "Частое пеленание",
+        "Редкое пеленание",
+        "Использование памперсов",
+        "Отказ от регулярного использования памперсов",
+        "Лечебные ванны с отваром ромашки, череды",
+        "Обработку пораженной кожи специальными детскими кремами"
+      ]
+    },
+    {
+      "id": "medBrat_193",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nОсновными препаратами для лечения пиодермии являются:",
+        "Раствор бриллиантовой зелени",
+        "Лечебные ванны",
+        "Раствор метиленового синего",
+        "Раствор генциан-фиолетового",
+        "1%-ная желтая ртутная мазь"
+      ]
+    },
+    {
+      "id": "medBrat_194",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМолочница – это грибковое поражение слизистой оболочки полости рта и языка, проявляющееся:",
+        "Покраснением",
+        "Появлением бело-серого налета",
+        "Изъязвлением"
+      ]
+    },
+    {
+      "id": "medBrat_195",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nЛечение молочницы включает смазывание слизистых оболочек ротовой полости и языка:",
+        "6% раствором соды",
+        "Отваром ромашки",
+        "1% водным раствором бриллиантового зеленого",
+        "Использование противогрибковых препаратов по назначению врача"
+      ]
+    },
+    {
+      "id": "medBrat_196",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКлиническими признаками ОРВИ являются:",
+        "Ринит",
+        "Фарингит",
+        "Конъюнктивит",
+        "Пневмония",
+        "Ларингит",
+        "Трахеит"
+      ]
+    },
+    {
+      "id": "medBrat_197",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nК мероприятиям, улучшающим отхождение мокроты, относятся:",
+        "Теплое щелочное питье",
+        "Лекарственные средства, разжижающие мокроту",
+        "Лекарственные средства, подавляющие кашель",
+        "Вибрационный массаж"
+      ]
+    },
+    {
+      "id": "medBrat_198",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nОстрый стеноз гортани характеризуется:",
+        "Стенотическим дыханием",
+        "Затруднением выдоха",
+        "Изменением голоса",
+        "Грубым кашлем",
+        "Затруднением вдоха"
+      ]
+    },
+    {
+      "id": "medBrat_199",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nНеотложная доврачебная помощь при ложном крупе включает проведение:",
+        "Ножной горячей ванны",
+        "Ингаляции теплого влажного воздуха",
+        "Согревающего компресса на область гортани",
+        "При необходимости - ИВЛ"
+      ]
+    },
+    {
+      "id": "medBrat_200",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПри попадании инородного тела в дыхательные пути ребенка медицинской сестре следует:",
+        "Дать ребенку кислород",
+        "Придать ребенку положение головой вниз и постучать по спине",
+        "Проводить дыхание «рот в рот»",
+        "Срочно вызвать врача"
+      ]
+    },
+    {
+      "id": "medBrat_201",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПри попадании инородного тела в носовые ходы ребенка необходимо:",
+        "Закапать в нос персиковое масло",
+        "Удалить инородное тело пинцетом",
+        "Плотно закрыв одну ноздрю, попросить ребенка высморкаться",
+        "Срочно вызвать врача"
+      ]
+    },
+    {
+      "id": "medBrat_202",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКритериями эффективности ИВЛ являются:",
+        "Исчезновение синюшной окраски кожи и слизистых оболочек",
+        "Появление кашля",
+        "Движения грудной клетки при вдохе",
+        "Дыхательный шум при выдохе"
+      ]
+    },
+    {
+      "id": "medBrat_203",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПодача кислорода (оксигенотерапия) больному с дыхательной недостаточностью возможна:",
+        "Через лицевую маску",
+        "Через носовой катетер",
+        "В кислородную палатку (пластмассовый колпак, закрывающий голову и часть грудной клетки ребенка)",
+        "Через катетер, лежащий рядом с головой ребенка"
+      ]
+    },
+    {
+      "id": "medBrat_204",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКислород при проведении оксигенотерапии должен подаваться:",
+        "Увлажненным",
+        "Осушенным",
+        "В смеси с воздухом",
+        "В чистом виде"
+      ]
+    },
+    {
+      "id": "medBrat_205",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nВзятие мазка из зева на бактериологическое исследование проводится:",
+        "После завтрака",
+        "Натощак",
+        "До чистки зубов",
+        "После приема лекарств"
+      ]
+    },
+    {
+      "id": "medBrat_206",
+      "arr": [
+        "ПЕРЕЧИСЛИТЕ ПРАВИЛЬНЫЙ ПОРЯДОК ОТВЕТОВ\nОпределите последовательность взятия мазка из зева для лабораторных исследований:",
+        "Медицинская сестра берет шпатель левой рукой",
+        "Медицинская сестра берет стерильную пробирку с тампоном",
+        "Медицинская сестра берет мазок из глотки и миндалин, снимая налет правой рукой",
+        "Больной садится к источнику света",
+        "Тампон помещают в пробирку, на которой написаны ФИО, возраст, дата взятия мазка"
+      ]
+    },
+    {
+      "id": "medBrat_207",
+      "arr": [
+        "ПЕРЕЧИСЛИТЕ ПРАВИЛЬНЫЙ ПОРЯДОК ОТВЕТОВ\nОпределите последовательность взятия мазка-отпечатка слизистой носа:",
+        "Тампон прижать к нижней носовой раковине, делая несколько вращательных движений",
+        "Взять небольшой ватный тампон на деревянной палочке",
+        "Приготовить чистое, обезжиренное эфиром предметное стекло",
+        "Тампон, увлажненный изотоническим раствором хлорида натрия, ввести в носовой ход",
+        "Извлечь тампон и на предметном стекле произвести отпечаток"
+      ]
+    },
+    {
+      "id": "medBrat_208",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКомплекс неотложных мероприятий при обмороке предусматривает следующие действия:",
+        "Придать ребенку горизонтальное положение",
+        "Опустить головной конец",
+        "В/в ввести лазикс",
+        "Расслабить одежду",
+        "Лицо и грудь опрыскать холодной водой",
+        "Дать вдохнуть нашатырного спирта",
+        "Ввести кардиамин"
+      ]
+    },
+    {
+      "id": "medBrat_209",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКомплекс неотложных мероприятий при пароксизмальной тахикардии:",
+        "Надавливание на глазные яблоки",
+        "Надавливание на область сонной артерии",
+        "Искусственный вызов рвоты",
+        "Вдыхание паров нашатырного спирта",
+        "Надавливание на брюшную аорту"
+      ]
+    },
+    {
+      "id": "medBrat_210",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПри проведении непрямого массажа сердца необходимо:",
+        "Уложить больного на кровать",
+        "Уложить больного на твердую поверхность",
+        "Надавливать ладонью на нижнюю треть грудины",
+        "Надавливать ладонью на мечевидный отросток грудины"
+      ]
+    },
+    {
+      "id": "medBrat_211",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nУ детей старшего возраста частота надавливаний на грудную клетку при проведении непрямого массажа сердца должна составлять в 1 минуту не менее:",
+        "30",
+        "50",
+        "70",
+        "100"
+      ]
+    },
+    {
+      "id": "medBrat_212",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nУ детей 1-го года жизни частота надавливаний на грудную клетку при проведении непрямого массажа сердца должна составлять в 1 минуту не менее:",
+        "50",
+        "70",
+        "100",
+        "100-150",
+        "150-200"
+      ]
+    },
+    {
+      "id": "medBrat_213",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nНосовое кровотечение возникает при:",
+        "Травмах",
+        "Инфекционных заболеваниях",
+        "Заболеваниях, связанных с нарушением гемостаза",
+        "Снижении артериального давления",
+        "Местных поражениях носовых ходов"
+      ]
+    },
+    {
+      "id": "medBrat_214",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКомплекс доврачебных мероприятий при носовом кровотечении состоит в следующем:",
+        "Усадить ребенка с опущенной головой",
+        "Обеспечить доступ свежего воздуха",
+        "Расстегнуть одежду",
+        "В/м ввести викасол",
+        "Прижать крыло носа к носовой перегородке"
+      ]
+    },
+    {
+      "id": "medBrat_215",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКомплекс доврачебных мероприятий при носовом кровотечении состоит в следующем:",
+        "Положить холод на переносицу",
+        "Затампонировать носовой ход ватным тампоном, смоченным 3% раствором перекиси водорода или адреналина",
+        "Ввести внутримышечно глюканат кальция",
+        "В/в ввести аминокапроновую кислоту"
+      ]
+    },
+    {
+      "id": "medBrat_216",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКровотечение из слизистых оболочек полости рта может возникнуть после:",
+        "Травмы слизистой оболочки",
+        "Удаления зуба",
+        "Перенесенной ангины",
+        "Операции в полости рта"
+      ]
+    },
+    {
+      "id": "medBrat_217",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nАлая кровь в стуле свидетельствует о:",
+        "Кровотечении из прямой кишки",
+        "Трещине заднего прохода",
+        "Заглатывании крови при носовом кровотечении",
+        "Кровотечении из нижних отделов толстой кишки"
+      ]
+    },
+    {
+      "id": "medBrat_218",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nМелена и рвота «кофейной гущей» бывают при:",
+        "Кровотечении из толстой кишки",
+        "Носовом кровотечении и заглатывании крови",
+        "Кровотечении из верхних отделов желудочно-кишечного тракта"
+      ]
+    },
+    {
+      "id": "medBrat_219",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКомплекс мероприятий при желудочно-кишечных кровотечениях:",
+        "Обеспечить ребенку покой",
+        "Контролировать выполнение строгого постельного режима",
+        "На верхнюю половину живота положить пузырь со льдом",
+        "Поить крепким сладким чаем"
+      ]
+    },
+    {
+      "id": "medBrat_220",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКормить ребенка с желудочно-кишечным кровотечением можно:",
+        "С первых суток от начала кровотечения",
+        "Со вторых суток от начала кровотечения",
+        "Только после разрешения врача",
+        "Охлажденной жидкой протертой пищей",
+        "Теплой жидкой протертой пищей"
+      ]
+    },
+    {
+      "id": "medBrat_221",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПри маточном кровотечении необходимо:",
+        "Обеспечить постельный режим",
+        "Положить на низ живота пузырь со льдом",
+        "Девочку не поить и не кормить",
+        "Подмывать девочку 2-3 раза в день",
+        "Своевременно менять прокладки"
+      ]
+    },
+    {
+      "id": "medBrat_222",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПричинами почечного кровотечения чаще являются:",
+        "Мочекаменная болезнь",
+        "Воспалительные заболевания (нефрит, цистит)",
+        "Энурез",
+        "Травма мочевой системы",
+        "Пороки развития почек"
+      ]
+    },
+    {
+      "id": "medBrat_223",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПри почечном кровотечении до прихода врача необходимо:",
+        "Поставить мочевой катетер",
+        "Обеспечить ребенку строгий постельный режим",
+        "Собирать мочу в горшок или мочеприемник",
+        "Следить за цветом мочи, наличием в ней сгустков крови",
+        "Ребенка не кормить и не поить"
+      ]
+    },
+    {
+      "id": "medBrat_224",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nСостав раствора, рекомендуемый при обезвоживании в домашних условиях, включает следующие соли на 1 литр воды:",
+        "1,0 марганца перманганата",
+        "20,0 глюкозы",
+        "2,5 г бикарбоната натрия",
+        "3,5 г хлорида натрия",
+        "1,5 г хлорида калия"
+      ]
+    },
+    {
+      "id": "medBrat_225",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПравила взятия кала для копрологического исследования предусматривают:",
+        "Сбор кала производится после самостоятельного акта дефекации",
+        "Кал получают в чистую сухую посуду",
+        "Доставляют в лабораторию не позднее 10 час.",
+        "Допускается хранение в холодильнике при температуре 3°-4 °С",
+        "Чистота посуды не имеет значения"
+      ]
+    },
+    {
+      "id": "medBrat_226",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПравила сбора кала на яйца глистов и лямблии состоят в следующем:",
+        "Ребенка высаживают на предварительно обработанный кипятком горшок",
+        "Кал берется из разных порций деревянной или стеклянной палочкой и помещается в банку",
+        "Кал берут трубочкой Циманна после акта дефекации из горшка",
+        "В лабораторию доставляют в течение 30 минут",
+        "Соскоб на энтеробиоз переносят на предметное стекло в каплю 50% раствора глицерина"
+      ]
+    },
+    {
+      "id": "medBrat_227",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nГазоотведение предусматривает следующие правила:",
+        "Диаметр трубки 10-15 мм",
+        "Предварительная постановка очистительной клизмы",
+        "Длина трубки не должна превышать 50 см",
+        "Трубку оставляют на 20-30 минут",
+        "Конец трубки помещают в воду"
+      ]
+    },
+    {
+      "id": "medBrat_228",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nГазоотводную трубку у детей вводят в прямую кишку на глубину:",
+        "1-3 см",
+        "3-5 см",
+        "5-8 см",
+        "8-12 см",
+        "15-20 см"
+      ]
+    },
+    {
+      "id": "medBrat_229",
+      "arr": [
+        "ПЕРЕЧИСЛИТЕ ПРАВИЛЬНЫЙ ПОРЯДОК ОТВЕТОВ\nПри промывании желудка следует соблюдать правила в определенной последовательности:",
+        "Голову прижимают к плечу",
+        "Медицинская сестра обертывает ребенка простыней",
+        "Ноги ребенка зажимает между своих ног мать",
+        "Раскрывают рот шпателем",
+        "Вводят зонд за корень языка",
+        "Присоединяют к наружному концу зонда воронку"
+      ]
+    },
+    {
+      "id": "medBrat_230",
+      "arr": [
+        "ПЕРЕЧИСЛИТЕ ПРАВИЛЬНЫЙ ПОРЯДОК ОТВЕТОВ\nПеречислите последовательность действий при промывании желудка зондовым способом:",
+        "Налить в воронку жидкость для промывания",
+        "Опустить воронку ниже уровня желудка и вылить содержимое",
+        "Поднять воронку выше уровня желудка, пока вода не дойдёт до устья воронки",
+        "Держать воронку на уровне желудка"
+      ]
+    },
+    {
+      "id": "medBrat_231",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПри подготовке к эзофагогастродуоденоскопии в день исследования ребенка:",
+        "Не кормят до процедуры",
+        "Кормить можно",
+        "Не поят до процедуры",
+        "Поить можно"
+      ]
+    },
+    {
+      "id": "medBrat_232",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nБольному с заболеванием почек медсестра стационара должна в первую очередь:",
+        "Определить суточный диурез",
+        "Осмотреть стул",
+        "Взвесить",
+        "Измерить пульс",
+        "Измерить АД",
+        "Проверить остроту зрения"
+      ]
+    },
+    {
+      "id": "medBrat_233",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПри контроле диуреза медицинская сестра ведёт учёт:",
+        "Количества мочи, выделенной за сутки",
+        "Количества выпитой жидкости, включая жидкую часть пищи",
+        "Количества всей съеденной пищи",
+        "Объёма инфузионной терапии",
+        "Наличия рвоты, поноса"
+      ]
+    },
+    {
+      "id": "medBrat_234",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nСимптомы, характерные для острой задержки мочи:",
+        "Отсутствие самостоятельных мочеиспусканий",
+        "Уменьшение количества выделенной мочи",
+        "Урежение мочеиспусканий",
+        "Отсутствие позыва к мочеиспусканию",
+        "Частые мучительные позывы к мочеиспусканию"
+      ]
+    },
+    {
+      "id": "medBrat_235",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nМероприятия, проводимые медсестрой при острой задержке мочи у ребенка:",
+        "Кладет теплую грелку на область лобка на 40-50 мин.",
+        "Сажает ребенка в теплую ванну",
+        "Дает обильное питье",
+        "Действует рефлекторно на мочеиспускание (льющейся водой)"
+      ]
+    },
+    {
+      "id": "medBrat_236",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nСимптомы, характерные для почечной колики:",
+        "Боли в правой подвздошной области",
+        "Приступообразные боли в пояснице",
+        "Приступообразные боли в боковых отделах живота",
+        "Недержание мочи",
+        "Повышение АД",
+        "Появление гематурии на фоне или после приступа болей"
+      ]
+    },
+    {
+      "id": "medBrat_237",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nОказание доврачебной помощи ребенку с почечной коликой включает:",
+        "Введение обезболивающих препаратов",
+        "Наложение пузыря со льдом на область поясницы",
+        "Проведение тёплой ванны",
+        "Вызов врача"
+      ]
+    },
+    {
+      "id": "medBrat_238",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПри сборе анализа по Зимницкому необходимо выполнить следующие мероприятия:",
+        "Поставить 8 баночек для сбора мочи каждые 3 часа",
+        "Учесть количество мочи в дневное время",
+        "Учесть количество мочи в ночное время",
+        "Установить определенный режим питания",
+        "Учесть объем выпитой жидкости"
+      ]
+    },
+    {
+      "id": "medBrat_239",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПри проведении пробы Зимницкого в каждой порции определяют:",
+        "Относительную плотность мочи",
+        "Содержание солей",
+        "Количество мочи",
+        "Содержание глюкозы",
+        "Количество лейкоцитов"
+      ]
+    },
+    {
+      "id": "medBrat_240",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nСбор общего анализа мочи и анализа по Нечипоренко проводят:",
+        "Во время свободного мочеиспускания",
+        "Желательно из средней порции мочи",
+        "С помощью катетера"
+      ]
+    },
+    {
+      "id": "medBrat_241",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nАнализ мочи на бактериурию собирается в:",
+        "Чистую посуду",
+        "Стерильную, открытую посуду",
+        "Стерильную, закрытую посуду"
+      ]
+    },
+    {
+      "id": "medBrat_242",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКатетеризацию мочевого пузыря проводят для:",
+        "Сбора анализа мочи",
+        "Введения лекарственных средств в мочевой пузырь",
+        "Оказания доврачебной помощи при острой задержке мочи",
+        "Введения рентгеноконтрастных препаратов",
+        "Создания постоянного оттока мочи из мочевого пузыря"
+      ]
+    },
+    {
+      "id": "medBrat_243",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПарентеральное введение лекарственных средств может осуществляться:",
+        "Внутрикожно",
+        "Подкожно",
+        "Внутривенно",
+        "Внутримышечно",
+        "Перорально"
+      ]
+    },
+    {
+      "id": "medBrat_244",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nТехника внутрикожной инъекции предполагает следующее:",
+        "Вводится на сгибательной поверхности предплечья в толщу кожи",
+        "Вводится на наружной поверхности плеча",
+        "Вводится в области ягодицы",
+        "Иглу устанавливают срезом под острым углом к коже",
+        "Отверстие иглы должно исчезнуть в роговом слое",
+        "Введенное вещество должно образовать лимонную корочку"
+      ]
+    },
+    {
+      "id": "medBrat_245",
+      "arr": [
+        "ПЕРЕЧИСЛИТЕ ПРАВИЛЬНЫЙ ПОРЯДОК ОТВЕТОВ\nОпределить порядок дезинфекции инструментов и шприцев:",
+        "Приготовить 3% раствор хлорамина",
+        "Налить приготовленный раствор в I емкость",
+        "Промыть, не разбирая, не снимая игл со шприцев, методом насоса из I емкости",
+        "Промыть проточной водой",
+        "Во II емкости заполнить внутренние каналы шприцев игл, инструментов и погрузить полностью в раствор",
+        "Закрыть II емкость крышкой на 1 час",
+        "Сменить перчатки, погрузить их в емкость с дезраствором",
+        "Извлечь инструментарий из дезраствора по истечении времени дезинфекции",
+        "Сложить в лоток",
+        "Использованный дезраствор вылить в канализацию",
+        "Снять перчатки, вымыть руки, высушить"
+      ]
+    },
+    {
+      "id": "medBrat_246",
+      "arr": [
+        "ПЕРЕЧИСЛИТЕ ПРАВИЛЬНЫЙ ПОРЯДОК ОТВЕТОВ\nОпределить общий порядок выполнения инъекций после обработки рук:",
+        "Надеть перчатки",
+        "Обработать шейку ампулы тампоном, смоченным спиртом 70° двукратно",
+        "Вскрыть пакет и собрать шприц",
+        "Набрать лекарственное средство",
+        "Снять иглу, сбросить в емкость с дезраствором",
+        "Надеть иглу для инъекции, выпустить воздух",
+        "Надеть колпачок на иглу"
+      ]
+    },
+    {
+      "id": "medBrat_247",
+      "arr": [
+        "ПЕРЕЧИСЛИТЕ ПРАВИЛЬНЫЙ ПОРЯДОК ОТВЕТОВ\nОпределить последовательность мероприятий при подкожном введении медикаментов:",
+        "Пропальпировать место для инъекции у больного",
+        "Усадить или уложить больного",
+        "Собрать кожу в складку пальцами левой руки",
+        "Обработать дважды кожу спиртом 70°",
+        "Ввести иглу в основание складки на 2/3 ее длины",
+        "Ввести лекарство",
+        "Прижать спиртовой тампон в области инъекции",
+        "Извлечь иглу из-под тампона"
+      ]
+    },
+    {
+      "id": "medBrat_248",
+      "arr": [
+        "ПЕРЕЧИСЛИТЕ ПРАВИЛЬНЫЙ ПОРЯДОК ОТВЕТОВ\nОпределить порядок мероприятий для проведения внутримышечных инъекций:",
+        "Растянуть кожу в месте инъекции пальцами левой руки",
+        "Уложить пациента в удобную позу",
+        "Пропальпировать место для инъекции",
+        "Ввести иглу под прямым углом на глубину 5-6 см (длина иглы 8 см)",
+        "Обработать дважды кожу верхнего наружного квадранта ягодицы спиртом 70°",
+        "Приложить стерильный тампон, смоченный спиртом 70°, в области инъекции и извлечь иглу"
+      ]
+    },
+    {
+      "id": "medBrat_249",
+      "arr": [
+        "ПЕРЕЧИСЛИТЕ ПРАВИЛЬНЫЙ ПОРЯДОК ОТВЕТОВ\nПеречислить порядок мероприятий при внутривенном введении медикаментов:",
+        "Наложить венозный жгут на плечо, покрытое салфеткой",
+        "Под локоть поместить клеенчатую подушку",
+        "Обработать дважды кожу на внутренней поверхности локтевого сгиба спиртом 70°",
+        "Исследовать вену",
+        "Зафиксировать вену большим пальцем левой руки, проколоть кожу, войти в вену",
+        "Ввести лекарство медленно, надавливая на поршень первым пальцем левой руки",
+        "Оттянуть поршень на себя до появления крови",
+        "Снять жгут"
+      ]
+    },
+    {
+      "id": "medBrat_250",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПри внутримышечных инъекциях преимущественно встречаются следующие осложнения:",
+        "Абсцессы",
+        "Флебиты",
+        "Флегмоны",
+        "Аллергические реакции",
+        "Инфильтраты"
+      ]
+    },
+    {
+      "id": "medBrat_251",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nПри венепункции наиболее частыми являются следующие осложнения:",
+        "Гематома",
+        "Флегмона",
+        "Кровотечение из места прокола вены",
+        "Воспаление тканей в месте инъекции"
+      ]
+    },
+    {
+      "id": "medBrat_252",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nОсложнения при парентеральном введении медикаментов обусловлены следующими причинами:",
+        "Нарушением асептики",
+        "Использованием нестерильных шприцев",
+        "Отсутствием дезрастворов для шприцев",
+        "Нарушением техники введения лекарственных средств",
+        "Незнанием аллергологического анамнеза",
+        "Недостаточной обработкой рук медсестрой"
+      ]
+    },
+    {
+      "id": "medBrat_253",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКомплекс мероприятий, предупреждающих осложнения при внутривенном введении жидкостей:",
+        "При частом введении необходимо использовать специальные катетеры для внутривенных вливаний",
+        "Струйно вводить не более 50-200 мл жидкости соответственно возрасту",
+        "Температура жидкости должна соответствовать температуре тела",
+        "Соблюдать строгую стерильность",
+        "Перед внутривенном введении жидкостей необходимо ввести 2,5 % пипольфена",
+        "Использовать дозатор для внутривенного введения жидкостей"
+      ]
+    },
+    {
+      "id": "medBrat_254",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nБелый халат как профессиональную форму одежды медицинского работника предложил:",
+        "Филатов Н. Ф.",
+        "Гундобин Н. П.",
+        "Соколов Д. А.",
+        "Раухфус К. А.",
+        "Шкарин А. Н."
+      ]
+    },
+    {
+      "id": "medBrat_255",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПервые программы подготовки медицинских сестер в России предполагали:",
+        "Ночные дежурства",
+        "Постоянное пребывание в больнице",
+        "Дежурства на квартирах заболевших",
+        "Помощь больным на дому",
+        "Прием пациентов, приходящих в больницу"
+      ]
+    },
+    {
+      "id": "medBrat_256",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nС 1927 г. женщин, имеющих среднее медицинское образование, стали называть:",
+        "Медицинский техник",
+        "Медицинский работник",
+        "Медицинский комиссар",
+        "Медицинский товарищ",
+        "Медицинская сестра"
+      ]
+    },
+    {
+      "id": "medBrat_257",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМеждународные и национальные организации, сотрудничающие с российскими медицинскими сестрами:",
+        "Международная ассоциация медицинских сестер",
+        "Международный совет неонатальных медицинских сестер",
+        "Европейский форум национальных ассоциаций медсестер и акушерок",
+        "Международный совет медсестер"
+      ]
+    },
+    {
+      "id": "medBrat_258",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМеждународный день медицинских сестер отмечается:",
+        "7 апреля",
+        "24 марта",
+        "1 декабря",
+        "12 мая"
+      ]
+    },
+    {
+      "id": "medBrat_259",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЭтический кодекс медицинской сестры России принят в:",
+        "1990 г.",
+        "1993 г.",
+        "1995 г.",
+        "1997 г.",
+        "1999 г."
+      ]
+    },
+    {
+      "id": "medBrat_260",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДокумент, определяющий права медицинской сестры и пациента:",
+        "Концепция развития здравоохранения и медицинской службы в РФ",
+        "Этический кодекс медицинской сестры России",
+        "Концепция «Здоровье для всех в 21 веке»",
+        "Клятва медицинской сестры и акушерки"
+      ]
+    },
+    {
+      "id": "medBrat_261",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВ 1953 г. Международным советом медицинских сестер был принят:",
+        "Международный классификатор сестринской практики",
+        "Клятва медицинских сестер и акушерок",
+        "Концепция «Здоровье для всех в 21 веке»",
+        "Этический кодекс медицинской сестры"
+      ]
+    },
+    {
+      "id": "medBrat_262",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЭтика – это наука о:",
+        "Совокупности нравственных норм поведения",
+        "Нравственной ценности человеческих стремлений и поступков",
+        "Совокупности духовных качеств каждого человека, его поведении в обществе",
+        "Профессиональном долге врача и медицинского работника",
+        "Принятых в обществе моральных и нравственных нормах поведения"
+      ]
+    },
+    {
+      "id": "medBrat_263",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМедицинская деонтология – это:",
+        "Совокупность норм поведения в ситуациях, связанных с профессиональной деятельностью",
+        "Система взаимоотношений между медицинским работником и пациентом",
+        "Совокупность духовных качеств медицинского работника",
+        "Выполнение морального долга по отношению к пациенту",
+        "Соблюдение принятых в обществе моральных норм и законов"
+      ]
+    },
+    {
+      "id": "medBrat_264",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nМедицинская этика должна основываться на:",
+        "Соблюдении прав человека",
+        "Международном праве",
+        "Философии сестринского дела",
+        "Основополагающих человеческих потребностях",
+        "Достижениях науки"
+      ]
+    },
+    {
+      "id": "medBrat_265",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМедицинская сестра не вправе нарушать этическую заповедь медицины:",
+        "Не навреди",
+        "Не убей",
+        "Храни врачебную тайну",
+        "Исцели словом",
+        "Все делай качественно"
+      ]
+    },
+    {
+      "id": "medBrat_266",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nЗа нарушение норм этического кодекса медицинской сестры России могут быть применены взыскания:",
+        "Замечание",
+        "Предупреждение о неполном профессиональном соответствии",
+        "Выговор",
+        "Увольнение"
+      ]
+    },
+    {
+      "id": "medBrat_267",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nФизиологическая проблема пациента:",
+        "Одиночество",
+        "Риск суицидальной попытки",
+        "Беспокойство по поводу потери работы",
+        "Нарушение сна"
+      ]
+    },
+    {
+      "id": "medBrat_268",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nК физиологической потребности, согласно иерархии А. Маслоу, относится:",
+        "Уважение",
+        "Знание",
+        "Дыхание",
+        "Общение"
+      ]
+    },
+    {
+      "id": "medBrat_269",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПервым теоретиком сестринского дела является:",
+        "Ю. Вревская",
+        "Е. Бакунина",
+        "Д. Севастопольская",
+        "Ф. Найтингейл"
+      ]
+    },
+    {
+      "id": "medBrat_270",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКоличество этапов сестринского процесса:",
+        "Два",
+        "Три",
+        "Семь",
+        "Пять"
+      ]
+    },
+    {
+      "id": "medBrat_271",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСоциальные потребности пациента:",
+        "Сон",
+        "Жажда",
+        "Признание",
+        "Еда"
+      ]
+    },
+    {
+      "id": "medBrat_272",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСестринский диагноз:",
+        "Может изменяться в течение суток",
+        "Не отличается от врачебного",
+        "Определяет болезнь",
+        "Имеет цель вылечить"
+      ]
+    },
+    {
+      "id": "medBrat_273",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВыберите из предложенного перечня сестринский диагноз:",
+        "Нарушено удовлетворение потребности в безопасности",
+        "Персонал избегает контактов с пациентом",
+        "Сердечная недостаточность",
+        "Дефицит знаний по уходу за стомой"
+      ]
+    },
+    {
+      "id": "medBrat_274",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЦель сестринского процесса:",
+        "Диагностика и лечение заболевания",
+        "Обеспечение приемлемого качества жизни в период болезни",
+        "Решение вопроса об очередности мероприятий ухода",
+        "Активное сотрудничество с пациентом"
+      ]
+    },
+    {
+      "id": "medBrat_275",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСтрах смерти является проблемой:",
+        "Психологической",
+        "Физической",
+        "Социальной",
+        "Духовной"
+      ]
+    },
+    {
+      "id": "medBrat_276",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПонятие «жизненно важная потребность человека» означает:",
+        "Способность функционировать независимо",
+        "Дефицит того, что существенно для здоровья и благополучия человека",
+        "Любое осознанное желание",
+        "Потребность человека в самоактуализации"
+      ]
+    },
+    {
+      "id": "medBrat_277",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТретий этап сестринского процесса включает:",
+        "Планирование объема сестринских вмешательств",
+        "Срочное оказание неотложной помощи",
+        "Выявление проблем пациента",
+        "Сбор информации"
+      ]
+    },
+    {
+      "id": "medBrat_278",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСестринский диагноз (проблемы пациента):",
+        "Недержание мочи",
+        "Ангина",
+        "Цианоз",
+        "Асфиксия"
+      ]
+    },
+    {
+      "id": "medBrat_279",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПервый этап сестринского процесса включает:",
+        "Прогнозирование результатов ухода",
+        "Беседу с родственниками пациента",
+        "Определение существующих и потенциальных проблем пациента",
+        "Профилактику осложнений"
+      ]
+    },
+    {
+      "id": "medBrat_280",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКоличество уровней в иерархии основных жизненно важных потребностей, по А. Маслоу:",
+        "Четырнадцать",
+        "Десять",
+        "Пять",
+        "Три"
+      ]
+    },
+    {
+      "id": "medBrat_281",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВторой этап сестринского процесса включает:",
+        "Планирование объема сестринских вмешательств",
+        "Выявление проблем пациента",
+        "Сбор информации о пациенте",
+        "Определение целей сестринского ухода"
+      ]
+    },
+    {
+      "id": "medBrat_282",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nАвтор модели сестринского дела:",
+        "Доротея Орем",
+        "Юлия Вревская",
+        "Абрахам Маслоу",
+        "Николай Пирогов"
+      ]
+    },
+    {
+      "id": "medBrat_283",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОпределение сестринского диагноза:",
+        "Выявление клинического синдрома",
+        "Выявление конкретного заболевания",
+        "Выявление причины заболевания",
+        "Описание проблем пациента, связанных с реакциями на заболевание"
+      ]
+    },
+    {
+      "id": "medBrat_284",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПонятие сестринского диагноза впервые появилось:",
+        "В Японии",
+        "В Соединенных Штатах Америки",
+        "В России",
+        "В Англии"
+      ]
+    },
+    {
+      "id": "medBrat_285",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКлассификация сестринских диагнозов (проблем пациента):",
+        "Краткосрочные и долгосрочные",
+        "Настоящие и потенциальные",
+        "Партнерские, авторитарные и контрактные",
+        "Технические, духовные, социальные"
+      ]
+    },
+    {
+      "id": "medBrat_286",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПервый уровень в пирамиде человеческих ценностей (потребностей) психолога А. Маслоу:",
+        "Принадлежность",
+        "Физиологические потребности",
+        "Достижение успеха",
+        "Безопасность"
+      ]
+    },
+    {
+      "id": "medBrat_287",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВершиной иерархии потребностей человека, по А. Маслоу, является:",
+        "Социальная потребность",
+        "Потребность в самоуважении и уважении окружающих",
+        "Потребность в самореализации личности",
+        "Потребность в безопасности"
+      ]
+    },
+    {
+      "id": "medBrat_288",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nАвтор модели ухода, основанной на 14 потребностях человека:",
+        "Бакунина Екатерина Михайловна",
+        "Пирогов Николай Иванович",
+        "Флоренс Найтингейл",
+        "Вирджиния Хендерсон"
+      ]
+    },
+    {
+      "id": "medBrat_289",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nК вербальному относят общение с помощью:",
+        "Мимики",
+        "Слова",
+        "Жеста",
+        "Взгляда"
+      ]
+    },
+    {
+      "id": "medBrat_290",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПроблема задержка стула:",
+        "Второстепенная",
+        "Потенциальная",
+        "Эмоциональная",
+        "Настоящая"
+      ]
+    },
+    {
+      "id": "medBrat_291",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНа первом этапе сестринского процесса требуется:",
+        "Умение проводить беседу с пациентом и его родственниками",
+        "Согласие лечащего врача",
+        "Согласие старшей медсестры",
+        "Согласие заведующего отделением"
+      ]
+    },
+    {
+      "id": "medBrat_292",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nКлассификация сестринских диагнозов (проблем пациента):",
+        "Краткосрочные",
+        "Настоящие",
+        "Долгосрочные",
+        "Потенциальные"
+      ]
+    },
+    {
+      "id": "medBrat_293",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСпособ транспортировки пациента из приемного покоя в отделение определяет:",
+        "Младшая медицинская сестра",
+        "Старшая медицинская сестра приемного отделения",
+        "Врач",
+        "Медицинская сестра приемного отделения"
+      ]
+    },
+    {
+      "id": "medBrat_294",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМедицинская сестра не заполняет в приемном отделении:",
+        "Температурный лист",
+        "Титульный лист медицинской карты",
+        "Статистическую карту выбывшего из стационара",
+        "Экстренное извещение",
+        "Титульный лист стационарной карты выбывшего из стационара"
+      ]
+    },
+    {
+      "id": "medBrat_295",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри поступлении тяжелобольного в приемное отделение стационара медицинская сестра должна в первую очередь:",
+        "Срочно вызвать дежурного врача",
+        "Транспортировать пациента в реанимационное отделение",
+        "Оформить необходимую медицинскую документацию",
+        "Провести санобработку пациента"
+      ]
+    },
+    {
+      "id": "medBrat_296",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВновь поступившего пациента с режимом отделения знакомит:",
+        "Заведующий",
+        "Лечащий врач",
+        "Старшая медсестра",
+        "Палатная медсестра"
+      ]
+    },
+    {
+      "id": "medBrat_297",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВопрос объема санитарной обработки пациента решает:",
+        "Медсестра",
+        "Врач",
+        "Старшая медсестра",
+        "Процедурная медсестра"
+      ]
+    },
+    {
+      "id": "medBrat_298",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПомещение, где проводится санобработка вновь поступившего пациента:",
+        "Процедурный кабинет",
+        "Смотровой кабинет",
+        "Клизменный кабинет",
+        "Санитарный пропускник"
+      ]
+    },
+    {
+      "id": "medBrat_299",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВновь поступивших пациентов с внутренним распорядком в медицинской организации знакомит:",
+        "Заведующий",
+        "Лечащий врач",
+        "Старшая медсестра",
+        "Медсестра приемного отделения"
+      ]
+    },
+    {
+      "id": "medBrat_300",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nК путям госпитализации в стационар не относится:",
+        "Самостоятельно",
+        "На носилках",
+        "Машиной скорой помощи"
+      ]
+    },
+    {
+      "id": "medBrat_301",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСпециализированное учреждение для оказания паллиативной помощи:",
+        "Хоспис",
+        "Поликлиника",
+        "Медсанчасть",
+        "Станция скорой помощи"
+      ]
+    },
+    {
+      "id": "medBrat_302",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПример независимого сестринского вмешательства:",
+        "Использование газоотводной трубки",
+        "Организация взаимопомощи в семье пациента",
+        "Назначение горчичников",
+        "Назначение лечебного стола и режима двигательной активности"
+      ]
+    },
+    {
+      "id": "medBrat_303",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЧетвертый этап сестринского процесса – это:",
+        "Реализация плана сестринских вмешательств",
+        "Обследование - сбор информации о больном",
+        "Оценка эффективности действий, причин, ошибок и осложнений",
+        "Постановка сестринского диагноза"
+      ]
+    },
+    {
+      "id": "medBrat_304",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nИзмерение артериального давления относится к вмешательству:",
+        "Зависимому",
+        "Независимому",
+        "Взаимозависимому",
+        "В зависимости от ситуации"
+      ]
+    },
+    {
+      "id": "medBrat_305",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПятый этап сестринского процесса – это:",
+        "Составление плана сестринской помощи",
+        "Сбор информации о пациенте",
+        "Оценка эффективности действий, причин ошибок и осложнений",
+        "Определение нарушенных потребностей, существующих и потенциальных проблем человека в связи со здоровьем"
+      ]
+    },
+    {
+      "id": "medBrat_306",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЦели сестринского ухода бывают:",
+        "Краткосрочными",
+        "Общими",
+        "Личными",
+        "Не конкретными"
+      ]
+    },
+    {
+      "id": "medBrat_307",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПравильно сформулированная цель сестринского вмешательства:",
+        "У пациента не будет одышки",
+        "Пациент получит достаточно жидкости",
+        "Пациент бросит курить после беседы с сестрой",
+        "Пациент будет уметь одеваться самостоятельно к концу недели"
+      ]
+    },
+    {
+      "id": "medBrat_308",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОбработка рук медсестры, согласно Европейскому стандарту Е №1500 не включает:",
+        "Гигиеническое мытье",
+        "Гигиеническую антисептику",
+        "Хирургическую антисептику",
+        "Биологическую антисептику"
+      ]
+    },
+    {
+      "id": "medBrat_309",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nУничтожение в окружающей среде патогенных микроорганизмов называется:",
+        "Дератизацией",
+        "Дезинфекцией",
+        "Стерилизацией",
+        "Дезинсекцией"
+      ]
+    },
+    {
+      "id": "medBrat_310",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЕжедневная влажная уборка в палатах проводится:",
+        "4 раза",
+        "3 раза",
+        "2 раза",
+        "1 раз"
+      ]
+    },
+    {
+      "id": "medBrat_311",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля предупреждения распространения инфекции проводят дезинфекцию:",
+        "Профилактическую",
+        "Очаговую",
+        "Текущую",
+        "Заключительную"
+      ]
+    },
+    {
+      "id": "medBrat_312",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nРежим обработки клеенок и клеенчатых фартуков после их использования:",
+        "Двукратное протирание 1 % раствором хлорамина с интервалом в 15 мин.",
+        "Погружение в дезинфицирующий раствор",
+        "Двукратное протирание 70° этиловым спиртом",
+        "Двукратное протирание 3 % раствором хлорамина с интервалом в 15 мин."
+      ]
+    },
+    {
+      "id": "medBrat_313",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nРежим дезинфекции предметов ухода из резины (грелок, пузырей для льда):",
+        "Двукратное протирание 1% раствором хлорамина с интервалом в 15 мин.",
+        "Погружение в 3% раствор хлорамина на 60 мин.",
+        "Двукратное протирание 70° этиловым спиртом"
+      ]
+    },
+    {
+      "id": "medBrat_314",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСпецодежду, обильно загрязненную кровью, необходимо:",
+        "Снять и замочить в 3% растворе хлорамина на 1 час",
+        "Отправить в прачечную",
+        "Обработать место загрязнения тампоном, смоченным в дезинфицирующем растворе",
+        "Снять и место загрязнения застирать с мылом"
+      ]
+    },
+    {
+      "id": "medBrat_315",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНедостаточно обработанные руки медперсонала являются:",
+        "Источником инфекции",
+        "Фактором передачи инфекции",
+        "Источником и фактором передачи инфекции"
+      ]
+    },
+    {
+      "id": "medBrat_316",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nРаствор, используемый для генеральной уборки процедурного кабинета:",
+        "6% раствор перекиси водорода с 0,5% раствором моющего средства",
+        "3% раствор хлорамина",
+        "3% раствор хлорной извести",
+        "1% раствор хлорамина"
+      ]
+    },
+    {
+      "id": "medBrat_317",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВид уборки процедурного кабинета, которая проводится в конце рабочего дня:",
+        "Заключительная уборка и кварцевание кабинета",
+        "Текущая уборка",
+        "Генеральная уборка",
+        "Предварительная уборка"
+      ]
+    },
+    {
+      "id": "medBrat_318",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДезинфекция ванны после пациента:",
+        "Двукратное протирание 1% раствором хлорамина с интервалом 10-15 мин.",
+        "Мытье горячей водой с моющим порошком",
+        "Двукратное протирание 70° этиловым спиртом",
+        "Обработка 3% раствором хлорамина"
+      ]
+    },
+    {
+      "id": "medBrat_319",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\n0бработка кожи медсестры при попадании на них крови пациента проводится:",
+        "6% раствором перекиси водорода",
+        "3% раствором перекиси водорода",
+        "1% раствором перекиси водорода, проточной водой",
+        "70° этиловым спиртом"
+      ]
+    },
+    {
+      "id": "medBrat_320",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДезинфекция уборочного инвентаря:",
+        "Кипячение в воде в течение 15 мин.",
+        "Замачивание в 1% растворе хлорамина",
+        "Кипячение в 2% растворе соды",
+        "Промывание в проточной воде"
+      ]
+    },
+    {
+      "id": "medBrat_321",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nК термическому методу дезинфекции относится:",
+        "Кипячение",
+        "Ультрафиолетовое облучение",
+        "Двукратное протирание дезинфицирующим раствором",
+        "Погружение в моющий раствор"
+      ]
+    },
+    {
+      "id": "medBrat_322",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОбработка кожи при попадании на нее ВИЧ-инфицированного материала проводится:",
+        "96° этиловым спиртом",
+        "70° этиловым спиртом",
+        "6% раствором перекиси водорода",
+        "3% раствором перекиси водорода"
+      ]
+    },
+    {
+      "id": "medBrat_323",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДезинфекция термометров в 3% перекиси водорода (в мин. ):",
+        "80",
+        "60",
+        "45",
+        "15"
+      ]
+    },
+    {
+      "id": "medBrat_324",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nУборку процедурного кабинета производит:",
+        "Палатная медсестра",
+        "Младшая медсестра",
+        "Старшая медсестра",
+        "Процедурная медсестра"
+      ]
+    },
+    {
+      "id": "medBrat_325",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nУборка столовой и буфета должна проводиться:",
+        "2 раза в день",
+        "3 раза в день",
+        "После каждой раздачи пищи",
+        "В конце рабочего дня"
+      ]
+    },
+    {
+      "id": "medBrat_326",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКлизменные наконечники сразу же после использования подлежат:",
+        "Кипячению",
+        "Стерилизации",
+        "Дезинфекции",
+        "Ополаскиванию под проточной водой"
+      ]
+    },
+    {
+      "id": "medBrat_327",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКушетку, которую используют для осмотра пациента, необходимо дезинфицировать:",
+        "После каждого пациента",
+        "Один раз в день",
+        "В конце смены",
+        "Во время генеральной уборки"
+      ]
+    },
+    {
+      "id": "medBrat_328",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМетод дезинфекции мягкого инвентаря после выписки пациента:",
+        "Замачивание в 3% растворе хлорамина",
+        "Кипячение",
+        "Обеззараживание в дезинфекционной камере",
+        "Проветривание"
+      ]
+    },
+    {
+      "id": "medBrat_329",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОбеззараживание рук процедурной медсестры перед инъекциями проводится раствором:",
+        "40° спирта",
+        "70° спирта",
+        "96° спирта",
+        "Йода"
+      ]
+    },
+    {
+      "id": "medBrat_330",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОдноразовые системы для переливания крови после использования необходимо:",
+        "Подвергнуть дезинфекции и утилизации",
+        "Поместить в герметично закрытый контейнер",
+        "Сдать по счету старшей медсестре",
+        "Сдать по счету в ЦСО"
+      ]
+    },
+    {
+      "id": "medBrat_331",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКонцентрация спирта, используемого для обработки кожи пациента перед инъекцией, град. :",
+        "96",
+        "80",
+        "70",
+        "60"
+      ]
+    },
+    {
+      "id": "medBrat_332",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСрок использования маски процедурной медсестры (в часах):",
+        "6",
+        "4",
+        "2",
+        "1"
+      ]
+    },
+    {
+      "id": "medBrat_333",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nК видам дезинфекции относится все, кроме:",
+        "Очагового, текущего",
+        "Профилактического",
+        "Предварительного",
+        "Очагового, заключительного"
+      ]
+    },
+    {
+      "id": "medBrat_334",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nИспользованный уборочный инвентарь подлежит:",
+        "Уничтожению",
+        "Проветриванию",
+        "Промыванию",
+        "Дезинфекции"
+      ]
+    },
+    {
+      "id": "medBrat_335",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nК методам дезинфекции относится все, кроме:",
+        "Рационального",
+        "Физического",
+        "Химического",
+        "Механического"
+      ]
+    },
+    {
+      "id": "medBrat_336",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЭкспозиция при стерилизации инструментов в 6% растворе перекиси водорода комнатной температуры (в мин. ):",
+        "360",
+        "180",
+        "90",
+        "60"
+      ]
+    },
+    {
+      "id": "medBrat_337",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля приготовления 1 л моющего раствора при предстерилизационной обработке инструментария необходимо взять 3% раствор перекиси водорода (в мл)’:",
+        "240",
+        "170",
+        "210",
+        "120"
+      ]
+    },
+    {
+      "id": "medBrat_338",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля стерилизации одноразовых пластмассовых изделий медицинского назначения в промышленности используют:",
+        "УФ-излучение",
+        "Стерилизацию текучим паром",
+        "Гамма-излучение",
+        "Дробную стерилизацию"
+      ]
+    },
+    {
+      "id": "medBrat_339",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВ биксе с фильтром содержимое считается стерильным с момента стерилизации в течение:",
+        "20 суток",
+        "7 суток",
+        "6 часов",
+        "24 часов"
+      ]
+    },
+    {
+      "id": "medBrat_340",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЭкспозиция при замачивании медицинских инструментов в моющем растворе при предстерилизационной очистке (в мин. ):",
+        "45",
+        "30",
+        "15",
+        "10"
+      ]
+    },
+    {
+      "id": "medBrat_341",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nАппарат, применяемый для стерилизации перевязочного материала:",
+        "Термостат",
+        "Автоклав",
+        "Сухожаровой шкаф",
+        "Стерилизатор"
+      ]
+    },
+    {
+      "id": "medBrat_342",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПриготовление моющего раствора для проведения предстерилизационной отчистки:",
+        "15 г порошка «Биолот» довести водой до 1 л",
+        "10 г порошка «Биолот» довести водой до 1,5 л",
+        "5 г порошка «Биолот» довести водой до 1 л",
+        "1,5 г порошка «Биолот» довести водой до 1 л"
+      ]
+    },
+    {
+      "id": "medBrat_343",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПоложительная азопирамовая проба на скрытую кровь дает окрашивание:",
+        "Зеленое",
+        "Розовое",
+        "Красное",
+        "Фиолетовое (сине-фиолетовое)"
+      ]
+    },
+    {
+      "id": "medBrat_344",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДезинфекция ванны после пациента:",
+        "Двукратное протирание дезинфицирующим раствором",
+        "Мытье горячей водой и обработка 95° этиловым спиртом",
+        "Двукратное протирание 70° этиловым спиртом",
+        "Двукратное протирание 95° этиловым спиртом"
+      ]
+    },
+    {
+      "id": "medBrat_345",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСтерилизация стеклянной лабораторной посуды обычно проводится:",
+        "В автоклаве",
+        "В термостате",
+        "В стерилизаторе",
+        "В сухожаровом шкафу"
+      ]
+    },
+    {
+      "id": "medBrat_346",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПолное уничтожение микроорганизмов, их споровых форм называется:",
+        "Дезинфекцией",
+        "Стерилизацией",
+        "Дезинсекцией",
+        "Дератизацией"
+      ]
+    },
+    {
+      "id": "medBrat_347",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля приготовления 1 л моющего раствора при предстерилизационной обработки инструментария необходимо взять пергидроль, 33% раствор (в мл):",
+        "33",
+        "30",
+        "17",
+        "14"
+      ]
+    },
+    {
+      "id": "medBrat_348",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля стерилизации инструментов применяется перекись водорода:",
+        "6%",
+        "4%",
+        "3%",
+        "1%"
+      ]
+    },
+    {
+      "id": "medBrat_349",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nРежим стерилизации перчаток в автоклаве:",
+        "Т=132°С, давление 2 атм. , 45 мин.",
+        "Т=132°С, давление 2 атм. , 10 мин.",
+        "Т=120°С, давление 1,1 атм. , 45 мин.",
+        "Т=120°С, давление 0,5 атм. , 20 мин."
+      ]
+    },
+    {
+      "id": "medBrat_350",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПриготовление 1 л моющего раствора для предстерилизационной обработки инструментария:",
+        "5 г порошка»Лотос», 170 мл 3% перекиси водорода довести до 1 л водой",
+        "5 г порошка «Лотос», 200 мл 3% перекиси водорода довести до 1 л водой",
+        "5 г порошка «Лотос» довести до 1 л водой",
+        "10 г любого порошка развести в 990 мл воды"
+      ]
+    },
+    {
+      "id": "medBrat_351",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nРежим кварцевания процедурного кабинета:",
+        "Через каждые 60 мин. на 15 мин.",
+        "2 раза в день",
+        "3 раза в день",
+        "Через 2 часа по 30 мин."
+      ]
+    },
+    {
+      "id": "medBrat_352",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля контроля температуры в паровом стерилизаторе применяют:",
+        "Сахарозу, ИС-160",
+        "Бензойную кислоту, ИС-120",
+        "Янтарную кислоту, ИС-180",
+        "Винную кислоту, ИС-160"
+      ]
+    },
+    {
+      "id": "medBrat_353",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nГенеральную уборку процедурного кабинета проводят:",
+        "2 раза в месяц",
+        "1 раз в месяц",
+        "1 раз в неделю",
+        "1 раз в день"
+      ]
+    },
+    {
+      "id": "medBrat_354",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЭкспозиция при дезинфекции кипячением в дистиллированной воде составляет (в мин. ):",
+        "90",
+        "60",
+        "30",
+        "15"
+      ]
+    },
+    {
+      "id": "medBrat_355",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nРежим стерилизации медицинского инструментария многоразового использования в автоклаве:",
+        "Т=100° С, давление 1,1 атм. , время 120 мин.",
+        "Т=180° С, давление 2 атм. , время 60 мин.",
+        "Т=140° С, давление 1 атм. , время 45 мин.",
+        "Т=132° С, давление 2 атм. , время 20 мин."
+      ]
+    },
+    {
+      "id": "medBrat_356",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nХранить изделия медицинского назначения после стерилизации 6% раствором перекиси водорода необходимо в:",
+        "Плотно закрытой стерильной емкости",
+        "Фурацилине",
+        "Спирте",
+        "Хлорамине"
+      ]
+    },
+    {
+      "id": "medBrat_357",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри положительной фенолфталеиновой пробе появляется окрашивание:",
+        "Сине-зелёное",
+        "Фиолетовое",
+        "Розовое",
+        "Коричневое"
+      ]
+    },
+    {
+      "id": "medBrat_358",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nФенолфталеиновая проба проводится для определения остатков:",
+        "Масляного раствора",
+        "Крови",
+        "Моющего средства",
+        "Лекарственного средства"
+      ]
+    },
+    {
+      "id": "medBrat_359",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЭкспозиция при стерилизации белья в автоклаве (в мин. ):",
+        "40",
+        "30",
+        "20",
+        "10"
+      ]
+    },
+    {
+      "id": "medBrat_360",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЦСО – это:",
+        "Центральное специализированное отделение",
+        "Централизованное стерилизационное отделение",
+        "Централизованное специализированное отделение",
+        "Централизованное стерильное отделение"
+      ]
+    },
+    {
+      "id": "medBrat_361",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВ стерильном блоке ЦСО проводят:",
+        "Выгрузку стерильного материала",
+        "Предстерилизационную очистку",
+        "Упаковку биксов",
+        "Упаковку крафт-пакетов"
+      ]
+    },
+    {
+      "id": "medBrat_362",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nУпаковка материала для стерилизации проводится в ЦСО в:",
+        "Приемной",
+        "Сортировочной",
+        "Моечной",
+        "Упаковочной"
+      ]
+    },
+    {
+      "id": "medBrat_363",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nУниверсальная проба для проверки мединструментария на наличие скрытой крови называется:",
+        "Бензидиновой",
+        "Фенолфталеиновой",
+        "Азопирамовой",
+        "Бензойной"
+      ]
+    },
+    {
+      "id": "medBrat_364",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПосле проведения предстерилизационной очистки для промывания мединструментов используется вода:",
+        "Проточная",
+        "Кипяченая",
+        "Дистиллированная",
+        "Дважды дистиллированная"
+      ]
+    },
+    {
+      "id": "medBrat_365",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЩадящий режим стерилизации режущих мединструментов в воздушном стерилизаторе:",
+        "Т= 160°С, время 150 мин.",
+        "Т=132°С, время 60 мин.",
+        "Т=180°С, время 60 мин.",
+        "Т=180°С, время 45 мин."
+      ]
+    },
+    {
+      "id": "medBrat_366",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНаиболее надежный метод контроля стерилизации:",
+        "Механический",
+        "Химический",
+        "Физический",
+        "Биологический"
+      ]
+    },
+    {
+      "id": "medBrat_367",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри стерилизации водяным паром перевязочного материала используется давление (в атм. ):",
+        "4",
+        "3",
+        "2",
+        "1"
+      ]
+    },
+    {
+      "id": "medBrat_368",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДлительность сохранения мединструментария в мягкой бязевой упаковке в условиях стерильности (в часах):",
+        "72",
+        "48",
+        "24",
+        "12"
+      ]
+    },
+    {
+      "id": "medBrat_369",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСтерилизация в сухожаровом шкафу проводится при температуре (в °С):",
+        "180",
+        "150",
+        "120",
+        "90"
+      ]
+    },
+    {
+      "id": "medBrat_370",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВ состав ЦСО входит:",
+        "Стерильный блок",
+        "Процедурный кабинет",
+        "Изолятор",
+        "Кабинет врача"
+      ]
+    },
+    {
+      "id": "medBrat_371",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДлительность использования накрытого стерильного стола (в часах):",
+        "24",
+        "18",
+        "12",
+        "4-6"
+      ]
+    },
+    {
+      "id": "medBrat_372",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКонтроль стерильности перевязочного материала осуществляется путем:",
+        "Использования химических индикаторов",
+        "Использования биологических индикаторов",
+        "Посева на питательные среды",
+        "Использования физических индикаторов"
+      ]
+    },
+    {
+      "id": "medBrat_373",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nАнтропометрия включает измерение:",
+        "Роста",
+        "Пульса",
+        "Температуры",
+        "Артериального давления"
+      ]
+    },
+    {
+      "id": "medBrat_374",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОбщее состояние больного оценивается как:",
+        "Хорошее",
+        "Удовлетворительное",
+        "Результат измерения антропометрических показателей",
+        "Состояние биологической смерти"
+      ]
+    },
+    {
+      "id": "medBrat_375",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВзвешивание пациента при поступлении в стационар проводят с целью:",
+        "Определить, в какое отделение госпитализировать",
+        "Определить, в какой дозе назначить лекарства",
+        "Определить состояние питания",
+        "Определить конституциональный тип"
+      ]
+    },
+    {
+      "id": "medBrat_376",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nАнтропометрия проводится, если пациент находится в состоянии:",
+        "Удовлетворительном",
+        "Средней тяжести",
+        "Тяжелом",
+        "Не имеет значения"
+      ]
+    },
+    {
+      "id": "medBrat_377",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля обработки волосистой части головы при обнаружении педикулеза используется:",
+        "Раствор фурацилина",
+        "Раствор гидрокарбоната натрия",
+        "Тройной раствор",
+        "Шампунь или эмульсия «Педилин»"
+      ]
+    },
+    {
+      "id": "medBrat_378",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОбработка слизистых оболочек медсестры при попадании на них крови пациента проводится:",
+        "6% раствором перекиси водорода",
+        "3% раствором перекиси водорода",
+        "1% раствором перекиси водорода, проточной водой",
+        "0,05% раствором перманганата калия, 70º спиртом"
+      ]
+    },
+    {
+      "id": "medBrat_379",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nК субъективному методу сестринского обследования относится:",
+        "Определение отеков",
+        "Расспрос пациента",
+        "Измерение артериального давления",
+        "Знакомство с данными сестринской карты"
+      ]
+    },
+    {
+      "id": "medBrat_380",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nК инвазивным манипуляциям относится:",
+        "Смена постельного белья",
+        "Осмотр кожных покровов",
+        "Постановка горчичников",
+        "Промывание желудка"
+      ]
+    },
+    {
+      "id": "medBrat_381",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля общей оценки состояния больного медицинская сестра должна определить следующие показатели:",
+        "Настроение больного",
+        "Цвет кожных покровов",
+        "Состояние слизистых оболочек",
+        "Антропометрические данные"
+      ]
+    },
+    {
+      "id": "medBrat_382",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nФизическое развитие – это:",
+        "Динамичный процесс роста",
+        "Биологическое созревание",
+        "Динамичный процесс роста и биологическое созревание",
+        "Результаты измерения антропометрических показателей"
+      ]
+    },
+    {
+      "id": "medBrat_383",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nАнтропометрия относится к:",
+        "Инвазивной манипуляции",
+        "Неинвазивной манипуляции",
+        "Взаимозависимому вмешательству",
+        "Краткосрочной цели"
+      ]
+    },
+    {
+      "id": "medBrat_384",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nАнтропометрические данные, полученные в приемном покое, заносятся:",
+        "На титульный лист истории болезни",
+        "В лист назначений",
+        "В температурный лист",
+        "Журнал поступления"
+      ]
+    },
+    {
+      "id": "medBrat_385",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nРаствор, применяемый для ополаскивания волос головы пациента при выявлении гнид:",
+        "6% раствор уксусной кислоты",
+        "6% раствор перекиси водорода",
+        "1% раствор хлорамина",
+        "Раствор первомура"
+      ]
+    },
+    {
+      "id": "medBrat_386",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПосле обработки педикулезного пациента помещение обеззараживается:",
+        "6% раствором перекиси водорода",
+        "3% раствором хлорной извести",
+        "0,2% раствором хлорамина",
+        "0,15% раствором карбофоса"
+      ]
+    },
+    {
+      "id": "medBrat_387",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОсновные принципы лечебного питания:",
+        "Режим дня и режим питания",
+        "Профилактика социально значимых заболеваний",
+        "Режим питания и сбалансированность пищевого рациона",
+        "Адаптация к возрасту"
+      ]
+    },
+    {
+      "id": "medBrat_388",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри неосложненных заболеваниях сердечно-сосудистой системы назначается:",
+        "Основной вариант диеты",
+        "Вариант диеты с механическим и химическим щажением",
+        "Вариант диеты с повышенным содержанием белка",
+        "Вариант диеты с пониженной калорийностью"
+      ]
+    },
+    {
+      "id": "medBrat_389",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля основного варианта диеты характерно:",
+        "Ограничение углеводов",
+        "Ограничение животных жиров, соли, продуктов, богатых холестерином",
+        "Ограничение поваренной соли, копченостей, острых приправ, шпината, щавеля",
+        "Ограничение белков, жидкости"
+      ]
+    },
+    {
+      "id": "medBrat_390",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри заболевании почек назначается:",
+        "Основной вариант диеты",
+        "Вариант диеты с механическим и химическим щажением",
+        "Вариант диеты с пониженным содержанием белка",
+        "Вариант диеты с пониженной калорийностью"
+      ]
+    },
+    {
+      "id": "medBrat_391",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри заболеваниях, не требующих назначения специальной диеты, рекомендуется:",
+        "Вариант диеты с пониженной калорийностью",
+        "Вариант диеты с механическим и химическим щажением",
+        "Вариант диеты с повышенным содержанием белка",
+        "Основной вариант диеты"
+      ]
+    },
+    {
+      "id": "medBrat_392",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОптимальный перерыв между энтеральными приемами пищи в дневное время должен быть не более (в часах):",
+        "6",
+        "8",
+        "4",
+        "2"
+      ]
+    },
+    {
+      "id": "medBrat_393",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля дезинфекции выделений пациента используется:",
+        "Сухая хлорная известь",
+        "40% раствор формалина",
+        "5% раствор карболовой кислоты",
+        "0,2% раствор хлорамина"
+      ]
+    },
+    {
+      "id": "medBrat_394",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПорционное требование составляется:",
+        "2 раза в неделю",
+        "Раз в неделю",
+        "Ежедневно",
+        "При поступлении пациента"
+      ]
+    },
+    {
+      "id": "medBrat_395",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДиету с повышенным содержанием белка назначают при:",
+        "Ожирении",
+        "Туберкулезе",
+        "Язвенной болезни желудка",
+        "Диабете"
+      ]
+    },
+    {
+      "id": "medBrat_396",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСорбит, ксилит назначают при:",
+        "Варианте диеты с повышенной калорийностью",
+        "Варианте диеты с механическим и химическим щажением",
+        "Вариант диеты с повышенным содержанием белка",
+        "Основном варианте диеты"
+      ]
+    },
+    {
+      "id": "medBrat_397",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВысококалорийную пищу, усиленное питание назначают при:",
+        "Заболевании сердца",
+        "Туберкулезе",
+        "Заболевании почек",
+        "Заболевании желудка"
+      ]
+    },
+    {
+      "id": "medBrat_398",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВариант диеты с механическим и химическим щажением назначают:",
+        "При ожирении",
+        "В первые дни после операции на желудке и кишечнике",
+        "При подагре",
+        "При гастроэзофагальной рефлюксной болезни"
+      ]
+    },
+    {
+      "id": "medBrat_399",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЖидкость, соль ограничивают при:",
+        "Основном варианте диеты",
+        "Варианте диеты с механическим и химическим щажением",
+        "Варианте диеты с пониженным содержанием белка",
+        "Варианте диеты с пониженной калорийностью"
+      ]
+    },
+    {
+      "id": "medBrat_400",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри запорах назначают:",
+        "Основной вариант диеты",
+        "Вариант диеты с механическим и химическим щажением",
+        "Вариант диеты с пониженным содержанием белка",
+        "Вариант диеты с пониженной калорийностью, с включением продуктов и блюд, усиливающих двигательную функцию кишечника"
+      ]
+    },
+    {
+      "id": "medBrat_401",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри заболевании печени с нерезко выраженными признаками функциональной недостаточности печени назначают:",
+        "Основной вариант диеты",
+        "Вариант диеты с механическим и химическим щажением",
+        "Вариант диеты с пониженным содержанием белка",
+        "Вариант диеты с пониженной калорийностью"
+      ]
+    },
+    {
+      "id": "medBrat_402",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nУпотребление повышенного количества жидкости назначается при:",
+        "Основном вариант диеты",
+        "Варианте диеты с механическим и химическим щажением",
+        "Варианте диеты с пониженным содержанием белка",
+        "Варианте диеты с пониженной калорийностью"
+      ]
+    },
+    {
+      "id": "medBrat_403",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля усиления перистальтики кишечника назначается:",
+        "Основной вариант диеты",
+        "Вариант диеты с механическим и химическим щажением",
+        "Вариант диеты с пониженным содержанием белка",
+        "Вариант диеты с пониженной калорийностью"
+      ]
+    },
+    {
+      "id": "medBrat_404",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля варианта диеты с пониженным содержанием белка характерно:",
+        "Ограничение соли, белков, жидкости",
+        "Механическое термическое и химическое щажение",
+        "Ограничение или полное исключение углеводов",
+        "Физиологически полноценная пища с удвоенным содержанием витаминов"
+      ]
+    },
+    {
+      "id": "medBrat_405",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля варианта диеты с повышенным содержанием белка (диета №11) характерно:",
+        "Ограничение соли, белков, жидкости",
+        "Ограничение животных жиров, соли продуктов, содержащие холестерин",
+        "Ограничение или полное исключение углеводов",
+        "Физиологически полноценная пища с удвоенным содержанием витаминов",
+        "Умеренное увеличение жиров и углеводов"
+      ]
+    },
+    {
+      "id": "medBrat_406",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nРазгрузочные дни предполагают:",
+        "Количественное ограничение пищи",
+        "Качественное ограничение пищи",
+        "Голодание",
+        "Количественное и качественное ограничение пищи"
+      ]
+    },
+    {
+      "id": "medBrat_407",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри язвенной болезни желудка используется принцип лечебного питания:",
+        "Заместительный",
+        "Щадящий",
+        "Корригирующий",
+        "Тренировки"
+      ]
+    },
+    {
+      "id": "medBrat_408",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nХарактерный принцип лечебного питания варианта диеты с пониженной калорийностью:",
+        "Ограничение соли, жидкостей, животных жиров",
+        "Любая кулинарная обработка",
+        "Ограничение белков, углеводов",
+        "Исключение жареных продуктов, животных жиров"
+      ]
+    },
+    {
+      "id": "medBrat_409",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПредмет ухода, необходимый для искусственного кормления:",
+        "Поильник",
+        "Катетер",
+        "Тонкий зонд"
+      ]
+    },
+    {
+      "id": "medBrat_410",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри язвенной болезни желудка в стадии ремиссии пациенту назначают диету:",
+        "Основной вариант диеты",
+        "Вариант диеты с механическим и химическим щажением",
+        "Вариант диеты с пониженным содержанием белка",
+        "Вариант диеты с пониженной калорийностью"
+      ]
+    },
+    {
+      "id": "medBrat_411",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТемпература раствора для подмывания:",
+        "16-18 °С",
+        "45-47 °С",
+        "25-30 °С",
+        "35-38 °С"
+      ]
+    },
+    {
+      "id": "medBrat_412",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКожу тяжелобольного пациента необходимо ежедневно протирать раствором:",
+        "10% нашатырного спирта",
+        "10% камфорного спирта",
+        "10% калия перманганата",
+        "0,02% фурацилина"
+      ]
+    },
+    {
+      "id": "medBrat_413",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПостельное белье тяжелобольному пациенту меняют:",
+        "1 раз в 2 недели",
+        "1 раз в неделю",
+        "1 раз в 3 дня",
+        "По мере загрязнения"
+      ]
+    },
+    {
+      "id": "medBrat_414",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПостельное белье пациенту меняют 1 раз в:",
+        "14 дней",
+        "10 дней",
+        "7 дней",
+        "1 день"
+      ]
+    },
+    {
+      "id": "medBrat_415",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри появлении у пациента трещин на губах медицинская сестра может их обработать:",
+        "Вазелином",
+        "5% раствором перманганата калия",
+        "3% раствором перекиси водорода",
+        "70° этиловым спиртом"
+      ]
+    },
+    {
+      "id": "medBrat_416",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля протирания слизистой ротовой полости можно использовать раствор:",
+        "5% калия перманганата",
+        "3% перекиси водорода",
+        "1% хлорамина",
+        "0,02% фурацилина"
+      ]
+    },
+    {
+      "id": "medBrat_417",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nШприц Жанэ применяется для:",
+        "Подкожных инъекций",
+        "Внутримышечных инъекций",
+        "Внутривенных инъекций",
+        "Промывания полостей"
+      ]
+    },
+    {
+      "id": "medBrat_418",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВ отделении после освобождения суден и мочеприемников от содержимого их:",
+        "Погружают в 1% раствор хлорамина на 15 мин.",
+        "Погружают в 3% раствор хлорамина на 60 мин.",
+        "Погружают в 1% раствор хлорамина на 60 мин.",
+        "Дважды протирают 1% раствором хлорамина"
+      ]
+    },
+    {
+      "id": "medBrat_419",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля взятия содержимого зева для бактериологического исследования необходимо оснащение:",
+        "Стерильная пробирка",
+        "Стерильная пробирка с сухим тампоном",
+        "Стерильная пробирка с влажным тампоном",
+        "Стерильная емкость для пробы"
+      ]
+    },
+    {
+      "id": "medBrat_420",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВыберите правильную последовательность действий медицинской сестры при взятии содержимого зева для бактериологического исследования:",
+        "Провести тампоном по левой небной дужке, миндалине, правой миндалине, по правой небной дужке, задней стенки глотки, язычку",
+        "Провести тампоном по левой небной дужке, миндалине, задней стенки глотки, правой миндалине, по правой небной дужке, язычку",
+        "Провести тампоном по задней стенки глотки, правой миндалине, по правой небной дужке, язычку, левой небной дужке, миндалине",
+        "Провести тампоном по правой миндалине, по правой небной дужке, язычку, левой небной дужке, миндалине, задней стенки глотки"
+      ]
+    },
+    {
+      "id": "medBrat_421",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВатные турунды в носовые ходы вводят:",
+        "Зажимом",
+        "Пуговчатым зондом",
+        "Пинцетом",
+        "Рукой"
+      ]
+    },
+    {
+      "id": "medBrat_422",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля протирания ресниц и век можно использовать раствор:",
+        "5% калия перманганата",
+        "3% перекиси водорода",
+        "1% салицилового спирта",
+        "0,02% фурацилина"
+      ]
+    },
+    {
+      "id": "medBrat_423",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПротирание ресниц и век необходимо делать:",
+        "Круговыми движениями",
+        "От внутреннего угла глаза к наружному",
+        "Снизу вверх",
+        "От наружного угла глаза к внутреннему"
+      ]
+    },
+    {
+      "id": "medBrat_424",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nС целью удаления корочек из носовой полости используется:",
+        "70° этиловый спирт",
+        "Вазелиновое масло",
+        "10% раствор камфорного спирта",
+        "3% раствор перекиси водорода"
+      ]
+    },
+    {
+      "id": "medBrat_425",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПеред закапыванием в ухо раствор необходимо подогреть до температуры (в °С):",
+        "45",
+        "40",
+        "37",
+        "24"
+      ]
+    },
+    {
+      "id": "medBrat_426",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКоличество капель лекарственного вещества для введения в глаза:",
+        "1-2",
+        "4-6",
+        "6-8",
+        "8-10"
+      ]
+    },
+    {
+      "id": "medBrat_427",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля взятия содержимого носа для бактериологического исследования необходимо оснащение:",
+        "Стерильная пробирка",
+        "Стерильная пробирка с сухим тампоном",
+        "Стерильная пробирка с влажным тампоном",
+        "Стерильная емкость для пробы"
+      ]
+    },
+    {
+      "id": "medBrat_428",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля взятия содержимого носоглотки для бактериологического исследования необходимо оснащение:",
+        "Стерильная пробирка",
+        "Стерильная пробирка с сухим тампоном",
+        "Стерильная пробирка с влажным тампоном",
+        "Стерильная емкость для пробы"
+      ]
+    },
+    {
+      "id": "medBrat_429",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКоличество капель лекарственного вещества для введения в уши:",
+        "1-2",
+        "5-6",
+        "6-8",
+        "8-10"
+      ]
+    },
+    {
+      "id": "medBrat_430",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТемпература раствора перед закапыванием в глаза (в °С):",
+        "45",
+        "40",
+        "37",
+        "24"
+      ]
+    },
+    {
+      "id": "medBrat_431",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПример независимого сестринского вмешательства:",
+        "Использование газоотводной трубки",
+        "Измерение температуры",
+        "Назначение горчичников",
+        "Назначение лечебного стола и режима двигательной активности"
+      ]
+    },
+    {
+      "id": "medBrat_432",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПравило хранения термометров:",
+        "После дезинфекции в сухом виде",
+        "В 3%растворе перекиси водорода",
+        "В 3% растворе хлорамина",
+        "В дистиллированной воде"
+      ]
+    },
+    {
+      "id": "medBrat_433",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТип лихорадки с правильной сменой нормальной и высокой температуры в течение 1-2 дней:",
+        "Послабляющая",
+        "Волнообразная",
+        "Перемежающая",
+        "Гектическая"
+      ]
+    },
+    {
+      "id": "medBrat_434",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТемпература тела в норме, измеряемая на слизистых оболочках (в °С):",
+        "39,0-41,0",
+        "38,0-39,0",
+        "37,0-38,0",
+        "36,0-37,0"
+      ]
+    },
+    {
+      "id": "medBrat_435",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКратность измерения температуры тела пациента в течение дня:",
+        "4",
+        "3",
+        "2",
+        "1"
+      ]
+    },
+    {
+      "id": "medBrat_436",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВ развитии лихорадки различают периоды:",
+        "Четыре",
+        "Три",
+        "Два",
+        "Один"
+      ]
+    },
+    {
+      "id": "medBrat_437",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПродолжительность, измерения температуры тела на слизистых (в мин. ):",
+        "5-6",
+        "3-4",
+        "2-3",
+        "8-10"
+      ]
+    },
+    {
+      "id": "medBrat_438",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСубфебрильная температура тела (в °С):",
+        "39,0-39,5",
+        "38,3-38,7",
+        "38,1-38,2",
+        "37,1-38,0"
+      ]
+    },
+    {
+      "id": "medBrat_439",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВ первом периоде лихорадки возможно применение:",
+        "Влажного обертывания",
+        "Грелки",
+        "Холодного компресса",
+        "Пузыря со льдом"
+      ]
+    },
+    {
+      "id": "medBrat_440",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nФизиологическая температура тела пациента чаще бывает ниже:",
+        "Утром",
+        "В обед",
+        "Вечером",
+        "Ночью"
+      ]
+    },
+    {
+      "id": "medBrat_441",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОсновной признак I периода лихорадки:",
+        "Озноб",
+        "Жажда",
+        "Чувство жара",
+        "Рвота"
+      ]
+    },
+    {
+      "id": "medBrat_442",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри критическом падении температуры не следует:",
+        "Сообщать о случившемся врачу",
+        "Убирать подушку из-под головы и приподнимать ноги пациента",
+        "Оставлять одного пациента для создания максимального покоя",
+        "Давать пациенту горячий чай"
+      ]
+    },
+    {
+      "id": "medBrat_443",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПовышение температуры относится к нарушению потребности:",
+        "Физиологической",
+        "Социальной",
+        "Психологической",
+        "В безопасности"
+      ]
+    },
+    {
+      "id": "medBrat_444",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПродолжительность дезинфекции медицинских термометров в 2% растворе хлорамина (в мин. ):",
+        "45",
+        "5",
+        "20",
+        "30"
+      ]
+    },
+    {
+      "id": "medBrat_445",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nРежим дезинфекции медицинских термометров 1% раствором хлорамина (в мин. ):",
+        "60",
+        "45",
+        "15",
+        "5"
+      ]
+    },
+    {
+      "id": "medBrat_446",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nГиперпиретическая лихорадка – это температура тела (в °С):",
+        "39,0-41,0",
+        "Выше 41,0",
+        "38,0-39,0",
+        "37,0-38,0"
+      ]
+    },
+    {
+      "id": "medBrat_447",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТип лихорадки, при которой утренняя температура выше вечерней:",
+        "Послабляющая",
+        "Волнообразная",
+        "Перемежающая",
+        "Извращенная"
+      ]
+    },
+    {
+      "id": "medBrat_448",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТемпература тела в течение дня колеблется в пределах (°С):",
+        "1,0-1,5",
+        "0,8-1",
+        "0,3-0,8",
+        "0,1-0,3"
+      ]
+    },
+    {
+      "id": "medBrat_449",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКачественное изменение сознания пациента возможно при температуре (в °С):",
+        "41,0-42,0",
+        "39,0-41,0",
+        "38,0-39,0",
+        "37,0-38,0"
+      ]
+    },
+    {
+      "id": "medBrat_450",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nУчащение пульса в 1 мин. при повышении температуры тела на 1 град. (в ударах):",
+        "20",
+        "10",
+        "5",
+        "2"
+      ]
+    },
+    {
+      "id": "medBrat_451",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВ III периоде лихорадки (кризис) возможно применение:",
+        "Пузыря со льдом",
+        "Прохладного витаминизированного питья",
+        "Обильного питья крепкого, сладкого чая",
+        "Влажного обертывания"
+      ]
+    },
+    {
+      "id": "medBrat_452",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nФебрильная температура тела (в °С):",
+        "39,0-40,0",
+        "38,1-39,0",
+        "37,1-38,0",
+        "36,0-37,0"
+      ]
+    },
+    {
+      "id": "medBrat_453",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТип лихорадки у больного при суточных колебаниях температуры тела в пределах 37-40° С:",
+        "Постоянная",
+        "Перемежающаяся",
+        "Гектическая",
+        "Послабляющая"
+      ]
+    },
+    {
+      "id": "medBrat_454",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПродолжительность измерения температуры тела в подмышечной области не менее (в мин. ):",
+        "10",
+        "5",
+        "3",
+        "2"
+      ]
+    },
+    {
+      "id": "medBrat_455",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nС целью улучшения кровообращения при бронхолегочных заболеваниях детям противопоказано:",
+        "Ставить горчичники",
+        "Ставить банки",
+        "Делать массаж",
+        "Делать согревающий компресс"
+      ]
+    },
+    {
+      "id": "medBrat_456",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТехника безопасности при хранении баллонов с кислородом предусматривает все, кроме:",
+        "Запрета курения в помещении, где хранятся баллоны",
+        "Хранения баллонов вблизи источников тепла",
+        "Хранения баллонов в хорошо вентилируемом помещении",
+        "Соприкосновения кислорода с жирами и маслами"
+      ]
+    },
+    {
+      "id": "medBrat_457",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОсновной признак одышки у ребенка:",
+        "Бледность кожных покровов",
+        "Раздувание и напряжение крыльев носа",
+        "Выбухание родничков",
+        "Громкий плач"
+      ]
+    },
+    {
+      "id": "medBrat_458",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nК свойствам дыхания относится:",
+        "Тип",
+        "Тонус",
+        "Наполнение",
+        "Напряжение"
+      ]
+    },
+    {
+      "id": "medBrat_459",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКоличество дыханий в одну минуту взрослого в норме:",
+        "30-36",
+        "22-28",
+        "16-20",
+        "10-12"
+      ]
+    },
+    {
+      "id": "medBrat_460",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПоказанием к применению кислорода является:",
+        "Гипоксия тканей",
+        "Боли в области сердца",
+        "Отеки",
+        "Нарушение зрения"
+      ]
+    },
+    {
+      "id": "medBrat_461",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри проведении оксигенотерапии кислород увлажняют с целью:",
+        "Предотвращения сухости слизистых оболочек дыхательных путей",
+        "Пеногашения слизистой мокроты",
+        "Предотвращения переувлажнения слизистых оболочек дыхательных путей",
+        "Понижения давления"
+      ]
+    },
+    {
+      "id": "medBrat_462",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПодача кислорода не осуществляется через:",
+        "Носовой катетер",
+        "Воронку кислородной подушки",
+        "Носовую канюлю",
+        "Дуоденальный зонд"
+      ]
+    },
+    {
+      "id": "medBrat_463",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nК лекарственным аэрозолям относятся:",
+        "Взвеси лекарственных веществ в воздухе",
+        "Водные растворы",
+        "Спиртовые растворы",
+        "Масляные растворы"
+      ]
+    },
+    {
+      "id": "medBrat_464",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nК ингаляционному способу относится введение лекарственных средств:",
+        "В дыхательные пути",
+        "Под язык",
+        "В ткани",
+        "На слизистые оболочки"
+      ]
+    },
+    {
+      "id": "medBrat_465",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОсновная жалоба пациента при бронхиальной астме:",
+        "Боль в грудной клетке",
+        "Кашель с гнойной мокротой",
+        "Приступ удушья",
+        "Кровохарканье"
+      ]
+    },
+    {
+      "id": "medBrat_466",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЭкспираторный характер одышки отмечается при:",
+        "Абсцессе легкого",
+        "Бронхиальной астме",
+        "Крупозной пневмонии",
+        "Отеке легких"
+      ]
+    },
+    {
+      "id": "medBrat_467",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри экспираторной одышке затруднен:",
+        "Вдох",
+        "Выдох",
+        "Вдох и выдох"
+      ]
+    },
+    {
+      "id": "medBrat_468",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВынужденное положение пациента при приступе бронхиальной астмы:",
+        "Горизонтальное",
+        "Горизонтальное с приподнятыми ногами",
+        "Лежа на боку",
+        "Сидя, опираясь о колени"
+      ]
+    },
+    {
+      "id": "medBrat_469",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНеотложная помощь при приступе бронхиальной астмы:",
+        "Сальбутамол",
+        "Кодеин",
+        "Либексин",
+        "Тусупрекс"
+      ]
+    },
+    {
+      "id": "medBrat_470",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nУвеличение частоты дыхания (частое, поверхностное дыхание) называется:",
+        "Брадипноэ",
+        "Тахипноэ",
+        "Диспноэ",
+        "Апноэ"
+      ]
+    },
+    {
+      "id": "medBrat_471",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДренажное положение придается пациенту для:",
+        "Снижения лихорадки",
+        "Уменьшения одышки",
+        "Расширения бронхов",
+        "Облегчения оттока мокроты"
+      ]
+    },
+    {
+      "id": "medBrat_472",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДренажное положение придается пациенту при:",
+        "Бронхоэктатической болезни",
+        "Бронхиальной астме",
+        "Сухом плеврите",
+        "Экссудативном плеврите"
+      ]
+    },
+    {
+      "id": "medBrat_473",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nК нарушениям внешнего дыхания относят все перечисленные, кроме:",
+        "Брадипноэ",
+        "Тахипноэ",
+        "Пиоторакс",
+        "Апноэ"
+      ]
+    },
+    {
+      "id": "medBrat_474",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри инспираторной одышке:",
+        "Затруднен вдох",
+        "Затруднен выдох",
+        "Нормальное дыхание",
+        "Одиночные дыхательные акты"
+      ]
+    },
+    {
+      "id": "medBrat_475",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nК видам одышки относятся:",
+        "Инспираторная и экспираторная",
+        "Брадипноэ и тахипноэ",
+        "Гипо- и гиперпноэ",
+        "Асфиксия и апноэ"
+      ]
+    },
+    {
+      "id": "medBrat_476",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСнижение частоты дыхания называется:",
+        "Брадипноэ",
+        "Тахипноэ",
+        "Апноэ",
+        "Диспноэ"
+      ]
+    },
+    {
+      "id": "medBrat_477",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКровохарканье и легочное кровотечение могут возникнуть при:",
+        "Абсцессе легкого",
+        "Бронхиальной астме",
+        "Остром бронхите",
+        "Экссудативном плеврите"
+      ]
+    },
+    {
+      "id": "medBrat_478",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКровохарканье наблюдается при:",
+        "Остром бронхите",
+        "Бронхоэктатической болезни",
+        "Бронхиальной астме",
+        "Экссудативном плеврите"
+      ]
+    },
+    {
+      "id": "medBrat_479",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПризнаком кровотечения в плевральную полость является:",
+        "Алая пенистая кровь из полости рта",
+        "Рвота «кофейной гущей»",
+        "Кровохарканье",
+        "Отставание больной стороны при экскурсии грудной клетки и притупление перкуторного звука"
+      ]
+    },
+    {
+      "id": "medBrat_480",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОбщим симптомом большой кровопотери не является:",
+        "Бледность кожных покровов",
+        "Слабый, частый пульс",
+        "Увеличение гемоглобина",
+        "Падение артериального давления"
+      ]
+    },
+    {
+      "id": "medBrat_481",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nГемоторакс – это скопление крови в:",
+        "Капсуле сустава",
+        "Плевральной полости",
+        "Брюшной полости",
+        "Околосердечной сумке"
+      ]
+    },
+    {
+      "id": "medBrat_482",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри легочном кровотечении выделяется кровь:",
+        "Алая и пенистая",
+        "Типа «кофейной гущи»",
+        "Темная, сгустками",
+        "Темно-вишневого цвета"
+      ]
+    },
+    {
+      "id": "medBrat_483",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри массивном внутреннем кровотечении пульс:",
+        "Урежается",
+        "Учащается",
+        "Не изменяется"
+      ]
+    },
+    {
+      "id": "medBrat_484",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри кровохаркании и легочном кровотечении противопоказано:",
+        "Ставить горчичники на грудную клетку",
+        "Усадить и успокоить пациента",
+        "Положить пузырь со льдом на грудную клетку",
+        "Приподнять головной конец туловища"
+      ]
+    },
+    {
+      "id": "medBrat_485",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри легочном кровотечении не следует:",
+        "Придавать горизонтальное положение",
+        "Вызывать врача",
+        "Подавать лоток для отхаркивания крови",
+        "Применять пузырь со льдом на грудную клетку"
+      ]
+    },
+    {
+      "id": "medBrat_486",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nБольного с массивным легочным кровотечением транспортируют:",
+        "Полусидя",
+        "Лежа на животе",
+        "Лежа с опущенными ногами",
+        "Лежа с приподнятым ножным концом"
+      ]
+    },
+    {
+      "id": "medBrat_487",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nУ пациента с легочным кровотечением в первую очередь нарушено удовлетворение потребности:",
+        "Поддерживать температуру",
+        "Дышать",
+        "Выделять",
+        "Играть, учиться, работать"
+      ]
+    },
+    {
+      "id": "medBrat_488",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНезависимое действие медсестры для удовлетворения потребности дышать у пациента с легочным кровотечением:",
+        "Введение гемостатиков",
+        "Применение холода на грудную клетку и голову",
+        "Обучение ЛФК",
+        "Подготовка набора инструментов для плевральной пункции"
+      ]
+    },
+    {
+      "id": "medBrat_489",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри осуществлении 1 этапа сестринского процесса у пациента с внутренним кровотечением м/с:",
+        "Оценит пульс и артериальное давление",
+        "Выявит проблемы",
+        "Составит план сестринского ухода",
+        "Сформулирует цели ухода"
+      ]
+    },
+    {
+      "id": "medBrat_490",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКоличество сердечных сокращений в одну минуту у взрослого в норме:",
+        "100-120",
+        "90- 100",
+        "60-90",
+        "40-60"
+      ]
+    },
+    {
+      "id": "medBrat_491",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОдно из свойств пульса:",
+        "Напряжение",
+        "Гипотония",
+        "Тахипноэ",
+        "Атония"
+      ]
+    },
+    {
+      "id": "medBrat_492",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПо наполнению пульс различают:",
+        "Ритмичный, аритмичный",
+        "Скорый, медленный",
+        "Полный, пустой",
+        "Твердый, мягкий"
+      ]
+    },
+    {
+      "id": "medBrat_493",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНаиболее взаимосвязаны свойства пульса:",
+        "Напряжение и наполнение",
+        "Напряжение и ритм",
+        "Частота и ритм",
+        "Скорость и частота"
+      ]
+    },
+    {
+      "id": "medBrat_494",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nРазность между систолическим и диастолическим артериальным давлением называется:",
+        "Максимальным артериальным давлением",
+        "Минимальным артериальным давлением",
+        "Пульсовым давлением",
+        "Дефицитом пульса"
+      ]
+    },
+    {
+      "id": "medBrat_495",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМаксимальное давление – это:",
+        "Диастолическое",
+        "Систолическое",
+        "Аритмическое",
+        "Пульсовое"
+      ]
+    },
+    {
+      "id": "medBrat_496",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПульс взрослого в покое 98 ударов в мин.:",
+        "Норма",
+        "Тахикардия",
+        "Брадикардия",
+        "Аритмия"
+      ]
+    },
+    {
+      "id": "medBrat_497",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nК свойствам пульса относится:",
+        "Глубина",
+        "Тонус",
+        "Частота",
+        "Тип"
+      ]
+    },
+    {
+      "id": "medBrat_498",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПо напряжению различают пульс:",
+        "Ритмичный, аритмичный",
+        "Скорый, медленный",
+        "Полный, пустой",
+        "Твердый, мягкий"
+      ]
+    },
+    {
+      "id": "medBrat_499",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВремя подсчета пульса при аритмии (в сек. ):",
+        "60",
+        "45",
+        "30",
+        "15"
+      ]
+    },
+    {
+      "id": "medBrat_500",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПульс не определяют на:",
+        "Сонной артерии",
+        "Височной артерии",
+        "Лучевой артерии",
+        "Брюшной артерии"
+      ]
+    },
+    {
+      "id": "medBrat_501",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНормальные цифры диастолического артериального давления у взрослого (мм рт. ст. ):",
+        "120-130",
+        "100-110",
+        "60-90",
+        "40-50"
+      ]
+    },
+    {
+      "id": "medBrat_502",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПо частоте пульс различают:",
+        "Нормальный",
+        "Твердый",
+        "Полный",
+        "Аритмичный"
+      ]
+    },
+    {
+      "id": "medBrat_503",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВеличина пульса зависит от:",
+        "Напряжения и наполнения",
+        "Напряжения и частоты",
+        "Наполнения и частоты",
+        "Частоты и ритма"
+      ]
+    },
+    {
+      "id": "medBrat_504",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНеотложная помощь при обмороке:",
+        "Провести оксигенотерапию",
+        "Придать возвышенное положение",
+        "Ингаляция нашатырным спиртом",
+        "Поставить пузырь со льдом на голову"
+      ]
+    },
+    {
+      "id": "medBrat_505",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЗаболевание сердечно-сосудистой системы, являющееся одной из основных причин смертности среди взрослого населения:",
+        "Артериальная гипертония",
+        "Ишемическая болезнь сердца",
+        "Пороки сердца",
+        "Ревматизм",
+        "Артериальная гипотония"
+      ]
+    },
+    {
+      "id": "medBrat_506",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОсновной клинический признак коллапса:",
+        "Повышение АД",
+        "Понижение АД",
+        "Тахикардия",
+        "Аритмия",
+        "Потеря сознания"
+      ]
+    },
+    {
+      "id": "medBrat_507",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nУкажите мероприятия, которые не должны входить в план сестринских вмешательств при уходе за пациентом с заболеванием сердца:",
+        "Организовать питание с продуктами, богатыми калием",
+        "Обеспечить питание с большим количеством жидкости и соли",
+        "В острый период организовать постельный режим",
+        "Обеспечить достаточный доступ свежего воздуха",
+        "Создать возвышенное положение в постели"
+      ]
+    },
+    {
+      "id": "medBrat_508",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nДля стенокардии характерно появление болей:",
+        "В покое",
+        "Во время сна",
+        "При физической нагрузке",
+        "От нитроглицерина",
+        "При эмоциональной нагрузке"
+      ]
+    },
+    {
+      "id": "medBrat_509",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nБоли в сердце при стенокардии носят характер:",
+        "Сжимающий",
+        "Ноющий",
+        "Покалывающий",
+        "Давящий",
+        "Жгучий"
+      ]
+    },
+    {
+      "id": "medBrat_510",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОсновной симптом инфаркта миокарда:",
+        "Одышка, подъем АД",
+        "Боль за грудиной более 30 минут, падение АД",
+        "Удушье, подъем АД",
+        "Боль за грудиной более 30 минут, подъем АД",
+        "Головная боль, тошнота"
+      ]
+    },
+    {
+      "id": "medBrat_511",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСердечная недостаточность – это:",
+        "Снижение тонуса сосудов",
+        "Снижение сократительной способности миокарда",
+        "Нарушение соответствия между объемом циркулирующей крови и сосудистым руслом",
+        "Нарушение соотношения эритроцитов к плазме крови",
+        "Повышение сократительной способности миокарда"
+      ]
+    },
+    {
+      "id": "medBrat_512",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nАртериальная гипертензия – это:",
+        "Повышение АД",
+        "Снижение АД",
+        "Снижение пульсового давления",
+        "Острая сосудистая недостаточность",
+        "Снижение сократительной способности миокарда"
+      ]
+    },
+    {
+      "id": "medBrat_513",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПрепараты для купирования гипертонического криза:",
+        "Нитроглицерин",
+        "Коринфар",
+        "Фуросемид",
+        "Преднизолон",
+        "Димедрол"
+      ]
+    },
+    {
+      "id": "medBrat_514",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМужчина, 52 года , обратился к фельдшеру с жалобами на сильные боли в области эпигастрия, тошноту, 2-х кратную рвоту, употребление недоброкачественной пищи отрицает. АД 100/60 мм рт. ст., пульс 72 в минуту. Фельдшер сделал промывание желудка, после чего состояние резко ухудшилось. Больной заторможен. АД 80/60 мм рт. ст., пульс нитевидный. Что за состояние у больного?",
+        "Стенокардия",
+        "Пищевая токсикоинфекция",
+        "Язвенная болезнь",
+        "Инфаркт миокарда",
+        "Желчнокаменная болезнь"
+      ]
+    },
+    {
+      "id": "medBrat_515",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМальчику, 13 лет, назначено явиться в процедурный кабинет утром натощак для взятия крови на биохимическое исследование. При взятии крови он побледнел и начал медленно опускаться на пол, потерял сознание. Что случилось с ребенком?",
+        "Анафилактический шок",
+        "Гипогликемическая кома",
+        "Гипергликемическая кома",
+        "Обморок",
+        "Коллапс"
+      ]
+    },
+    {
+      "id": "medBrat_516",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНезависимое сестринское вмешательство при обмороке:",
+        "Придать возвышенное положение голове",
+        "Поставить горчичник на область сердца",
+        "Дать вдохнуть пары нашатырного спирта",
+        "Ввести преднизолон",
+        "Поставить пузырь со льдом на голову"
+      ]
+    },
+    {
+      "id": "medBrat_517",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля повышения артериального давления применяют:",
+        "Корвалол",
+        "Димедрол",
+        "Анальгин",
+        "Кордиамин",
+        "Дибазол"
+      ]
+    },
+    {
+      "id": "medBrat_518",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nУкажите неправильный ответ. «При исследовании пульса проводят оценку:",
+        "Ритма",
+        "Частоты",
+        "Наполнения",
+        "Напряжения",
+        "Вязкости крови"
+      ]
+    },
+    {
+      "id": "medBrat_519",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВ приемный покой поступил ребенок в бессознательном состоянии. Какой признак может подтвердить отсутствие сознания у ребенка:",
+        "Повышение мышечного тонуса",
+        "Наличие реакции зрачков на свет",
+        "Отсутствие реакции на боль",
+        "Отказ от еды",
+        "Вялая реакция на осмотр"
+      ]
+    },
+    {
+      "id": "medBrat_520",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nБольным с заболеванием сердечно-сосудистой системы, страдающим одышкой, рекомендуется принимать полусидячее положение со следующей целью:",
+        "В таком положении удобнее кормить",
+        "Уменьшения застоя крови в малом круге кровообращения",
+        "Уменьшения опасности возникновения пролежней",
+        "В таком положении удобнее проводить смену белья",
+        "Улучшения работы желудочно-кишечного тракта"
+      ]
+    },
+    {
+      "id": "medBrat_521",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nХарактерные симптомы обморока:",
+        "Кратковременная потеря сознания",
+        "Подъем АД",
+        "Сумеречное сознание",
+        "Головная боль",
+        "Сухость кожи"
+      ]
+    },
+    {
+      "id": "medBrat_522",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКоллапс характеризуется:",
+        "Бледностью, отсутствием сознания, снижением АД",
+        "Бледностью, безразличным взглядом, снижением АД, холодным потом, ознобом, жаждой",
+        "Бледностью, приступом удушья",
+        "Гиперемией кожи щек, одутловатостью лица, высоким АД",
+        "Вынужденным положением с упором на руке"
+      ]
+    },
+    {
+      "id": "medBrat_523",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nБоль при приступе стенокардии длится:",
+        "3-10 мин.",
+        "1-2 сек.",
+        "30 мин.",
+        "25 мин.",
+        "2 часа"
+      ]
+    },
+    {
+      "id": "medBrat_524",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКардиогенный шок характеризуется:",
+        "Кратковременной потерей сознания",
+        "Падением АД, падением пульсового АД ниже 30 мм рт. ст.",
+        "Подъемом АД",
+        "Повышением сократительной способности миокарда",
+        "Появлением тонико-клонических судорог"
+      ]
+    },
+    {
+      "id": "medBrat_525",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОсновные проявления приступа стенокардии:",
+        "Одышка",
+        "Сжимающие боли в области сердца",
+        "Утомляемость",
+        "Повышенное АД",
+        "Сердцебиение"
+      ]
+    },
+    {
+      "id": "medBrat_526",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНаиболее точно отражает выраженность хронической почечной недостаточности уровень:",
+        "Мочевины плазмы",
+        "Остаточного азота",
+        "Креатинина плазмы",
+        "Калия плазмы",
+        "Кальция плазмы"
+      ]
+    },
+    {
+      "id": "medBrat_527",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПрогрессирование хронической почечной недостаточности ускоряет:",
+        "Артериальная гипертензия",
+        "Гипопаратиреоз",
+        "Ремиссия основного заболевания",
+        "Все перечисленное",
+        "Ничего из перечисленного"
+      ]
+    },
+    {
+      "id": "medBrat_528",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри хронической почечной недостаточности уровень креатинина плазмы:",
+        "Может нормализоваться",
+        "Нормализоваться не может",
+        "Неизвестен",
+        "Возможность нормализации не зависит от артериального давления",
+        "Возможность нормализации зависит от уровня артериального давления"
+      ]
+    },
+    {
+      "id": "medBrat_529",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНаиболее ранним признаком хронической почечной недостаточности является:",
+        "Повышение артериального давления",
+        "Полиурия, полидепсия",
+        "Гиперкалиемия",
+        "Гиперкальциемия",
+        "Гипофосфатемия"
+      ]
+    },
+    {
+      "id": "medBrat_530",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nУ больных хронической почечной недостаточностью и диареей происходит потеря главным образом:",
+        "Калия",
+        "Натрия",
+        "Водорода",
+        "Кальция",
+        "Всех указанных ионов"
+      ]
+    },
+    {
+      "id": "medBrat_531",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОсновные проявления острой почечной недостаточности:",
+        "Тошнота, рвота, жидкий стул, судороги",
+        "Анорексия, тошнота, рвота, судороги",
+        "Повышение температуры, тошнота, рвота, судороги",
+        "Повышение температуры, тошнота, рвота, головная боль"
+      ]
+    },
+    {
+      "id": "medBrat_532",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nРазвитию сердечной недостаточности при хронической почечной недостаточности способствуют:",
+        "Артериальная гипертензия",
+        "Анемия",
+        "Перегрузка жидкостью и натрием",
+        "Высокий уровень триглицеридов плазмы",
+        "Все указанные факторы"
+      ]
+    },
+    {
+      "id": "medBrat_533",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНепосредственной угрозой для жизни при ОПН, требующей немедленного вмешательства, является:",
+        "Повышение содержания мочевины в крови",
+        "Повышение содержания креатинина в крови",
+        "Гиперфосфатемия",
+        "Гиперкалиемия",
+        "Гиперсальциемия"
+      ]
+    },
+    {
+      "id": "medBrat_534",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри шоке острая почечная недостаточность обусловлена:",
+        "Влиянием токсических веществ поврежденных тканей",
+        "Сопутствующей инфекцией",
+        "Падением артериального давления",
+        "Недостаточностью надпочечников",
+        "Метаболическим ацидозом"
+      ]
+    },
+    {
+      "id": "medBrat_535",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nАбсолютным показанием для срочного проведения гемодиализа при ОПН является:",
+        "Анурия",
+        "Высокая гипертензия",
+        "Гиперкалиемия",
+        "Повышение уровня креатинина в крови",
+        "Развитие перикардита"
+      ]
+    },
+    {
+      "id": "medBrat_536",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nХроническая почечная недостаточность является следствием:",
+        "Изолированного поражения канальцев",
+        "Изолированного поражения клубочков",
+        "Изолированного поражения собирательных трубочек",
+        "Поражения всего нефрона",
+        "Изолированного поражения приносящей артериолы"
+      ]
+    },
+    {
+      "id": "medBrat_537",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОсновными синдромами ХПН являются:",
+        "Протеинурия, гематурия",
+        "Отечный, повышение остаточного азота",
+        "Азотемический и анемический",
+        "Мочевой и гипертония",
+        "Гипертония и протеинурия"
+      ]
+    },
+    {
+      "id": "medBrat_538",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСестринский диагноз (проблемы пациента):",
+        "Недержание мочи",
+        "Ангина",
+        "Цианоз",
+        "Асфиксия"
+      ]
+    },
+    {
+      "id": "medBrat_539",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКоличество мочи для общего клинического анализа (в мл):",
+        "500",
+        "250-300",
+        "100-150",
+        "50-100"
+      ]
+    },
+    {
+      "id": "medBrat_540",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСоотношение количества выпитой и выделенной жидкости называется:",
+        "Суточным диурезом",
+        "Водным балансом",
+        "Анурезом",
+        "Дневным диурезом"
+      ]
+    },
+    {
+      "id": "medBrat_541",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля исследования мочи на сахар ее собирают в течение (в часах):",
+        "24",
+        "10",
+        "8",
+        "3"
+      ]
+    },
+    {
+      "id": "medBrat_542",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВремя сбора мочи для исследования по методу Амбурже (в часах):",
+        "24",
+        "10",
+        "8",
+        "3"
+      ]
+    },
+    {
+      "id": "medBrat_543",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПробой Зимницкого определяется в моче:",
+        "Количество сахара, ацетона",
+        "Количество форменных элементов, бактерий",
+        "Наличие уробилина, желчных пигментов",
+        "Плотность и диурез"
+      ]
+    },
+    {
+      "id": "medBrat_544",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВ норме плотность мочи в среднем равна:",
+        "1030-1040",
+        "1012-1025",
+        "1005 -1010",
+        "1002 -1004"
+      ]
+    },
+    {
+      "id": "medBrat_545",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля исследования мочи по методу Нечипоренко:",
+        "Собирают за 24 часа",
+        "Собирают за 10 часов",
+        "Собирают за 3 часа",
+        "Берут среднюю порцию мочи"
+      ]
+    },
+    {
+      "id": "medBrat_546",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМочу, собранную для исследования по методу Амбурже, следует отнести в лабораторию:",
+        "Бактериологическую",
+        "Клиническую",
+        "Биохимическую",
+        "Цитологическую"
+      ]
+    },
+    {
+      "id": "medBrat_547",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМоча на диастазу должна быть доставлена в лабораторию через (в часах):",
+        "24",
+        "10",
+        "3",
+        "Немедленно"
+      ]
+    },
+    {
+      "id": "medBrat_548",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМочу, собранную для анализа по методу Нечипоренко, следует отнести в лабораторию:",
+        "Биохимическую",
+        "Клиническую",
+        "Цитологическую",
+        "Бактериологическую"
+      ]
+    },
+    {
+      "id": "medBrat_549",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри транспортировке больного в кресле-каталке представляет опасность нахождение рук:",
+        "На животе",
+        "В скрещенном положении",
+        "На подлокотниках",
+        "За пределами подлокотников"
+      ]
+    },
+    {
+      "id": "medBrat_550",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПроблема – задержка стула:",
+        "Второстепенная",
+        "Потенциальная",
+        "Эмоциональная",
+        "Настоящая"
+      ]
+    },
+    {
+      "id": "medBrat_551",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля профилактики пролежней необходимо менять положение пациента каждые (в часах):",
+        "24",
+        "12",
+        "6",
+        "2"
+      ]
+    },
+    {
+      "id": "medBrat_552",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНаиболее частая область образования пролежней у тяжелобольного пациента при положении на спине:",
+        "Крестец",
+        "Подколенная ямка",
+        "Бедро",
+        "Голень"
+      ]
+    },
+    {
+      "id": "medBrat_553",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПрофилактика пролежней:",
+        "Умывание",
+        "Лечебная физкультура",
+        "Смена положения тела каждые два часа",
+        "Смена положения тела 3 раза в день"
+      ]
+    },
+    {
+      "id": "medBrat_554",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПризнак второй степени пролежней:",
+        "Бледность",
+        "Отек, краснота",
+        "Пузыри",
+        "Язвы"
+      ]
+    },
+    {
+      "id": "medBrat_555",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЛечение третьей степени пролежней:",
+        "Протирание 10% камфорным спиртом",
+        "Массаж",
+        "Хирургическим методом",
+        "Смазывание 70° спиртом"
+      ]
+    },
+    {
+      "id": "medBrat_556",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТемпература воды в горячей ванне составляет (в °С):",
+        "50-60",
+        "40-42",
+        "3-39",
+        "34-36"
+      ]
+    },
+    {
+      "id": "medBrat_557",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКоличество слоев салфетки из марли для согревающего компресса:",
+        "8",
+        "6",
+        "4",
+        "2"
+      ]
+    },
+    {
+      "id": "medBrat_558",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля ускорения присасывания пиявок участок кожи пациента следует протереть раствором:",
+        "40% глюкозы",
+        "10% натрия хлорида",
+        "6% столового уксуса",
+        "3% перекиси водорода"
+      ]
+    },
+    {
+      "id": "medBrat_559",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМестный полуспиртовый компресс следует снять через (в часах):",
+        "10-12",
+        "4-6",
+        "2-3",
+        "1-2"
+      ]
+    },
+    {
+      "id": "medBrat_560",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМестной ванной называется погружение:",
+        "Всего тела",
+        "Части тела",
+        "Нижней части тело до пояса",
+        "Медленное"
+      ]
+    },
+    {
+      "id": "medBrat_561",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПродолжительность теплых ванн (в мин. ):",
+        "30-40",
+        "20-30",
+        "5-10",
+        "3-5"
+      ]
+    },
+    {
+      "id": "medBrat_562",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОдним из показаний для применения согревающего компресса является:",
+        "Острый аппендицит",
+        "Кровотечение",
+        "Ушибы в первые часы",
+        "Инфильтрат на месте инъекций"
+      ]
+    },
+    {
+      "id": "medBrat_563",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПузырь со льдом местно следует применять при:",
+        "Приступе почечной колики",
+        "Артритах",
+        "Пневмонии",
+        "Кровотечении"
+      ]
+    },
+    {
+      "id": "medBrat_564",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТемпература воды для постановки горчичников (в °С):",
+        "50-55",
+        "60-70",
+        "40-45",
+        "20-30"
+      ]
+    },
+    {
+      "id": "medBrat_565",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПоказание к применению грелки:",
+        "Острый аппендицит",
+        "Инсульт",
+        "Кровотечение",
+        "Переохлаждение"
+      ]
+    },
+    {
+      "id": "medBrat_566",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nХолодный компресс меняют через каждые (в мин. ):",
+        "60",
+        "30",
+        "10",
+        "2-3"
+      ]
+    },
+    {
+      "id": "medBrat_567",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМаксимальная температура воды в грелке (в °С):",
+        "60-70",
+        "20-30",
+        "40-50",
+        "80-90"
+      ]
+    },
+    {
+      "id": "medBrat_568",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри ушибе в качестве средства первой помощи применяют:",
+        "Согревающий компресс",
+        "Пузырь со льдом",
+        "Горячий компресс",
+        "Влажное обертывание"
+      ]
+    },
+    {
+      "id": "medBrat_569",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТемпература воды в теплой ванне составляет (в °С):",
+        "50-60",
+        "40-42",
+        "37-39",
+        "34-36"
+      ]
+    },
+    {
+      "id": "medBrat_570",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПоказания для постановки пиявок:",
+        "Гипертония",
+        "Анемия",
+        "Гипотония",
+        "Повышенная кровоточивость тканей"
+      ]
+    },
+    {
+      "id": "medBrat_571",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТемпература воды, используемая для смачивания горчичников (в °С):",
+        "60-70",
+        "40-45",
+        "36-37",
+        "20-30"
+      ]
+    },
+    {
+      "id": "medBrat_572",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНазвание ванны, при которой тело погружается в воду до пояса:",
+        "Местная",
+        "Тазово-ножная",
+        "Полуванна",
+        "Общая"
+      ]
+    },
+    {
+      "id": "medBrat_573",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПродолжительность применения горячих ванн (в мин.):",
+        "30-40",
+        "20-30",
+        "10-15",
+        "3-5"
+      ]
+    },
+    {
+      "id": "medBrat_574",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри температуре воды 34-36 °С общую ванну следует называть:",
+        "Прохладной",
+        "Индифферентной",
+        "Теплой",
+        "Горячей"
+      ]
+    },
+    {
+      "id": "medBrat_575",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОдним из противопоказаний для применения грелки является:",
+        "Острый аппендицит",
+        "Не осложненная язвенная болезнь желудка",
+        "Сухой плеврит",
+        "Бронхиты"
+      ]
+    },
+    {
+      "id": "medBrat_576",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТемпература воды для согревающего компресса составляет (в °С):",
+        "50-60",
+        "37-38",
+        "20-22",
+        "12-15"
+      ]
+    },
+    {
+      "id": "medBrat_577",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДлительность постановки горчичников (в мин. ):",
+        "30-40",
+        "20-30",
+        "7-10",
+        "2-3"
+      ]
+    },
+    {
+      "id": "medBrat_578",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСогревающий компресс противопоказан при:",
+        "Отите",
+        "Инфильтрате",
+        "Ушибе в первые часы",
+        "Тонзиллите"
+      ]
+    },
+    {
+      "id": "medBrat_579",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПротивопоказания к постановке горчичников:",
+        "Невралгия",
+        "Радикулит",
+        "Воспалительное заболевание дыхательных путей",
+        "Легочное кровотечение"
+      ]
+    },
+    {
+      "id": "medBrat_580",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nГорячий компресс меняют через каждые (в мин. ):",
+        "60",
+        "30",
+        "10",
+        "2-3"
+      ]
+    },
+    {
+      "id": "medBrat_581",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПродолжительносгь воздействия пузыря со льдом (в мин. ):",
+        "60",
+        "45",
+        "20",
+        "10"
+      ]
+    },
+    {
+      "id": "medBrat_582",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПоказания к применению горчичников:",
+        "Лихорадка, II период",
+        "Острые воспалительные заболевания органов дыхания",
+        "Кровотечения",
+        "Поражения кожи"
+      ]
+    },
+    {
+      "id": "medBrat_583",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля постановки очистительной клизмы взрослому пациенту надо приготовить чистой воды (в л):",
+        "10",
+        "5-6",
+        "2-3",
+        "1-1,5"
+      ]
+    },
+    {
+      "id": "medBrat_584",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПоказания к постановке очистительной клизмы:",
+        "Острый аппендицит",
+        "Первые дни после операции на органах пищеварения",
+        "Запор",
+        "Подготовка больного к извлечению желудочного содержимого"
+      ]
+    },
+    {
+      "id": "medBrat_585",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля постановки очистительной клизмы используется:",
+        "Кружка Эсмарха",
+        "Грушевидный баллон и газоотводная трубка",
+        "Зонд с воронкой",
+        "Шприц Жане"
+      ]
+    },
+    {
+      "id": "medBrat_586",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nРаствор глюкозы, вводимый при постановке капельной питательной клизмы:",
+        "40%",
+        "20%",
+        "10%",
+        "5%"
+      ]
+    },
+    {
+      "id": "medBrat_587",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПосле введения лекарственной клизмы пациент должен находиться в постели (в часах):",
+        "6-8",
+        "4-6",
+        "2-3",
+        "Не менее часа"
+      ]
+    },
+    {
+      "id": "medBrat_588",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПротивопоказанием к постановке очистительной клизмы является:",
+        "Кишечное кровотечение",
+        "Метеоризм",
+        "Подготовка к родам",
+        "Отсутствие стула более двух суток (запор)"
+      ]
+    },
+    {
+      "id": "medBrat_589",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри постановке очистительной клизмы наконечник вводят на глубину (в см):",
+        "40",
+        "20",
+        "10",
+        "2-4"
+      ]
+    },
+    {
+      "id": "medBrat_590",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПосле масляной клизмы опорожнение кишечника, как правило, наступает через (в час. ):",
+        "8-10",
+        "4-6",
+        "2-4",
+        "1"
+      ]
+    },
+    {
+      "id": "medBrat_591",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля постановки сифонной клизмы надо подготовить чистой воды (в л):",
+        "10",
+        "5",
+        "2",
+        "1"
+      ]
+    },
+    {
+      "id": "medBrat_592",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля постановки гипертонической клизмы необходимо 10% раствора хлорида натрия (в мл):",
+        "500",
+        "200",
+        "100",
+        "10"
+      ]
+    },
+    {
+      "id": "medBrat_593",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПротивопоказанием к постановке сифонной клизмы является:",
+        "Непроходимость кишечника",
+        "Отравление",
+        "Кишечное кровотечение",
+        "Отсутствие эффекта от очистительной клизмы"
+      ]
+    },
+    {
+      "id": "medBrat_594",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМаксимальное время использования газоотводной трубки (в часах):",
+        "4",
+        "3",
+        "Не более 1",
+        "0,5"
+      ]
+    },
+    {
+      "id": "medBrat_595",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри метеоризме газоотводная трубка вводится на глубину (в см):",
+        "50",
+        "20-30",
+        "10-12",
+        "2-4"
+      ]
+    },
+    {
+      "id": "medBrat_596",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЧаще всего ректально вводят лекарственные формы:",
+        "Мази",
+        "Присыпки",
+        "Суппозитории",
+        "Таблетки"
+      ]
+    },
+    {
+      "id": "medBrat_597",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля постановки гипертонической клизмы необходимо приготовить раствор:",
+        "10% натрия хлорида",
+        "5% сульфата магния",
+        "2% натрия гидрокарбоната",
+        "0,9% натрия хлорида"
+      ]
+    },
+    {
+      "id": "medBrat_598",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНеобходимое количество растительного масла для постановки масляной клизмы (в мл):",
+        "1000",
+        "500",
+        "100",
+        "10"
+      ]
+    },
+    {
+      "id": "medBrat_599",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри спастических запорах у пациента чаще назначается клизма:",
+        "Гипертоническая",
+        "Обычная очистительная",
+        "Сифонная",
+        "Масляная"
+      ]
+    },
+    {
+      "id": "medBrat_600",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТемпература раствора, используемого при постановке послабляющей клизмы (в °С):",
+        "60-70",
+        "40-42",
+        "37-38",
+        "30-32"
+      ]
+    },
+    {
+      "id": "medBrat_601",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОпорожнение кишечника после постановки гипертонической клизмы наступает через (в часах):",
+        "8-10",
+        "4-6",
+        "2-3",
+        "1"
+      ]
+    },
+    {
+      "id": "medBrat_602",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНеобходимое количество 33% р-ра сульфата магния для постановки гипертонической клизмы, мл:",
+        "1000",
+        "500",
+        "100",
+        "10"
+      ]
+    },
+    {
+      "id": "medBrat_603",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПеред лекарственной клизмой за 20-30 мин. пациенту необходимо поставить:",
+        "Гипертоническую клизму",
+        "Очистительную клизму",
+        "Сифонную клизму",
+        "Газоотводную трубку"
+      ]
+    },
+    {
+      "id": "medBrat_604",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nГлубина введения зонда в кишечник при постановке сифонной клизмы, см:",
+        "50-60",
+        "30-40",
+        "10-15",
+        "5-10"
+      ]
+    },
+    {
+      "id": "medBrat_605",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОдним из показаний для постановки сифонной клизмы является:",
+        "Рак прямой кишки",
+        "Подозрение на кишечную непроходимость",
+        "Запоры у больного с массивными отеками",
+        "Воспаление прямой кишки"
+      ]
+    },
+    {
+      "id": "medBrat_606",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПоложение пациента при постановке очистительной клизмы:",
+        "На правом боку",
+        "На левом боку",
+        "На животе",
+        "На спине"
+      ]
+    },
+    {
+      "id": "medBrat_607",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТемпература воды, используемой при постановке очистительной клизмы (в °С):",
+        "40",
+        "12",
+        "20",
+        "37"
+      ]
+    },
+    {
+      "id": "medBrat_608",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nГазоотводную трубку не оставляют в кишечнике надолго, потому что:",
+        "Могут образоваться пролежни в стенке кишечника",
+        "Это утомит больного",
+        "Закончится лечебный эффект",
+        "Заканчивается ее стерильность"
+      ]
+    },
+    {
+      "id": "medBrat_609",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТемпература раствора, используемого при постановке гипертонической клизмы (в °С):",
+        "34-36",
+        "40-42",
+        "10-12",
+        "37-38"
+      ]
+    },
+    {
+      "id": "medBrat_610",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nБиологический материал, который необходимо взять у больного с кишечной инфекцией:",
+        "Кал на общий анализ",
+        "Кал на яйца глист и простейшие",
+        "Кровь на биохимический анализ",
+        "Фекалии на бактериологическое исследование"
+      ]
+    },
+    {
+      "id": "medBrat_611",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nМоча для общего клинического анализа должна быть доставлена в лабораторию в течение (в часах):",
+        "4",
+        "2",
+        "Не более чем через час",
+        "В любое время"
+      ]
+    },
+    {
+      "id": "medBrat_612",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПреобладание ночного диуреза над дневным называется:",
+        "Полиурией",
+        "Никтурией",
+        "Анурией",
+        "Олигурией"
+      ]
+    },
+    {
+      "id": "medBrat_613",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nК дизурическим расстройствам относится:",
+        "Анурия",
+        "Полиурия",
+        "Поллакиурия",
+        "Глюкозурия"
+      ]
+    },
+    {
+      "id": "medBrat_614",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПродолжительность сбора анализа мочи по Зимницкому (в часах):",
+        "24",
+        "10",
+        "8"
+      ]
+    },
+    {
+      "id": "medBrat_615",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПоказания к промыванию желудка:",
+        "Острое пищевое отравление",
+        "Острый аппендицит",
+        "Острое респираторное заболевание"
+      ]
+    },
+    {
+      "id": "medBrat_616",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри подготовке пациента к исследованию кала на скрытую кровь необходимо исключить продукты:",
+        "Содержащие клетчатку",
+        "Содержащие железо",
+        "Содержащие белки",
+        "Содержащие углеводы"
+      ]
+    },
+    {
+      "id": "medBrat_617",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля промывания желудка взрослому следует приготовить чистую воду в количестве (в л):",
+        "10",
+        "3",
+        "1"
+      ]
+    },
+    {
+      "id": "medBrat_618",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПеред желудочным зондированием последний прием легко усваиваемой пищи проводится:",
+        "Утром в день исследования",
+        "В обед накануне исследования",
+        "Вечером накануне исследования",
+        "В полдник"
+      ]
+    },
+    {
+      "id": "medBrat_619",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКал для исследования на простейшие доставляется в лабораторию:",
+        "В течение дня",
+        "Через 3 часа",
+        "Через 1 час",
+        "Немедленно, теплым"
+      ]
+    },
+    {
+      "id": "medBrat_620",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nУменьшение суточного диуреза до 350 мл называется:",
+        "Олигурией",
+        "Никтурией",
+        "Анурией",
+        "Полиурией"
+      ]
+    },
+    {
+      "id": "medBrat_621",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nУвеличение суточного диуреза свыше 3000 мл называется:",
+        "Олигурией",
+        "Никтурией",
+        "Анурией",
+        "Полиурией"
+      ]
+    },
+    {
+      "id": "medBrat_622",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПодготовка пациента для исследования кала на скрытую кровь проводится в течение (в днях):",
+        "1",
+        "5",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "id": "medBrat_623",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОбъем воронки, используемой для промывания желудка (в мл):",
+        "500-1000",
+        "200",
+        "100",
+        "50"
+      ]
+    },
+    {
+      "id": "medBrat_624",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПротивопоказание для промывания желудка:",
+        "Отравление грибами",
+        "Желудочное кровотечение",
+        "Отравление алкоголем",
+        "Эндогенная интоксикация азотистыми шлаками"
+      ]
+    },
+    {
+      "id": "medBrat_625",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nФормула определения глубины введения желудочного зонда при промывании желудка (в см):",
+        "рост – 100",
+        "рост – 80",
+        "рост – 50",
+        "рост – 1/2 роста"
+      ]
+    },
+    {
+      "id": "medBrat_626",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля промывания желудка взрослому следует приготовить чистую воду температуры (в °С):",
+        "40-45",
+        "37-38",
+        "20-22",
+        "4-6"
+      ]
+    },
+    {
+      "id": "medBrat_627",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЧисло лейкоцитов в моче по Нечипоренко в модификации Пытель у здорового человека:",
+        "4000",
+        "1000",
+        "2000",
+        "1500",
+        "2500"
+      ]
+    },
+    {
+      "id": "medBrat_628",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nРаздражающее вещество, которое назначается для открытия сфинктера Одди:",
+        "Гепарин",
+        "Серотонин",
+        "33% магния сульфат",
+        "Капустный сок",
+        "Пищевая сода"
+      ]
+    },
+    {
+      "id": "medBrat_629",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКоличество порций мочи, собранных по Зимницкому:",
+        "8",
+        "6",
+        "4",
+        "10"
+      ]
+    },
+    {
+      "id": "medBrat_630",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nЗаболевание, которое сопровождается слизистой мокротой:",
+        "Бронхит",
+        "Туберкулез",
+        "Рак легких",
+        "Бронхиальная астма",
+        "Крупозная пневмония"
+      ]
+    },
+    {
+      "id": "medBrat_631",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nХарактер прозрачной жидкой мокроты с пузырьками:",
+        "Слизистая",
+        "Гнойная",
+        "Серозная",
+        "Серозно-гнойная",
+        "Кровянистая"
+      ]
+    },
+    {
+      "id": "medBrat_632",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКоличество мокроты, выделяемой при абсцессе легких:",
+        "40-50 мл",
+        "20-30 мл",
+        "200-300 мл",
+        "50-100 мл",
+        "10-20 мл"
+      ]
+    },
+    {
+      "id": "medBrat_633",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПодготовка пациента к плевральной пункции включает в себя:",
+        "Проведение очистительной клизмы",
+        "Применение газоотводной трубки",
+        "Измерение АД",
+        "Использование противошокового набора"
+      ]
+    },
+    {
+      "id": "medBrat_634",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОбъем аспирата при плевральной пункции с лечебной целью:",
+        "10-20 мл",
+        "300-500 мл",
+        "50-100 мл",
+        "100-200 мл",
+        "800-1200 мл"
+      ]
+    },
+    {
+      "id": "medBrat_635",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри какой болезни в осадке мочи встречается жир:",
+        "При миокардите",
+        "При гастрите",
+        "При диабете",
+        "При липоидном нефрозе",
+        "При миозите"
+      ]
+    },
+    {
+      "id": "medBrat_636",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nБольшое содержание лейкоцитов в моче – это:",
+        "Ишурия",
+        "Гематурия",
+        "Пиурия",
+        "Анурия",
+        "Кетонурия"
+      ]
+    },
+    {
+      "id": "medBrat_637",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНаличие белка в моче – это:",
+        "Протеинурия",
+        "Пиурия",
+        "Анурия",
+        "Гематурия"
+      ]
+    },
+    {
+      "id": "medBrat_638",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКакая патология сопровождается гнойно-слизистым стулом:",
+        "Колит",
+        "Хронический гастрит",
+        "Кишечный туберкулез",
+        "Холецистит",
+        "Гепатит"
+      ]
+    },
+    {
+      "id": "medBrat_639",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЦвет гнойной мокроты:",
+        "Зеленый",
+        "Синий",
+        "Желтый",
+        "Красный"
+      ]
+    },
+    {
+      "id": "medBrat_640",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЗаболевание, которое сопровождается выделением гнойной мокроты:",
+        "Гастрит",
+        "Острый бронхит",
+        "Абсцесс легких",
+        "Гепатит",
+        "Трахеит"
+      ]
+    },
+    {
+      "id": "medBrat_641",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЗаболевание, которое сопровождается выделением малого количества мокроты (2-5 мл):",
+        "Гангрена легких",
+        "Абсцесс легких",
+        "Туберкулез легких",
+        "Бронхит",
+        "Рак легких"
+      ]
+    },
+    {
+      "id": "medBrat_642",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОбъем плеврального содержимого для диагностического исследования:",
+        "10-20 мл",
+        "30-50 мл",
+        "50-100 мл",
+        "100-200 мл"
+      ]
+    },
+    {
+      "id": "medBrat_643",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДействия медицинской сестры при проведении плевральной пункции:",
+        "Наложение зажима на резиновую трубочку",
+        "Подсоединение плевроаспиратора",
+        "Взятие содержимого плевральной полости",
+        "Контроль гемодинамики"
+      ]
+    },
+    {
+      "id": "medBrat_644",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nДействия процедурной медицинской сестры при проведении абдоминальной пункции:",
+        "Транспортировать пациента из палаты и в палату",
+        "Проводить контроль гемодинамики",
+        "Ассистировать врачу",
+        "Подвести стерильную простыню под живот пациента",
+        "Эвакуировать асцитическую жидкость из брюшной полости"
+      ]
+    },
+    {
+      "id": "medBrat_645",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nДействия палатной медицинской сестры при проведении абдоминальной пункции:",
+        "Обработать руки, надеть перчатки",
+        "Проводить контроль гемодинамики",
+        "Ассистировать врачу",
+        "Транспортировать пациента из палаты и в палату",
+        "Провести обработку послеоперационного шва"
+      ]
+    },
+    {
+      "id": "medBrat_646",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЖелудок состоит из следующих частей:",
+        "Кардия, дно, тело, антрум, привратник",
+        "Кардия, дно, тело, пилорическая часть",
+        "Кардия, дно, тело, антрум"
+      ]
+    },
+    {
+      "id": "medBrat_647",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nФиброгастродуоденоскопию нельзя проводить в положении больного:",
+        "На левом боку",
+        "На правом боку",
+        "На спине",
+        "На животе"
+      ]
+    },
+    {
+      "id": "medBrat_648",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nФункции, не относящиеся к основным функциям дыхательных путей:",
+        "Очищение воздуха",
+        "Увлажнение воздуха",
+        "Согревание воздуха",
+        "Проведение воздуха",
+        "Отделение мокроты"
+      ]
+    },
+    {
+      "id": "medBrat_649",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОтносительные противопоказания к бронхоскопии:",
+        "Лихорадка, не связанная с заболеванием легких",
+        "Ишемическая болезнь сердца",
+        "Непереносимость анестетиков"
+      ]
+    },
+    {
+      "id": "medBrat_650",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВ бронхологическом кабинете не должны быть:",
+        "Аппарата для ИВЛ",
+        "Аппарата электроимпульсной терапии",
+        "Наборов стерильных инструментов для пункции плевральной полости, катетеризации подключичной вены",
+        "Операционного набора для торакотомии",
+        "Электрокардиоскопа"
+      ]
+    },
+    {
+      "id": "medBrat_651",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОсновное действующее вещество Фортранса:",
+        "Сена",
+        "Сернокислая магнезия",
+        "Макраголь 4000"
+      ]
+    },
+    {
+      "id": "medBrat_652",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nФортранс не применяют:",
+        "Для подготовки к операции",
+        "Для подготовки к колоноскопии",
+        "Для очистки кишечника",
+        "Для подготовки к гастроскопии"
+      ]
+    },
+    {
+      "id": "medBrat_653",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля генеральной уборки эндоскопического кабинета не используют:",
+        "3% перекись водорода с 0,5% CMC",
+        "0,2% раствора Жавель Солида",
+        "1% раствора Лизафин-Специаль"
+      ]
+    },
+    {
+      "id": "medBrat_654",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nС целью подготовки больного к эндоскопическому исследованию следует промыть желудок:",
+        "Если больной ужинал",
+        "Перед осмотром больного с желудочно-кишечным кровотечением",
+        "При наличии у больного клиники стеноза выходного отдела желудка"
+      ]
+    },
+    {
+      "id": "medBrat_655",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПроверять фиброгастроскоп на герметичность следует:",
+        "1 раз в год",
+        "1 раз в месяц",
+        "1 раз в неделю",
+        "В конце каждого рабочего дня"
+      ]
+    },
+    {
+      "id": "medBrat_656",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПротивопоказания, не являющиеся абсолютными к бронхоскопии:",
+        "Инфаркт миокарда в остром периоде",
+        "Острое нарушение мозгового кровообращения в остром периоде",
+        "Сердечно-легочная недостаточность 3 ст. или сердечная недостаточность 2-3 ст.",
+        "Повышенное АД"
+      ]
+    },
+    {
+      "id": "medBrat_657",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОтносительные противопоказания к бронхоскопии:",
+        "Нарушение свертывания",
+        "Тяжелая форма гипертонической болезни",
+        "Эпилепсия",
+        "Сколиоз"
+      ]
+    },
+    {
+      "id": "medBrat_658",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОсложнения, не связанные непосредственно с процедурой бронхоскопией:",
+        "Бронхиальное кровотечение во время биопсии",
+        "Развитие пневмоторакса или эмфиземы средостения",
+        "Бронхоспазм",
+        "Повышенное АД"
+      ]
+    },
+    {
+      "id": "medBrat_659",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nАллергические реакции у больного не могут возникнуть при применении:",
+        "Лидокаина",
+        "Дикаина",
+        "Тримекаина",
+        "Физиологического раствора"
+      ]
+    },
+    {
+      "id": "medBrat_660",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля подготовки к колоноскопии необходимо:",
+        "2 литра Фортранса",
+        "3 литра Фортранса",
+        "4 литра Фортранса"
+      ]
+    },
+    {
+      "id": "medBrat_661",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОчищению воздуха бронхологического кабинета не способствуют:",
+        "Наличие кондиционеров",
+        "Наличие приточно-вытяжной вентиляции",
+        "Наличие бактерицидных ультрафиолетовых ламп",
+        "Ношение 6-ти слойной марлевой маски"
+      ]
+    },
+    {
+      "id": "medBrat_662",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля генеральной уборки эндоскопического кабинета не используют:",
+        "3% хлорамин",
+        "6% перекись водорода с 0,5% CMC",
+        "5% хлорамин"
+      ]
+    },
+    {
+      "id": "medBrat_663",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКакая процедура не проводится при обработке эндоскопов для нестерильных манипуляций:",
+        "Предварительная очистка",
+        "Окончательная очистка",
+        "Дезинфекция высокого уровня",
+        "Стерилизация"
+      ]
+    },
+    {
+      "id": "medBrat_664",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри обработке эндоскопа",
+        "спирт применяется с целью:",
+        "Стерилизации",
+        "Дезинфекции",
+        "Просушивания каналов"
+      ]
+    },
+    {
+      "id": "medBrat_665",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nГенеральная уборка эндоскопического отделения должна проводиться не реже:",
+        "1 раза в квартал",
+        "1 раза в месяц",
+        "2 раз в месяц",
+        "1 раза в неделю"
+      ]
+    },
+    {
+      "id": "medBrat_666",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДостоверным признаком клинической смерти является:",
+        "Отсутствие пульса на сонной артерии",
+        "Сужение зрачков",
+        "Бледность кожных покровов",
+        "Появление трупных пятен"
+      ]
+    },
+    {
+      "id": "medBrat_667",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nТело умершего переводят в патологоанатомическое отделение после констатации биологической смерти:",
+        "Через 6 часов",
+        "Через 2 часа",
+        "Через 1 час",
+        "Сразу после констатации смерти"
+      ]
+    },
+    {
+      "id": "medBrat_668",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПродолжительность клинической смерти (в мин. ):",
+        "10-15",
+        "4-6",
+        "1-2",
+        "0,5"
+      ]
+    },
+    {
+      "id": "medBrat_669",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля клинической смерти характерно:",
+        "Отсутствие сознания, пульс и АД не определяются, дыхание редкое, аритмичное",
+        "Отсутствие сознания, пульс и АД не определяются, дыхание отсутствует, зрачок широкий",
+        "Сознание ясное, пульс нитевидный, АД падает, дыхание редкое",
+        "Сознание отсутствует, пульс нитевидный, АД падает, дыхание частое"
+      ]
+    },
+    {
+      "id": "medBrat_670",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПосле констатации врачом биологической смерти пациента медсестра должна заполнить:",
+        "Лист врачебных назначений",
+        "Титульный лист истории болезни",
+        "Сопроводительный лист",
+        "Температурный лист"
+      ]
+    },
+    {
+      "id": "medBrat_671",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНеобратимым этапом умирания организма является:",
+        "Клиническая смерть",
+        "Агония",
+        "Биологическая смерть",
+        "Преагония"
+      ]
+    },
+    {
+      "id": "medBrat_672",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОстановку дыхания у пострадавшего определяют по отсутствию:",
+        "Запотевания зеркала, поднесеного к носу или рту",
+        "Дыхательных движений грудной клетки",
+        "Дыхательных шумов",
+        "Отклонения ворсин ваты, поднесенной ко рту или носу"
+      ]
+    },
+    {
+      "id": "medBrat_673",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри проведении искусственного дыхания методом «рот в нос»:",
+        "Необходимо свободной рукой открывать рот пострадавшего для обеспечения выдоха",
+        "Необходимо свободной рукой плотно удерживать нижнюю челюсть пострадавшего, рот закрыт",
+        "Нижнюю челюсть пострадавшего можно не удерживать",
+        "Открыт или закрыт рот пострадавшего в этом случае роли не играет"
+      ]
+    },
+    {
+      "id": "medBrat_674",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЧастота вдуваний воздуха в минуту при проведении искусственного дыхания:",
+        "6-8",
+        "12-18",
+        "20-25",
+        "60-80"
+      ]
+    },
+    {
+      "id": "medBrat_675",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля проведения закрытого массажа сердца реаниматор встает:",
+        "Слева от пострадавшего",
+        "Справа от пострадавшего",
+        "В удобное для себя положение",
+        "То слева, то справа от пострадавшего"
+      ]
+    },
+    {
+      "id": "medBrat_676",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКома – это бессознательное состояние, не характеризующееся:",
+        "Глубоким торможением функций коры и подкорковых структур головного мозга",
+        "Глубоким торможением функций только подкорковых структур головного мозга",
+        "Расстройством рефлекторной деятельности",
+        "Расстройством кровообращения и дыхания"
+      ]
+    },
+    {
+      "id": "medBrat_677",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля комы любой этиологии не характерно:",
+        "Потеря сознания",
+        "Заторможенность больного, но без потери сознания",
+        "Расстройство регуляции жизненно важных функций организма",
+        "Отсутствие рефлексов на внешние раздражители"
+      ]
+    },
+    {
+      "id": "medBrat_678",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПериод собственно клинической смерти начинается с момента прекращения кровообращения и длится:",
+        "4-5 минут",
+        "2-3 минуты",
+        "10-15 минут",
+        "До 1,5 часа"
+      ]
+    },
+    {
+      "id": "medBrat_679",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nК признакам клинической смерти относятся:",
+        "Остановка дыхания и сердечной деятельности",
+        "Отсутствие пульса на лучевой артерии",
+        "Широкий зрачок, не реагирующий на свет",
+        "Широкий зрачок, хорошо реагирующий на свет"
+      ]
+    },
+    {
+      "id": "medBrat_680",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПризнаки биологической смерти:",
+        "Остановка дыхания и сердечной деятельности",
+        "Зрачок не реагирует на свет",
+        "Трупное окоченение, трупные пятна, «кошачий глаз»",
+        "Резкое снижение (отсутствие) мышечного тонуса, трупные пятна, «кошачий глаз»"
+      ]
+    },
+    {
+      "id": "medBrat_681",
+      "arr": [
+        "УКАЖИТЕ ВСЕ ПРАВИЛЬНЫЕ ОТВЕТЫ\nОстановку сердечной деятельности у пострадавшего определяют:",
+        "По отсутствию пульсации на сонной артерии",
+        "По отсутствию пульсации на лучевой артерии",
+        "По отсутствию сердечных тонов",
+        "По снижению систолического давления"
+      ]
+    },
+    {
+      "id": "medBrat_682",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри проведении искусственного дыхания методом «рот в рот»:",
+        "Необходимо свободной рукой плотно зажимать нос пострадавшего",
+        "Необходимо обеспечить пассивный выдох пострадавшего через нос",
+        "Необходимо зажимать нос пострадавшего только в случае, если носовые ходы свободны",
+        "Проходимость носовых ходов роли не играет"
+      ]
+    },
+    {
+      "id": "medBrat_683",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nВо время вдувания воздуха грудная клетка пострадавшего:",
+        "Должна приподниматься",
+        "Не реагирует на вдувание воздуха",
+        "Приподнимается с одновременным вздутием в эпигастральной области",
+        "Должна приподниматься только в случае, если искусственное дыхание проводится аппаратным методом"
+      ]
+    },
+    {
+      "id": "medBrat_684",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри проведении закрытого массажа сердца реаниматор производит надавливание на:",
+        "Всю грудную клетку пострадавшего",
+        "Левую половину грудной клетки пострадавшего",
+        "Грудину пострадавшего",
+        "Тот участок грудной клетки, который закрыт ладонью реаниматора"
+      ]
+    },
+    {
+      "id": "medBrat_685",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри проведении закрытого массажа сердца руки реаниматора располагаются следующим образом:",
+        "2-3 поперечных пальца вверх от мечевидного отростка",
+        "2-3 поперечных пальца вниз от мечевидного отростка",
+        "На мечевидном отростке грудины пострадавшего",
+        "Примерно на середине грудины пострадавшего, чуть выше середины"
+      ]
+    },
+    {
+      "id": "medBrat_686",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри эффективном закрытом массаже сердца при каждом надавливании на грудину ощущается пульсовая волна на:",
+        "Сонной артерии",
+        "Лучевой артерии",
+        "Сонной артерии только после эффективного окончания реанимационных мероприятий",
+        "Подключичной артерии"
+      ]
+    },
+    {
+      "id": "medBrat_687",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри явлениях клинической смерти производится:",
+        "Транспортировка пострадавшего в лечебное учреждение, где проводится сердечно-легочная реанимация",
+        "Транспортировка пострадавших в лечебное учреждение после успешного проведения реанимации",
+        "Транспортировка пострадавших одновременно с проведением сердечно-легочной реанимации",
+        "Транспортировка пострадавших после прибытия на место происшествия сотрудников милиции"
+      ]
+    },
+    {
+      "id": "medBrat_688",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nНеправильное действие на доврачебном этапе при коллапсе:",
+        "Обеспечить полный покой",
+        "Создать положение сидя или полусидя",
+        "Согреть",
+        "Напоить горячим крепким чаем или кофе"
+      ]
+    },
+    {
+      "id": "medBrat_689",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nОбязательным условием эффективности СЛР является проведение:",
+        "Непрямого массажа совместно с ИВЛ",
+        "Реанимационных мероприятий",
+        "Реанимационных мероприятий в условиях стационара",
+        "Сердечно-легочной реанимации в течение двух часов"
+      ]
+    },
+    {
+      "id": "medBrat_690",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПоложение пострадавшего при проведении сердечно-легочной реанимации:",
+        "На спине на ровной непрогибающейся поверхности",
+        "На спине на кровати",
+        "Оставить то, в котором он был обнаружен",
+        "Роли не играет"
+      ]
+    },
+    {
+      "id": "medBrat_691",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПоложение нижней челюсти пострадавшего при проведении сердечно-легочной реанимации:",
+        "Выдвинута вперед",
+        "Плотно прижата к верхней челюсти",
+        "Роли не играет",
+        "Выдвинута вперед, только если введен воздуховод"
+      ]
+    },
+    {
+      "id": "medBrat_692",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nДля оказания неотложной помощи при инородных телах дыхательных путей необходимо:",
+        "Введение гормонов",
+        "Срочная госпитализация в ЛОР-отделение",
+        "Инфузионная терапия",
+        "Оксигенотерапия"
+      ]
+    },
+    {
+      "id": "medBrat_693",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nЧастота проведения ИВЛ новорожденным детям:",
+        "40 раз в минуту",
+        "20 раз в минуту",
+        "30 раз в минуту",
+        "25 раз в минуту"
+      ]
+    },
+    {
+      "id": "medBrat_694",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСтенозирующий ларингит чаще проявляется у детей с:",
+        "Рахитом",
+        "Анемией",
+        "Гипотрофией",
+        "Аллергическим диатезом"
+      ]
+    },
+    {
+      "id": "medBrat_695",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nСестринское вмешательство при стенозирующем ларинготрахеите:",
+        "Обучение родителей проведению паровых ингаляций",
+        "Обучение родителей введению эуфиллина",
+        "Выпаивание ребенка",
+        "Введение отхаркивающих средств"
+      ]
+    },
+    {
+      "id": "medBrat_696",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nГлавным условием эффективности проведения ИВЛ является:",
+        "Свободная проходимость дыхательных путей",
+        "Проведение ИВЛ с помощью технических средств",
+        "Вдувание в легкие пациента около 0,5 л воздуха",
+        "Число вдуваний в дыхательные пути пациента равняется 5-6 в мин."
+      ]
+    },
+    {
+      "id": "medBrat_697",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nКритерием эффективности проводимой искусственной вентиляции легких является:",
+        "Появление пульса на сонной артерии",
+        "Вздутие эпигастральной области",
+        "Экскурсия грудной клетки",
+        "Бледность кожных покровов"
+      ]
+    },
+    {
+      "id": "medBrat_698",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри проведении сердечно-легочной реанимации голову пострадавшего необходимо:",
+        "Повернуть на бок",
+        "Запрокинуть назад",
+        "Нагнуть вперед",
+        "Оставить в том положении, в котором голова пострадавшего находится"
+      ]
+    },
+    {
+      "id": "medBrat_699",
+      "arr": [
+        "УКАЖИТЕ ОДИН ПРАВИЛЬНЫЙ ОТВЕТ\nПри проведении непрямого массажа сердца новорожденным детям надавливают на:",
+        "Верхнюю треть грудины",
+        "Нижнюю треть грудины",
+        "Среднюю треть грудины",
+        "Границу средней и нижней третей грудины"
+      ]
+    }
+  ]
+}

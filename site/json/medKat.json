@@ -1,0 +1,11538 @@
+{
+  "answers": {
+    "medKat_0": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_1": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_2": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_3": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_4": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_5": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_6": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_7": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_8": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_9": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_10": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_11": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_12": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_13": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_14": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_15": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_16": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_17": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_18": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_19": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_20": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_21": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_22": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_23": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_24": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_25": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_26": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_27": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_28": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_29": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_30": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_31": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_32": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_33": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_34": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_35": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_36": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_37": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_38": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_39": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_40": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_41": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_42": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_43": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_44": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_45": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_46": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_47": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_48": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_49": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_50": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_51": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_52": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_53": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_54": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_55": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_56": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_57": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_58": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_59": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_60": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_61": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_62": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_63": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_64": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_65": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_66": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_67": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_68": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_69": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_70": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_71": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_72": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_73": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_74": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_75": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_76": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_77": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_78": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_79": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_80": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_81": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_82": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_83": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_84": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_85": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_86": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_87": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_88": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_89": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_90": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_91": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_92": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_93": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_94": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_95": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_96": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_97": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_98": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_99": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_100": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_101": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_102": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_103": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_104": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_105": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_106": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_107": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_108": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_109": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_110": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_111": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_112": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_113": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_114": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_115": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_116": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_117": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_118": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_119": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_120": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_121": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_122": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_123": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_124": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_125": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_126": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_127": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_128": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_129": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_130": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_131": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_132": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_133": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_134": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_135": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_136": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_137": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_138": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_139": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_140": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_141": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_142": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_143": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_144": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_145": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_146": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_147": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_148": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_149": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_150": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_151": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_152": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_153": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_154": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_155": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_156": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_157": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_158": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_159": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_160": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_161": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_162": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_163": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_164": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_165": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_166": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_167": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_168": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_169": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_170": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_171": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_172": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_173": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_174": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_175": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_176": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_177": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_178": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_179": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_180": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_181": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_182": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_183": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_184": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_185": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_186": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_187": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_188": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_189": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_190": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_191": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_192": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_193": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_194": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_195": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_196": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_197": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_198": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_199": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_200": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_201": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_202": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_203": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_204": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_205": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_206": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_207": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_208": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_209": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_210": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_211": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_212": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_213": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_214": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_215": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_216": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_217": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_218": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_219": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_220": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_221": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_222": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_223": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_224": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_225": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_226": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_227": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_228": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_229": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_230": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_231": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_232": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_233": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_234": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_235": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_236": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_237": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_238": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_239": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_240": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_241": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_242": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_243": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_244": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_245": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_246": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_247": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_248": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_249": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_250": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_251": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_252": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_253": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_254": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_255": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_256": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_257": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_258": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_259": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_260": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_261": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_262": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_263": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_264": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_265": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_266": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_267": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_268": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_269": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_270": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_271": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_272": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_273": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_274": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_275": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_276": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_277": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_278": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_279": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_280": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_281": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_282": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_283": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_284": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_285": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_286": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_287": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_288": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_289": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_290": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_291": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_292": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_293": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_294": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_295": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_296": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_297": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_298": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_299": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_300": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_301": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_302": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_303": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_304": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_305": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_306": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_307": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_308": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_309": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_310": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_311": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_312": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_313": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_314": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_315": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_316": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_317": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_318": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_319": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_320": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_321": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_322": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_323": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_324": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_325": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_326": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_327": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_328": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_329": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_330": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_331": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_332": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_333": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_334": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_335": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_336": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_337": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_338": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_339": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_340": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_341": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_342": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_343": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_344": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_345": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_346": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_347": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_348": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_349": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_350": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_351": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_352": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_353": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_354": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_355": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_356": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_357": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_358": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_359": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_360": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_361": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_362": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_363": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_364": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_365": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_366": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_367": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_368": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_369": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_370": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_371": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_372": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_373": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_374": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_375": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_376": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_377": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_378": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_379": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_380": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_381": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_382": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_383": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_384": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_385": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_386": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_387": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_388": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_389": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_390": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_391": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_392": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_393": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_394": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_395": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_396": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_397": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_398": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_399": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_400": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_401": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_402": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_403": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_404": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_405": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_406": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_407": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_408": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_409": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_410": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_411": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_412": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_413": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_414": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_415": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_416": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_417": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_418": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_419": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_420": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_421": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_422": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_423": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_424": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_425": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_426": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_427": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_428": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_429": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_430": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_431": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_432": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_433": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_434": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_435": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_436": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_437": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_438": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_439": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_440": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_441": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_442": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_443": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_444": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_445": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_446": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_447": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_448": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_449": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_450": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_451": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_452": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_453": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_454": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_455": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_456": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_457": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_458": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_459": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_460": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_461": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_462": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_463": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_464": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_465": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_466": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_467": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_468": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_469": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_470": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_471": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_472": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_473": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_474": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_475": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_476": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_477": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_478": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_479": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_480": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_481": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_482": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_483": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_484": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_485": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_486": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_487": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_488": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_489": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_490": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_491": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_492": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_493": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_494": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_495": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_496": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_497": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_498": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_499": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_500": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_501": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_502": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_503": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_504": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_505": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_506": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_507": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_508": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_509": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_510": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_511": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_512": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_513": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_514": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_515": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_516": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_517": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_518": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_519": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_520": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_521": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_522": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_523": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_524": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_525": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_526": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_527": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_528": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_529": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_530": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_531": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_532": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_533": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_534": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_535": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_536": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_537": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_538": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_539": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_540": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_541": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_542": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_543": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_544": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_545": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_546": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_547": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_548": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_549": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_550": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_551": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_552": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_553": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_554": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_555": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_556": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_557": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_558": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_559": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_560": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_561": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_562": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_563": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_564": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_565": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_566": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_567": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_568": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_569": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_570": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_571": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_572": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "medKat_573": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_574": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_575": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_576": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_577": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_578": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_579": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_580": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_581": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "medKat_582": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_583": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4,
+        null
+      ]
+    },
+    "medKat_584": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_585": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "medKat_586": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_587": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_588": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_589": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_590": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_591": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_592": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_593": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_594": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_595": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "medKat_596": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    "medKat_597": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "medKat_598": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "medKat_599": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "medKat_600": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        4
+      ]
+    },
+    "medKat_601": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_602": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_603": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_604": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    "medKat_605": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_606": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_607": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_608": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_609": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_610": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_611": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_612": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_613": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_614": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_615": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_616": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3
+      ]
+    },
+    "medKat_617": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "medKat_618": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    "medKat_619": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_620": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "medKat_621": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "medKat_622": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "medKat_623": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "medKat_624": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "medKat_625": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_626": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "medKat_627": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_628": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "medKat_629": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_630": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    "medKat_631": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_632": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        4
+      ]
+    },
+    "medKat_633": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2
+      ]
+    },
+    "medKat_634": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_635": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_636": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_637": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_638": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "medKat_639": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_640": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_641": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_642": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "medKat_643": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_644": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_645": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_646": {
+      "type": "multi",
+      "answer": [
+        1,
+        2,
+        3
+      ]
+    },
+    "medKat_647": {
+      "type": "multi",
+      "answer": [
+        0,
+        1
+      ]
+    },
+    "medKat_648": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_649": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "medKat_650": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_651": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_652": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "medKat_653": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_654": {
+      "type": "multi",
+      "answer": [
+        2,
+        3
+      ]
+    },
+    "medKat_655": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_656": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_657": {
+      "type": "multi",
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "medKat_658": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_659": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "medKat_660": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_661": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_662": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_663": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_664": {
+      "type": "single",
+      "answer": [
+        4
+      ]
+    },
+    "medKat_665": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_666": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_667": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "medKat_668": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "medKat_669": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "medKat_670": {
+      "type": "multi",
+      "answer": [
+        0,
+        2,
+        4
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "medKat_0",
+      "arr": [
+        "В каком году впервые была организована медико-санитарная служба при МПВО?",
+        "1932",
+        "1947",
+        "1952",
+        "1961",
+        "1994"
+      ]
+    },
+    {
+      "id": "medKat_1",
+      "arr": [
+        "В каком году медико-санитарная служба при МПВО была реорганизована в МСГО?",
+        "1932",
+        "1947",
+        "1952",
+        "1961",
+        "1994"
+      ]
+    },
+    {
+      "id": "medKat_2",
+      "arr": [
+        "Какому уровню соответствует область, край, республика?",
+        "Федеральный",
+        "Региональный",
+        "Территориальный",
+        "Местный",
+        "Объектовый"
+      ]
+    },
+    {
+      "id": "medKat_3",
+      "arr": [
+        "Какому уровню соответствует район или город в области?",
+        "Федеральный",
+        "Региональный",
+        "Территориальный",
+        "Местный",
+        "Объектовый"
+      ]
+    },
+    {
+      "id": "medKat_4",
+      "arr": [
+        "Каким термином принято называть явление, при котором происходит внезапная остановка работы или нарушение процесса производства на промышленном предприятии, транспорте и других объектах, в результате повреждения машин, станков, оборудования, зданий, сооружений?",
+        "Авария",
+        "Катастрофа",
+        "Чрезвычайная ситуация",
+        "Стихийное бедствие",
+        "Локальный вооружённый конфликт"
+      ]
+    },
+    {
+      "id": "medKat_5",
+      "arr": [
+        "Каким термином принято называть внезапное, быстротечное событие, повлекшее за собой человеческие жертвы, ущерб здоровью людей, разрушение или уничтожение объектов значительных размеров?",
+        "Авария",
+        "Катастрофа",
+        "Чрезвычайная ситуация",
+        "Стихийное бедствие",
+        "Террористический акт"
+      ]
+    },
+    {
+      "id": "medKat_6",
+      "arr": [
+        "Каким термином принято называть нарушение условий жизни и деятельности людей на объекте или определённой части территории (акватории), вызванное аварией, катастрофой, стихийным или экологическим бедствием, эпидемией, эпизоотией, применением современных средств поражения и приведшее или могущее привести к людским и материальным потерям, характеризующееся неопределённой и сложной обстановкой, значительным экологическим ущербом, человеческими жертвами и, вследствие этого, необходимостью привлечения крупных людских и материальных затрат на проведение эвакуационно-спасательных работ и ликвидацию последствий катастроф и бедствий?",
+        "Авария",
+        "Катастрофа",
+        "Чрезвычайная ситуация",
+        "Стихийное бедствие",
+        "Локальный вооружённый конфликт"
+      ]
+    },
+    {
+      "id": "medKat_7",
+      "arr": [
+        "Каким термином принято называть природные явления географического, геологического, гидрологического, атмосферного, биосферного и других происхождений такого масштаба, которые вызывают катастрофические ситуации, характеризующиеся внезапным нарушением жизнедеятельности населения, разрушением и уничтожением материальных ценностей, поражением и гибелью людей?",
+        "Авария",
+        "Катастрофа",
+        "Чрезвычайная ситуация",
+        "Стихийное бедствие",
+        "Террористический акт"
+      ]
+    },
+    {
+      "id": "medKat_8",
+      "arr": [
+        "На океанической нефтедобывающей платформе в результате несчастного случая произошёл взрыв, унёсший жизни 21 человек, работавших на данном объекте, которые в момент этого находились в непосредственной близости. 36 человек получили травматические повреждения различной степени тяжести, работа на платформе остановлена. Плюс, в результате утечки нефти, произошло значительное загрязнение океанической поверхности. Каким термином Вы охарактеризуете данную ЧС?",
+        "Авария",
+        "Катастрофа",
+        "Стихийное бедствие",
+        "Террористический акт",
+        "Локальное бедствие"
+      ]
+    },
+    {
+      "id": "medKat_9",
+      "arr": [
+        "К каким ЧС относятся аварии и катастрофы железнодорожные, авиационные, космические, автодорожные, на речном и морском флоте, пожары и взрывы, с выбросом АОХВ, с выбросом РВ, с распространением бактериологических (биологически",
+        "веществ, прорывы плотин?",
+        "Техногенные",
+        "Природные",
+        "Экологические",
+        "Социальные",
+        "Специфические"
+      ]
+    },
+    {
+      "id": "medKat_10",
+      "arr": [
+        "К каким ЧС относятся бури, ураганы, смерчи, циклоны, морозы, засухи, необычная жара, пожары, извержения вулканов, землетрясения, наводнения, сели, оползни, снежные лавины?",
+        "Техногенные",
+        "Природные",
+        "Экологические",
+        "Социальные",
+        "Специфические"
+      ]
+    },
+    {
+      "id": "medKat_11",
+      "arr": [
+        "К каким ЧС относятся: резкое изменение климата, наличие в почве различных вредных веществ сверх предельно допустимых концентраций, интенсивная деградация почв, превышение ПДК вредных примесей в атмосфере, разрушение озонового слоя ат- мосферы, резкая нехватка питьевой воды, исчезновение видов животных и растений?",
+        "Техногенные",
+        "Природные",
+        "Экологические",
+        "Социальные",
+        "Космические"
+      ]
+    },
+    {
+      "id": "medKat_12",
+      "arr": [
+        "К каким ЧС относятся эпидемии, голод, войны, терроризм, общественные беспорядки?",
+        "Техногенные",
+        "Природные",
+        "Экологические",
+        "Социальные",
+        "Специфические"
+      ]
+    },
+    {
+      "id": "medKat_13",
+      "arr": [
+        "К какой группе ЧС относятся аварии, катастрофы, стихийные бедствия, в результате которых пострадало не более 10 человек, либо нарушены условия жизнедеятельности не более 100 человек?",
+        "Локальные",
+        "Местные",
+        "Территориальные",
+        "Региональные",
+        "Федеральные"
+      ]
+    },
+    {
+      "id": "medKat_14",
+      "arr": [
+        "К какой группе ЧС относятся аварии, катастрофы, стихийные бедствия, в результате которых пострадало свыше 50 человек, но не более 500, либо нарушены условия жизнедеятельности свыше 300, но не более 500 человек?",
+        "Локальные",
+        "Местные",
+        "Территориальные",
+        "Региональные",
+        "Федеральные"
+      ]
+    },
+    {
+      "id": "medKat_15",
+      "arr": [
+        "К какой группе ЧС относятся аварии, катастрофы, стихийные бедствия, в результате которых пострадало свыше 10 человек, но не более 15, либо нарушены условия жизнедеятельности свыше 100, но не более 300 человек?",
+        "Локальные",
+        "Местные",
+        "Территориальные",
+        "Региональные",
+        "Федеральные"
+      ]
+    },
+    {
+      "id": "medKat_16",
+      "arr": [
+        "К какой группе ЧС относятся аварии, катастрофы, стихийные бедствия, в результате которых пострадало свыше 50 человек, но не более 500, либо нарушены условия жизнедеятельности свыше 500, но не более 1000 человек?",
+        "Локальные",
+        "Местные",
+        "Территориальные",
+        "Региональные",
+        "Федеральные"
+      ]
+    },
+    {
+      "id": "medKat_17",
+      "arr": [
+        "К какой группе ЧС относятся аварии, катастрофы, стихийные бедствия, поражающие факторы которых выходят за пределы РФ, либо ЧС, которая произошла за рубежом и затрагивает территорию РФ?",
+        "Локальные",
+        "Местные",
+        "Территориальные",
+        "Трансрегиональные",
+        "Федеральные"
+      ]
+    },
+    {
+      "id": "medKat_18",
+      "arr": [
+        "Какой поражающий фактор будет специфичен в очаге землетрясения?",
+        "Динамический",
+        "Биологический",
+        "Химический",
+        "Термический",
+        "Радиационный"
+      ]
+    },
+    {
+      "id": "medKat_19",
+      "arr": [
+        "Какой поражающий фактор будет специфичен при аварии на АЭС?",
+        "Динамический",
+        "Биологический",
+        "Химический",
+        "Термический",
+        "Радиационный"
+      ]
+    },
+    {
+      "id": "medKat_20",
+      "arr": [
+        "Какой поражающий фактор будет специфичен при наводнениях или пожарах?",
+        "Динамический",
+        "Биологический",
+        "Химический",
+        "Термический",
+        "Радиационный"
+      ]
+    },
+    {
+      "id": "medKat_21",
+      "arr": [
+        "Какого из нижеперечисленных режимов функционирования РСЧС не существует?",
+        "Режим повседневной деятельности",
+        "Режим повышенной готовности",
+        "Режим ЧС",
+        "Режим мониторирования",
+        "Режим прогнозирования"
+      ]
+    },
+    {
+      "id": "medKat_22",
+      "arr": [
+        "Назовите одну из основных задач РСЧС?",
+        "Оказание специализированной медицинской помощи",
+        "Тушение природных и техногенных пожаров",
+        "Проведение мероприятий, направленных на предупреждение ЧС",
+        "Проведение радиологической разведки",
+        "Оказание первой помощи"
+      ]
+    },
+    {
+      "id": "medKat_23",
+      "arr": [
+        "Какая федеральная служба не отвечает за предупреждение и ликвидацию ЧС?",
+        "Госкомэкология России",
+        "Минтранс России",
+        "МЧС России",
+        "Министерство образования",
+        "Минприроды России"
+      ]
+    },
+    {
+      "id": "medKat_24",
+      "arr": [
+        "Какое формирование не входит в состав сил и средств ликвидации ЧС МЧС России?",
+        "Государственный Центральный аэромобильный спасательный отряд",
+        "Ремонтно-восстановительные поезда",
+        "Поисково-спасательная служба",
+        "Авиация МЧС",
+        "Войска гражданской обороны"
+      ]
+    },
+    {
+      "id": "medKat_25",
+      "arr": [
+        "Основными задачами сил и средств РСЧС являются все, кроме:",
+        "Мониторинг окружающей природной среды и опасных объектов",
+        "Ликвидация ЧС, проведение аварийно-спасательных работ",
+        "Проведение эвакуационных мероприятий в зоне ЧС",
+        "Подготовка населения к действиям в ЧС",
+        "Материальная и финансовая помощь пострадавшим в ЧС"
+      ]
+    },
+    {
+      "id": "medKat_26",
+      "arr": [
+        "К силам наблюдения и контроля РСЧС не относятся:",
+        "Формирования санитарно-эпидемического надзора Минздрава России",
+        "Ветеринарная служба Минсельхозпрода России",
+        "Служба наблюдения и лабораторного контроля за качеством пищевого сырья и продуктов питания",
+        "Геофизическая служба РАМН",
+        "Службы поискового и аварийно-спасательного обеспечения ЧС России"
+      ]
+    },
+    {
+      "id": "medKat_27",
+      "arr": [
+        "Биолого-социальным катастрофам присуще следующие проявления",
+        "Эпидемии, эпизотии,, эпифитотии, голод, терроризм",
+        "Вооруженные конфликты, войны",
+        "Землетрясения, наводнения, ураганы, цунами и др.",
+        "Аварии с выбросами РВ, АОХВ, БС, обрушение зданий и пожары, аварии в системах жизнеобеспечения, транспортные аварии",
+        "Необратимые изменения в биосфере, гидросфере, литосфереи атмосфере"
+      ]
+    },
+    {
+      "id": "medKat_28",
+      "arr": [
+        "Медицинская служба гражданской обороны образована:",
+        "В 1950 году",
+        "В 1960 году",
+        "В 1961 году",
+        "В 1975 году",
+        "В 1990 году"
+      ]
+    },
+    {
+      "id": "medKat_29",
+      "arr": [
+        "Основное предназначение медицинской службы ГО:",
+        "Оказание первой помощи",
+        "Медико-санитарное обеспечение населения в военное время",
+        "Проведение эвакуации пострадавших из очага поражения",
+        "Медико-санитарное обеспечение населения при ЧС",
+        "Медицинское обслуживание населения в повседневных условиях"
+      ]
+    },
+    {
+      "id": "medKat_30",
+      "arr": [
+        "Медицинская служба ГО создана:",
+        "Министерством по делам ГО и ЧС",
+        "Службой медицины катастроф МЗ",
+        "Министерством здравоохранения РФ",
+        "Комитетом общества Красного Креста",
+        "Комитетом по социальному обеспечению населения"
+      ]
+    },
+    {
+      "id": "medKat_31",
+      "arr": [
+        "Медицинская служба ГО в субъектах РФ (республике, область, кра",
+        "организуется:",
+        "По федеральному принципу",
+        "По региональному принципу",
+        "По территориально-производственному принципу",
+        "Объектовому принципу",
+        "Трансграничному принципу"
+      ]
+    },
+    {
+      "id": "medKat_32",
+      "arr": [
+        "Начальник медицинской службы ГО в области, крае, республике:",
+        "Глава административного образования субъекта РФ",
+        "Руководитель территориальной службы медицины катастроф",
+        "Министр здравоохранения субъекта федерации",
+        "Председатель межведомственной координационной комиссии",
+        "Заместитель министра здравоохранения субъекта Федерации"
+      ]
+    },
+    {
+      "id": "medKat_33",
+      "arr": [
+        "Начальник медицинской службы гражданской обороны сельскогорайона субъекта Российской Федерации:",
+        "Глава администрации сельского района",
+        "Главный врач центральной районной больницы",
+        "Начальник гражданской обороны сельского района",
+        "Заместитель министра здравоохранения области, края",
+        "Начальник штаба ГО сельского района"
+      ]
+    },
+    {
+      "id": "medKat_34",
+      "arr": [
+        "Поражённые, оставшиеся в живых при возникновении или в результате чрезвычайной ситуации относятся к потерям:",
+        "Санитарным",
+        "Безвозвратным",
+        "Медицинским",
+        "Общим",
+        "Возвратным"
+      ]
+    },
+    {
+      "id": "medKat_35",
+      "arr": [
+        "К общим санитарным потерям относятся:",
+        "Пропавшие без вести",
+        "Нуждающиеся в госпитализации",
+        "Потерявшие трудоспособность на срок более суток",
+        "Безвозвратные и санитарные потери",
+        "Погибшие"
+      ]
+    },
+    {
+      "id": "medKat_36",
+      "arr": [
+        "К комбинированным повреждениям относятся:",
+        "ранение одним ранящим снарядом нескольких областей тела",
+        "ранение несколькими снарядами одной или нескольких обла-стей",
+        "одновременное повреждение несколькими повреждающими факторами (ожог и механические повреждения)",
+        "повреждение нескольких органов одной полости:",
+        "одновременное повреждение мышц, кости, сосудов и нервов конечности"
+      ]
+    },
+    {
+      "id": "medKat_37",
+      "arr": [
+        "В каком году постановлением Правительства РФ №420 было регламентировано создание единой ВСМК?",
+        "1932",
+        "1947",
+        "1952",
+        "1961",
+        "1994"
+      ]
+    },
+    {
+      "id": "medKat_38",
+      "arr": [
+        "На каком уровне имеется Всероссийский центр медицины катастроф (ВЦМ",
+        "“Защита”?",
+        "Федеральный",
+        "Региональный",
+        "Территориальный",
+        "Местный",
+        "Объектовый"
+      ]
+    },
+    {
+      "id": "medKat_39",
+      "arr": [
+        "Какое формирование СМК Минздрава России на федеральном уровне является подвижным и предназначено для оказания квалифицированной с элементами специализированной медицинской помощи?",
+        "ВЦМК “Защита”",
+        "Штаб ВСМК при ВЦМК “Защита”",
+        "Полевой многопрофильный госпиталь при ВСМК “Защита”",
+        "Медицинский отряд специального назначения",
+        "Всероссийский научно-практический центр экстренной медицинской помощи"
+      ]
+    },
+    {
+      "id": "medKat_40",
+      "arr": [
+        "Какое формирование СМК Минобороны России на федеральном уровне является подвижным и предназначено для оказания квалифицированной с элементами специализированной медицинской помощи?",
+        "ВЦМК “Защита”",
+        "Штаб ВСМК при ВЦМК “Защита”",
+        "Полевой многопрофильный госпиталь при ВСМК “Защита”",
+        "Медицинский отряд специального назначения",
+        "Всероссийский научно-практический центр экстренной медицинской помощи"
+      ]
+    },
+    {
+      "id": "medKat_41",
+      "arr": [
+        "Какое формирование на федеральном уровне осуществляет организационно-методическое руководство ВСМК?",
+        "ВЦМК “Защита”",
+        "Штаб ВСМК при ВЦМК “Защита”",
+        "Полевой многопрофильный госпиталь при ВСМК “Защита”",
+        "Федеральное управление медико-биологических и экстремальных проблем при Минздраве России и его учреждения",
+        "Всероссийский научно-практический центр экстренной медицинской помощи"
+      ]
+    },
+    {
+      "id": "medKat_42",
+      "arr": [
+        "Кто осуществляет медико-тактический анализ обстановки и прогнозирует медико-санитарные последствия ЧС в регионе?",
+        "Региональные центры медицины катастроф",
+        "МОСН военных округов и флотов",
+        "Формирования регионального подчинения МВД, МПС России",
+        "Всеармейский центр медицины катастроф Минобороны России",
+        "Полевой многопрофильный госпиталь при ВСМК “Защита”"
+      ]
+    },
+    {
+      "id": "medKat_43",
+      "arr": [
+        "На базе чего создаются фельдшерские выездные бригады скорой медицинской помощи?",
+        "Станций (подстанций, отделени",
+        "скорой медицинской помощи",
+        "Специализированных отделений лечебных учреждений",
+        "Травматологических пунктов",
+        "Медико-санитарных частей",
+        "Полевого многопрофильного госпиталя"
+      ]
+    },
+    {
+      "id": "medKat_44",
+      "arr": [
+        "На базе чего создаются нештатные специализированные формирования СМК?",
+        "Станций (подстанций, отделени",
+        "скорой медицинской помощи",
+        "Специализированных отделений лечебных учреждений",
+        "Травматологических пунктов",
+        "Медико-санитарных частей",
+        "Полевого многопрофильного госпиталя"
+      ]
+    },
+    {
+      "id": "medKat_45",
+      "arr": [
+        "Кто возглавляет Всероссийскую службу медицины катастроф?",
+        "Председатель правительства РФ",
+        "Министр здравоохранения России",
+        "Президент Российской академии медицинских наук",
+        "Председатель Государственного комитета санэпиднадзора РФ",
+        "Директор Всероссийского центра медицины катастроф “Защита”"
+      ]
+    },
+    {
+      "id": "medKat_46",
+      "arr": [
+        "Кто несёт прямую ответственность за формирование БСМП и их готовность к работе в ЧС?",
+        "Руководитель учреждения-формирователя",
+        "Руководитель СМК",
+        "Руководитель здравоохранения",
+        "Руководитель бригады",
+        "Старшая медицинская сестра"
+      ]
+    },
+    {
+      "id": "medKat_47",
+      "arr": [
+        "Назовите одну из основных задач врачебно-сестринской бригады в ЧС:",
+        "Совершенствование теоретических знаний и практических навыков по медицинской сортировке и оказанию первой врачебной помощи пострадавшим в ЧС",
+        "Поддержание бригады в постоянной готовности к выезду к очагу поражения и работе в ЧС",
+        "Медицинская сортировка поражённых",
+        "Извлечение поражённых из-под завалов",
+        "Оказание специализированной медицинской помощи"
+      ]
+    },
+    {
+      "id": "medKat_48",
+      "arr": [
+        "Назовите одну из основных задач БСМП в ЧС:",
+        "Совершенствование теоретических знаний и практических навыков по медицинской сортировке и оказанию первой врачебной помощи пострадавшим в ЧС",
+        "Поддержание бригады в постоянной готовности к выезду к очагу поражения и работе в ЧС",
+        "Медицинская сортировка поражённых",
+        "Извлечение поражённых из-под завалов",
+        "Оказание специализированной медицинской помощи"
+      ]
+    },
+    {
+      "id": "medKat_49",
+      "arr": [
+        "Какой вид медицинской помощи должен быть оказан пострадавшим врачебно-сестринскими бригадами?",
+        "Первая помощь",
+        "Квалифицированная",
+        "Первая врачебная",
+        "Специализированная",
+        "Доврачебная"
+      ]
+    },
+    {
+      "id": "medKat_50",
+      "arr": [
+        "Назовите одну из основных задач ВСМК:",
+        "Организация и осуществление медико-санитарного обеспечения населения при ликвидации последствий ЧС",
+        "Оказание специализированной медицинской помощи",
+        "Проведение медицинской сортировки поражённых",
+        "Организация работы медицинских бригад на месте ЧС",
+        "Локализация ЧС в целях снижения воздействия поражающих факторов её источника"
+      ]
+    },
+    {
+      "id": "medKat_51",
+      "arr": [
+        "Сколько оперативных вмешательств может выполнить хирургическая БСМП за 12 часов работы?",
+        "6",
+        "10",
+        "15",
+        "20",
+        "25"
+      ]
+    },
+    {
+      "id": "medKat_52",
+      "arr": [
+        "Сколько оперативных вмешательств может выполнить травматологическая БСМП за 12 часов работы?",
+        "6",
+        "10",
+        "15",
+        "20",
+        "25"
+      ]
+    },
+    {
+      "id": "medKat_53",
+      "arr": [
+        "Сколько оперативных вмешательств может выполнить нейрохирургическая БСМП за 12 часов работы?",
+        "6",
+        "10",
+        "15",
+        "20",
+        "25"
+      ]
+    },
+    {
+      "id": "medKat_54",
+      "arr": [
+        "Сколько оперативных вмешательств может выполнить детская хирургическая БСМП за 12 часов работы?",
+        "6",
+        "10",
+        "15",
+        "20",
+        "25"
+      ]
+    },
+    {
+      "id": "medKat_55",
+      "arr": [
+        "Скольким поражённым может оказать помощь ожоговая БСМП за 12 часов работы?",
+        "10",
+        "20",
+        "30",
+        "40",
+        "50"
+      ]
+    },
+    {
+      "id": "medKat_56",
+      "arr": [
+        "Скольким поражённым может оказать помощь акушерско-гинекологическая БСМП за 12 часов работы?",
+        "10",
+        "20",
+        "30",
+        "40",
+        "50"
+      ]
+    },
+    {
+      "id": "medKat_57",
+      "arr": [
+        "Скольким поражённым может оказать помощь психиатрическая БСМП за 12 часов работы?",
+        "10-30",
+        "30-50",
+        "50-100",
+        "100-150",
+        "150-300"
+      ]
+    },
+    {
+      "id": "medKat_58",
+      "arr": [
+        "Медицина катастроф изучает всё кроме:",
+        "Источники возможных чрезвычайных ситуаций",
+        "Организацию ликвидации чрезвычайных ситуаций",
+        "Влияние экстремальных условий на здоровье и работоспособность человека",
+        "Причины травматизма среди спасателей, полученных в процессе работы",
+        "Методы и средства оказания помощи в ЧС"
+      ]
+    },
+    {
+      "id": "medKat_59",
+      "arr": [
+        "Назовите режимы функционирования службы экстренной медицинской помощи:",
+        "Повседневной деятельности, повышенной готовности и чрезвычайной ситуации",
+        "Повышенной готовности, угрозы возникновения ЧС, ликвидации последствий ЧС",
+        "Защиты населения от факторов ЧС ликвидации последствий ЧС, повышенной готовности",
+        "Выдвижение оперативных групп в район ЧС, организация разведки в зоне ЧС, создание и пополнение финансовых и материально-технических резервов для ликвидации ЧС",
+        "Оповещение и сбор личного состава органов управления формирований и учреждений, усиление дежурно-диспетчерской службы, повышенной готовности"
+      ]
+    },
+    {
+      "id": "medKat_60",
+      "arr": [
+        "Формирования службы МК Минздрава России представлены всеми, кроме:",
+        "Подвижными госпиталями",
+        "Отрядами",
+        "Центрами специального назначения",
+        "Бригадами",
+        "Группами"
+      ]
+    },
+    {
+      "id": "medKat_61",
+      "arr": [
+        "Основными принципами охраны здоровья и оказания медицинской помощи населению в ВСМК являются все, кроме:",
+        "Государственность и приоритетность",
+        "Территориальность и производственность",
+        "Централизация и децентрализация управления",
+        "Взаимная ответственность личности, общества и государства",
+        "Плановость и универсализм"
+      ]
+    },
+    {
+      "id": "medKat_62",
+      "arr": [
+        "БСМП предназначена для:",
+        "Медицинской сортировки поражённых, нуждающихся в 1-ой врачебной помощи",
+        "Оказания 1-ой врачебной помощи",
+        "Специализации или усиления ЛПУ и подвижных госпиталей СМК",
+        "Оказания гуманитарной помощи ЛПУ",
+        "Оказания первой медицинской помощи и лечения транспортабельных поражённых"
+      ]
+    },
+    {
+      "id": "medKat_63",
+      "arr": [
+        "БСМП формируются на всех нижеперечисленных базах, кроме:",
+        "Республиканские и краевые ЛПУ",
+        "ЛПУ скорой медицинской помощи",
+        "Клиники медицинских ВУЗов",
+        "Центральные районные больницы",
+        "Участковые больницы и фельдшерско-акушерские пункты"
+      ]
+    },
+    {
+      "id": "medKat_64",
+      "arr": [
+        "Назовите срок выезда или вылета БСМП в район ЧС после получения распоряжения:",
+        "Не позднее 6 часов",
+        "Не позднее 12 часов",
+        "Не позднее 18 часов",
+        "Не позднее 24 часов",
+        "Не позднее 36 часов"
+      ]
+    },
+    {
+      "id": "medKat_65",
+      "arr": [
+        "Режим работы БСМП в ЧС в среднем составляет:",
+        "4 часа",
+        "6 часов",
+        "8 часов",
+        "10 часов",
+        "12 часов"
+      ]
+    },
+    {
+      "id": "medKat_66",
+      "arr": [
+        "Формирования и учреждения какого ведомства не входят в ВСМК?",
+        "СМК Минздрава России",
+        "СМК Минобороны России",
+        "Медицинская служба МВД России",
+        "Медицинская служба ФСБ России",
+        "Медицинская служба МПС России"
+      ]
+    },
+    {
+      "id": "medKat_67",
+      "arr": [
+        "Выберете федеральную службу ликвидации медико-санитарных последствий ЧС:",
+        "Служба охраны общественного порядка",
+        "Служба медицины катастроф",
+        "Транспортная служба",
+        "Служба экологической безопасности",
+        "Государственная спасательная служба"
+      ]
+    },
+    {
+      "id": "medKat_68",
+      "arr": [
+        "Что следует понимать под обозначением «медицинские последствия ЧС»:",
+        "Величину и характер возникающих медико-санитарных потерь населения",
+        "Нарушение объектов жизнедеятельности в районе ЧС",
+        "Активизацию природно-очаговых инфекционных заболеваний в районе ЧС",
+        "Разрушение объектов первой категории по гражданской обороне",
+        "Массовую гибель сельскохозяйственных животных"
+      ]
+    },
+    {
+      "id": "medKat_69",
+      "arr": [
+        "Организации, предназначенные для ликвидации медико-санитарных последствий чрезвычайных ситуаций мирного времени",
+        "Служба экстренной медицинской помощи",
+        "Центр медицины катастроф",
+        "Всероссийская служба медицины катастроф",
+        "Медицинская служба гражданской обороны",
+        "Служба спасения пострадавших"
+      ]
+    },
+    {
+      "id": "medKat_70",
+      "arr": [
+        "Основное структурное подразделение ВСМК “Защита” на федеральном уровне",
+        "Штаб ВСМК",
+        "Филиалы ВСМК “Защита” в федеральных округах",
+        "Полевой многопрофильный госпиталь",
+        "Центр медицинской экспертизы и реабилитации",
+        "Специализированные госпитали"
+      ]
+    },
+    {
+      "id": "medKat_71",
+      "arr": [
+        "Служба медицины катастроф МЗ на территориальном уровне представлена:",
+        "Территориальными центрами скорой медицинской помощи",
+        "Территориальными центрами медицины катастроф субъектов РФ",
+        "Центрами государственного санитарно-эпидемиологического надзора субъектов РФ",
+        "Специализированными формированиями медицинского управления “Медбиоэкстрем”",
+        "Клиническими базами, предназначенными для ликвидации последствий ЧС"
+      ]
+    },
+    {
+      "id": "medKat_72",
+      "arr": [
+        "Основное мероприятие, выполняемое службой медицины катастроф МЗ в режиме повышенной готовности:",
+        "Организация внеочередного заседания межведомственной чрезвычайной комиссии",
+        "Организация и осуществление наблюдения за средой обитания населения в зоне ЧС",
+        "Активный сбор информации об обстановки в зоне ЧС",
+        "Планирование медико-санитарного обеспечения населения в зоне ЧС",
+        "Усиление дежурной диспетчерской службы и перевод личного состава центров медицины катастроф на круглосуточную работу"
+      ]
+    },
+    {
+      "id": "medKat_73",
+      "arr": [
+        "Организации, предназначенные для ликвидации медико-санитарных последствий чрезвычайных ситуаций мирного времени:",
+        "Служба экстренной медицинской помощи",
+        "Центр медицины катастроф",
+        "Всероссийская служба медицины катастроф",
+        "Медицинская служба гражданской обороны",
+        "Служба спасения пострадавших"
+      ]
+    },
+    {
+      "id": "medKat_74",
+      "arr": [
+        "В состав ВСМК входят службы медицины катастроф министерств и ведомств:",
+        "Министерства здравоохранения",
+        "Министерства обороны РФ",
+        "ОАО РЖД",
+        "Министерства внутренних дел",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_75",
+      "arr": [
+        "Служба медицины катастроф Российской Федерации организована:",
+        "На федеральном уровне",
+        "На региональном уровне",
+        "На территориальном уровне",
+        "На местном уровне",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_76",
+      "arr": [
+        "Основной орган управления ВСМК на федеральном уровне:",
+        "Чрезвычайная межведомственная комиссия при Правительстве РФ",
+        "Чрезвычайные комиссии министерств",
+        "Межведомственная координационная комиссия МЗ",
+        "Координационные комиссии по ЧС при главах администрации субъектов РФ",
+        "Всероссийский центр медицины катастроф “Защита”"
+      ]
+    },
+    {
+      "id": "medKat_77",
+      "arr": [
+        "Ведомственную комиссию по чрезвычайным ситуациям (КЧ",
+        "созданную при исполнительном органе управления здравоохранением на федеральном уровне возглавляет:",
+        "Председатель Правительства РФ",
+        "Руководитель Совета Федерации России",
+        "Министр здравоохранения РФ",
+        "Заместитель министра здравоохранения РФ",
+        "Министр по делам ГО и ЧС (МЧС)"
+      ]
+    },
+    {
+      "id": "medKat_78",
+      "arr": [
+        "ВСМК функционально объединяет:",
+        "Медицинские учреждения и формирования всех заинтересованных министерств и ведомств РФ",
+        "Только специально созданные учреждения и формирования Минздрава РФ",
+        "Все службы Минздрава РФ на данной территории (республика, область, край)",
+        "Станции скорой медицинской помощи, плановой и экстренной помощи",
+        "Подстанции, отделения скорой медицинской помощи, плановой и экстренной помощи"
+      ]
+    },
+    {
+      "id": "medKat_79",
+      "arr": [
+        "К режимам функционирования службы медицины катастроф относят:",
+        "Повседневную деятельность, повышенную готовность, чрезвычайную ситуацию",
+        "Повседневную деятельность, постоянную готовность, чрезвычайную ситуацию",
+        "Постоянную готовность, чрезвычайную ситуацию, автономный режим",
+        "Повседневную деятельность, полную готовность, чрезвычайную ситуацию",
+        "Постоянную готовность, чрезвычайную ситуацию, режим спокойствия"
+      ]
+    },
+    {
+      "id": "medKat_80",
+      "arr": [
+        "Медицина катастроф изучает все, кроме:",
+        "источники возможных чрезвычайных ситуаций",
+        "организацию ликвидации чрезвычайных ситуаций",
+        "влияние экстремальных условий на здоровье и работоспособность человека",
+        "организацию подготовки и аттестации специалистов службы МК",
+        "методы и средства оказания помощи в ЧС"
+      ]
+    },
+    {
+      "id": "medKat_81",
+      "arr": [
+        "Основные задачи службы экстренной медицинской помощи в ЧС:",
+        "подготовка медицинских кадров, создание органов управления, медицинских формирований, учреждений, поддержание их в постоянной готовности, материально-техническое обеспечение",
+        "сохранение здоровья населения, своевременное и эффективное оказание всех видов медицинской помощи с целью спасения жизни пораженным, снижение инвалидности и неоправданных безвозвратных потерь, снижение психоневрологического и эмоционального воздействия катастроф на население, обеспечение санитарного благополучия в районе ЧС, проведение судебно-медицинской экспертизы и др.",
+        "сохранение здоровья личного состава медицинских формирований",
+        "планирование развития сил и средств здравоохранения и поддержание их в постоянной готовности к работе в зонах катастроф",
+        "для ликвидации последствий ЧС."
+      ]
+    },
+    {
+      "id": "medKat_82",
+      "arr": [
+        "Основные формирования службы экстренной медицинской помощи:",
+        "медицинский отряд, бригады доврачебной помощи, головная больница, бригады скорой медицинской помощи, санэпидотряд",
+        "врачебно-сестринские бригады: бригады скорой медицинской помощи,",
+        "бригады экстренной медицинской помощи, медицинские отряды, бригады экстренной специализированной медицинской помощи, специализированные медицинские бригады постоянной готовности, оперативные группы управления, специализированные противоэпидемические бригады, автономные выездные медицинские госпитали и др.",
+        "спасательный отряд, центральная районная больница:",
+        "центр экстренной медицинской помощи, территориальные лечебные учреждения"
+      ]
+    },
+    {
+      "id": "medKat_83",
+      "arr": [
+        "Основные мероприятия, осуществляемые службой экстренной медицинской помощи в чрезвычайных ситуациях:",
+        "медицинская разведка, оказание медицинской помощи, эвакуация пораженных, подготовка и поддержание в высокой степени готовности сил и средств службы и их ввод в район (к район",
+        "катастрофы, анализ оперативной информации, пополнение, учет, контроль и освежение запасов медицинского имущества и средств защиты",
+        "проведение мероприятий по защите народного хозяйства, строительство защитных сооружений, рассредоточение и эвакуации населения, организация разведки, составление планов",
+        "создание систем связи и управления, организация наблюдения за внешней средой, использование защитных сооружений",
+        "подготовка загородной зоны, разработка планов МК, приведение в полную готовность всей службы МК.",
+        "сохранение здоровья личного состава медицинских формирований"
+      ]
+    },
+    {
+      "id": "medKat_84",
+      "arr": [
+        "Основные мероприятия, проводимые службой медицины катастроф среди населения в экстремальной обстановке:",
+        "оказание первой медицинской помощи и эвакуация в больницы, санитарно-гигиенический контроль очага поражения, проведение дегазации, дезинфекции, дератизации в очаге поражения",
+        "своевременное оказание экстренной медицинской помощи и эвакуация пораженных, проведение санитарно-гигиенических мероприятий, профилактика массовых инфекционных заболеваний, а при их возникновении локализация и ликвидация",
+        "ввод в очаг формирований ГО общего назначения, служб ГО, проведение санитарно-гигиенических мероприятий, организация медицинской эвакуации их очага, профилактика массовых инфекционных заболеваний:",
+        "устранение неблагоприятных санитарных последствий, эвакуация пострадавшего населения, недопущение возникновения массовых инфекционных заболеваний и борьба с эпидемиями",
+        "эвакуация пострадавшего населения, предупреждение возникновения и распространения массовых инфекционных заболеваний, борьба с осложнениями при оказании медицинской помощи, ввод в очаг медицинских формирований."
+      ]
+    },
+    {
+      "id": "medKat_85",
+      "arr": [
+        "Что следует понимать под обозначением «медицинские последствия ЧС»все, кроме:",
+        "санитарные потери населения",
+        "нарушение психики населения в очаге происшествия",
+        "осложненная санитарно-гигиеническая и эпидемическая обстановка в районе ЧС",
+        "разрушение объектов первой категории по гражданской обороне",
+        "разрушение и выход из строя медицинских организаций, нехватка медицинского персонала"
+      ]
+    },
+    {
+      "id": "medKat_86",
+      "arr": [
+        "Назовите одно из требований, предъявляемых к медицинским средствам индивидуальной защиты:",
+        "Возможность использования при отравлениях угарным газом",
+        "Возможность использования для лечения инфекционных заболеваний",
+        "Возможность заблаговременного применения до воздействия поражающего фактора",
+        "Возможность использования при бытовых отравлениях",
+        "Универсальное применение при всех видах поражений"
+      ]
+    },
+    {
+      "id": "medKat_87",
+      "arr": [
+        "Что из перечисленного не относится к медицинским средствам индивидуальной защиты?",
+        "Радиозащитные средства",
+        "Антидоты",
+        "Противобактериальные средства",
+        "Средства защиты органов дыхания",
+        "Средства для частичной специальной обработки"
+      ]
+    },
+    {
+      "id": "medKat_88",
+      "arr": [
+        "Что из перечисленного не относится к медицинским средствам индивидуальной защиты?",
+        "Противобактериальные средства",
+        "Радиозащитные средства",
+        "Отхаркивающие средства",
+        "Антидоты",
+        "Средства специальной обработки"
+      ]
+    },
+    {
+      "id": "medKat_89",
+      "arr": [
+        "Средство для профилактики радиационных поражений при внешнем облучении:",
+        "Афин",
+        "Тарен",
+        "Препараты стабильного йода",
+        "Цистамин",
+        "Этаперазин"
+      ]
+    },
+    {
+      "id": "medKat_90",
+      "arr": [
+        "Выберете средство для профилактики радиационных поражений при внешнем облучении:",
+        "Тарен",
+        "Этаперазин",
+        "Препараты стабильного йода",
+        "Антибиотики широкого спектра действия",
+        "Индралин"
+      ]
+    },
+    {
+      "id": "medKat_91",
+      "arr": [
+        "Антидот, применяемый при отравлении фосфорорганическими соединениями:",
+        "Цистамин",
+        "Индралин",
+        "Амилнитрит",
+        "Афин",
+        "Серотонин"
+      ]
+    },
+    {
+      "id": "medKat_92",
+      "arr": [
+        "Выберете антидот, применяемый при отравлении фосфорорганическими соединениями",
+        "Унитиол",
+        "Цистамин",
+        "Серотонин",
+        "Амилнитрит",
+        "Тарен"
+      ]
+    },
+    {
+      "id": "medKat_93",
+      "arr": [
+        "Назовите антидот, применяемый при отравлении цианидами:",
+        "Тарен",
+        "Амилнитрит",
+        "Унитиол",
+        "Цистамин",
+        "Адамсит"
+      ]
+    },
+    {
+      "id": "medKat_94",
+      "arr": [
+        "Назовите антидот, применяемый при поражениях раздражающими веществами:",
+        "Амилнитрит",
+        "Пропилнитрит",
+        "Фицилин",
+        "Унитиол",
+        "Серотонин"
+      ]
+    },
+    {
+      "id": "medKat_95",
+      "arr": [
+        "Что не входит в индивидуальную аптечку АИ-2?",
+        "Противоболевое средство",
+        "Средство при отравлении ФОВ",
+        "Унитиол",
+        "Противорвотное средство",
+        "Противобактериальное средство"
+      ]
+    },
+    {
+      "id": "medKat_96",
+      "arr": [
+        "Для чего может использоваться прорезиненная оболочка индивидуального перевязочного пакета?",
+        "Для наложения на ожоговую поверхность",
+        "Для остановки наружного артериального кровотечения",
+        "Для остановки наружного венозного кровотечения",
+        "Для использования в качестве окклюзионной повязки",
+        "Для проведения частичной специальной обработки"
+      ]
+    },
+    {
+      "id": "medKat_97",
+      "arr": [
+        "Для чего используется индивидуальный противохимический пакет?",
+        "Как антидот при отравлении ядовитыми техническими жидкостями",
+        "Для проведения полной специальной обработки",
+        "Для проведения частичной специальной обработки",
+        "Для остановки наружного кровотечения",
+        "Как антисептическое средство"
+      ]
+    },
+    {
+      "id": "medKat_98",
+      "arr": [
+        "Индивидуальными средствами для обеззараживания воды являются:",
+        "Шприц-тюбик с афином",
+        "Ёмкость с полидегазирующей рецептурой",
+        "Таблетированный препарат «Цистамин»",
+        "Шприц-тюбик с 1 мл 2% р-ра промедола",
+        "Препарат «Аквасепт»"
+      ]
+    },
+    {
+      "id": "medKat_99",
+      "arr": [
+        "Применение радиопротекторов (цистами",
+        "наиболее эффективно только:",
+        "До облучения",
+        "В период облучения",
+        "После облучения, но до первичной лучевой реакции",
+        "В период развития первичной лучевой реакции",
+        "Во все стадии развития лучевой болезни"
+      ]
+    },
+    {
+      "id": "medKat_100",
+      "arr": [
+        "Противорвотное средство первой медицинской помощи этаперазин применяется для:",
+        "Купирования первичной лучевой реакции",
+        "Предупреждения первичной лучевой реакции",
+        "Лечения лучевой болезни",
+        "Лечения осложнений лучевой болезни",
+        "Всего перечисленного"
+      ]
+    },
+    {
+      "id": "medKat_101",
+      "arr": [
+        "Какие существуют виды специальной обработки:",
+        "Дегазация",
+        "Дезактивация",
+        "Дезинфекция",
+        "Дезинсекция",
+        "Все перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_102",
+      "arr": [
+        "Дезактивация — это вид специальной обработки, направленный на:",
+        "Нейтрализацию стойких АОХВ на зараженных объектах",
+        "Удаление радиоактивных веществ с различных поверхностей",
+        "Уничтожение насекомых, переносчиков инфекционных забо-леваний",
+        "Уничтожение грызунов, переносчиков инфекционных заболеваний",
+        "Предотвращение поступления радиоактивных веществ в организм"
+      ]
+    },
+    {
+      "id": "medKat_103",
+      "arr": [
+        "Дегазация — это вид специальной обработки, направленный на:",
+        "Нейтрализацию стойких ОВ (АОХ",
+        "на зараженных объектах",
+        "Удаление радиоактивных веществ с различных поверхностей",
+        "Уничтожение насекомых, переносчиков инфекционных забо-леваний",
+        "Уничтожение грызунов, переносчиков инфекционных заболеваний",
+        "Предотвращение поступления радиоактивных веществ в организм"
+      ]
+    },
+    {
+      "id": "medKat_104",
+      "arr": [
+        "Дезинфекция — это вид специальной обработки, направленный на:",
+        "Нейтрализацию стойких АОХВ на зараженных объектах",
+        "Обезвреживание болезнетворных микроорганизмов и токсинов растительного и животного происхождения",
+        "Удаление радиоактивных веществ с различных поверхностей",
+        "Уничтожение насекомых, переносчиков инфекционных забо-леваний",
+        "Уничтожение грызунов, переносчиков инфекционных заболеваний"
+      ]
+    },
+    {
+      "id": "medKat_105",
+      "arr": [
+        "Дезинсекция — это вид специальной обработки, направленный на:",
+        "Нейтрализацию стойких АОХВ на зараженных объектах",
+        "Обезвреживание болезнетворных микроорганизмов и токсинов растительного и животного происхождения",
+        "Уничтожение насекомых, переносчиков инфекционных заболеваний",
+        "Уничтожение грызунов, переносчиков инфекционных заболеваний",
+        "Предотвращение поступления АОХВ в организм"
+      ]
+    },
+    {
+      "id": "medKat_106",
+      "arr": [
+        "Дератизация — это вид специальной обработки, направленный на:",
+        "Обезвреживание болезнетворных микроорганизмов и токсинов растительного и животного происхождения",
+        "Удаление радиоактивных веществ с различных поверхностей",
+        "Уничтожение насекомых, переносчиков инфекционных забо-леваний",
+        "Уничтожение грызунов, переносчиков инфекционных заболеваний",
+        "Предотвращение поступления АОХВ в организм"
+      ]
+    },
+    {
+      "id": "medKat_107",
+      "arr": [
+        "Санитарная обработка — это часть специальной обработки, включающая обработку:",
+        "Санитарного транспорта",
+        "Медико-санитарного имущества",
+        "Кожных покровов",
+        "Очага заражения",
+        "Основных отделений медицинских организаций"
+      ]
+    },
+    {
+      "id": "medKat_108",
+      "arr": [
+        "Частичная специальная обработка включает:",
+        "Полную дезактивацию, дегазацию, одежды техники и другого имущества",
+        "Помывку пораженных со сменой белья и одежды",
+        "Частичную дезактивацию, дегазацию одежды, открытых участков кожи",
+        "Полное удаление OB PB с территории",
+        "Применение любых профилактических антидотов"
+      ]
+    },
+    {
+      "id": "medKat_109",
+      "arr": [
+        "Полная специальная обработка включает:",
+        "Частичную санитарную обработку пораженных",
+        "Частичную дезактивацию, дегазацию одежды",
+        "Помывку пораженных со сменой белья и одежды",
+        "Полное удаление OB PB с территории",
+        "Применение любых профилактических антидотов"
+      ]
+    },
+    {
+      "id": "medKat_110",
+      "arr": [
+        "К табельным медицинским средствам индивидуальной медицинской защиты не относятся:",
+        "Средства защиты органов дыхания",
+        "Аптечка индивидуальная АИ-2",
+        "Индивидуальный противохимический пакет",
+        "Профилактический антидот ПМ-10",
+        "Таблетки для обеззараживания воды"
+      ]
+    },
+    {
+      "id": "medKat_111",
+      "arr": [
+        "Перечислите наиболее полное и правильное содержание аптечки АИ-2:",
+        "Антидот в шприц-тюбике, противобактериальное средство, обезболивающее и гипотензивное средство",
+        "Антидот против ФОВ тарен, противобактериальное средство №1 и №2. радиозащитное средство (цистамин), противорвотное и седативное средство",
+        "Антидот (тарен), противобактериальное средство сульфадиметоксин, радиозащитное средство, противорвотное и противогрибковое средство",
+        "Антидот, противобактериальное средство, радиозащитное средство цистамин, калий йодистый, противорвотное средство этаперазин и стимулятор ЦНС",
+        "Антидот против ФОВ, противобактериальные средства сульфадиметоксин, тетрациклин, радиозащитные средства цистамин, калий йодистый, противорвотное средство этаперазин, обезболивающее средство промедол"
+      ]
+    },
+    {
+      "id": "medKat_112",
+      "arr": [
+        "Индивидуальный противохимический пакет предназначен для обработки:",
+        "Окружающих предметов, с которыми контактирует пораженный",
+        "Открытых участков тела",
+        "Медицинского имущества",
+        "Только одежды",
+        "Табельного оружия"
+      ]
+    },
+    {
+      "id": "medKat_113",
+      "arr": [
+        "Санитарная обработка с помощью ИПП-8 наиболее эффективна в течение:",
+        "5-10 мин. с момента поступления ОВ на кожу",
+        "60-90 мин. с момента поступления ОВ на кожу",
+        "5-6 часов с момента поступления ОВ на кожу",
+        "3-х часов с момента поступления ОВ на кожу",
+        "4-х часов с момента поступления ОВ на кожу"
+      ]
+    },
+    {
+      "id": "medKat_114",
+      "arr": [
+        "К табельным медицинским средствам индивидуальной защиты не относится:",
+        "Аптечка индивидуальная-АИ-2",
+        "Индивидуальный противохимический пакет (ИПП-8, ИПП10, ИПП-11)",
+        "Пакет перевязочный медицинский (ПП",
+        "",
+        "Бактериофаги",
+        "Профилактический антидот П-10М"
+      ]
+    },
+    {
+      "id": "medKat_115",
+      "arr": [
+        "К средствам медицинской защиты не относится:",
+        "Радиозащитные препараты",
+        "Антидоты",
+        "Средства медицинской защиты от биологических средств поражения",
+        "Индивидуальные перевязочные средства",
+        "Местно-анестезирующие средства"
+      ]
+    },
+    {
+      "id": "medKat_116",
+      "arr": [
+        "Обезболивающее средство из шприц-тюбика вводят:",
+        "Внутриартериально",
+        "Внутрисердечно",
+        "Внутримышечно",
+        "Внутривенно",
+        "Внутрикожно"
+      ]
+    },
+    {
+      "id": "medKat_117",
+      "arr": [
+        "В состав аптечки АИ-2 входят медицинские средства все, кроме:",
+        "Средства при отравлении ФОВ",
+        "Сердечные средства",
+        "Радиозащитные средства",
+        "Противорвотные средства",
+        "Противобактериальные средства"
+      ]
+    },
+    {
+      "id": "medKat_118",
+      "arr": [
+        "Назвать одно из требований, предъявляемых к медицинским средствам индивидуальной защиты:",
+        "Возможность использования при отравлениях угарным газом",
+        "Возможность использования для лечения инфекционных заболеваний",
+        "Возможность заблаговременного применения до воздействия поражающего фактора",
+        "Возможность использования при бытовых отравлениях",
+        "Универсальное применение при всех видах поражений"
+      ]
+    },
+    {
+      "id": "medKat_119",
+      "arr": [
+        "Что не относится к медицинским средствам индивидуальной защиты?",
+        "Аптечка индивидуальная АИ-2",
+        "Индивидуальный противохимический пакет",
+        "Пакет перевязочный индивидуальный",
+        "Термопротекторы",
+        "Лёгкий защитный костюм Л-1"
+      ]
+    },
+    {
+      "id": "medKat_120",
+      "arr": [
+        "К индивидуальным средствам защиты кожи относят:",
+        "Противогазы фильтрующего и изолирующего типов",
+        "Плащ-накидка",
+        "Общевойсковой защитный комплект (ОЗ",
+        "",
+        "Индивидуальный противохимический пакет",
+        "Индивидуальный перевязочный пакет"
+      ]
+    },
+    {
+      "id": "medKat_121",
+      "arr": [
+        "Гопкалитовый патрон предназначен для защиты от:",
+        "АОХВ, проникающих в организм ингаляционно",
+        "АОХВ, проникающих в организм через кожу",
+        "Радиоактивной пыли",
+        "Грунтовой пыли",
+        "Угарного газа"
+      ]
+    },
+    {
+      "id": "medKat_122",
+      "arr": [
+        "Гопкалитовый патрон защищает от угарного газа за счет:",
+        "Фильтрации угарного газа",
+        "Окисления угарного газа в углекислый",
+        "Разрушения угарного газа до углерода и кислорода",
+        "Образование уксусной кислоты",
+        "Образование янтарной кислоты"
+      ]
+    },
+    {
+      "id": "medKat_123",
+      "arr": [
+        "Площадь, отводимая в убежище на одного укрываемого:",
+        "0,3 м2",
+        "0,5 м2",
+        "0,7 м2",
+        "0,8 м2",
+        "1,0 м2"
+      ]
+    },
+    {
+      "id": "medKat_124",
+      "arr": [
+        "Допустимое содержание углекислого газа в жилых отсеках убежищ:",
+        "Не более 0,5%",
+        "Не более1,0%",
+        "Не более 1,5%",
+        "Не более 2%",
+        "Не более 3%"
+      ]
+    },
+    {
+      "id": "medKat_125",
+      "arr": [
+        "Количество воды в сутки на одного укрываемого на весь период пребывания в убежище:",
+        "2 литра",
+        "3 литра",
+        "4 литра",
+        "5 литров",
+        "10 литров"
+      ]
+    },
+    {
+      "id": "medKat_126",
+      "arr": [
+        "Противорадиационные убежища защищают людей:",
+        "От отравляющих веществ",
+        "От радиоактивных веществ",
+        "От аварийнохимически опасных веществ",
+        "От внешнего гамма излучения",
+        "От бактериальных средств"
+      ]
+    },
+    {
+      "id": "medKat_127",
+      "arr": [
+        "Верхние этажи кирпичных и бетонных зданий ослабляют радиацию:",
+        "В 10 раз",
+        "В 20 раз",
+        "В 30 раз",
+        "В 50 раз",
+        "В 100 раз"
+      ]
+    },
+    {
+      "id": "medKat_128",
+      "arr": [
+        "Лёгкий защитный костюм Л-1 относится к средствам защиты:",
+        "Фильтрующим",
+        "Адсорбирующим",
+        "Изолирующим",
+        "Нейтрализующим",
+        "Поглощающим"
+      ]
+    },
+    {
+      "id": "medKat_129",
+      "arr": [
+        "В качестве средства индивидуальной защиты от поражения угарным газом применяется:",
+        "Фильтрующий противогаз с карбогеновым патроном",
+        "Фильтрующий противогаз",
+        "Фильтрующий противогаз с гопкалитовым патроном",
+        "Респиратор",
+        "Защитная камера"
+      ]
+    },
+    {
+      "id": "medKat_130",
+      "arr": [
+        "Препараты, являющиеся физиологическим антагонистами ядов, называются:",
+        "антидепрессантами",
+        "антидотами",
+        "антикоагулянтами",
+        "антифризами",
+        "адсорбентами"
+      ]
+    },
+    {
+      "id": "medKat_131",
+      "arr": [
+        "Что из нижеперечисленного не относится к мероприятиям по повышению устойчивости функционирования медицинских организаций",
+        "Аварийное энергоснабжение",
+        "Собственная автозаправочная станция",
+        "Аварийное теплоснабжение",
+        "Аварийное водоснабжение",
+        "Герметичность внутренних помещений при закрытых окнах"
+      ]
+    },
+    {
+      "id": "medKat_132",
+      "arr": [
+        "Назовите одно из технических требований, необходимых для повышения устойчивости медицинских организаций в ЧС?",
+        "Наличие КПП",
+        "Наличие автозаправочной станции",
+        "Наличие системы надёжности энергоснабжения",
+        "Наличие авторемонтной мастерской",
+        "Наличие санитарно-гигиенической лаборатории"
+      ]
+    },
+    {
+      "id": "medKat_133",
+      "arr": [
+        "Кто отвечает за создание и подготовку органов управления и формирований в медицинской организации к работе в ЧС?",
+        "Заместитель главного врача больницы по медицинской части",
+        "Главный инженер больницы",
+        "Начальник штаба ГО объекта",
+        "Главный врач больницы",
+        "Заместитель главного врача по учебной части"
+      ]
+    },
+    {
+      "id": "medKat_134",
+      "arr": [
+        "Кто является начальником ГО медицинской организации?",
+        "Заместитель главного врача больницы по медицинской части",
+        "Начальник штаба ГО больницы",
+        "Главный инженер больницы",
+        "Главный врач больницы",
+        "Заместитель главного врача по учебной части"
+      ]
+    },
+    {
+      "id": "medKat_135",
+      "arr": [
+        "Кто является начальником штаба ГО больницы?",
+        "Главный врач больницы",
+        "Заместитель главного врача больницы по медицинской части",
+        "Главный инженер больницы",
+        "Заместитель главного врача для работы по ГО",
+        "Заместитель главного врача по учебной части"
+      ]
+    },
+    {
+      "id": "medKat_136",
+      "arr": [
+        "Какое мероприятие осуществляется в больнице при угрозе возникновения ЧС вне медицинской организации?",
+        "Организуется медицинская разведка",
+        "В район бедствия выдвигаются силы и средства больницы",
+        "О случившемся и о проводимых мероприятиях информируется вышестоящий начальник",
+        "Выполняется подготовка больницы к приёму поражённых",
+        "Уточняется порядок дальнейшей эвакуации поражённых"
+      ]
+    },
+    {
+      "id": "medKat_137",
+      "arr": [
+        "Назовите одно из мероприятий, осуществляемое в больнице при возникновении ЧС вне ее территории?",
+        "Повышение защиты больницы от поражающих факторов",
+        "Проверка готовности сил и средств больницы к эвакуации в безопасное место",
+        "Уточнение знания медицинским персоналом особенностей патологии поражения возможными факторами ожидаемой ЧС",
+        "Закладка медицинского имущества в убежища города и стационары для нетранспортабельных",
+        "Организация медицинской разведки"
+      ]
+    },
+    {
+      "id": "medKat_138",
+      "arr": [
+        "Какое мероприятие осуществляется в больнице при угрозе возникновения ЧС с учётом того, что сама больница может подвергнуться воздействию поражающих факторов этой ЧС?",
+        "Проводится обеззараживание территории района бедствия",
+        "Организуется медицинская разведка",
+        "Уточняется порядок дальнейшей эвакуации поражённых",
+        "Проводятся мероприятия по защите больницы от поражающих факторов",
+        "Осуществляется укрытие персонала и больных в защитных сооружениях"
+      ]
+    },
+    {
+      "id": "medKat_139",
+      "arr": [
+        "Кто является ответственным за эвакуацию медицинской организации?",
+        "Начальник штаба ГО медицинской организации",
+        "Заместитель главного врача больницы по медицинской части",
+        "Эвакуационная комиссия",
+        "Заместитель главного врача больницы по хозяйственной части",
+        "Главный врач больницы"
+      ]
+    },
+    {
+      "id": "medKat_140",
+      "arr": [
+        "Какой орган должен быть создан в медицинской организации для предупреждения последствий ЧС?",
+        "Приёмно-эвакуационная комиссия",
+        "Сортировочная комиссия",
+        "Межведомственная координационная комиссия",
+        "Объектовая эвакуационная комиссия",
+        "Объектовая комиссия по ЧС"
+      ]
+    },
+    {
+      "id": "medKat_141",
+      "arr": [
+        "Какая комиссия создаётся в больнице для планирования, организации, осуществления эвако. мероприятий и заблаговременной подготовки места размещения медицинского учреждения в загородной зоне?",
+        "Приёмно-эвакуационная комиссия",
+        "Сортировочная комиссия",
+        "Межведомственная координационная комиссия",
+        "Объектовая эвакуационная комиссия",
+        "Санитарно-противоэпидемическая комиссия"
+      ]
+    },
+    {
+      "id": "medKat_142",
+      "arr": [
+        "Что из нижеперечисленного не является обязательным к развёртыванию на территории больницы при поступлении множества поражённых в неё из очага химической аварии, для проведения их медицинской сортировки?",
+        "Сортировочный пост",
+        "Сортировочная площадка",
+        "Пункт первой помощи",
+        "Площадка спец. обработки",
+        "приёмное отделение"
+      ]
+    },
+    {
+      "id": "medKat_143",
+      "arr": [
+        "Какой процент больных подлежит выписке из больницы при его эвакуации?",
+        "Около 20%",
+        "Около 45%",
+        "Около 50%",
+        "Около 5%",
+        "Около 30%"
+      ]
+    },
+    {
+      "id": "medKat_144",
+      "arr": [
+        "Какой процент больных подлежит эвакуации вместе с больницей?",
+        "Около 20%",
+        "Около 45%",
+        "Около 50%",
+        "Около 5%",
+        "Около 30%"
+      ]
+    },
+    {
+      "id": "medKat_145",
+      "arr": [
+        "Какой процент больных при эвакуации больницы остаётся в городе в стационаре для нетранспортабельных больных?",
+        "Около 5%",
+        "Около 10%",
+        "Около 15%",
+        "Около 20%",
+        "Около 25%"
+      ]
+    },
+    {
+      "id": "medKat_146",
+      "arr": [
+        "Куда направляются нетранспортабельные больные больницы при его эвакуации?",
+        "В профильные отделения других медицинских организаций",
+        "Остаются в изначальном отделении медицинской организации",
+        "Эвакуируются в загородную зону",
+        "Переводятся в сформированные стационары для нетранспортабельных больных",
+        "Направляются в эвакуационные пункты"
+      ]
+    },
+    {
+      "id": "medKat_147",
+      "arr": [
+        "Что означает понятие “Частичная эвакуация больницы”?",
+        "Эвакуация только больных",
+        "Эвакуация только персонала",
+        "Эвакуация только больных и персонала",
+        "Эвакуация больных, персонала и материальных средств",
+        "Эвакуация только материальных средств"
+      ]
+    },
+    {
+      "id": "medKat_148",
+      "arr": [
+        "Что означает термин “полная эвакуация больницы”?",
+        "Эвакуация больных, ценного имущества и документов",
+        "Эвакуация только персонала и материальных средств",
+        "Эвакуация только больных и персонала",
+        "Эвакуация больных, персонала, материальных средств и документов",
+        "Эвакуация только материальных средств и документов"
+      ]
+    },
+    {
+      "id": "medKat_149",
+      "arr": [
+        "Что означает термин “машино-рейс” при эвакуации медицинской организации ?",
+        "Специальный эвако-транспорт",
+        "Время следования эвако-транспорта до пункта назначения",
+        "Время следования эвако-транспорта до пункта назначения и обратно",
+        "Маршрут следования эвакуационного транспорта",
+        "Порядок выделения и получения эвакуационного транспорта"
+      ]
+    },
+    {
+      "id": "medKat_150",
+      "arr": [
+        "Как поступают с историями болезни эвакуируемых больных?",
+        "Оставляют их в исходной медицинской организации",
+        "Отправляют их вместе с больными в следуемые медицинские организации",
+        "Отправляют их только вместе с тяжёлыми больными",
+        "Отправляют их отдельным транспортом в следуемые медицинские организации, до отправки самих больных",
+        "Переводят их в электронный вариант и пересылают в следуемые медицинские организации"
+      ]
+    },
+    {
+      "id": "medKat_151",
+      "arr": [
+        "В режиме повышенной готовности в больнице проводятся следующие мероприятия, кроме:",
+        "Оповещение и сбор персонала",
+        "Введение круглосуточного дежурства персонала",
+        "Прогнозирование возможной обстановки на территории больницы",
+        "Организуется эвакуация персонала и больных, ценного имущества и документов",
+        "Устанавливается постоянное наблюдение и порядок работы постов наблюдения"
+      ]
+    },
+    {
+      "id": "medKat_152",
+      "arr": [
+        "В режиме ЧС в больнице проводят следующие мероприятия, кроме:",
+        "Оповещение и сбор персонала",
+        "Введение круглосуточного дежурства",
+        "Организация медицинской разведки",
+        "Закладка медицинского имущества в убежища города и в стационары для нетранспортабельных",
+        "Осуществляется укрытие персонала и больных в защитных сооружениях"
+      ]
+    },
+    {
+      "id": "medKat_153",
+      "arr": [
+        "Общими задачами для всех объектов здравоохранения по предупреждению последствий ЧС являются все, кроме:",
+        "Прогнозирование возможной обстановки и ее оценка при возникшей ЧС",
+        "Планирование работы объекта в ЧС",
+        "Разработка стандартов оказания неотложной помощи в условиях ЧС",
+        "Организация защиты персонала и материальных средств от воздействия поражающих факторов с учетом прогнозируемой обстановки",
+        "Повышение устойчивости функционирования объекта в ЧС"
+      ]
+    },
+    {
+      "id": "medKat_154",
+      "arr": [
+        "Готовность объектов здравоохранения к работе в ЧС определяется всем нижеперечисленным, кроме:",
+        "Наличием аварийного энергоснабжения",
+        "Наличием аварийного теплоснабжения",
+        "Наличием аварийного водоснабжения",
+        "Обученностью пациентов",
+        "Обученностью персонала"
+      ]
+    },
+    {
+      "id": "medKat_155",
+      "arr": [
+        "Для оказания каких видов медицинской помощи при наводнении, формирования и учреждения здравоохранения должны иметь кислород, портативные аппараты искусственного дыхания, грелки, сердечно-сосудистые средства?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Эвакуация в лечебные учреждения"
+      ]
+    },
+    {
+      "id": "medKat_156",
+      "arr": [
+        "Устойчивость лечебного учреждения, при его работе в условиях ЧС зависит:",
+        "От типа лечебного учреждения",
+        "Природных факторов на месте нахождения лечебного учреждения",
+        "Расположения лечебного учреждения вблизи опасных производств",
+        "Региона застройки",
+        "Все вышеперечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_157",
+      "arr": [
+        "Аварийный запас воды на одну койку в больнице, в условиях чрезвычайной ситуации:",
+        "2 л/сутки",
+        "3 л/сутки",
+        "5 л/сутки",
+        "6 л/сутки",
+        "10 л/сутки"
+      ]
+    },
+    {
+      "id": "medKat_158",
+      "arr": [
+        "Способы экстренной эвакуации больных из здания больницы при ЧС:",
+        "Через окна на первом этаже",
+        "С использованием трапов и запасных лестниц со 2 этажа и выше",
+        "Специальных рукавов и сетей",
+        "Приставных лестниц",
+        "Все перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_159",
+      "arr": [
+        "Группы, выделяемые при первичном осмотре на сортировочной площадке больницы:",
+        "Ходячие и носилочные",
+        "Пораженные средней тяжести",
+        "Лежачие – с травмами грудной и брюшной полости",
+        "Носилочные – тяжелопораженные",
+        "Пораженные находящиеся без сознания"
+      ]
+    },
+    {
+      "id": "medKat_160",
+      "arr": [
+        "Какое мероприятие осуществляется в больнице при угрозе возникновения ЧС?",
+        "Проводится обеззараживание территории района бедствия",
+        "Организуется медицинская разведка",
+        "Уточняется порядок дальнейшей эвакуации поражённых",
+        "Осуществляется повышение защиты больницы от поражающих факторов",
+        "Осуществляется укрытие персонала и больных в защитных сооружениях"
+      ]
+    },
+    {
+      "id": "medKat_161",
+      "arr": [
+        "Устойчивость лечебного учреждения, при его работе в условиях ЧС зависит от всех, кроме:",
+        "От типа лечебного учреждения",
+        "Природных факторов на месте нахождения лечебного учреждения",
+        "Расположения лечебного учреждения вблизи опасных производств",
+        "Региона застройки",
+        "Рельефа территории под строительство лечебного учреждения"
+      ]
+    },
+    {
+      "id": "medKat_162",
+      "arr": [
+        "Системы жизнеобеспечения лечебного учреждения, повышающие его устойчивость в условиях ЧС:",
+        "Энергоснабжение",
+        "Теплоснабжение",
+        "Водоснабжение",
+        "Канализация",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_163",
+      "arr": [
+        "Общие задачи лечебного учреждения по ликвидации последствий возникшей ЧС:",
+        "Повышение устойчивости лечебного учреждения при работе в зоне ЧС",
+        "Планирование работы лечебного учреждения после ЧС",
+        "Организация защиты персонала и больных от воздействия неблагоприятных факторов ЧС",
+        "Прогнозирование возможной обстановки и её оценка для лечебного учреждения при ЧС",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_164",
+      "arr": [
+        "Какое техническое требование необходимо для повышения устойчивости медицинской организации в ЧС?",
+        "Наличие КПП",
+        "Наличие автозаправочной станции",
+        "Наличие системы надёжности энергоснабжения",
+        "Наличие авторемонтной мастерской",
+        "Наличие санитарно-гигиенической лаборатории"
+      ]
+    },
+    {
+      "id": "medKat_165",
+      "arr": [
+        "Какое техническое требование необходимо для повышения устойчивости медицинской организации в ЧС?",
+        "Наличие санитарно-гигиенической лаборатории",
+        "Наличие аварийного водоснабжения",
+        "Наличие автохозяйства",
+        "Наличие пожарной машины",
+        "Наличие авторемонтной мастерской"
+      ]
+    },
+    {
+      "id": "medKat_166",
+      "arr": [
+        "Какое техническое требование необходимо для повышения устойчивости медицинской организации в ЧС?",
+        "Наличие КПП",
+        "Наличие автозаправочной станции",
+        "Наличие авторемонтной мастерской",
+        "Наличие санитарно-гигиенической лаборатории",
+        "Наличие аварийного водоснабжения"
+      ]
+    },
+    {
+      "id": "medKat_167",
+      "arr": [
+        "Какое техническое требование необходимо для повышения устойчивости медицинской организации в ЧС?",
+        "Наличие санитарно-гигиенической лаборатории",
+        "Наличие автохозяйства",
+        "Наличие КПП",
+        "Наличие устойчивости связи",
+        "Наличие пожарной машины"
+      ]
+    },
+    {
+      "id": "medKat_168",
+      "arr": [
+        "Какое мероприятие осуществляется в больнице при угрозе возникновения ЧС?",
+        "В район бедствия выдвигаются силы и средства больницы",
+        "Организуется медицинская разведка",
+        "Вводится круглосуточное дежурство руководящего состава больницы",
+        "Осуществляется укрытие персонала и больных в защитных сооружениях",
+        "Проводится обеззараживание территории района бедствия, экспертиза воды и продовольствия"
+      ]
+    },
+    {
+      "id": "medKat_169",
+      "arr": [
+        "Какое мероприятие осуществляется в больнице при угрозе возникновения ЧС?",
+        "Организуется медицинская разведка",
+        "В район бедствия выдвигаются силы и средства больницы",
+        "О случившемся и о проводимых мероприятиях информируется вышестоящий начальник",
+        "Выполняется подготовка больницы к приёму поражённых",
+        "Уточняется порядок дальнейшей эвакуации поражённых"
+      ]
+    },
+    {
+      "id": "medKat_170",
+      "arr": [
+        "Какое мероприятие осуществляется в больнице при угрозе возникновения ЧС?",
+        "Проводится обеззараживание территории района бедствия",
+        "Организуется медицинская разведка",
+        "Уточняется порядок дальнейшей эвакуации поражённых",
+        "Осуществляется повышение защиты больницы от поражающих факторов",
+        "Осуществляется укрытие персонала и больных в защитных сооружениях"
+      ]
+    },
+    {
+      "id": "medKat_171",
+      "arr": [
+        "Какое мероприятие осуществляется в больнице при возникновении ЧС?",
+        "Повышение защиты больницы от поражающих факторов",
+        "Проверка готовности сил и средств больницы к эвакуации в безопасное место",
+        "Уточнение знания медицинским персоналом особенностей патологии поражения возможными факторами ожидаемой ЧС",
+        "Закладка медицинского имущества в убежища города и стационары для нетранспортабельных",
+        "Организация медицинской разведки"
+      ]
+    },
+    {
+      "id": "medKat_172",
+      "arr": [
+        "Какое мероприятие осуществляется в больнице при возникновении ЧС вне ее территории?",
+        "Закладка медицинского имущества в убежища города и в стационары для нетрудоспособных",
+        "В район бедствия выдвигаются силы и средства больницы",
+        "Осуществляется повышение защиты больницы от поражающих факторов",
+        "Проверка готовности сил и средств больницы к эвакуации в безопасное место",
+        "Уточнение знания медицинским персоналом особенностей патологии поражения возможными факторами ожидаемой ЧС"
+      ]
+    },
+    {
+      "id": "medKat_173",
+      "arr": [
+        "Какое мероприятие осуществляется в больнице при возникновении ЧС?",
+        "Повышение защиты больницы от поражающих факторов",
+        "Закладка медицинского имущества в убежища города и в стационары для нетрудоспособных",
+        "Уточнение знания медицинским персоналом особенностей патологии поражения возможными факторами ожидаемой ЧС",
+        "Уточняется порядок дальнейшей эвакуации поражённых",
+        "Проверка готовности сил и средств больницы к эвакуации в безопасное место"
+      ]
+    },
+    {
+      "id": "medKat_174",
+      "arr": [
+        "Какие потери определяют объём лечебно-эвакуационной деятельности медицинских формирований и учреждений?",
+        "Общие",
+        "Безвозвратные",
+        "Санитарные",
+        "Единичные",
+        "Массовые"
+      ]
+    },
+    {
+      "id": "medKat_175",
+      "arr": [
+        "Тушение горящей одежды является мероприятием:",
+        "Квалифицированной медицинской помощи",
+        "Специализированной медицинской помощи",
+        "Первой помощи",
+        "Первой врачебной помощи",
+        "Первой доврачебной помощи"
+      ]
+    },
+    {
+      "id": "medKat_176",
+      "arr": [
+        "Какое последствие требует определения сил и средств для розыска, сбора и выноса раненных и больных из очага катастрофы?",
+        "Одномоментное возникновение значительного числа раненных, поражённых и погибших среди населения",
+        "Осложнение санитарно-гигиенической и эпидемиологической обстановки",
+        "Потери сил и средств здравоохранения",
+        "Острые реактивные состояния у людей в очаге поражения",
+        "Потеря управления"
+      ]
+    },
+    {
+      "id": "medKat_177",
+      "arr": [
+        "На площадку специальной обработки этапа медицинской эвакуации поступают лица, прибывшие из:",
+        "Очага поражения монооксидом углерода",
+        "Очага поражения циановодородом",
+        "Очага поражения аммиаком",
+        "Очага поражения хлором",
+        "Очага поражения фосгеном"
+      ]
+    },
+    {
+      "id": "medKat_178",
+      "arr": [
+        "Назовите один из факторов обстановки, вынуждающий применить систему этапного лечения:",
+        "Неблагоприятные метеорологические условия и плохое водоснабжение",
+        "Наличие трассовых ЛПУ в районе ЧС",
+        "Наличие сохранившихся специализированных лечебных учреждений",
+        "Значительные, быстро возникшие санитарные потери",
+        "Массовые инфекционные заболевания в очаге бактериологического заражения"
+      ]
+    },
+    {
+      "id": "medKat_179",
+      "arr": [
+        "Какой группе поражённых первая врачебная помощь по жизненным показаниям должна быть оказана в первую очередь?",
+        "Лица с тяжёлыми повреждениями, с быстро нарастающими опасными для жизни расстройствами",
+        "Поражённые средней тяжести",
+        "Легко пострадавшие",
+        "Пострадавшие с несовместимыми для жизни повреждениями",
+        "Пострадавшие с тяжёлой и средней тяжести повреждениями, не представляющими непосредственной угрозы для жизни"
+      ]
+    },
+    {
+      "id": "medKat_180",
+      "arr": [
+        "Какая группа пострадавших отдельным потоком направляется на амбулаторное лечение?",
+        "Лица в тяжёлом состоянии",
+        "Поражённые средней тяжести",
+        "Легко пострадавшие",
+        "Пострадавшие в крайне тяжёлом состоянии",
+        "Лица, не нуждающиеся в оказании медицинской помощи"
+      ]
+    },
+    {
+      "id": "medKat_181",
+      "arr": [
+        "Проведение, какого мероприятия при оказании первой врачебной помощи, направлено на профилактику шока?",
+        "Применение антидотов",
+        "Устранение недостатков транспортной иммобилизации",
+        "Восстановление проходимости дыхательных путей",
+        "Закрытый массаж сердца",
+        "Введение кровезаменителей, введение обезболивающих и сердечно-сосудистых средств"
+      ]
+    },
+    {
+      "id": "medKat_182",
+      "arr": [
+        "Какие потери определяют объём лечебно-эвакуационных мероприятий в медицинских формированиях и учреждениях?",
+        "Общие",
+        "Безвозвратные",
+        "Санитарные",
+        "Единичные",
+        "Потери личного состава"
+      ]
+    },
+    {
+      "id": "medKat_183",
+      "arr": [
+        "Для проведения, каких мероприятий на этапе медицинской эвакуации развёрнуто эвакуационное отделение?",
+        "Приёма раненных и больных",
+        "Медицинской сортировки раненных и больных",
+        "Оказания медицинской помощи раненным и больным",
+        "Лечения раненных и больных",
+        "Подготовки к дальнейшей эвакуации"
+      ]
+    },
+    {
+      "id": "medKat_184",
+      "arr": [
+        "В выполнении, какого мероприятия этапа медицинской эвакуации будут нуждаться в первую очередь пострадавшие, прибывшие из очага поражения АОХВ или РВ?",
+        "Приёма раненных и больных, оказание медицинской помощи",
+        "Медицинской сортировки раненных и больных",
+        "Частичной или полной санитарной обработки",
+        "Изоляции инфекционных больных и лиц, находящихся в острых реактивных состояниях",
+        "Подготовки к дальнейшей эвакуации"
+      ]
+    },
+    {
+      "id": "medKat_185",
+      "arr": [
+        "Решение, какой задачи позволяет обезопасить персонал и больных от лиц, представляющих опасность для окружающих?",
+        "Приёма раненных и больных за пределами ЛПУ",
+        "Медицинской сортировки раненных и больных",
+        "Санитарной обработки раненных и больных",
+        "Изоляции инфекционных больных и лиц, находящихся в острых реактивных состояниях",
+        "Оказания медицинской помощи раненным и больным в первую очередь"
+      ]
+    },
+    {
+      "id": "medKat_186",
+      "arr": [
+        "В каком подразделении осуществляется регистрация поступающих пораженных?",
+        "Сортировочный пост",
+        "Приёмно-сортировочное",
+        "Специальной (санитарно",
+        "обработки",
+        "Перевязочное",
+        "Эвакуационное"
+      ]
+    },
+    {
+      "id": "medKat_187",
+      "arr": [
+        "В каком подразделении осуществляется санитарная обработка поступивших, дегазация и дезактивация обмундирования, личных вещей?",
+        "Сортировочный пост",
+        "Приёмно-сортировочное",
+        "Специальной (санитарно",
+        "обработки",
+        "Изоляторы для инфекционных больных и лиц, находящихся в острых реактивных состояниях",
+        "Эвакуационное"
+      ]
+    },
+    {
+      "id": "medKat_188",
+      "arr": [
+        "В каком подразделении из общего потока выделяются пострадавшие, представляющие опасность для окружающих?",
+        "Сортировочный пост",
+        "Приёмно-сортировочное",
+        "Специальной (санитарно",
+        "обработки",
+        "Изоляторы для инфекционных больных и лиц, находящихся в острых реактивных состояниях",
+        "Распределительный пункт"
+      ]
+    },
+    {
+      "id": "medKat_189",
+      "arr": [
+        "Какой вид медицинской помощи представляет собой комплекс простейших медицинских мероприятий, выполняемых на месте поражения самим населением в порядке самои взаимопомощи?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_190",
+      "arr": [
+        "Какой вид медицинской помощи оказывается на месте поражения или вблизи него средним медицинским персоналом с использованием табельных средств медицинского имущества?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_191",
+      "arr": [
+        "Оптимальный срок оказания, какого вида медицинской помощи не должен превышать 30 минут с момента поражения?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_192",
+      "arr": [
+        "Оптимальный срок оказания какого вида медицинской помощи не должен превышать 1-2 часа с момента поражения?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_193",
+      "arr": [
+        "Укажите оптимальный срок оказания первой врачебной помощи:",
+        "0,5 часа",
+        "1-2 часа",
+        "2-3 часа",
+        "4-5 часов",
+        "8-12 часов"
+      ]
+    },
+    {
+      "id": "medKat_194",
+      "arr": [
+        "Укажите оптимальный срок оказания квалифицированной медицинской помощи:",
+        "1-2 часа",
+        "3-4 часа",
+        "4-5 часов",
+        "5-8 часов",
+        "8-12 часов"
+      ]
+    },
+    {
+      "id": "medKat_195",
+      "arr": [
+        "Какой вид медицинской помощи оказывается врачебно-сестринскими бригадами?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_196",
+      "arr": [
+        "Какой вид медицинской помощи оказывается врачами специалистами хирургического и терапевтического профиля с целью устранения тяжёлых последствий и осложнений поражения?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_197",
+      "arr": [
+        "Какой вид медицинской помощи носит исчерпывающий характер и оказывается врачами специалистами узкого профиля в специализированных отделениях ЛПУ?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_198",
+      "arr": [
+        "Какой вид медицинской помощи представляет собой высшую форму медицинской помощи?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_199",
+      "arr": [
+        "Мероприятия, какого вида медицинской помощи могут оказываться пострадавшим людьми, не имеющими медицинского образования?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_200",
+      "arr": [
+        "При какой медицинской сортировке определяют порядок прохождения пострадавшего по подразделениям данного этапа медицинской эвакуации?",
+        "Первичная",
+        "Вторичная",
+        "Внутрипунктовая",
+        "Эвакуационно-транспортная",
+        "Заключительная"
+      ]
+    },
+    {
+      "id": "medKat_201",
+      "arr": [
+        "При проведении какой медицинской сортировки определяют порядок эвакуации раненых и больных на другие этапы медицинской эвакуации?",
+        "Первичная",
+        "Вторичная",
+        "Внутрипунктовая",
+        "Эвакуационно-транспортная",
+        "Заключительная"
+      ]
+    },
+    {
+      "id": "medKat_202",
+      "arr": [
+        "Какая группа раненых и больных нуждается только в симптоматической терапии с целью облегчения страданий?",
+        "Опасные для окружающих",
+        "Пострадавшие, требующие оказания медицинской помощи по неотложным показаниям",
+        "Пострадавшие, нуждающиеся в оказании вида медицинской помощи, присущего данному этапу, но помощь, которым может быть отсрочена",
+        "Легкопоражённые",
+        "Агонирующие"
+      ]
+    },
+    {
+      "id": "medKat_203",
+      "arr": [
+        "Какой первоочередной вопрос должен решить врач сортировочной бригады при осмотре пострадавшего во время медицинской сортировки?",
+        "Прогноз на выживание",
+        "Очерёдность оказания медицинской помощи",
+        "Объём лечебных мероприятий, проведение которых необходимо осуществлять немедленно",
+        "Определить, какие жизненно важные органы повреждены",
+        "Очерёдность эвакуации в другие лечебные учреждения"
+      ]
+    },
+    {
+      "id": "medKat_204",
+      "arr": [
+        "Каков оптимальный состав сортировочной бригады для легкопоражённых?",
+        "1 Врач, 2 медсестры, 2 регистратора",
+        "1 Врач, 1 медсестра, 1 регистратор",
+        "1 Врач, 2 медсестры",
+        "1 Врач, 2медсестры, 1 регистратор",
+        "2 медсестры, 1 регистратор"
+      ]
+    },
+    {
+      "id": "medKat_205",
+      "arr": [
+        "Каков оптимальный состав сортировочной бригады для носилочных поражённых?",
+        "1 Врач, 1 фельдшер, 1 регистратор, звено носильщиков",
+        "1 Врач, 1 фельдшер, 1 медицинская сестра, 1 регистратор, звено носильщиков",
+        "1 Врач, 2 медсестры, 2 регистратора, звено носильщиков",
+        "2 Врача, 2 медсестры, 2 регистратора, 2 звена носильщиков",
+        "2 Врача, фельдшер, 2 регистратора, звено носильщиков"
+      ]
+    },
+    {
+      "id": "medKat_206",
+      "arr": [
+        "Какой среднестатистический процент среди общих медико-санитарных потерь в ЧС будут составлять дети?",
+        "1-5%",
+        "7-12%",
+        "12-25%",
+        "25-40%",
+        "40-60%"
+      ]
+    },
+    {
+      "id": "medKat_207",
+      "arr": [
+        "Какой процент коечной ёмкости нужно перепрофилировать для поражённых детей в ЛПУ, не имеющем детских отделений?",
+        "5%",
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+      ]
+    },
+    {
+      "id": "medKat_208",
+      "arr": [
+        "Дайте определение понятия «этап медицинской эвакуации»:",
+        "Время проведения эвакуации пораженного населения из очага в больницы загородной зоны (от первого до последнего транс-порта, независимо от его вида)",
+        "Территория (участок, район), на который оказывается медицинская помощь пораженным в очаге и организуется их вывоз",
+        "Место оказания медицинской помощи пораженному в очаге и медицинское учреждение, в которое эвакуируется пораженный",
+        "Силы и средства здравоохранения, развернутые на путях эвакуации, обеспечивающие прием пораженных, их сортировку, оказание медицинской помощи и лечение, подготовку пораженных к эвакуации",
+        "Время нахождения пораженного населения в период его эвакуации из очага в больницу загородной зоны на транспортных средствах"
+      ]
+    },
+    {
+      "id": "medKat_209",
+      "arr": [
+        "Основные требования, предъявляемые к оказанию медицинской помощи в системе лечебно-эвакуационного обеспечения пораженных на втором этапе:",
+        "Последовательность в выполнении всех видов медицинской помощи на 1-2 этапах медицинской эвакуации",
+        "Своевременность оказания первой медицинской помощи, первой врачебной и квалифицированной медицинской помощи",
+        "Преемственность в последовательно проводимых лечебно-профилактических мероприятиях и своевременность их выполнения",
+        "Своевременность розыска, выноса и эвакуации поражённых, преемственность в их лечении",
+        "Последовательность в проведении лечебно-профилактических мероприятий и своевременность в лечении пораженных до окончательного исхода"
+      ]
+    },
+    {
+      "id": "medKat_210",
+      "arr": [
+        "Дайте наиболее полное определение понятия “медицинская сортировка”",
+        "Распределение пораженных на однородные группы по характеру поражения",
+        "Выделение пораженных, нуждающихся в неотложной медицинской помощи",
+        "Распределение пораженных на группы нуждающихся в медицинской помощи и эвакуации",
+        "Метод распределения пораженных на группы нуждающихся в однородных лечебно-профилактических и эвакуационных мероприятиях",
+        "Метод распределения пораженных по функциональным подразделениям ЛПУ"
+      ]
+    },
+    {
+      "id": "medKat_211",
+      "arr": [
+        "Укажите правильный объем мероприятий первой медицинской помощи в очаге катастрофы с динамическими (механическим",
+        "факторами поражения:",
+        "Временная остановка кровотечения, искусственное дыхание, закрытие ран повязками, иммобилизация конечностей табельными и подручными средствами",
+        "Применение сердечно-сосудистых средств, устранение асфиксии, искусственное дыхание, непрямой массах сердца, введение наркотических анальгетиков, наложение асептических повязок, транспортная иммобилизация",
+        "Временная остановка наружного кровотечения, обезболивание, прием антибиотиков, асептические повязки, транспортная иммобилизация конечностей",
+        "Простейшие противошоковые мероприятия, временная остановка кровотечения, эвакуация",
+        "Окончательная остановка наружного кровотечения, введение промедола, асептические повязки, транспортная иммобилизация, устранение асфиксии"
+      ]
+    },
+    {
+      "id": "medKat_212",
+      "arr": [
+        "Транспортабельность инфекционного больного определяется:",
+        "Тяжестью состояния пациента",
+        "Наличием свободного транспорта",
+        "Возможностью санитарной обработки транспорта",
+        "Временным фактором",
+        "Загруженностью ЛПУ"
+      ]
+    },
+    {
+      "id": "medKat_213",
+      "arr": [
+        "Что не входит в понятие «эвакуационный признак»:",
+        "Необходимость эвакуации",
+        "Очередность эвакуации",
+        "Должность пострадавшего",
+        "Положение пораженного на транспорте",
+        "Вид транспорта"
+      ]
+    },
+    {
+      "id": "medKat_214",
+      "arr": [
+        "Чем отличается специализированная медицинская помощь пострадавшим от квалифицированной медицинской помощи:",
+        "Объемом медицинской помощи",
+        "Качеством медицинской помощи",
+        "Оказание медицинской помощи специалистами строго определённой научной степени",
+        "Оказание медицинской помощи врачом или фельдшером",
+        "Принципиального различия нет"
+      ]
+    },
+    {
+      "id": "medKat_215",
+      "arr": [
+        "Первая помощь не включает:",
+        "Временную остановку кровотечения",
+        "Транспортную иммобилизацию подручными средствами",
+        "Искусственное дыхание",
+        "Наложение трахеостомы",
+        "Наложение асептической повязки"
+      ]
+    },
+    {
+      "id": "medKat_216",
+      "arr": [
+        "При массовом поступлении пострадавших на этапе первой врачебной помощи не обязательно:",
+        "Окончательная остановка кровотечения",
+        "Плевральная пункция при клапанном пневмотораксе по неотложным показаниям",
+        "Трансфузионная терапия при шоке по неотложным показаниям",
+        "Заполнение первичной медицинской карты по неотложнымпоказаниям",
+        "Катетеризация или пункция мочевого пузыря по неотложным показаниям"
+      ]
+    },
+    {
+      "id": "medKat_217",
+      "arr": [
+        "К комбинированным повреждениям относятся:",
+        "Ранение одним ранящим снарядом нескольких областей тела",
+        "Ранение несколькими снарядами одной или нескольких областей",
+        "Одновременное повреждение несколькими повреждающими факторами (ожог и механические повреждения)",
+        "Повреждение нескольких органов одной полости",
+        "Одновременное повреждение мышц, кости, сосудов и нервов конечности"
+      ]
+    },
+    {
+      "id": "medKat_218",
+      "arr": [
+        "На приемно-сортировочной площадке этапа все раненные и больные сортируются на группы:",
+        "Раненые и больные хирургического профиля",
+        "Раненые и больные терапевтического профиля",
+        "Нуждающиеся в специальной обработке",
+        "Нуждающиеся в медицинской помощи на данном этапе и подлежащие дальнейшей эвакуации",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_219",
+      "arr": [
+        "Внутрипунктовая сортировка заключается в:",
+        "Определении положения раненых и больных при эвакуации",
+        "Определении очередности направления и распределении ра-неных и больных между функциональными подразделениями данного этапа",
+        "Определении вида транспорта для дальнейшей эвакуации",
+        "Определении способа дальнейшей эвакуации",
+        "Определении очерёдности дальнейшей эвакуации"
+      ]
+    },
+    {
+      "id": "medKat_220",
+      "arr": [
+        "К санитарным потерям относятся:",
+        "Лица, у которых нарушились условия жизнедеятельности в результате ЧС",
+        "Погибшие в момент возникновения ЧС",
+        "Лица, утратившие работоспособность не менее чем на сутки и поступившие в медицинские пункты и лечебные учреждения",
+        "Пропавшие без вести",
+        "Погибшие до поступления на первый этап медицинской эвакуации"
+      ]
+    },
+    {
+      "id": "medKat_221",
+      "arr": [
+        "К мероприятиям первой помощи по борьбе с кровотечением относятся:",
+        "Наложение жгута",
+        "Ушивание сосуда в ране",
+        "Наложение специального зажима на кровоточащий сосуд",
+        "Электрокоагуляция кровоточащего сосуда",
+        "Введение кровоостанавливающих препаратов"
+      ]
+    },
+    {
+      "id": "medKat_222",
+      "arr": [
+        "Сортировочные марки применяют для обозначения:",
+        "Тяжести состояния поражённого",
+        "Определения положения раненых и больных при эвакуации",
+        "Функционального подразделения этапа, куда направлен ране-ный или больной и очерёдности его доставки",
+        "Особенностей эвакуации пострадавших",
+        "Локализации поражения"
+      ]
+    },
+    {
+      "id": "medKat_223",
+      "arr": [
+        "Пострадавшие с тяжелой и средней тяжести повреждениями, не представляющими непосредственной угрозы для жизни относятся к:",
+        "I сортировочной группе",
+        "II сортировочной группе",
+        "III сортировочной группе",
+        "IV сортировочной группе",
+        "V сортировочной группе"
+      ]
+    },
+    {
+      "id": "medKat_224",
+      "arr": [
+        "Пострадавшие с крайне тяжелыми, несовместимыми с жизнью повреждениями, а также находящиеся в терминальном состоянии относятся к:",
+        "I сортировочной группе",
+        "II сортировочной группе",
+        "III сортировочной группе",
+        "IV сортировочной группе",
+        "V сортировочной группе"
+      ]
+    },
+    {
+      "id": "medKat_225",
+      "arr": [
+        "Пострадавшие с легкими повреждениями, не нуждающиеся в оказании медицинской помощи на данном этапе относятся к:",
+        "I сортировочной группе",
+        "II сортировочной группе",
+        "III сортировочной группе",
+        "IV сортировочной группе",
+        "V сортировочной группе"
+      ]
+    },
+    {
+      "id": "medKat_226",
+      "arr": [
+        "Пострадавшие с тяжелыми повреждениями, сопровождающимися быстро нарастающими опасными для жизни расстрой- ствами основных функций организма, для устранения которых необходимо срочное принятие лечебно-профилактических мер относятся к:",
+        "I сортировочной группе",
+        "II сортировочной группе",
+        "III сортировочной группе",
+        "IV сортировочной группе",
+        "V сортировочной группе"
+      ]
+    },
+    {
+      "id": "medKat_227",
+      "arr": [
+        "Пострадавшие с повреждениями средней тяжести с не резко выраженными функциональными расстройствами или без таковых относятся к:",
+        "I сортировочной группе",
+        "II сортировочной группе",
+        "III сортировочной группе",
+        "IV сортировочной группе",
+        "V сортировочной группе"
+      ]
+    },
+    {
+      "id": "medKat_228",
+      "arr": [
+        "Основные задачи санитарных дружин, работающих в очагах поражения:",
+        "Проведение спасательных работ",
+        "Транспортировка пострадавших в лечебные учреждения",
+        "Проведение санитарно-гигиенических мероприятий",
+        "Оказание первой помощи",
+        "Оказание доврачебной помощи"
+      ]
+    },
+    {
+      "id": "medKat_229",
+      "arr": [
+        "Мероприятия, выполняемые при оказании первой помощи:",
+        "Наложение асептических повязок на раны",
+        "Введение обезболивающих лекарственных средств",
+        "Иммобилизация конечностей при переломах костей",
+        "Проведение искусственного дыхания и непрямого массажа сердца",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_230",
+      "arr": [
+        "Медицинская сортировка проводится на основании:",
+        "Осмотра",
+        "Диагноза и прогноза",
+        "Опроса",
+        "Анамнеза и прогноза",
+        "Анамнеза"
+      ]
+    },
+    {
+      "id": "medKat_231",
+      "arr": [
+        "Эвакуация населения при чрезвычайных ситуациях осуществляется по:",
+        "Показателям общего состояния пострадавших",
+        "Возрастным показателям",
+        "Эвакуационно -сортировочным признакам",
+        "Наличие транспортных средств",
+        "Наличию лечебных учреждений"
+      ]
+    },
+    {
+      "id": "medKat_232",
+      "arr": [
+        "На этапе медицинской эвакуации проводятся основные мероприятия:",
+        "Медицинская сортировка",
+        "Оказание определённого вида медицинской помощи",
+        "Изоляция пораженных и лиц с подозрением на наличие инфекционного заболевания",
+        "Подготовка к эвакуации в специализированные лечебные учреждения",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_233",
+      "arr": [
+        "Общие задачи этапов медицинской эвакуации:",
+        "Приём и временное размещение раненых и поражённых",
+        "Изоляция инфекционных больных",
+        "Подготовка раненых и пораженных к дальнейшей эвакуации",
+        "Оказание определённого вида медицинской помощи",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_234",
+      "arr": [
+        "Мероприятия, проводимые при оказании первой врачебной помощи:",
+        "Окончательная остановка наружного и внутреннего кровотечения",
+        "Проведение функциональной диагностики",
+        "Проведение новокаиновых блокад",
+        "Хирургические вмешательства по жизненным показаниям",
+        "Патологоанатомические исследования"
+      ]
+    },
+    {
+      "id": "medKat_235",
+      "arr": [
+        "Основным принципом в оказании медицинской помощи в очаге чрезвычайной ситуации является:",
+        "Преемственность, непрерывность, конкретность",
+        "Непрерывность,",
+        "Своевременность и полнота первой помощи",
+        "Последовательность",
+        "Конкретность"
+      ]
+    },
+    {
+      "id": "medKat_236",
+      "arr": [
+        "Мероприятия, выполняемые в сортировочно-эвакуационном отделении все, кроме",
+        "Заполнение истории болезни",
+        "Проведение внутрипунктовой сортировки",
+        "Заполнение карточки первичного медицинского учёта",
+        "Временная госпитализация нетранспортабельных",
+        "Введение противостолбнячной сыворотки"
+      ]
+    },
+    {
+      "id": "medKat_237",
+      "arr": [
+        "На сортировочной площадке выделяют группы:",
+        "Нуждающихся в оказании неотложной хирургической помощи",
+        "Нуждающихся в проведении полной санитарной обработки",
+        "Нуждающихся во временной изоляции",
+        "Поражённых, у которых невозможно установить ведущее поражение для их эвакуации",
+        "Все выше перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_238",
+      "arr": [
+        "Какой фактор обстановки заставляет применять систему этапного лечения?",
+        "Значительные санитарные потери одномоментно или в короткий отрезок времени",
+        "Массовые инфекционные заболевания в очаге бактериологического заражения",
+        "Неблагоприятные метеорологические условия",
+        "Недостаточное количество эвакуационного транспорта",
+        "Недостаточное количество лечебных учреждений"
+      ]
+    },
+    {
+      "id": "medKat_239",
+      "arr": [
+        "Какой фактор обстановки заставляет применять систему этапного лечения?",
+        "Недостаточное количество пунктов медицинской помощи",
+        "Нуждаемость значительной части поражённых в первой помощи и стационарном лечении",
+        "Массовые инфекционные заболевания в очаге бактериологического заражения",
+        "Неблагоприятные метеорологические условия",
+        "Недостаточное количество эвакуационного транспорта"
+      ]
+    },
+    {
+      "id": "medKat_240",
+      "arr": [
+        "Мероприятия, проводимые при оказании первой врачебной помощи",
+        "Окончательная остановка наружного и внутреннего кровотечения",
+        "Введение антибиотиков и столбнячного анатоксина",
+        "Проведение новокаиновых блокад",
+        "Оперативные вмешательства при проникающих ранениях",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_241",
+      "arr": [
+        "Оптимальный срок оказания специализированной медицинской помощи:",
+        "До 12 часов",
+        "До 1 суток",
+        "До 3 суток",
+        "До 4 суток",
+        "До 5 суток"
+      ]
+    },
+    {
+      "id": "medKat_242",
+      "arr": [
+        "Основные группы, выделяемые при проведении внутрипунктовой медицинской сортировки:",
+        "Больные, нуждающиеся в проведении однородных лечебно-профилактических мероприятий",
+        "Лица, нуждающиеся в изоляционных мероприятиях",
+        "Нуждающиеся в очерёдности оказания медицинской помощи",
+        "Нуждающиеся в проведении частичной или полной санитарной обработки",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_243",
+      "arr": [
+        "При больших санитарных потерях в ЧС используется система ЛЭО:",
+        "Многоэтапная",
+        "Одноэтапная",
+        "Двухэтапная",
+        "Трёхэтапная",
+        "Комбинированная"
+      ]
+    },
+    {
+      "id": "medKat_244",
+      "arr": [
+        "На первом этапе медицинской эвакуации оказываются все виды помощи кроме:",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Полиативная медицинская помощь",
+        "Первая врачебная помощь",
+        "Первичная специализированная помощь"
+      ]
+    },
+    {
+      "id": "medKat_245",
+      "arr": [
+        "На II этапе медицинской эвакуации оказывается:",
+        "Доврачебная помощь",
+        "Первая помощь",
+        "Догоспитальная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная и специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_246",
+      "arr": [
+        "На этапе медицинской эвакуации проводятся основные мероприятия:",
+        "Медицинская сортировка",
+        "Оказание определённого вида медицинской помощи",
+        "Изоляция пораженных и лиц с подозрением на наличие инфекционного заболевания",
+        "Подготовка к эвакуации в специализированные лечебные учреждения",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_247",
+      "arr": [
+        "Общие задачи этапов медицинской эвакуации:",
+        "Приём и временное размещение раненых и поражённых",
+        "Изоляция инфекционных больных",
+        "Подготовка раненых и пораженных к дальнейшей эвакуации",
+        "Оказание определённого вида медицинской помощи",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_248",
+      "arr": [
+        "На сортировочной площадке работают:",
+        "Носилочные звенья",
+        "Врачебные сортировочные бригады",
+        "Медицинские сёстры отделений",
+        "Личный состав приёмного отделения больницы",
+        "Персонал санитарного поста"
+      ]
+    },
+    {
+      "id": "medKat_249",
+      "arr": [
+        "Состав сортировочной бригады на сортировочной площадке:",
+        "Врач-хирург",
+        "Дозиметрист (на все бригады)",
+        "Медицинская сестра в каждой бригаде",
+        "Медицинский регистратор в каждой бригаде",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_250",
+      "arr": [
+        "Какой фактор обстановки заставляет применять систему этапного лечения?",
+        "Неблагоприятные метеорологические условия",
+        "Плохое водоснабжение",
+        "Наличие сохранившихся специализированных лечебных учреждений",
+        "Значительные, быстро возникшие санитарные потери",
+        "Массовые инфекционные заболевания в очаге бактериологического заражения"
+      ]
+    },
+    {
+      "id": "medKat_251",
+      "arr": [
+        "Какой фактор обстановки заставляет применять систему этапного лечения?",
+        "Нуждаемость большинства поражённых в первой помощи",
+        "Массовые инфекционные заболевания в очаге бактериологического заражения",
+        "Неблагоприятные метеорологические условия",
+        "Недостаточное количество эвакуационного транспорта",
+        "Недостаточное количество лечебных учреждений"
+      ]
+    },
+    {
+      "id": "medKat_252",
+      "arr": [
+        "Какой фактор обстановки заставляет применять систему этапного лечения?",
+        "Недостаточное количество пунктов медицинской помощи",
+        "Нуждаемость значительной части поражённых в специализированной медицинской помощи и стационарном лечении",
+        "Массовые инфекционные заболевания в очаге бактериологического заражения",
+        "Неблагоприятные метеорологические условия",
+        "Недостаточное количество эвакуационного транспорта"
+      ]
+    },
+    {
+      "id": "medKat_253",
+      "arr": [
+        "Какой фактор обстановки заставляет применять систему этапного лечения?",
+        "Недостаточное количество пунктов медицинской помощи",
+        "Наличие хороших путей эвакуации",
+        "Достаточное количество специализированных лечебных учреждений за зоной ЧС",
+        "Массовые инфекционные заболевания в очаге бактериологического заражения",
+        "Нехватка сил и средств здравоохранения вблизи зоны ЧС"
+      ]
+    },
+    {
+      "id": "medKat_254",
+      "arr": [
+        "Какой фактор обстановки заставляет применять систему этапного лечения?",
+        "Достаточное количество пунктов медицинской помощи",
+        "Массовые инфекционные заболевания в очаге бактериологического заражения",
+        "Достаточное количество эвакуационного транспорта",
+        "Невозможность оказания всем нуждающимся квалифицированной и специализированной медицинской помощи",
+        "Недостаточное количество поисково-спасательных отрядов"
+      ]
+    },
+    {
+      "id": "medKat_255",
+      "arr": [
+        "В ходе решения какой задачи пункт медицинской помощи освобождается для приёма последующих групп пострадавших?",
+        "Развёртывание пункта сбора пострадавших в районе очага поражения",
+        "Проведение медицинской сортировки",
+        "Оказание первой врачебной помощи по жизненным показаниям",
+        "Организация эвакуации пострадавших с пункта сбора в лечебные учреждения",
+        "Достаточное количество транспорта для эвакуации поражённых из ПМП"
+      ]
+    },
+    {
+      "id": "medKat_256",
+      "arr": [
+        "Какой группе поражённых первая врачебная помощь по жизненным показаниям должна быть оказана в районе очага поражения в первую очередь?",
+        "Лица с тяжёлыми повреждениями, с быстро нарастающими опасными для жизни расстройствами",
+        "Поражённые средней тяжести",
+        "Легко пострадавшие",
+        "Пострадавшие в крайне тяжёлом состоянии",
+        "Пострадавшие с тяжёлыми и средними тяжестями повреждениями, не представляющими непосредственной угрозы для жизни"
+      ]
+    },
+    {
+      "id": "medKat_257",
+      "arr": [
+        "Какая группа пострадавших отдельным потоком направляется на амбулаторное лечение?",
+        "Лица в тяжёлом состоянии",
+        "Поражённые средней тяжести",
+        "Легко пострадавшие",
+        "Пострадавшие в крайне тяжёлом состоянии",
+        "Лица, не нуждающиеся в оказании медицинской помощи"
+      ]
+    },
+    {
+      "id": "medKat_258",
+      "arr": [
+        "Какая группа поражённых нуждается в облегчении страданий?",
+        "Лица в тяжёлом состоянии",
+        "Поражённые средней тяжести",
+        "Легко пострадавшие",
+        "Пострадавшие в крайне тяжёлом состоянии",
+        "Пострадавшие с тяжёлыми и средними тяжестями повреждениями, не представляющими непосредственной угрозы для жизни"
+      ]
+    },
+    {
+      "id": "medKat_259",
+      "arr": [
+        "Проведение какого мероприятия при оказании первой врачебной помощи, направлено на профилактику шока?",
+        "Остановка наружного кровотечения",
+        "Устранение недостатков транспортной иммобилизации",
+        "Восстановление проходимости дыхательных путей",
+        "Закрытый массаж сердца",
+        "Введение кровезаменителей, проведение новокаиновых блокад, введение обезболивающих и сердечно-сосудистых средств"
+      ]
+    },
+    {
+      "id": "medKat_260",
+      "arr": [
+        "Проведение какого мероприятия при оказании первой врачебной помощи, направлено на профилактику шока?",
+        "Остановка наружного кровотечения",
+        "Устранение недостатков транспортной иммобилизации",
+        "Отсечение конечности, висящей на лоскуте мягких тканей",
+        "Наложение асептической повязки при обширных ожогах",
+        "Введение кровезаменителей, проведение новокаиновых блокад, введение обезболивающих и сердечно-сосудистых средств"
+      ]
+    },
+    {
+      "id": "medKat_261",
+      "arr": [
+        "Проведение какого мероприятия направлено на восстановление жизнедеятельности организма?",
+        "Остановка наружного кровотечения",
+        "Устранение недостатков транспортной иммобилизации",
+        "Закрытый массаж сердца, введение сердечно-сосудистых средств",
+        "Введение кровезаменителей, согревание",
+        "Наложение асептической повязки при обширных ожогах"
+      ]
+    },
+    {
+      "id": "medKat_262",
+      "arr": [
+        "Проведение какого мероприятия направлено на восстановление жизнедеятельности организма?",
+        "Остановка наружного кровотечения",
+        "Устранение недостатков транспортной иммобилизации",
+        "Устранение асфиксии",
+        "Введение кровезаменителей, согревание",
+        "Наложение асептической повязки при обширных ожогах"
+      ]
+    },
+    {
+      "id": "medKat_263",
+      "arr": [
+        "Для проведения каких мероприятий на этапе медицинской эвакуации развёрнуто эвакуационное отделение (подразделение этапа медицинской эвакуации)?",
+        "Приёма раненных и больных",
+        "Медицинской сортировки раненных и больных",
+        "Оказания медицинской помощи раненным и больным",
+        "Лечения раненных и больных",
+        "Подготовки к дальнейшей эвакуации"
+      ]
+    },
+    {
+      "id": "medKat_264",
+      "arr": [
+        "Решение какой задачи позволяет обезопасить персонал и больных от лиц, представляющих опасность для окружающих?",
+        "Приёма раненных и больных",
+        "Медицинской сортировки раненных и больных",
+        "Подготовки к дальнейшей эвакуации",
+        "Оказания медицинской помощи раненным и больным",
+        "Изоляции инфекционных больных и лиц, находящихся в острых реактивных состояниях"
+      ]
+    },
+    {
+      "id": "medKat_265",
+      "arr": [
+        "В каком подразделении этапа медицинской эвакуации проводят эвакуационно-транспортную сортировку?",
+        "Сортировочный пост",
+        "Приёмно-сортировочное",
+        "Специальной (санитарно",
+        "обработки",
+        "Перевязочное",
+        "Эвакуационное"
+      ]
+    },
+    {
+      "id": "medKat_266",
+      "arr": [
+        "В каком подразделении этапа медицинской эвакуации осуществляется внутрипунктовая сортировка?",
+        "Сортировочный пост",
+        "Приёмно-сортировочное",
+        "Перевязочное",
+        "Эвакуационное",
+        "Изоляторы для инфекционных больных и лиц, находящихся в острых реактивных состояниях"
+      ]
+    },
+    {
+      "id": "medKat_267",
+      "arr": [
+        "В каком подразделении осуществляется регистрация поступающих?",
+        "Сортировочный пост",
+        "Приёмно-сортировочное",
+        "Специальной (санитарно",
+        "обработки",
+        "Перевязочное",
+        "Эвакуационное"
+      ]
+    },
+    {
+      "id": "medKat_268",
+      "arr": [
+        "В каком подразделении осуществляется санитарная обработка поступивших, дегазация и дезактивация обмундирования, личных вещей?",
+        "Сортировочный пост",
+        "Приёмно-сортировочное",
+        "Специальной (санитарно",
+        "обработки",
+        "Изоляторы для инфекционных больных и лиц, находящихся в острых реактивных состояниях",
+        "Эвакуационное"
+      ]
+    },
+    {
+      "id": "medKat_269",
+      "arr": [
+        "В каких подразделения из общего потока выделяются пострадавшие, представляющие опасность для окружающих?",
+        "Сортировочный пост",
+        "Приёмно-сортировочное",
+        "Специальной (санитарно",
+        "обработки",
+        "Изоляторы для инфекционных больных и лиц, находящихся в острых реактивных состояниях",
+        "Перевязочное"
+      ]
+    },
+    {
+      "id": "medKat_270",
+      "arr": [
+        "Какой вид медицинской помощи оказывается средним медицинским персоналом фельдшерских, врачебно-сестринских бригад и бригад скорой медицинской помощи в непосредственной близости от места поражения?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_271",
+      "arr": [
+        "Назначением какого вида медицинской помощи является борьба с угрожающими жизни расстройствами, защита ран от вторичного инфицирования, контроль за правильностью оказания первой помощи, а также предупреждение развития последующих осложнений?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_272",
+      "arr": [
+        "Основными задачами какого вида медицинской помощи является борьба с угрожающими жизни явлениями, профилактика осложнений и подготовка поражённых к дальнейшей эвакуации?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_273",
+      "arr": [
+        "Какой вид медицинской помощи оказывается врачами бригад скорой медицинской помощи и врачебно-сестринскими бригадами?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_274",
+      "arr": [
+        "Оптимальный срок оказания какого вида медицинской помощи, выполняемого по неотложным показаниям, составляет до 12 часов с момента поражения?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_275",
+      "arr": [
+        "Какой объём медицинской помощи включает мероприятия первой врачебной помощи, имеющие оптимальный срок оказания, не превышающий 5 часов?",
+        "Объём неотложных мероприятий",
+        "Объём мероприятий, которые могут быть отсрочены",
+        "Полный объём медицинской помощи",
+        "Сокращённый объём медицинской помощи",
+        "Объём первой врачебной помощи с элементами квалифицированной"
+      ]
+    },
+    {
+      "id": "medKat_276",
+      "arr": [
+        "В какой группе важнейшей задачей является выделение пострадавших, требующих своевременного оказания медицинской помощи по неотложным показаниям?",
+        "Опасные для окружающих",
+        "Пострадавшие, требующие оказания медицинской помощи по неотложным показаниям",
+        "Пострадавшие, нуждающиеся в оказании вида медицинской помощи, присущего данному этапу, но помощь которым может быть отсрочена",
+        "Легкопоражённые",
+        "Агонирующие"
+      ]
+    },
+    {
+      "id": "medKat_277",
+      "arr": [
+        "Какая группа пострадавших нуждается в отсроченной медицинской помощи?",
+        "Опасные для окружающих",
+        "Пострадавшие, требующие оказания медицинской помощи по неотложным показаниям",
+        "Пострадавшие, нуждающиеся в оказании вида медицинской помощи, присущего данному этапу, но помощь которым может быть отсрочена",
+        "Легкопоражённые",
+        "Агонирующие"
+      ]
+    },
+    {
+      "id": "medKat_278",
+      "arr": [
+        "Какая группа раненых и больных нуждается только в облегчении страданий?",
+        "Опасные для окружающих",
+        "Пострадавшие, требующие оказания медицинской помощи по неотложным показаниям",
+        "Пострадавшие, нуждающиеся в оказании вида медицинской помощи, присущего данному этапу, но помощь которым может быть отсрочена",
+        "Легкопоражённые",
+        "Агонирующие"
+      ]
+    },
+    {
+      "id": "medKat_279",
+      "arr": [
+        "Какое мероприятие должен выполнить врач скорой медицинской помощи, первым прибывший к месту бедствия для определения состава и количества необходимых сил и средств усиления?",
+        "Приступает к оказанию первой медицинской и первой врачебной помощи по жизненным показаниям",
+        "Осуществляет медицинскую сортировку",
+        "Осуществляет эвакуационно-транспортную сортировку",
+        "Оценивает медицинскую обстановку",
+        "Докладывает обстановку главному врачу станции скорой медицинской помощи или руководителю здравоохранения, а также о необходимости усиления"
+      ]
+    },
+    {
+      "id": "medKat_280",
+      "arr": [
+        "При проведении каких мероприятий врач, прибывший в очаг поражения, должен определять приоритетность оказания медицинской помощи по жизненным показаниям?",
+        "Развёртывают пункты сбора пострадавших в районе очага поражения",
+        "Проводят медицинскую сортировку",
+        "Оказывают первую врачебную помощь по жизненным показаниям",
+        "Организуют эвакуацию пострадавших в пункты сбора",
+        "Организует эвакуацию пострадавших в лечебные учреждения"
+      ]
+    },
+    {
+      "id": "medKat_281",
+      "arr": [
+        "При проведении каких мероприятий врач, прибывший в очаг поражения должен определить, какие жизненно важные органы повреждены?",
+        "При развёртывании пункта сбора пострадавших в районе очага поражения",
+        "При проведении медицинской сортировки",
+        "При оказании первой врачебной помощи по жизненным показаниям",
+        "При организации эвакуации пострадавших в пункт сбора",
+        "При эвакуации поражённых в лечебные учреждения"
+      ]
+    },
+    {
+      "id": "medKat_282",
+      "arr": [
+        "На какой основной вопрос должен ответить врач сортировочной бригады при осмотре пострадавшего?",
+        "Прогноз на выживание",
+        "Очерёдность оказания медицинской помощи по жизненным показаниям",
+        "Объём лечебных мероприятий, проведение которых необходимо осуществлять немедленно",
+        "Определить, какие жизненно важные органы повреждены",
+        "Очерёдность эвакуации в лечебные учреждения"
+      ]
+    },
+    {
+      "id": "medKat_283",
+      "arr": [
+        "Выполнением каких мероприятий врач достигает цели первой врачебной помощи в районе очага бедствия и устраняет непосредственную угрозу жизни пострадавших?",
+        "Прогноз на выживание",
+        "Очерёдность оказания медицинской помощи по жизненным показаниям",
+        "Объём лечебных мероприятий, проведение которых необходимо осуществлять немедленно",
+        "Определить, какие жизненно важные органы повреждены",
+        "Очерёдность эвакуации в лечебные учреждения"
+      ]
+    },
+    {
+      "id": "medKat_284",
+      "arr": [
+        "Пострадавшие какой группы подлежат первоочередной эвакуации в квалифицированные лечебные учреждения?",
+        "Первая группа – лица, врачебная помощь которым должна быть оказана немедленно",
+        "Вторая группа – лица, оказание врачебной помощи которым может быть отсрочено на 6-8 часов",
+        "Третья группа – пострадавшие с тяжёлыми повреждениями, сопровождающимися быстро нарастающими опасными для жизни расстройствами",
+        "Четвёртая группа – агонирующие",
+        "Пятая группа – пострадавшие, имеющие проникающие ранения грудной и брюшной полости, органов таза"
+      ]
+    },
+    {
+      "id": "medKat_285",
+      "arr": [
+        "Какой группе поражённых оказание первой врачебной помощи и эвакуация осуществляется во вторую очередь?",
+        "Первая группа – лица, врачебная помощь которым должна быть оказана немедленно",
+        "Вторая группа – лица, оказание врачебной помощи которым может быть отсрочено на 6-8 часов",
+        "Третья группа – пострадавшие с черепно-мозговой травмой и повреждениями спинного мозга, легкопоражённые с переломами малых костей, средними и малыми повреждениями мягких тканей, вывихами, травмами глаз, лица, челюсти",
+        "Четвёртая группа – агонирующие",
+        "Пятая группа – пострадавшие с лёгкими повреждениями"
+      ]
+    },
+    {
+      "id": "medKat_286",
+      "arr": [
+        "Поражённые какой группы нуждаются только в облегчении страданий?",
+        "Первая группа – лица, врачебная помощь которым должна быть оказана немедленно",
+        "Вторая группа – лица, оказание врачебной помощи которым может быть отсрочено на 6-8 часов",
+        "Третья группа – пострадавшие с черепно-мозговой травмой и повреждениями спинного мозга, легкопоражённые с переломами малых костей, средними и малыми повреждениями мягких тканей, вывихами, травмами глаз, лица, челюсти",
+        "Четвёртая группа – агонирующие",
+        "Пятая группа – пострадавшие с лёгкими повреждениями"
+      ]
+    },
+    {
+      "id": "medKat_287",
+      "arr": [
+        "Какая группа поражённых эвакуируется в лечебные учреждения, где имеются хирургические отделения?",
+        "Нуждающиеся в первой врачебной помощи по жизненным показаниям",
+        "Поражённые, которые могут быть эвакуированы без оказания им первой врачебной помощи",
+        "Легко пострадавшие, отдельным потоком направляемые в стационары для легкопоражённых",
+        "Раненые с комбинированными поражениями",
+        "Агонирующие"
+      ]
+    },
+    {
+      "id": "medKat_288",
+      "arr": [
+        "Оптимальный состав сортировочной бригады для легкопоражённых на первом этапе медицинской эвакуации",
+        "Врач, 2 медсестры, 2 регистратора",
+        "Врач, медсестра, регистратор",
+        "Врач, 2медсестры",
+        "Врач, 2медсестры, регистратор",
+        "2 медсестры, регистратор"
+      ]
+    },
+    {
+      "id": "medKat_289",
+      "arr": [
+        "Оптимальный состав сортировочной бригады для носилочных поражённых на первом этапе медицинской эвакуации",
+        "Врач, фельдшер, регистратор, звено носильщиков",
+        "Врач, фельдшер, медицинская сестра, регистратор, звено носильщиков",
+        "Врач, фельдшер, медицинская сестра, 2 регистратора, звено носильщиков",
+        "2 врача, 2 медсестры, 2 регистратора, 2 звена носильщиков",
+        "2 врача, фельдшер, 2 регистратора, звено носильщиков"
+      ]
+    },
+    {
+      "id": "medKat_290",
+      "arr": [
+        "В выполнении какой задачи этапа медицинской эвакуации будут нуждаться в первую очередь пострадавшие, кожные покровы и одежда которых заражены АОХВ или РВ?",
+        "Медицинской сортировки раненных и больных",
+        "Оказания медицинской помощи раненным и больным",
+        "Полная специальная обработки раненных и больных",
+        "Подготовки к дальнейшей эвакуации",
+        "Приёма раненных и больных"
+      ]
+    },
+    {
+      "id": "medKat_291",
+      "arr": [
+        "Какой вид медицинской помощи оказывается на месте поражения в порядке самои взаимопомощи, бригадами машин “скорой помощи”, врачебно-сестринскими бригадами линейных больниц врачебно-санитарной службы железной дороги?",
+        "Первая врачебная помощь в полном объёме",
+        "Первая помощь",
+        "Эвакуация в близлежащие лечебные учреждения",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_292",
+      "arr": [
+        "Какие виды медицинской помощи оказываются на ПМП в пунктах сбора поражённых, развёрнутых непосредственно в районе происшествия?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь по жизненным показаниям",
+        "Эвакуация в близлежащие лечебные учреждения",
+        "Квалифицированная и специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_293",
+      "arr": [
+        "Для оказания какого вида медицинской помощи могут быть использованы восстановительные поезда, в составе каждого из которых имеются санитарные вагоны с соответствующим оборудованием и персоналом?",
+        "Первая помощь",
+        "Доврачебная медицинская помощь",
+        "Эвакуация в близлежащие лечебные учреждения",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_294",
+      "arr": [
+        "К видам медицинской сортировки относят:",
+        "Внутрипунктовую и эвакуационно-транспортную",
+        "Доврачебную, врачебную, квалифицированную и специализированную",
+        "Предварительную, основную и по предназначению",
+        "Общую, врачебную и специализированную",
+        "Доврачебную, врачебную и квалифицированную"
+      ]
+    },
+    {
+      "id": "medKat_295",
+      "arr": [
+        "При медицинской сортировке на первом этапе медицинской эвакуации заполняется:",
+        "Журнал учёта",
+        "Амбулаторная карта",
+        "История болезни",
+        "Сортировочная марка",
+        "Первичная медицинская карточка"
+      ]
+    },
+    {
+      "id": "medKat_296",
+      "arr": [
+        "Причиной гибели большинства пострадавших при чрезвычайных ситуациях является:",
+        "Несвоевременность оказания медицинской помощи",
+        "Воздействие механического поражающего фактора",
+        "Недостаточное обеспечение средствами защиты",
+        "Неорганизованные эвакуационные мероприятия",
+        "Реактивные психозы и острые невротические реакции"
+      ]
+    },
+    {
+      "id": "medKat_297",
+      "arr": [
+        "Определение понятия «этап медицинской эвакуации»:",
+        "время проведения эвакуации пораженного населения из очага в больницы загородной зоны (от первого до последнего транспорта, независимо от его вида)",
+        "территория (участок, район), на который оказывается медицинская помощь пораженным в очаге и организуется их вывоз",
+        "место оказания медицинской помощи пораженному в очаге и медицинское учреждение, в которое эвакуируется пораженный",
+        "силы и средства здравоохранения, развернутые на путях эвакуации, обеспечивающие прием пораженных, их сортировку, оказание медицинской помощи и лечение, подготовку пораженных к эвакуации",
+        "время нахождения пораженного населения в период его эвакуации из очага в больницу загородной зоны на транспортных средствах."
+      ]
+    },
+    {
+      "id": "medKat_298",
+      "arr": [
+        "Основные требования, предъявляемые к оказанию медицинской помощи в двухэтапной системе лечебно-эвакуационного обеспечения пораженных на первом этапе:",
+        "последовательность в выполнении всех видов медицинской помощи на 1-2 этапах медицинской эвакуации",
+        "своевременность оказания первой медицинской помощи, первой врачебной и квалифицированной медицинской помощи",
+        "конкретность, преемственность и последовательность проводимых лечебно-профилактических мероприятиях, своевременность их выполнения",
+        "своевременность розыска, выноса и эвакуации поражённых, преемственность в их лечении",
+        "последовательность в проведении лечебно-профилактических мероприятий и своевременность в лечении пораженных до окончательного исхода"
+      ]
+    },
+    {
+      "id": "medKat_299",
+      "arr": [
+        "Медицинская сортировка ЭТО:",
+        "распределение пораженных на однородные группы по характеру поражения",
+        "выделение пораженных, нуждающихся в неотложной медицинской помощи:",
+        "распределение пораженных на группы нуждающихся в медицинской помощи и эвакуации",
+        "метод распределения пораженных на группы нуждающихся в однородных лечебно-профилактических и эвакуационных мероприятиях",
+        "метод распределения пораженных по функциональным подразделениям ОПМ (больницы)."
+      ]
+    },
+    {
+      "id": "medKat_300",
+      "arr": [
+        "Чем отличается специализированная медицинская помощь пострадавшим от квалифицированной медицинской помощи:",
+        "объемом медицинской помощи:",
+        "содержанием медицинской помощи",
+        "оказание медицинской помощи специалистами в специализированных медицинских учреждениях",
+        "оказание медицинской помощи врачом или фельдшером",
+        "принципиального различия не имеется"
+      ]
+    },
+    {
+      "id": "medKat_301",
+      "arr": [
+        "Внутрипунктовая сортировка заключается в:",
+        "определении положения раненых и больных при эвакуации:",
+        "определении очередности направления на следующий этап",
+        "распределении раненых и больных между функциональнымиподразделениями этапа",
+        "определении способа дальнейшей эвакуации.",
+        "определение вида транспорта для эвакуации на следующий этап"
+      ]
+    },
+    {
+      "id": "medKat_302",
+      "arr": [
+        "Сортировочные марки применяют для обозначения:",
+        "тяжести состояния:",
+        "очередности направления раненых и больных в функциональные подразделения первого и второго этапов",
+        "расположение раненых и больных в автомобилях",
+        "особенностей эвакуации.",
+        "выбора транспортного средства"
+      ]
+    },
+    {
+      "id": "medKat_303",
+      "arr": [
+        "Основные сортировочные признаки были сформулированы:",
+        "М. Сеченовым",
+        "И. Мечниковым:",
+        "Н.И. Пироговым",
+        "А.А. Вишневским.",
+        "В.А. Опель"
+      ]
+    },
+    {
+      "id": "medKat_304",
+      "arr": [
+        "В основу организации медицинской помощи в очаге чрезвычайной ситуации положена следующая система лечебно-эвакуационного обеспечения:",
+        "трехэтапная",
+        "двухэтапная",
+        "одноэтапная",
+        "многоэтапная",
+        "все верно"
+      ]
+    },
+    {
+      "id": "medKat_305",
+      "arr": [
+        "Первый этап лечебно-эвакуационного обеспечения в очаге чрезвычайной ситуации предусматривает выполнение мероприятий:",
+        "квалифицированной медицинской помощи",
+        "первой врачебной помощи",
+        "первой медицинской помощи",
+        "доврачебной медицинской помощи.",
+        "самопомощи и взаимопомощи"
+      ]
+    },
+    {
+      "id": "medKat_306",
+      "arr": [
+        "Второй этап лечебно-эвакуационного обеспечения предусматривает выполнение мероприятий:",
+        "первой врачебной помощи",
+        "первой помощи",
+        "доврачебной медицинской помощи",
+        "специализированной медицинской помощи.",
+        "полиативной помощи"
+      ]
+    },
+    {
+      "id": "medKat_307",
+      "arr": [
+        "Назовите дозу ионизирующего излучения, при воздействии которой на организм человека возникает острая лучевая болезнь лёгкой степени",
+        "10-50 рад (0.1-0.5 Гр)",
+        "50-100 рад (0.5-1 Гр)",
+        "100-200 рад (1-2 Гр)",
+        "200-300 рад (2-3 Гр)",
+        "300-400 рад (3-4 Гр)"
+      ]
+    },
+    {
+      "id": "medKat_308",
+      "arr": [
+        "Назовите дозу ионизирующего излучения, при воздействии которой на организм человека может возникнуть острая лучевая болезнь средней тяжести?",
+        "50-100 рад (0.5-1 Гр)",
+        "100-150 рад (1-1.5 Гр)",
+        "100-200 рад (1-2 Гр)",
+        "200-400 рад (2-4 Гр)",
+        "Свыше 600 рад"
+      ]
+    },
+    {
+      "id": "medKat_309",
+      "arr": [
+        "Назовите дозу ионизирующего излучения, при воздействии которой на организм человека возникает острая лучевая болезнь тяжёлой степени",
+        "50-100 рад (0.5-1 Гр)",
+        "100-150 рад (1-1.5 Гр)",
+        "200-300 рад (2-3 Гр)",
+        "400-600 рад (4-6 Гр)",
+        "Свыше 600 рад"
+      ]
+    },
+    {
+      "id": "medKat_310",
+      "arr": [
+        "В какой из перечисленных форм может проявляться острая лучевая болезнь?",
+        "Респираторная",
+        "Костно -мозговая",
+        "Почечная",
+        "Печёночная",
+        "Кожная"
+      ]
+    },
+    {
+      "id": "medKat_311",
+      "arr": [
+        "В какой из перечисленных форм может проявляться острая лучевая болезнь?",
+        "Респираторная",
+        "Кишечная",
+        "Почечная",
+        "Печёночная",
+        "Кожная"
+      ]
+    },
+    {
+      "id": "medKat_312",
+      "arr": [
+        "Назовите предельно допустимую дозу облучения по НРБ99 для персонала, который постоянно или временно работает с источниками ионизирующего излучения",
+        "0.2 бэр в год",
+        "0.5 бэр в год",
+        "3 бэр в год",
+        "5 бэр в год",
+        "10 бэр в год"
+      ]
+    },
+    {
+      "id": "medKat_313",
+      "arr": [
+        "Назовите предельно допустимую дозу облучения по НРБ99 для населения, не работающего с источниками ионизирующего излучения",
+        "0.1 бэр в год",
+        "0.2 бэр в год",
+        "0.5 бэр в год",
+        "1 бэр в год",
+        "5 бэр в год"
+      ]
+    },
+    {
+      "id": "medKat_314",
+      "arr": [
+        "При какой дозе облучения возникает острая лучевая болезнь церебральной формы?",
+        "Свыше 10 Гр",
+        "Свыше 20 Гр",
+        "Свыше 30 Гр",
+        "Свыше 40 Гр",
+        "Свыше 50 Гр"
+      ]
+    },
+    {
+      "id": "medKat_315",
+      "arr": [
+        "При какой дозе облучения возникает острая лучевая болезнь сосудисто-токсемической формы?",
+        "4-6 Гр",
+        "10-20 Гр",
+        "20-25 Гр",
+        "40-45 Гр",
+        "Свыше 50 Гр"
+      ]
+    },
+    {
+      "id": "medKat_316",
+      "arr": [
+        "При какой дозе облучения возникает острая лучевая болезнь кишечной формы?",
+        "2-4 Гр",
+        "4-6 Гр",
+        "6-10 Гр",
+        "10-20 Гр",
+        "20-30 Гр"
+      ]
+    },
+    {
+      "id": "medKat_317",
+      "arr": [
+        "При какой дозе облучения возникает острая лучевая болезнь костномозговой формы?",
+        "0.1-0.2 Гр",
+        "0.5-1 Гр",
+        "1-10 Гр",
+        "10-20 Гр",
+        "20-30 Гр"
+      ]
+    },
+    {
+      "id": "medKat_318",
+      "arr": [
+        "Какая единица равна 100 рад?",
+        "Рентген",
+        "Кюри",
+        "Грей",
+        "Зиверт",
+        "Беккерель"
+      ]
+    },
+    {
+      "id": "medKat_319",
+      "arr": [
+        "При какой по масштабам аварии происходит выход радиоактивных продуктов или ионизирующего излучения за предусмотренные границы оборудования, технологических систем, зданий и сооружений в количествах, превышающих регламентированные для нормальной эксплуатации значения, при котором возможно облучение персонала, находящегося в данном здании или сооружении, в дозах, превышающих допустимые?",
+        "Точечные",
+        "Локальные",
+        "Местные",
+        "Общие",
+        "Крупные"
+      ]
+    },
+    {
+      "id": "medKat_320",
+      "arr": [
+        "При какой по масштабам аварии происходит выход радиоактивных продуктов за пределы санитарно-защитной зоны в количествах, превышающих регламентированные для нормальной эксплуатации значения, при котором возможно облучение населения и загрязнение окружающей среды выше установленных норм?",
+        "Локальные",
+        "Местные",
+        "Общие",
+        "Крупные",
+        "Трансграничные"
+      ]
+    },
+    {
+      "id": "medKat_321",
+      "arr": [
+        "При какой по масштабам аварии происходит выход радиоактивных продуктов в пределах санитарно-защитной зоны в количествах, превышающих регламентированные для нормальной эксплуатации значения, при котором возможно облучение персонала в дозах, превышающих допустимые?",
+        "Локальные",
+        "Местные",
+        "Общие",
+        "Крупные",
+        "Трансграничные"
+      ]
+    },
+    {
+      "id": "medKat_322",
+      "arr": [
+        "Какими единицами измеряется единовременно поглощённая доза (количество энергии излучения, поглощённое единицей массы облучаемого тела)?",
+        "Беккерель",
+        "Грей",
+        "Кюри",
+        "Рентген",
+        "Микрокюри"
+      ]
+    },
+    {
+      "id": "medKat_323",
+      "arr": [
+        "Для выведения радионуклидов из желудочно-кишечного тракта используются все методы, кроме:",
+        "Промывание желудка и кишечника",
+        "Средства для форсированного выведения радионуклидов",
+        "Адсорбенты",
+        "Желчегонные средства",
+        "Перитонеальный диализ"
+      ]
+    },
+    {
+      "id": "medKat_324",
+      "arr": [
+        "Назовите категории продуктов, крайне опасных при бесконтрольном потреблении на территории следа радиоактивного облака:",
+        "Все пищевое сырье и продукты, загрязненные радионукли-дами",
+        "Мясо и молоко животных, выпасаемых на загрязненных пастбищах",
+        "Ягоды, грибы, фрукты, овощи, произрастающие в районе радиационной катастрофы",
+        "Рыба в водоемах, загрязненных радионуклидами",
+        "Всё перечисленное не верно"
+      ]
+    },
+    {
+      "id": "medKat_325",
+      "arr": [
+        "Плод является наиболее чувствительным к облучению:",
+        "В I триместр",
+        "В II триместр",
+        "В III триместр",
+        "Крайне чувствителен в любом триместре",
+        "Слабо чувствителен в любом триместре"
+      ]
+    },
+    {
+      "id": "medKat_326",
+      "arr": [
+        "Основными задачами, решаемыми при проведении радиационной разведки, являются:",
+        "Определение степени радиоактивного заражения местности и других объектов",
+        "Направление радиационных дозоров на местность",
+        "Выставление радиационных постов на границах загрязненной территории",
+        "Определение возможных путей объезда загрязненной территории",
+        "Эвакуация пораженных с загрязненной территории"
+      ]
+    },
+    {
+      "id": "medKat_327",
+      "arr": [
+        "Основными способами ведения радиационной разведки являются:",
+        "Определение радиоактивного заражения местности",
+        "Определение радиоактивного фона на местности",
+        "Ограждение радиоактивного участка местности знаками «заражено»",
+        "Направление радиационных дозоров на местность",
+        "Определение возможных путей объезда загрязненной территории"
+      ]
+    },
+    {
+      "id": "medKat_328",
+      "arr": [
+        "К радиационно-опасным объектам следует относить:",
+        "НИИ, имеющие исследовательские реакторы или ускорители частиц",
+        "Космические станции с ядерными энергетическими установками",
+        "Предприятия, на которых используются, хранятся, добываются радиоактивные вещества",
+        "Полигоны, где проводятся ядерные испытания",
+        "Хранилища химических боеприпасов"
+      ]
+    },
+    {
+      "id": "medKat_329",
+      "arr": [
+        "Локальная авария на АЭС характеризуется:",
+        "Выходом радиоактивных веществ за пределы оборудования, технологических систем, зданий и сооружений",
+        "Распространением радиоактивных веществ за пределы территории АЭС",
+        "Возможным облучением персонала станции и гражданского населения",
+        "Возможным облучением только гражданского населения, проживающего на территории санитарно-защитной зоны",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_330",
+      "arr": [
+        "Основным фактором радиационной опасности при авариях на АЭС без ядерной реакции является:",
+        "Ударная волна",
+        "Световое излучение",
+        "Проникающая радиация",
+        "Радиоактивное загрязнение окружающей среды",
+        "Электромагнитный импульс"
+      ]
+    },
+    {
+      "id": "medKat_331",
+      "arr": [
+        "При аварии на радиационно-опасном объекте, при наличии у пострадавшего сильного кровотечения необходимо сначала:",
+        "Использовать средства индивидуальной защиты костюмы, респираторы",
+        "Остановить кровотечение",
+        "Выполнить специальную обработку открытых участков кожи",
+        "Эвакуировать из очага поражения",
+        "Использовать радиопротектор"
+      ]
+    },
+    {
+      "id": "medKat_332",
+      "arr": [
+        "Какое основное санитарно-гигиеническое мероприятие осуществляется при ликвидации последствий радиационной аварии?",
+        "Контроль за водоснабжением, санитарным состоянием водоисточников",
+        "Контроль за качеством банно-прачечного обслуживания населения",
+        "Контроль за своевременностью и полнотой санитарной очистки территории",
+        "Контроль за радиоактивностью продуктов питания, готовой пищи и воды",
+        "Контроль за качеством проведения дезинфекции, дезинсекции и дератизации"
+      ]
+    },
+    {
+      "id": "medKat_333",
+      "arr": [
+        "Единица измерения экспозиционной дозы:",
+        "Рад",
+        "Зильверт",
+        "Рентген",
+        "Грей",
+        "Кюри"
+      ]
+    },
+    {
+      "id": "medKat_334",
+      "arr": [
+        "Допустимая доза облучения для лиц, работающих с источниками радиации в течение года:",
+        "0,5 бэр",
+        "1,0 бэр",
+        "2,0 бэр",
+        "5,0 бэр",
+        "10,0 бэр"
+      ]
+    },
+    {
+      "id": "medKat_335",
+      "arr": [
+        "Допустимая доза радиоактивного облучения человека, получаемая за счёт естественного радиоактивного фона в течение жизни:",
+        "10 рад",
+        "20 рад",
+        "35 рад",
+        "45 рад",
+        "50 рад"
+      ]
+    },
+    {
+      "id": "medKat_336",
+      "arr": [
+        "Допустимая однократная доза облучения для населения при аварии на АЭС:",
+        "5 рад",
+        "10 рад",
+        "15 рад",
+        "20 рад",
+        "35 рад"
+      ]
+    },
+    {
+      "id": "medKat_337",
+      "arr": [
+        "Острая лучевая болезнь развивается у человека при дозе радиоактивного облучения:",
+        "50 рад",
+        "100 рад",
+        "200 рад",
+        "400 рад",
+        "500 рад"
+      ]
+    },
+    {
+      "id": "medKat_338",
+      "arr": [
+        "Клинические формы острой лучевой болезни:",
+        "Костномозговая",
+        "Паренхиматозная",
+        "Кишечная",
+        "Токсемическая",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_339",
+      "arr": [
+        "Дозы радиоактивного облучения, при которых возникает острая лучевая болезнь I степени:",
+        "10-50 рад",
+        "50-100 рад",
+        "100-200 рад",
+        "200-300 рад",
+        "300-500 рад"
+      ]
+    },
+    {
+      "id": "medKat_340",
+      "arr": [
+        "Дозы радиоактивного облучения, при которых возникает острая лучевая болезнь II степени:",
+        "10-50 рад",
+        "50-100 рад",
+        "100-200 рад",
+        "200-400 рад",
+        "400-500 рад"
+      ]
+    },
+    {
+      "id": "medKat_341",
+      "arr": [
+        "Дозы радиоактивного облучения, при которых развивается острая лучевая болезньIII степени:",
+        "50-100 рад",
+        "100-200 рад",
+        "200-300 рад",
+        "400-600 рад",
+        "600-800 рад"
+      ]
+    },
+    {
+      "id": "medKat_342",
+      "arr": [
+        "Дозы радиоактивного облучения, при которых развивается острая лучевая болезнь IV степени?",
+        "200-300 рад",
+        "300-400 рад",
+        "400-600 рад",
+        "600-1000 рад",
+        "1000-1500 рад"
+      ]
+    },
+    {
+      "id": "medKat_343",
+      "arr": [
+        "Периоды развития острой лучевой болезни:",
+        "Период первичных реакций на облучение",
+        "Латентный период",
+        "Период разгара заболевания",
+        "Восстановительный период",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_344",
+      "arr": [
+        "Единица измерения уровня радиации на следе радиоактивного облака:",
+        "Рад",
+        "Бэр",
+        "Р/ч на заданное время",
+        "Кюри",
+        "Рентген"
+      ]
+    },
+    {
+      "id": "medKat_345",
+      "arr": [
+        "Уровень радиации в зоне умеренного загрязнения:",
+        "От 40 до 400 р/ч",
+        "От 4 до 50 р/ч",
+        "От 8 до 80 р/ч",
+        "От 10 до 100 р/ч",
+        "От 20 до 200 р/ч"
+      ]
+    },
+    {
+      "id": "medKat_346",
+      "arr": [
+        "Уровень радиации в зоне сильного загрязнения:",
+        "От 400 до 1200 р/ч",
+        "От 10 до 100 р/ч",
+        "От 20 до 200 р/ч",
+        "От 80 до 240 р/ч",
+        "От 100 до 250 р/ч"
+      ]
+    },
+    {
+      "id": "medKat_347",
+      "arr": [
+        "Уровень радиации в зоне опасного загрязнения:",
+        "От 400 до 6000 р/ч",
+        "От 80 до 240 р/ч",
+        "От 240 до 400 р/ч",
+        "От 400 до 600 р/ч",
+        "От 600 до 1000 р/ч"
+      ]
+    },
+    {
+      "id": "medKat_348",
+      "arr": [
+        "Продукты питания, представляющие опасность для здоровья людей на следе радиоактивного облака, в первые дни, после выпадения радиоактивных осадков:",
+        "Мясо животных",
+        "Масло и сыр",
+        "Молоко",
+        "Колбасные изделия",
+        "Овощи"
+      ]
+    },
+    {
+      "id": "medKat_349",
+      "arr": [
+        "Местность считается загрязнённой радиоактивными веществами при уровне радиации:",
+        "0,2 р/ч",
+        "0,3 р/ч",
+        "0,4 р/ч",
+        "0,5 р/ч",
+        "0,6 р/ч и выше"
+      ]
+    },
+    {
+      "id": "medKat_350",
+      "arr": [
+        "Факторы радиационного воздействия на людей на территории следа радиоактивного облака:",
+        "Общее внешнее гамма и гамма-нейтронное облучение организма",
+        "Местное альфа и бета облучение открытых участков кожи",
+        "Внутреннее облучение в результате употребления пищевых продуктов и питьевой воды загрязненных РВ",
+        "Внутреннее бета-облучение щитовидной железы при употреблении молока, загрязненного радиоактивным йодом",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_351",
+      "arr": [
+        "Какой вид медицинской помощи поражённым АОХВ играет важнейшую роль в спасении жизни пострадавших?",
+        "Квалифицированная помощь",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Специализированная помощь"
+      ]
+    },
+    {
+      "id": "medKat_352",
+      "arr": [
+        "Для холинолитического синдрома не характерно:",
+        "Мидриаз",
+        "Сухость кожи",
+        "Брадикардия",
+        "Тахикардия",
+        "Галлюцинация"
+      ]
+    },
+    {
+      "id": "medKat_353",
+      "arr": [
+        "Очаг химического поражения – это:",
+        "Территория, на которой расположены объекты по производству АОХВ",
+        "Территория с находящимися на ней населением, техникой, имуществом и другими объектами, подвергшаяся воздействию АОХВ",
+        "Территория, на которой расположены объекты по уничтожению АОХВ",
+        "Территория, на которой расположены объекты хранения АОХВ",
+        "Транспорт, который перевозит АОХВ"
+      ]
+    },
+    {
+      "id": "medKat_354",
+      "arr": [
+        "При образовании быстродействующих очагов химического заражения необходимо предусмотреть эвакуацию пораженных:",
+        "В несколько рейсов",
+        "В один рейс",
+        "По мере их выявления",
+        "В зависимости от наличия санитарного транспорта",
+        "Количество рейсов не имеет значение"
+      ]
+    },
+    {
+      "id": "medKat_355",
+      "arr": [
+        "Синильная кислота представляет собой:",
+        "Вязкую маслянистую жидкость с запахом герани",
+        "Бесцветную жидкость с запахом миндаля",
+        "Бесцветную жидкость без запаха и вкуса",
+        "Белое кристаллическое вещество",
+        "Газообразное вещество"
+      ]
+    },
+    {
+      "id": "medKat_356",
+      "arr": [
+        "Монооксид углерода (угарный га",
+        "обладает повышенной тропностью к:",
+        "К 3-х валентному железу гемоглобина",
+        "К 2-х валентному железу гемоглобина",
+        "К 3-х валентному железу цитохромоксидазы",
+        "К флавиновому ферменту, акцептору электронов и протонов",
+        "К амиду никотиновой кислоты"
+      ]
+    },
+    {
+      "id": "medKat_357",
+      "arr": [
+        "В результате взаимодействия окиси углерода с гемоглобином образуется:",
+        "Метгемоглобин",
+        "Карбоксигемоглобин",
+        "Оксигемоглобин",
+        "Восстановленный гемоглобин",
+        "Инактивированный гемоглобин"
+      ]
+    },
+    {
+      "id": "medKat_358",
+      "arr": [
+        "К патогенетическим средствам, применяемым для оказания помощи пораженным синильной кислотой, относятся:",
+        "Атропин",
+        "Преднизолон",
+        "Амилнитрит",
+        "Кислород",
+        "Афин"
+      ]
+    },
+    {
+      "id": "medKat_359",
+      "arr": [
+        "К патогенетическим средствам, применяемым для оказания помощи пораженным оксидом углерода, относятся:",
+        "Атропин",
+        "Преднизолон",
+        "Антициан",
+        "Кислород",
+        "Метиленовый синий"
+      ]
+    },
+    {
+      "id": "medKat_360",
+      "arr": [
+        "Для предотвращения поражения АОХВ удушающего действия применяют:",
+        "Лечебные антидоты",
+        "Профилактические антидоты",
+        "Средства защиты органов дыхания",
+        "Симптоматические средства",
+        "Средства защиты кожных покровов"
+      ]
+    },
+    {
+      "id": "medKat_361",
+      "arr": [
+        "Первая помощь при поражении АОХВ удушающего действия включает следующие мероприятия:",
+        "При раздражении верхних дыхательных путей ингаляцию фицилина",
+        "Ингаляцию кислорода",
+        "Обеспечение физического покоя. Эвакуация пораженных в положении лежа",
+        "Введение преднизолона внутривенно",
+        "Введение 50 мл 5% раствора аскорбиновой кислоты внутривенно"
+      ]
+    },
+    {
+      "id": "medKat_362",
+      "arr": [
+        "Диоксины в промышленности:",
+        "Применяются как реагент для метилирования",
+        "Применяются как хладоагент в холодильных машинах",
+        "Не применяются, являются побочным продуктом при производстве хлорсодержащих веществ",
+        "Используются для синтеза этиленгликоля и его эфиров",
+        "Используются в огнетушителях, в смеси с четыреххлористым углеродом"
+      ]
+    },
+    {
+      "id": "medKat_363",
+      "arr": [
+        "Препараты, являющиеся физиологическим антагонистами ядов, называются:",
+        "Антидепрессантами",
+        "Антидотами",
+        "Антикоагулянтами",
+        "Антифризами",
+        "Адсорбентами"
+      ]
+    },
+    {
+      "id": "medKat_364",
+      "arr": [
+        "В формированиях медицины катастроф химическую разведку ведут:",
+        "Химические дозоры",
+        "Весь персонал врачебно-сестринских бригад",
+        "Персонал приёмного отделения",
+        "Медицинские работники – дежурные по ЛПУ",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_365",
+      "arr": [
+        "Аварийно-спасательные работы в очаге химического поражения включают:",
+        "Химическую и медицинскую разведку",
+        "Оказание первой медицинской помощи",
+        "Эвакуация пораженных из очага",
+        "Специальную и санитарную обработку людей",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_366",
+      "arr": [
+        "На площадку специальной обработки этапа медицинской эвакуации поступают лица, прибывшие из:",
+        "Очага поражения монооксидом углерода",
+        "Очага поражения циановодородом",
+        "Очага поражения аммиаком",
+        "Очага поражения хлором",
+        "Очага поражения фосгеном"
+      ]
+    },
+    {
+      "id": "medKat_367",
+      "arr": [
+        "Мероприятия, выполняемые санитарными дружинами пострадавшим в химическом очаге все кроме:",
+        "Введение антидота",
+        "Проведение частичной санобработки открытых участков тела",
+        "Надевание противогаза на пораженного",
+        "Участие в выносе пострадавшего за пределы зоны заражения",
+        "Иммобилизация верхних и нижних конечностей"
+      ]
+    },
+    {
+      "id": "medKat_368",
+      "arr": [
+        "Показатель, определяющий токсичность отравляющих веществ:",
+        "Максимальная поражающая доза",
+        "Минимальная смертельная доза",
+        "Токсическая доза",
+        "Предельно-допустимая концентрация",
+        "Предельно допустимая зараженность"
+      ]
+    },
+    {
+      "id": "medKat_369",
+      "arr": [
+        "Синильная кислота и хлорциан относятся к группе отравляющих веществ:",
+        "Удушающих",
+        "Нервно-паралитических",
+        "Общеядовитых",
+        "Раздражающих",
+        "Слезоточивых"
+      ]
+    },
+    {
+      "id": "medKat_370",
+      "arr": [
+        "Иприт и люизит относятся к группе отравляющих веществ:",
+        "Удушающих",
+        "Психотомиметических",
+        "Кожно-нарывных",
+        "Нервно-паралитических",
+        "Общеядовитых"
+      ]
+    },
+    {
+      "id": "medKat_371",
+      "arr": [
+        "Химическая обстановка в зонах химического заражения определяется:",
+        "Площадью зоны химического заражения",
+        "Видом примененного отравляющего вещества",
+        "Глубиной распространения заражённого воздуха",
+        "Потерями среди населения",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_372",
+      "arr": [
+        "Какое основное санитарно-гигиеническое мероприятие осуществляется при возникновении химического очага поражения?",
+        "Контроль за радиоактивностью продуктов питания",
+        "Контроль за качеством полной санитарной обработки",
+        "Контроль за качеством проведения дезинфекции, дезинсекции и дератизации",
+        "Участие в выборе мест для захоронения трупов",
+        "Контроль за питанием с целью предупреждения заболеваний"
+      ]
+    },
+    {
+      "id": "medKat_373",
+      "arr": [
+        "При отравлении угарным газом первичной гипоксией является:",
+        "Гипоксическая",
+        "Тканевая",
+        "Циркуляторная",
+        "Гемическая",
+        "Смешанная"
+      ]
+    },
+    {
+      "id": "medKat_374",
+      "arr": [
+        "Во время выполнения лётного задания, после успешного приземления, у пассажирского самолёта, в результате технической неисправности, загорелся один из двигателей. Пассажиры и экипаж были успешно эвакуированы, после чего произошёл взрыв топливных баков воздушного судна. Каким термином Вы охарактеризуете данную ЧС?",
+        "Авария",
+        "Катастрофа",
+        "Стихийное бедствие",
+        "Террористический акт",
+        "Локальное бедствие"
+      ]
+    },
+    {
+      "id": "medKat_375",
+      "arr": [
+        "На чёрном море, в процессе выполнения транспортировки, на небольшом грузовом судне произошла ЧС, которая стала результатом, как технической неисправности, так и ошибки экипажа. В последствие судно затонуло, однако значительного загрязнения воды не произошло, а весь экипаж благополучно эвакуирован. Каким термином Вы охарактеризуете данную ЧС?",
+        "Авария",
+        "Катастрофа",
+        "Стихийное бедствие",
+        "Террористический акт",
+        "Локальное бедствие"
+      ]
+    },
+    {
+      "id": "medKat_376",
+      "arr": [
+        "К пожаро. и взрывоопасным объектам, прежде всего, относятся:",
+        "Нефтеперерабатывающие заводы, трубопроводы и склады нефтепродуктов",
+        "Химические предприятия, на которых находятся горючие газы, легковоспламеняющиеся жидкости",
+        "Предприятия приготовления и транспортировки угольной пыли, древесной муки",
+        "Предприятия приготовления и транспортировки сахарной пудры",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_377",
+      "arr": [
+        "Для оказания, какого вида медицинской помощи могут быть использованы восстановительные поезда, в составе каждого из которых имеются санитарные вагоны с соответствующим оборудованием и персоналом?",
+        "Первая помощь",
+        "Доврачебная медицинская помощь",
+        "Эвакуация в близлежащие лечебные учреждения",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_378",
+      "arr": [
+        "Ситуацию техногенного характера можно считать чрезвычайной при минимальном количестве пострадавших:",
+        "25 человек",
+        "10 человек",
+        "1000 человек",
+        "50 человек",
+        "150 человек"
+      ]
+    },
+    {
+      "id": "medKat_379",
+      "arr": [
+        "При работе МО (ОП",
+        "на загрязненной РВ местности суммарная доза облучения личного состава не должно превышать:",
+        "1 рад за время выдвижения и работы в очаге",
+        "5 рад за время выдвижения и работы в очаге:",
+        "50 рад за время выдвижения и работы в очаге",
+        "100 рад за время выдвижения и работы в очаге",
+        "100 рад за время выдвижения и работы в очаге"
+      ]
+    },
+    {
+      "id": "medKat_380",
+      "arr": [
+        "Аварийно-спасательные работы в очаге химического поражения включает все кроме",
+        "химическую и медицинскую разведку",
+        "оказание первой медицинской помощи",
+        "эвакуация пораженных из очага",
+        "радиационную разведку",
+        "специальную и санитарную обработку людей."
+      ]
+    },
+    {
+      "id": "medKat_381",
+      "arr": [
+        "В качестве средства йодной профилактики радиационных поражений используется все кроме:",
+        "5 % настойка йода",
+        "10 % настойка йода:",
+        "калия йодид в таблетках",
+        "раствор Люголя",
+        "2,5 % настойка йода"
+      ]
+    },
+    {
+      "id": "medKat_382",
+      "arr": [
+        "Физико-химические свойства, определяющие поражающее действие АОХВ:",
+        "летучесть",
+        "температура кипения",
+        "плотность паров (газов)",
+        "токсичность",
+        "растворимость."
+      ]
+    },
+    {
+      "id": "medKat_383",
+      "arr": [
+        "Токсическая доза (токсодоз",
+        "является:",
+        "качественным показателем токсичности вещества",
+        "показателем способности вызывать патологические процессы в организме",
+        "количественным показателем токсичности вещества",
+        "показателем, отражающим возможные потери населения",
+        "все верно"
+      ]
+    },
+    {
+      "id": "medKat_384",
+      "arr": [
+        "Очаг химического поражения – это:",
+        "территория, на которой расположены объекты по производству АОХВ",
+        "территория с находящимися на ней населением, техникой, имуществом и другими объектами, подвергшаяся воздействию АОХВ",
+        "территория, на которой расположены объекты по уничтожению АОХВ",
+        "территория, на которой расположены объекты хранения АОХВ",
+        "территория, на которую распространилось токсичное вещество во время аварии"
+      ]
+    },
+    {
+      "id": "medKat_385",
+      "arr": [
+        "Согласно медико-тактической классификации очагов поражения АОХВ выделяет все кроме:",
+        "очаг поражения быстродействующими стойкими АОХВ с летальным исходом",
+        "очаг поражения быстродействующими нестойкими АОХВ с летальным исходом",
+        "очаг поражения медленнодействующими нестойкими АОХВ с летальным исходом",
+        "очаг поражения диверсионными ядами",
+        "очаг поражения медленнодействующими стойкими АОХВ с летальным исходом"
+      ]
+    },
+    {
+      "id": "medKat_386",
+      "arr": [
+        "Очаг поражения быстродействующими стойкими АОХВ с летальным исходом образуют:",
+        "АОХВ нервно-паралитического действия",
+        "АОХВ кожно-нарывного (резорбтивног",
+        "действия",
+        "АОХВ удушающего действия",
+        "АОХВ общеядовитого действия",
+        "АОХВ психохимического действия."
+      ]
+    },
+    {
+      "id": "medKat_387",
+      "arr": [
+        "Очаг поражения быстродействующими нестойкими АОХВ с летальным исходом образуют:",
+        "АОХВ нервно-паралитического действия:",
+        "АОХВ кожно-нарывного (резорбтивног",
+        "действия",
+        "АОХВ удушающего действия",
+        "АОХВ общеядовитого действия",
+        "АОХВ раздражающего действия:"
+      ]
+    },
+    {
+      "id": "medKat_388",
+      "arr": [
+        "Очаг поражения медленнодействующими стойкими АОХВ с летальным исходом образуют:",
+        "АОХВ нервно-паралитического действия",
+        "АОХВ кожно-нарывного (резорбтивног",
+        "действия:",
+        "АОХВ удушающего действия",
+        "АОХВ общеядовитого действия",
+        "АОХВ раздражающего действия"
+      ]
+    },
+    {
+      "id": "medKat_389",
+      "arr": [
+        "Очаг поражения медленнодействующими нестойкими АОХВ с летальным исходом образуют:",
+        "АОХВ нервно-паралитического действия:",
+        "АОХВ кожно-нарывного (резорбтивног",
+        "действия",
+        "АОХВ удушающего действия",
+        "АОХВ общеядовитого действия",
+        "АОХВ психохимического действия."
+      ]
+    },
+    {
+      "id": "medKat_390",
+      "arr": [
+        "Для очага поражения быстродействующими нестойкими АОХВ характерно все, кроме:",
+        "одномоментное массовое поражение личного состава",
+        "преимущественно ингаляционное поступление АОХВ в организм",
+        "длительное заражение территории АОХВ",
+        "применение средств защиты только органов дыхания",
+        "немедленное оказание первой врачебной помощи"
+      ]
+    },
+    {
+      "id": "medKat_391",
+      "arr": [
+        "Для очага поражения медленнодействующими стойкими АОХВ характерно все, кроме:",
+        "постепенное формирование санитарных потерь",
+        "преимущественно ингаляционное поражение личного состава",
+        "длительное заражение территории АОХВ",
+        "применение средств защиты только органов дыхания",
+        "проведение специальной обработки"
+      ]
+    },
+    {
+      "id": "medKat_392",
+      "arr": [
+        "Для очага поражения медленнодействующими нестойкими АОХВ характерно все, кроме:",
+        "постепенное формирование санитарных потерь",
+        "преимущественно ингаляционное поражение личного состава",
+        "длительное заражение территории АОХВ",
+        "применение средств защиты только органов дыхания",
+        "применение средств защиты органов дыхания и кожи"
+      ]
+    },
+    {
+      "id": "medKat_393",
+      "arr": [
+        "Синильная кислота (цианид",
+        "вмешиваются в окислительно-восстановительные процессы в тканях:",
+        "нарушая доставку кислорода к тканям",
+        "нарушая активацию кислорода цитохромоксидазой (передача его тканям)",
+        "нарушая структуру аэрогематического барьера",
+        "изменяя свойства гемоглобина",
+        "снижая тонус сосудистого русла."
+      ]
+    },
+    {
+      "id": "medKat_394",
+      "arr": [
+        "В результате взаимодействия окиси углерода с гемоглобином образуется:",
+        "метгемоглобин",
+        "карбоксигемоглобин",
+        "оксигемоглобин",
+        "восстановленный гемоглобин",
+        "инактивированный гемоглобин."
+      ]
+    },
+    {
+      "id": "medKat_395",
+      "arr": [
+        "К патогенетическим средствам, применяемым для оказания помощи пораженным оксидом углерода, относятся:",
+        "атропин",
+        "преднизолон",
+        "антициан",
+        "кислород",
+        "метиленовый синий"
+      ]
+    },
+    {
+      "id": "medKat_396",
+      "arr": [
+        "Табельными антидотами, применяемыми для оказания помощи пораженным синильной кислотой являются:",
+        "атропин",
+        "преднизолон",
+        "антициан, амилнитрит",
+        "кислород",
+        "метиленовый синий"
+      ]
+    },
+    {
+      "id": "medKat_397",
+      "arr": [
+        "АОХВ удушающего действия относятся к группе:",
+        "нестойких веществ",
+        "твердых веществ",
+        "дегазирующих веществ",
+        "радиоактивных веществ.",
+        "стойких веществ"
+      ]
+    },
+    {
+      "id": "medKat_398",
+      "arr": [
+        "АОХВ удушающего действия относятся к группе веществ:",
+        "замедленного действия",
+        "индивидуального действия",
+        "не смертельного действия:",
+        "раздражающего действия.",
+        "быстрого действия"
+      ]
+    },
+    {
+      "id": "medKat_399",
+      "arr": [
+        "Аммиак вызывает поражение всех органов, кроме:",
+        "легких",
+        "кожных покровов",
+        "органа зрения",
+        "центральной нервной системы",
+        "половых органов."
+      ]
+    },
+    {
+      "id": "medKat_400",
+      "arr": [
+        "Для предотвращения поражения АОХВ удушающего действия применяют:",
+        "лечебные антидоты",
+        "профилактические антидоты",
+        "средства защиты органов дыхания",
+        "симптоматические средства",
+        "средства защиты кожных покровов"
+      ]
+    },
+    {
+      "id": "medKat_401",
+      "arr": [
+        "Дихлорэтан (трихлорэтиле",
+        "обладает:",
+        "наркотическим и гепатотоксическим действием",
+        "общеядовитым действием",
+        "нефротоксическим действием",
+        "центральным цитотоксическим действием:",
+        "антихолинэстеразным действием"
+      ]
+    },
+    {
+      "id": "medKat_402",
+      "arr": [
+        "Мероприятия, проводимые по защите населения от возможных последствий аварии на радиационно-опасных объектах в зависимости от складывающейся радиационной обстановки предусматривает все кроме:",
+        "ограничение пребывания населения на открытой местности путем временного укрытия в убежищах и домах с герметизацией жилых и служебных помещений",
+        "йодная профилактика",
+        "эвакуация населения в безопасные в радиационном отношении районы",
+        "исключение или ограничение потребления загрязненных пищевых продуктов",
+        "постоянное ношение индивидуального дозиметра:"
+      ]
+    },
+    {
+      "id": "medKat_403",
+      "arr": [
+        "К приборам радиационной разведки и дозиметрического контроля относят следующие приборы все кроме:",
+        "ДП-63А",
+        "ДП-64",
+        "ВПХР",
+        "ИД-11",
+        "ДП-5В."
+      ]
+    },
+    {
+      "id": "medKat_404",
+      "arr": [
+        "Прибор ИД-11 предназначен для:",
+        "определения уровня загрязнения РВ местности",
+        "определения ОВ на местности",
+        "определения уровня загрязнения РВ различных объектов:",
+        "определения дозы облучения, полученной ликвидаторами радиационной аварии (от 20 до 1500 рад)",
+        "определения уровня загрязнения РВ медицинского имущества"
+      ]
+    },
+    {
+      "id": "medKat_405",
+      "arr": [
+        "Поздний этап действия радиоактивного загрязнения окружающей среды при авариях на АЭС характеризуется:",
+        "высоким уровнем загрязнения почвы на значительных расстояниях от АЭС",
+        "выбросом радионуклидов в атмосферу, нахождение их в высоких концентрациях в воздухе",
+        "проникновением радиоактивных элементов в растения и в животных, находящихся на ранее загрязненной территории",
+        "высоким уровнем загрязнения одежды, кожи, проникновением р/а веществ в организм ингаляционным путем",
+        "высоким уровнем загрязнения зданий, сооружений, проникновением р/а веществ в организм преимущественно через кожу и ЖКТ"
+      ]
+    },
+    {
+      "id": "medKat_406",
+      "arr": [
+        "Радиационная обстановка считается нормальной при уровне загрязнения местности:",
+        "до 10 мкр/час",
+        "до 60 мкр/час",
+        "от 60 до 120 мкр/час",
+        "от 120 до 240 мкр/час",
+        "более 120 мкр/час"
+      ]
+    },
+    {
+      "id": "medKat_407",
+      "arr": [
+        "Местность считается загрязненной р/а веществами в случае, когда уровень загрязнения:",
+        "до 10 мкр/час",
+        "до 60 мкр/час",
+        "от 60 до 120 мкр/час",
+        "от 120 до 240 мкр/час",
+        "более 120 мкр/час"
+      ]
+    },
+    {
+      "id": "medKat_408",
+      "arr": [
+        "В раннюю фазу аварии на АЭС основные профилактические мероприятия направлены навсе, кроме:",
+        "предотвращение поступления радионуклидов в организм ингаляционным путем",
+        "предотвращение поступления радионуклидов в организм через кожу",
+        "предотвращение поступления радионуклидов в организм через желудочно-кишечный тракт",
+        "предотвращение поступления радионуклидов в продукты питания и питьевую воду",
+        "удаление р/а частиц с загрязненной территории."
+      ]
+    },
+    {
+      "id": "medKat_409",
+      "arr": [
+        "В промежуточную фазу аварии на АЭС основные профилактические мероприятия направлены на кроме:",
+        "предотвращение поступления радионуклидов в организм ингаляционным путем",
+        "предотвращение поступления радионуклидов в организм через кожу",
+        "предотвращение поступления радионуклидов в организм через желудочно-кишечный тракт",
+        "предотвращение поступления радионуклидов в продукты питания и питьевую воду",
+        "удаление р/а частиц с загрязненной территории."
+      ]
+    },
+    {
+      "id": "medKat_410",
+      "arr": [
+        "Основными лечебно-профилактическими мероприятиями в раннюю фазу аварии на АЭС являются все, кроме:",
+        "укрытие населения в защитных сооружениях",
+        "перевод скота на незагрязненные пастбища или фуражные корма",
+        "эвакуация населения с территории, где имеется высокий уровень радиоактивного загрязнения; блокирование загрязненных территорий",
+        "специальная обработка техники, населения; йодная профилактика",
+        "применение индивидуальных средств защиты"
+      ]
+    },
+    {
+      "id": "medKat_411",
+      "arr": [
+        "Дезактивация — это вид специальной обработки, направленный на:",
+        "нейтрализацию стойких АОХВ на зараженных объектах",
+        "обезвреживание болезнетворных микроорганизмов и токсинов растительного и животного происхождения",
+        "удаление радиоактивных веществ с различных поверхностей",
+        "уничтожение насекомых, переносчиков инфекционных заболеваний",
+        "уничтожение грызунов, переносчиков инфекционных заболеваний"
+      ]
+    },
+    {
+      "id": "medKat_412",
+      "arr": [
+        "Дегазация это вид специальной обработки, направленный на:",
+        "нейтрализацию стойких ОВ (СДЯ",
+        "на зараженных объектах",
+        "обезвреживание болезнетворных микроорганизмов и токсинов растительного и животного происхождения",
+        "удаление радиоактивных веществ с различных поверхностей:",
+        "уничтожение насекомых, переносчиков инфекционных заболеваний",
+        "уничтожение грызунов, переносчиков инфекционных заболеваний"
+      ]
+    },
+    {
+      "id": "medKat_413",
+      "arr": [
+        "Поражающим АОХВ при взрыве на водоочистном сооружении является:",
+        "аммиак",
+        "хлор",
+        "водород",
+        "сероводород",
+        "двуокись углерода."
+      ]
+    },
+    {
+      "id": "medKat_414",
+      "arr": [
+        "Какая работа, в ходе ликвидации последствий землетрясений, должна быть выполнена в первую очередь?",
+        "Устранение аварий на коммунально-энергетических объектах",
+        "Эвакуация поражённых из зоны землетрясения",
+        "Организация санитарно-противоэпидемического обеспечения",
+        "Извлечение людей из-под завалов, полуразрушенных и охваченных пожарами зданий",
+        "Захоронение трупов"
+      ]
+    },
+    {
+      "id": "medKat_415",
+      "arr": [
+        "При какой максимальной интенсивности землетрясения большинство лечебно-профилактических учреждений сохраняют работоспособность?",
+        "1-2 балла",
+        "3-4 балла",
+        "5-6 баллов",
+        "7-8 баллов",
+        "9-10 баллов"
+      ]
+    },
+    {
+      "id": "medKat_416",
+      "arr": [
+        "При какой интенсивности землетрясения 50-70% поражённых одномоментно потребуют медицинскую помощь?",
+        "3-4 балла",
+        "4-5 баллов",
+        "5-6 баллов",
+        "7-8 баллов",
+        "9-10 баллов"
+      ]
+    },
+    {
+      "id": "medKat_417",
+      "arr": [
+        "При эвакуации, каким видом транспорта, из очага землетрясения, следует организовывать медицинские распределительные пункты?",
+        "Воздушный",
+        "Железнодорожный",
+        "Речной",
+        "Автомобильный",
+        "Морской"
+      ]
+    },
+    {
+      "id": "medKat_418",
+      "arr": [
+        "В течение, какого времени 50% людей, находящихся под сошедшей снежной лавиной, могут выжить?",
+        "Не более 30 минут",
+        "Не более 1 часа",
+        "Не более 3 часов",
+        "Не более 4 часов",
+        "Не более 5 часов"
+      ]
+    },
+    {
+      "id": "medKat_419",
+      "arr": [
+        "Какой вид медицинской помощи оказывается на месте поражения в порядке самои взаимопомощи, бригадами машин “скорой помощи”, врачебно-сестринскими бригадами линейных больниц врачебно-санитарной службы железной дороги?",
+        "Первая врачебная помощь в полном объёме",
+        "Первая помощь",
+        "Эвакуация в близлежащие лечебные учреждения",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_420",
+      "arr": [
+        "Какие виды медицинской помощи оказываются на ПМП в пунктах сбора поражённых, развёрнутых непосредственно в районе происшествия?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь по жизненным показаниям",
+        "Эвакуация в близлежащие лечебные учреждения",
+        "Квалифицированная и специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_421",
+      "arr": [
+        "Для оказания, какого вида медицинской помощи могут быть использованы восстановительные поезда, в составе каждого из которых имеются санитарные вагоны с соответствующим оборудованием и персоналом?",
+        "Первая помощь",
+        "Доврачебная медицинская помощь",
+        "Эвакуация в близлежащие лечебные учреждения",
+        "Квалифицированная медицинская помощь",
+        "Специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_422",
+      "arr": [
+        "После оказания, какого вида медицинской помощи пострадавшие выносятся спасателями в пункты сбора поражённых?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Эвакуация в лечебные учреждения"
+      ]
+    },
+    {
+      "id": "medKat_423",
+      "arr": [
+        "Без оказания, какого вида медицинской помощи транспортировка тяжело поражённых на неприспособленном транспорте (личный автомобил",
+        "приводит к гибели на дороге, либо доставляются в ЛПУ в тяжёлом, даже терминальном состоянии?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Эвакуация в лечебные учреждения"
+      ]
+    },
+    {
+      "id": "medKat_424",
+      "arr": [
+        "Какой вид медицинской помощи при наводнениях оказывают бригады машин “скорой помощи” и врачебно-сестринские бригады на ПМП, развёрнутых на берегу, в недоступных для воды местах?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Эвакуация в лечебные учреждения"
+      ]
+    },
+    {
+      "id": "medKat_425",
+      "arr": [
+        "Для оказания, каких видов медицинской помощи при наводнении, формирования и учреждения здравоохранения должны иметь кислород, портативные аппараты искусственного дыхания, грелки, сердечно-сосудистые средства?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Эвакуация в лечебные учреждения"
+      ]
+    },
+    {
+      "id": "medKat_426",
+      "arr": [
+        "Повышение уровня воды в водоеме, ведущего к затоплению территории происходит по следующим причинам:",
+        "Сезонное таяние снежного покрова",
+        "Таяние ледников и снежного покрова в горах",
+        "Интенсивные дожди",
+        "Заторы и зажоры",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_427",
+      "arr": [
+        "Поиск пострадавших под завалами при землетрясении прекращается через:",
+        "3 суток",
+        "7 суток",
+        "10 суток",
+        "14 суток",
+        "30 суток"
+      ]
+    },
+    {
+      "id": "medKat_428",
+      "arr": [
+        "Определяющими моментами при ликвидации медико-санитарных последствий наводнения являются:",
+        "Масштаб территории затопления",
+        "Количество пострадавшего населения, оказавшегося без крова",
+        "Количество затопленных продуктов питания и источниковпитьевой воды",
+        "Метеорологические факторы (температура воды, ветер, наличие осадков)",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_429",
+      "arr": [
+        "Лесные пожары чаще всего возникают в:",
+        "Зимний период",
+        "Зимне-весенний период",
+        "Весенний период",
+        "Весенне-летний период",
+        "Летний период"
+      ]
+    },
+    {
+      "id": "medKat_430",
+      "arr": [
+        "Степень увеличения количества летальных исходов у тяжелопоражённых при неоказании им первой помощи в течение 1 часа:",
+        "На 10%",
+        "На 30%",
+        "На 40%",
+        "На 60%",
+        "На 80%"
+      ]
+    },
+    {
+      "id": "medKat_431",
+      "arr": [
+        "Степень увеличения количества летальных исходов среди тяжело-поражённых при неоказании им медицинской помощи в течение 3-х часов:",
+        "На 10%",
+        "На 30%",
+        "На 40%",
+        "На 60%",
+        "На 80%"
+      ]
+    },
+    {
+      "id": "medKat_432",
+      "arr": [
+        "Оптимальные сроки оказания первой помощи:",
+        "До 20 мин после получения поражения",
+        "До 30 мин после получения поражения",
+        "До 40 мин после получения поражения",
+        "До 50 мин после получения поражения",
+        "До 60 мин после получения поражения"
+      ]
+    },
+    {
+      "id": "medKat_433",
+      "arr": [
+        "Непосредственное поражение людей поражающими факторами ударной волны возникает как следствие воздействия:",
+        "Избыточного давления",
+        "Сильного сжатия",
+        "Скоростного напора воздуха",
+        "Высокой температуры",
+        "Электромагнитного импульса"
+      ]
+    },
+    {
+      "id": "medKat_434",
+      "arr": [
+        "При какой интенсивности землетрясения в большинстве зданий типа “А” имеются значительные повреждения, в некоторых – разрушения?",
+        "5 баллов",
+        "6 баллов",
+        "7 баллов",
+        "9 баллов",
+        "10 баллов"
+      ]
+    },
+    {
+      "id": "medKat_435",
+      "arr": [
+        "При какой интенсивности землетрясения во многих зданиях типа “А” – обвалы?",
+        "5 баллов",
+        "6 баллов",
+        "7 баллов",
+        "8 баллов",
+        "9 баллов"
+      ]
+    },
+    {
+      "id": "medKat_436",
+      "arr": [
+        "При какой интенсивности землетрясения, каждый 3-4 житель получает различные травмы, вплоть до смертельных?",
+        "1-3 балла",
+        "4-5 баллов",
+        "6-7 баллов",
+        "8-9 баллов",
+        "10-11 баллов"
+      ]
+    },
+    {
+      "id": "medKat_437",
+      "arr": [
+        "При эвакуации каким видом транспорта, из очага землетрясения, следует организовывать медицинские распределительные пункты?",
+        "Воздушный",
+        "Железнодорожный",
+        "Речной",
+        "Автомобильный",
+        "Морской"
+      ]
+    },
+    {
+      "id": "medKat_438",
+      "arr": [
+        "В течение какого времени 50% людей, находящихся под сошедшей снежной лавиной, могут выжить?",
+        "Не более 30 минут",
+        "Не более 1 часа",
+        "Не более 3 часов",
+        "Не более 4 часов",
+        "Не более 5 часов"
+      ]
+    },
+    {
+      "id": "medKat_439",
+      "arr": [
+        "После оказания какого вида медицинской помощи пострадавшие выносятся личным составом спасательных команд в пункты сбора поражённых, имеющие расчищенные и безопасные подъездные пути при возможных повторных «толчках”?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Эвакуация в лечебные учреждения"
+      ]
+    },
+    {
+      "id": "medKat_440",
+      "arr": [
+        "Какой вид медицинской помощи оказывают бригады машин “скорой помощи” и врачебно-сестринские бригады на ПМП, развёрнутых на берегу, в недоступных для воды местах?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Эвакуация в лечебные учреждения"
+      ]
+    },
+    {
+      "id": "medKat_441",
+      "arr": [
+        "Для оказания каких видов медицинской помощи при наводнении, формирования и учреждения здравоохранения должны иметь кислород, портативные аппараты искусственного дыхания, грелки, сердечно-сосудистые средства?",
+        "Первая помощь",
+        "Доврачебная помощь",
+        "Первая врачебная помощь",
+        "Квалифицированная медицинская помощь",
+        "Эвакуация в лечебные учреждения"
+      ]
+    },
+    {
+      "id": "medKat_442",
+      "arr": [
+        "В зависимости от масштаба затопления и наносимого суммарного материального ущерба, наводнение подразделяют на группы все кроме:",
+        "низкие наводнения",
+        "чрезвычайно-опасные наводнения",
+        "выдающиеся наводнения",
+        "катастрофические наводнения",
+        "высокие наводнения"
+      ]
+    },
+    {
+      "id": "medKat_443",
+      "arr": [
+        "Определяющими моментами при ликвидации медико-санитарных последствий наводнения являются все кроме:",
+        "масштаб территории затопления,",
+        "наличие потенциально-опасных объектов,",
+        "количество пострадавшего населения, оказавшегося без крова,",
+        "количество затопленных продуктов питания и источниковпитьевой воды,",
+        "метеорологические факторы (температура воды, ветер, наличие осадков)."
+      ]
+    },
+    {
+      "id": "medKat_444",
+      "arr": [
+        "Если вода попадает в дыхательные пути и в легкие, что, как правило, ведет к расстройству дыхания и респираторной гипоксии, то это утопление называют:",
+        "истинным утоплением,",
+        "асфиксическим утоплением",
+        "синкопальным утоплением",
+        "ложным утоплением",
+        "грозным утоплением"
+      ]
+    },
+    {
+      "id": "medKat_445",
+      "arr": [
+        "Если в верхние дыхательные пути попадает небольшое количество воды, что вызывает рефлекторную остановку дыхания и ларингоспазм, то это утопление называют:",
+        "истинным утоплением,",
+        "асфиксическим утоплением",
+        "синкопальным утоплением",
+        "ложным утоплением",
+        "грозным утоплением"
+      ]
+    },
+    {
+      "id": "medKat_446",
+      "arr": [
+        "Если при утоплении наблюдается рефлекторная остановка сердца вследствие психоэмоционального шока, контакта с холодной водой кожи и верхних дыхательных путей, то это утопление называют:",
+        "истинным утоплением,",
+        "асфиксическим утоплением",
+        "синкопальным утоплением",
+        "ложным утоплением",
+        "грозным утоплением"
+      ]
+    },
+    {
+      "id": "medKat_447",
+      "arr": [
+        "Удаление воды из легких необходимо проводить при:",
+        "истинным утоплением,",
+        "асфиксическим утоплением",
+        "синкопальным утоплением",
+        "ложном утоплении",
+        "грозном утоплении"
+      ]
+    },
+    {
+      "id": "medKat_448",
+      "arr": [
+        "Для достижения какой цели осуществляют прививки населению?",
+        "единый подход к организации санитарно-гигиенических мероприятий",
+        "сохранение и укрепление здоровья населения",
+        "предупреждение возникновения инфекционных заболеваний",
+        "быстрейшая ликвидация инфекционных заболеваний в случае их возникновения",
+        "своевременная диагностика заболевания"
+      ]
+    },
+    {
+      "id": "medKat_449",
+      "arr": [
+        "Какое санитарно-гигиеническое мероприятие осуществляется при возникновении бактериологического очага поражения?",
+        "Контроль за качеством проведения дезинфекции, дезинсекции и дератизации",
+        "Участие в выборе мест для захоронения трупов",
+        "Контроль за радиоактивностью продуктов питания, готовой пищи и воды",
+        "Контроль учёта действующих и законсервированных источников",
+        "Контроль за личным составом, производящим очистку территории"
+      ]
+    },
+    {
+      "id": "medKat_450",
+      "arr": [
+        "На каком виде объектов при возникновении вспышки воздушно-капельной инфекции, проводятся профилактические мероприятия по предупреждению дальнейшего распространения заболеваний в первую очередь?",
+        "Системы водоснабжения и канализации",
+        "Объекты пищевой промышленности, общественного питания и торговли",
+        "Предприятия коммунального обслуживания",
+        "Детские дошкольные и школьные учреждения",
+        "Лечебно-профилактические учреждения, куда госпитализированы заболевшие"
+      ]
+    },
+    {
+      "id": "medKat_451",
+      "arr": [
+        "К какому направлению противоэпидемической работы при ликвидации последствий ЧС относится вакцинация?",
+        "Мероприятия по предупреждению заноса и распространения инфекций",
+        "Мероприятия по профилактике возникновения инфекционных болезней и ликвидации эпидемических очагов среди населения в районе бедствия",
+        "Контроль за качеством банно-прачечного обслуживания",
+        "Участие контроль в выборе места для захоронения трупов",
+        "Контроль за качеством проведения дезинфекции"
+      ]
+    },
+    {
+      "id": "medKat_452",
+      "arr": [
+        "Какое санитарно-эпидемиологическое состояние района устанавливается при отсутствии карантинных инфекций и групповых вспышек других инфекционных заболеваний при удовлетворительной санитарно-гигиенической обстановке?",
+        "Спокойное",
+        "Благополучное",
+        "Неустойчивое",
+        "Неблагополучное",
+        "Чрезвычайное"
+      ]
+    },
+    {
+      "id": "medKat_453",
+      "arr": [
+        "Какое санитарно-эпидемиологическое состояние устанавливается при наличии среди населения эпидемий или групповых заболеваний особо опасными инфекциями?",
+        "Спокойное",
+        "Благополучное",
+        "Неустойчивое",
+        "Неблагополучное",
+        "Чрезвычайное"
+      ]
+    },
+    {
+      "id": "medKat_454",
+      "arr": [
+        "При каком санитарно-эпидемиологическом состоянии в населённом пункте, районе отсутствуют или наблюдаются единичные случаи инфекционных заболеваний, не связанных одно с другим при удовлетворительном санитарно-гигиеническом состоянии?",
+        "Спокойное",
+        "Благополучное",
+        "Неустойчивое",
+        "Неблагополучное",
+        "Чрезвычайное"
+      ]
+    },
+    {
+      "id": "medKat_455",
+      "arr": [
+        "Какое санитарно-эпидемиологическое состояние устанавливается при наличии среди населения многочисленных заболеваний неизвестной этиологии, а также при обнаружении хотя бы единичных случаев холеры, чумы, оспы?",
+        "Спокойное",
+        "Благополучное",
+        "Неустойчивое",
+        "Неблагополучное",
+        "Чрезвычайное"
+      ]
+    },
+    {
+      "id": "medKat_456",
+      "arr": [
+        "Какое формирование создаётся на базе центров Госсанэпиднадзора России и противочумных учреждений?",
+        "Группы эпидемиологической разведки",
+        "Санитарно-эпидемиологические отряды",
+        "Пункт медицинской помощи",
+        "Бригады специализированной медицинской помощи",
+        "Нештатные врачебно-сестринские бригады"
+      ]
+    },
+    {
+      "id": "medKat_457",
+      "arr": [
+        "Какие формирования создаются на базе противочумных учреждений?",
+        "Санитарно-эпидемиологические отряды",
+        "Специализированные противоэпидемические отряды",
+        "Пункты медицинской помощи",
+        "Бригады специализированной медицинской помощи",
+        "Группы эпидемиологической разведки"
+      ]
+    },
+    {
+      "id": "medKat_458",
+      "arr": [
+        "Какое основное санитарно-гигиеническое мероприятие осуществляется при возникновении химического очага поражения?",
+        "Контроль за радиоактивностью продуктов питания",
+        "Контроль за качеством полной санитарной обработки",
+        "Контроль за качеством проведения дезинфекции, дезинсекции и дератизации",
+        "Участие в выборе мест для захоронения трупов",
+        "Контроль за питанием с целью предупреждения заболеваний"
+      ]
+    },
+    {
+      "id": "medKat_459",
+      "arr": [
+        "Какое санитарно-эпидемиологическое состояние устанавливается в населённом пункте, где наблюдается рост уровня инфекционной заболеваемости или возникновение групповых заболеваний без тенденции к дальнейшему распространению?",
+        "Благоприятное",
+        "Относительно благоприятное",
+        "Неустойчивое",
+        "Неблагополучное",
+        "Чрезвычайное"
+      ]
+    },
+    {
+      "id": "medKat_460",
+      "arr": [
+        "На базе, каких санитарно-эпидемиологических центров создаются группы эпидемиологической разведки?",
+        "Противочумных институтов",
+        "Специализированных противоэпидемиологических бригад",
+        "Инфекционных больниц",
+        "Поликлиник",
+        "Городских и районных центров Госсанэпиднадзора"
+      ]
+    },
+    {
+      "id": "medKat_461",
+      "arr": [
+        "Какое продовольствие, по степени загрязнённости РВ, ОВ, АОХВ, может быть использовано на объектах общественного питания?",
+        "Обезвреженное",
+        "Загрязнённое до допустимых величин",
+        "Загрязнённое выше допустимых величин",
+        "После обеззараживания",
+        "После экспертизы"
+      ]
+    },
+    {
+      "id": "medKat_462",
+      "arr": [
+        "Какое продовольствие, по степени загрязнённости РВ, ОВ, АОХВ, может быть использовано в детских садах?",
+        "Явно загрязнённое",
+        "Незагрязнённое",
+        "Подозрительное на загрязнение",
+        "Загрязнённое до допустимых величин",
+        "Загрязнённое до допустимых величин после обеззараживания"
+      ]
+    },
+    {
+      "id": "medKat_463",
+      "arr": [
+        "Укажите причину угрозы возникновения эпидемических очагов в районах ЧС:",
+        "Данные анализа динамики и структуры заболеваемости по эпидемиологическим признакам",
+        "Данные опроса и обследование больных и здоровых",
+        "Данные опроса медицинских работников, представителей местного населения",
+        "Данные визуального и лабораторного обследования внешней среды",
+        "Данные ЧК о разрушении коммунальных объектов системы водоснабжения, канализации, отопления и другое"
+      ]
+    },
+    {
+      "id": "medKat_464",
+      "arr": [
+        "Санитарно-эпидемическая обстановка оценивается как угрожающая при:",
+        "Появлении единичных случаев особо опасных инфекций",
+        "Распространении групповых заболеваний особо опасными инфекциями за пределы зоны карантина",
+        "Аварии на радиационно, химически и биологически опасных объектах с нарастанием выбросов радиоактивных и опасных химических веществ, либо агентов биологического оружия",
+        "Неудовлетворительное состояние территории, объекта экономики, водоснабжения и питания",
+        "Скоплении населения на необорудованной местности или в неприспособленных помещениях при экстремальных параметрах окружающей среды"
+      ]
+    },
+    {
+      "id": "medKat_465",
+      "arr": [
+        "Как поступить при обнаружении в пути следования эвакуационного железнодорожного состава больных и подозрительных на особо опасные инфекции?",
+        "Их изолируют в вагоне",
+        "Их снимают с поезда и оставляют на ближайшей станции",
+        "Их снимают с поезда и оставляют на ближайшей станции, имеющей ЛПУ",
+        "Их изолируют вместе со всеми пассажирами вагона, отогнав вагон в тупик",
+        "Их не изолируют, а лишь наблюдают за состоянием здоровья"
+      ]
+    },
+    {
+      "id": "medKat_466",
+      "arr": [
+        "Если среди местного населения в районе его проживания или соседних городов отсутствуют инфекционные заболевания, за исключением спорадических случаев, но в районе имеются условия для распространения инфекционных заболеваний неудовлетворительное санитарное состояние территорий, объектов водоснабжения, имеет место коммунальная не благоустроенность, низкое качество проведения комплекса противоэпидемических мероприятий или появились отдельные, не регистрировавшиеся ранее инфекционные заболевания, то санитарно-эпидемическая обстановка расценивается как:",
+        "Благополучная",
+        "Неустойчивая",
+        "Неблагополучная",
+        "Чрезвычайная",
+        "Катастрофическая"
+      ]
+    },
+    {
+      "id": "medKat_467",
+      "arr": [
+        "Если при появлении групповых инфекционных заболеваний и наличии условий для их дальнейшего распространения среди населения в районе его проживания или в соседних городах, а также при возникновении единичных заболеваний ООИ, то санитарно-эпидемическая обстановка расценивается как:",
+        "Благополучная",
+        "Неустойчивая",
+        "Неблагополучная",
+        "Чрезвычайная",
+        "Катастрофическая"
+      ]
+    },
+    {
+      "id": "medKat_468",
+      "arr": [
+        "Если среди населения в районе его проживания или в соседних городах имеются групповые заболевания ООИ или активизировался местный природный очаг ООИ и зарегистрированы заболевания людей, то санитарно-эпидемическая обстановка расценивается как:",
+        "Благополучная",
+        "Неустойчивая",
+        "Неблагополучная",
+        "Чрезвычайная",
+        "Катастрофическая"
+      ]
+    },
+    {
+      "id": "medKat_469",
+      "arr": [
+        "Если среди местного населения в районе его проживания или в соседних городах отсутствуют инфекционные заболевания, за исключением спорадических, эпизоотическая обстановка не представляет непосредственной опасности, а также если отсутствуют условия для распространения инфекции удовлетворительное санитарное состояние территории, объектов водоснабжения, коммунальная благоустроенность, качественное проведение комплекса противоэпидемических мероприятии, то санитарно-эпидемическая обстановка расценивается как...",
+        "Благополучная",
+        "Неустойчивая",
+        "Неблагополучная",
+        "Чрезвычайная",
+        "Катастрофическая"
+      ]
+    },
+    {
+      "id": "medKat_470",
+      "arr": [
+        "Задачи, решаемые сетью наблюдения и лабораторного контроля при возникновении эпидемиологического очага заражения в ЧС мирного и военного времени кроме:",
+        "Определение границ эпид. очага",
+        "Контроль качества продуктов питания и питьевой воды",
+        "Контроль госпитализации, лечение инфекционных больных и проведение профилактических прививок населению",
+        "Проведение специфической индикации возбудителя в условиях лаборатории",
+        "Наблюдение за санитарно-эпидемиологической обстановкой в очагах поражения"
+      ]
+    },
+    {
+      "id": "medKat_471",
+      "arr": [
+        "Проведение бактериологической разведки в очаге возлагается:",
+        "На разведывательные дозоры",
+        "Нештатную группу медицинской разведки",
+        "Группы эпидемиологической разведки",
+        "Санитарные посты",
+        "Посты наблюдения"
+      ]
+    },
+    {
+      "id": "medKat_472",
+      "arr": [
+        "Причины, создающие угрозу возникновения эпидемии в зоне ЧС:",
+        "Неблагоприятные климатические условия",
+        "Выход из строя систем водоснабжения и канализации",
+        "Массовое распространение грызунов и наличие эпизоотии среди них",
+        "Отсутствие своевременной эпидемиологической помощи",
+        "Восприимчивость населения к возбудителю возникшей инфекции"
+      ]
+    },
+    {
+      "id": "medKat_473",
+      "arr": [
+        "Санитарно-эпидемиологическая разведка на территории эпидемиологического очага должна выявить:",
+        "Наличие эпизоотии среди диких и домашних животных",
+        "Наличие природных очагов инфекционных заболеваний",
+        "Наличие переносчиков инфекционных заболеваний",
+        "Характер инфекционной заболеваемости среди населения",
+        "Всё перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_474",
+      "arr": [
+        "Чрезвычайные ситуации мирного и военного времени осложняющие санитарно-эпидемиологическую обстановку все, кроме:",
+        "Наводнения",
+        "Землетрясения",
+        "Выбросы радиоактивных и химических веществ в атмосферу",
+        "Увеличение радиоактивного фона",
+        "Аварии на очистных сооружениях промышленных предприятий"
+      ]
+    },
+    {
+      "id": "medKat_475",
+      "arr": [
+        "Критерии оценки возможной эпидемической чрезвычайной ситуации все, кроме:",
+        "Риск заноса и распространения инфекционного заболевания среди пострадавших",
+        "Угроза появления большого числа случаев инфекционных заболеваний различной этиологии",
+        "Нахождение возбудителя в окружающей среде и наличие временных источников инфекционного заболевания",
+        "Разрушение жилищного фонда, водопровода, канализации, массовая миграция населения",
+        "Массовая миграция населения"
+      ]
+    },
+    {
+      "id": "medKat_476",
+      "arr": [
+        "Организация и проведение санитарно-гигиенических и противоэпидемических мероприятий в зоне ЧС возлагается:",
+        "На территориальные центры медицины катастроф и территориальные противоэпидемические формирования",
+        "На территориальные центры Роспотребнадзора",
+        "На лечебные учреждения населённого пункта",
+        "На бригады скорой медицинской помощи",
+        "На бригады специализированной медицинской помощи терапевтического профиля"
+      ]
+    },
+    {
+      "id": "medKat_477",
+      "arr": [
+        "Для проведения санитарно-гигиенических и противоэпидемических мероприятий в зонах ЧС мирного и военного времени предназначены формирования медицинской службы кроме:",
+        "Санитарно-эпидемиологические бригады",
+        "Санитарно-эпидемиологические отряды",
+        "Специализированные противоэпидемические бригады",
+        "Медицинские отряды",
+        "Группы эпидемической разведки"
+      ]
+    },
+    {
+      "id": "medKat_478",
+      "arr": [
+        "Варианты оценки санитарно-эпидемического состояния на территории ЧС все, кроме:",
+        "Благополучное",
+        "Неблагополучное",
+        "Чрезвычайное",
+        "Неустойчивое",
+        "Катастрофическое"
+      ]
+    },
+    {
+      "id": "medKat_479",
+      "arr": [
+        "Для достижения какой цели осуществляют прививки населению?",
+        "Единый подход к организации санитарно-гигиенических мероприятий",
+        "Сохранение и укрепление здоровья населения",
+        "Предупреждение возникновения инфекционных заболеваний",
+        "Быстрейшая ликвидация инфекционных заболеваний в случае их возникновения",
+        "Своевременная диагностика заболевания"
+      ]
+    },
+    {
+      "id": "medKat_480",
+      "arr": [
+        "Какой принцип организации санитарно-гигиенических и противоэпидемических мероприятий требует учёта особенностей различных видов катастроф и стихийных бедствий?",
+        "Единый подход к организации указанных мероприятий и их комплексное осуществление среди населения",
+        "Соответствие содержания и объёма мероприятий санитарно-противоэпидемиологической обстановке в районе катастрофы, стихийного бедствия",
+        "Участие всех звеньев здравоохранения, а также других служб в организации и проведении мероприятий по ликвидации эпидемических очагов",
+        "Постоянное взаимодействие здравоохранения с медицинской службой других ведомств",
+        "Государственный и приоритетный характер санитарно-эпидемической службы"
+      ]
+    },
+    {
+      "id": "medKat_481",
+      "arr": [
+        "Какое основное санитарно-гигиеническое мероприятие осуществляется при ликвидации последствий радиационной аварии?",
+        "Контроль за водоснабжением, санитарным состоянием водоисточников",
+        "Контроль за качеством банно-прачечного обслуживания населения",
+        "Контроль за своевременностью и полнотой санитарной очистки территории",
+        "Контроль за радиоактивностью продуктов питания, готовой пищи и воды",
+        "Контроль за качеством проведения дезинфекции, дезинсекции и дератизации"
+      ]
+    },
+    {
+      "id": "medKat_482",
+      "arr": [
+        "Какое санитарно-гигиеническое мероприятие осуществляется при возникновении бактериологического очага поражения?",
+        "Контроль за качеством проведения дезинфекции, дезинсекции и дератизации",
+        "Участие в выборе мест для захоронения трупов",
+        "Контроль за радиоактивностью продуктов питания, готовой пищи и воды",
+        "Контроль учёта действующих и законсервированных источников",
+        "Контроль за личным составом, производящим очистку территории"
+      ]
+    },
+    {
+      "id": "medKat_483",
+      "arr": [
+        "Группа эпидемиологической разведки предназначена",
+        "оказания доврачебной медицинской помощи:",
+        "отбора проб с объектов внешней среды",
+        "транспортировки пострадавших до места эвакуации",
+        "эвакуации пострадавших",
+        "отбор проб для работы с ВПХР"
+      ]
+    },
+    {
+      "id": "medKat_484",
+      "arr": [
+        "Санитарно-эпидемическая обстановка оценивается как неустойчивая при всех, кроме:",
+        "появлении единичных случаев особо опасных инфекций",
+        "умеренном росте уровня заболеваемости (не более чем в 3 раз",
+        "или возникновении отдельных групповых заболеваний (отравлени",
+        "без дальнейшего распространения",
+        "район ЧС находится в непосредственной близости от очага опасных инфекционных заболеваний",
+        "удовлетворительном состоянии территории, объектов экономики, водоснабжения и питания",
+        "наличие эпидемиологических очагов зоонозных инфекций, представляющих опасность для людей"
+      ]
+    },
+    {
+      "id": "medKat_485",
+      "arr": [
+        "Противоэпидемические мероприятия в местах временного размещения включают в себя все, кроме:",
+        "оценку сан-гигиенической характеристики места временного размещения переселенцев,",
+        "создание средств коллективной зашиты перемещенных и обязательную антибактериальную профилактику.",
+        "оценку санитарно-гигиенического соответствия помещений и других объектов,",
+        "организация питания по полевому варианту,",
+        "организацию кладбища и захоронений."
+      ]
+    },
+    {
+      "id": "medKat_486",
+      "arr": [
+        "Транспортабельность инфекционного больного определяется:",
+        "тяжестью состояния пациента и условиями транспортировки",
+        "наличием свободного транспорта,",
+        "возможностью санитарной обработки транспорта,",
+        "временным фактором,",
+        "загруженностью ЛПУ."
+      ]
+    },
+    {
+      "id": "medKat_487",
+      "arr": [
+        "Дезинфекция — это вид специальной обработки, направленный на:",
+        "нейтрализацию стойких АОХВ на зараженных объектах:",
+        "обезвреживание болезнетворных микроорганизмов и токсинов растительного и животного происхождения",
+        "удаление радиоактивных веществ с различных поверхностей",
+        "уничтожение насекомых, переносчиков инфекционных заболеваний",
+        "уничтожение грызунов, переносчиков инфекционных заболеваний"
+      ]
+    },
+    {
+      "id": "medKat_488",
+      "arr": [
+        "Дезинсекция — это вид специальной обработки, направленный на:",
+        "нейтрализацию стойких АОХВ на зараженных объектах",
+        "обезвреживание болезнетворных микроорганизмов и токсинов растительного и животного происхождения",
+        "удаление радиоактивных веществ с различных поверхностей:",
+        "уничтожение насекомых, переносчиков инфекционных заболеваний",
+        "уничтожение грызунов, переносчиков инфекционных заболеваний"
+      ]
+    },
+    {
+      "id": "medKat_489",
+      "arr": [
+        "Дератизация – вид специальной обработки, направленный на:",
+        "нейтрализацию стойких ОВ АОХВ на зараженных объектах",
+        "обезвреживание болезнетворных микроорганизмов и токсинов растительного и животного происхождения",
+        "удаление радиоактивных веществ с различных поверхностей:",
+        "уничтожение насекомых, переносчиков инфекционных заболеваний",
+        "уничтожение грызунов, переносчиков инфекционных заболеваний."
+      ]
+    },
+    {
+      "id": "medKat_490",
+      "arr": [
+        "Основное средство общей экстренной профилактики в эпидемиологическом очаге:",
+        "рифампицин 0,6х 1 в течение 5 дней.",
+        "доксициклин 0,2x1 в течение 5 дней",
+        "рифампицин 0.6x1 в течение 3 дней",
+        "сульфатен 1,4x2 в течение 5 дней:",
+        "тетрациклин 0.5x3 в течение 3 дней,"
+      ]
+    },
+    {
+      "id": "medKat_491",
+      "arr": [
+        "К медицинскому имуществу относятся:",
+        "Лекарственные средства",
+        "Химические реактивы",
+        "Медицинская техника",
+        "Перевязочные средства",
+        "Дезинфекционные средства"
+      ]
+    },
+    {
+      "id": "medKat_492",
+      "arr": [
+        "Формирования МСГО оснащаемые медицинским табельным имуществом:",
+        "Санитарные дружины",
+        "Спасательные отряды",
+        "Медицинские отряды",
+        "Медицинские стационары",
+        "Бригады специализированной медицинской помощи"
+      ]
+    },
+    {
+      "id": "medKat_493",
+      "arr": [
+        "Медицинское имущество подразделяется на группы:",
+        "Табельное",
+        "Текущего снабжения",
+        "Запасов",
+        "Резервного снабжения",
+        "Расходное"
+      ]
+    },
+    {
+      "id": "medKat_494",
+      "arr": [
+        "Медицинское имущество подразделяется на виды:",
+        "Медицинское имущество резерва",
+        "Медицинское имущество неснижаемого запаса",
+        "Расходное медицинское имущество",
+        "Табельное имущество",
+        "Специальное имущество"
+      ]
+    },
+    {
+      "id": "medKat_495",
+      "arr": [
+        "Формирования и лечебные учреждения МСГО снабжаются медицинским имуществом:",
+        "Предприятиями оптовой торговли лекарственными препаратами",
+        "Отделами медицинского снабжения при главных управлениях гражданской обороны субъектов федерации",
+        "Медицинскими складами МСГО",
+        "Из запасов имущества для формирований",
+        "Аптечными учреждениями здравоохранения"
+      ]
+    },
+    {
+      "id": "medKat_496",
+      "arr": [
+        "Заготовка медицинского имущества для службы медицины катастроф осуществляется:",
+        "Индивидуально в организациях медицинского снабжения",
+        "Централизовано",
+        "Децентрализовано",
+        "Через посредников",
+        "Через муниципальные органы управления фармацевтической деятельностью"
+      ]
+    },
+    {
+      "id": "medKat_497",
+      "arr": [
+        "Имущество МСГО подразделяется на группы:",
+        "Медицинское",
+        "Специальное",
+        "Табельное",
+        "Расходное",
+        "Санитарно-хозяйственное"
+      ]
+    },
+    {
+      "id": "medKat_498",
+      "arr": [
+        "Табельным медицинским имуществом называется:",
+        "Имущество, используемое в особый период",
+        "Имущество, которое имеется в распоряжении медицинской службы",
+        "Имущество, которое предусмотрено соответствующими нормами снабжения и приказами",
+        "Имущество, приобретенное за дополнительные средства, изготовленное своими силами",
+        "Все перечисленное верно"
+      ]
+    },
+    {
+      "id": "medKat_499",
+      "arr": [
+        "Служба медицины катастроф функционально объединяет:",
+        "Медицинские учреждения и формирования всех заинтересованных министерств и ведомств",
+        "Только специально созданные учреждения и формирования Минздрава России",
+        "Все службы Минздрава России на данной территории (республика, область, край)",
+        "Станции скорой медицинской помощи, плановой и экстренной помощи",
+        "Подстанции, отделения скорой медицинской помощи, плановой и экстренной помощи"
+      ]
+    },
+    {
+      "id": "medKat_500",
+      "arr": [
+        "К режимам функционирования службы медицины катастроф относят:",
+        "Повседневную деятельность, повышенную готовность, чрезвычайную ситуацию",
+        "Повседневную деятельность, постоянную готовность, чрезвычайную ситуацию",
+        "Постоянную готовность, чрезвычайную ситуацию, автономный режим",
+        "Повседневную деятельность, полную готовность, чрезвычайную ситуацию",
+        "Постоянную готовность, чрезвычайную ситуацию, режим спокойствия"
+      ]
+    },
+    {
+      "id": "medKat_501",
+      "arr": [
+        "К видам медицинской сортировки относят:",
+        "Внутрипунктовую и эвакуационно-транспортную",
+        "Доврачебную, врачебную, квалифицированную и специализированную",
+        "Предварительную, основную и по предназначению",
+        "Общую, врачебную и специализированную",
+        "Доврачебную, врачебную и квалифицированную"
+      ]
+    },
+    {
+      "id": "medKat_502",
+      "arr": [
+        "Основными сортировочными признаками являются:",
+        "Опасность для окружающих",
+        "Лечебный, эвакуационный, транспортный",
+        "Опасность для окружающих, лечебный, эвакуационный",
+        "Опасность для окружающих, эвакуационный, медицинский",
+        "Транспортабельность, тяжесть состояния"
+      ]
+    },
+    {
+      "id": "medKat_503",
+      "arr": [
+        "Расчет подвижных формирований больницы определён официальным документом, каким?",
+        "Расписанием",
+        "Приказом",
+        "Сметой расходов",
+        "Схемой развёртывания",
+        "Заданием"
+      ]
+    },
+    {
+      "id": "medKat_504",
+      "arr": [
+        "Для своевременной диагностики альвеолярной фазы токсического отека лёгких необходимо провести:",
+        "Биопсию лёгких",
+        "Пункцию лёгочной ткани",
+        "Пункцию плевральной полости",
+        "Рентгенографию лёгких",
+        "Бронхоскопию"
+      ]
+    },
+    {
+      "id": "medKat_505",
+      "arr": [
+        "Ранним симптомом развития альвеолярной фазы токсического отёка лёгких является:",
+        "Появление крепитации и сухих хрипов в лёгких",
+        "Выделение пенистой мокроты из верхних дыхательных путей",
+        "Учащение частоты дыхания с уменьшением его глубины",
+        "Появление влажных хрипов в лёгких",
+        "Урежение частоты дыхания с увеличением его глубины"
+      ]
+    },
+    {
+      "id": "medKat_506",
+      "arr": [
+        "Основным механизмом токсического действия синильной кислоты является:",
+        "Образование роданидов.",
+        "Ингибирование ферментов цикла Кребса",
+        "Образование метгемоглобина",
+        "Блокада цитохром А3",
+        "Ингибирование ацетилхолинэстеразы"
+      ]
+    },
+    {
+      "id": "medKat_507",
+      "arr": [
+        "При отравлении угарным газом первичной гипоксией является:",
+        "Гипоксическая",
+        "Тканевая",
+        "Циркуляторная",
+        "Гемическая",
+        "Смешанная"
+      ]
+    },
+    {
+      "id": "medKat_508",
+      "arr": [
+        "В качестве средства индивидуальной защиты от поражения угарным газом применяется:",
+        "Фильтрующий противогаз с карбогеновым патроном",
+        "Фильтрующий противогаз",
+        "Фильтрующий противогаз с гопкалитовым патроном",
+        "Респиратор",
+        "Защитная камера"
+      ]
+    },
+    {
+      "id": "medKat_509",
+      "arr": [
+        "Наиболее эффективно от гамма-излучения защищают материалы, в которые включены:",
+        "Тяжёлые металлы",
+        "Лёгкие металлы",
+        "Водород",
+        "Сера",
+        "Свинец"
+      ]
+    },
+    {
+      "id": "medKat_510",
+      "arr": [
+        "Тканью, наиболее чувствительной к действию ионизирующих излучений является:",
+        "Кровь",
+        "Эндотелий",
+        "Нервная",
+        "Паренхима внутренних органов",
+        "Костный мозг"
+      ]
+    },
+    {
+      "id": "medKat_511",
+      "arr": [
+        "Наибольшее значение для облучённой клетки имеет повреждение:",
+        "Нуклеиновых кислот",
+        "Белков",
+        "Липопротеидов",
+        "Полисахаридов",
+        "Цитокинов"
+      ]
+    },
+    {
+      "id": "medKat_512",
+      "arr": [
+        "У человека после общего кратковременного облучения в дозе 7 грей развивается какая степень острой лучевой болезни:",
+        "Лёгкая",
+        "Крайне тяжёлая",
+        "Средняя",
+        "Тяжёлая",
+        "Не тяжёлая"
+      ]
+    },
+    {
+      "id": "medKat_513",
+      "arr": [
+        "Поражённые, оставшиеся в живых при возникновении или в результате чрезвычайной ситуации:",
+        "Санитарными",
+        "Безвозвратными",
+        "Медицинскими",
+        "Общими",
+        "Возвратными"
+      ]
+    },
+    {
+      "id": "medKat_514",
+      "arr": [
+        "Эвакуация больницы при возникновении чрезвычайной ситуации бывает:",
+        "Полной",
+        "Массовой",
+        "Объектовой",
+        "Медицинской",
+        "Специализированной"
+      ]
+    },
+    {
+      "id": "medKat_515",
+      "arr": [
+        "При медицинской сортировке на первом этапе медицинской эвакуации заполняется:",
+        "Журнал учёта",
+        "Амбулаторная карта",
+        "История болезни",
+        "Сортировочная марка",
+        "Первичная медицинская карточка"
+      ]
+    },
+    {
+      "id": "medKat_516",
+      "arr": [
+        "При появлении среди населения больных особо опасными инфекциями проводится:",
+        "Наблюдение",
+        "Изоляция",
+        "Индикация",
+        "Карантин",
+        "Обсервация"
+      ]
+    },
+    {
+      "id": "medKat_517",
+      "arr": [
+        "Фактор чрезвычайной ситуации, способный нанести ущерб здоровью человека обозначают как:",
+        "Патогенный",
+        "Экологическим",
+        "Поражающий",
+        "Чрезвычайный",
+        "Вредный"
+      ]
+    },
+    {
+      "id": "medKat_518",
+      "arr": [
+        "К санитарным потерям относятся поражённые:",
+        "Пропавшие без вести",
+        "Нуждающиеся в госпитализации",
+        "Потерявшие трудоспособность на срок более суток",
+        "Эвакиуруемые санитарным транспортом",
+        "Погибшие"
+      ]
+    },
+    {
+      "id": "medKat_519",
+      "arr": [
+        "Руководителем ВСМК на федеральном уровне является:",
+        "Руководитель Департамента Здравоохранения соответствующего уровня",
+        "Министр обороны России",
+        "Премьер-министр России",
+        "Министр здравоохранения РФ",
+        "Президент РФ"
+      ]
+    },
+    {
+      "id": "medKat_520",
+      "arr": [
+        "Причиной гибели большинства пострадавших при чрезвычайных ситуациях является:",
+        "Несвоевременность оказания медицинской помощи",
+        "Воздействие механического поражающего фактора",
+        "Недостаточное обеспечение средствами защиты",
+        "Неорганизованные эвакуационные мероприятия",
+        "Реактивные психозы и острые невротические реакции"
+      ]
+    },
+    {
+      "id": "medKat_521",
+      "arr": [
+        "Какой вид медицинской помощи оказывается на месте поражения или вблизи негосредним медицинским персоналом с использованием табельных средств медицинского имущества.",
+        "первая помощь",
+        "доврачебная помощь",
+        "первая врачебная помощь",
+        "квалифицированная медицинская помощь",
+        "специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_522",
+      "arr": [
+        "Перечислите наиболее полное и правильное содержание аптечки АИ-2.",
+        "антидот в шприц-тюбике, противобактериальное средство, обезболивающее и гипотензивное средство",
+        "антидот против Ф0В тарен, противобактериальное средство№1 и №2. радиозащитное средство (цистамин), противорвотное и седативное средство.",
+        "антидот (тарен), противобактериальное средство сульфадиметонсин, радиозащитное средство, противорвотное и противогрибковое средство",
+        "энтидот, противобактериальное средство, радиозащитное средство цистамин, калий йодистый, противорвотное средство этаперазин и стимулятор ЦНС",
+        "антидот против ФОВ, противобактериальные средства сульфадиметоксин, тетрациклин, радиозащитные средства цистамин, калий йодистый, противорвотное средство этаперазин, обезболивающее средство промедол"
+      ]
+    },
+    {
+      "id": "medKat_523",
+      "arr": [
+        "Пострадавшие с повреждениями средней тяжести с не резко выраженными функциональными расстройствами или без таковых относятся к",
+        "1 сортировочной группе",
+        "2 сортировочной группе",
+        "3 сортировочной группе",
+        "4 сортировочной группе",
+        "5 сортировочной группе"
+      ]
+    },
+    {
+      "id": "medKat_524",
+      "arr": [
+        "Применение радиопротекторов (цистамин",
+        "наиболее эффективно только.",
+        "до облучения",
+        "в период облучения",
+        "после облучения, но до первичной лучевой реакции",
+        "в период развития первичной лучевой реакции",
+        "во все стадии развития лучевой болезни"
+      ]
+    },
+    {
+      "id": "medKat_525",
+      "arr": [
+        "Какое формирование СМК МИНЗДРАВА России на Федеральном уровне является подвижным и предназначено для оказания квалифицированной с элементами специализированной медицинской помощи",
+        "ВЦМК “Защита”",
+        "Штаб ВСМК при ВЦМК “Защита”",
+        "Полевой многопрофильный госпиталь при ВСМК “Защита”",
+        "Медицинский отряд специального назначения",
+        "Всероссийский научно-практический центр экстренной медицинской помощи"
+      ]
+    },
+    {
+      "id": "medKat_526",
+      "arr": [
+        "Каким термином называется территория, на которую распространилось АОХВ в результате аварии",
+        "химически опасный объект",
+        "химическое оружие",
+        "зона химического загрязнения",
+        "очаг химического заражения",
+        "химическая авария"
+      ]
+    },
+    {
+      "id": "medKat_527",
+      "arr": [
+        "На базе чего создаются фельдшерские выездные бригады скорой медицинской помощи?",
+        "специализированных отделений лечебных учреждений",
+        "травматологических пунктов",
+        "медико-санитарных частей",
+        "полевого многопрофильного госпиталя",
+        "медицинского отряда специального назначения"
+      ]
+    },
+    {
+      "id": "medKat_528",
+      "arr": [
+        "После какого вида медицинской помощи пострадавшие выносятся спасателями в пункты сбора пораженных",
+        "первая помощь",
+        "доврачебная помощь",
+        "первая врачебная помощь",
+        "квалифицированная медицинская помощь",
+        "эвакуация в лечебные учреждения"
+      ]
+    },
+    {
+      "id": "medKat_529",
+      "arr": [
+        "Какие потери определяют объем лечебно-эвакуационной деятельности медицинских формирований и учреждений",
+        "общие",
+        "безвозвратные",
+        "санитарные",
+        "единичные",
+        "потери личного состава"
+      ]
+    },
+    {
+      "id": "medKat_530",
+      "arr": [
+        "Назовите срок выезда или вылета БСМП в район ЧС после получения распоряжения",
+        "не позднее 6 часов",
+        "не позднее 12 часов",
+        "не позднее 18 часов",
+        "не позднее 24 часов",
+        "не позднее 36 часов"
+      ]
+    },
+    {
+      "id": "medKat_531",
+      "arr": [
+        "В каком подразделении осуществляется регистрация поступающих пораженных",
+        "сортировочный пост",
+        "приёмно-cортировочное",
+        "специальной (санитарно",
+        "обработки",
+        "перевязочное",
+        "эвакуационное"
+      ]
+    },
+    {
+      "id": "medKat_532",
+      "arr": [
+        "Назовите категории продуктов, крайне опасных при бесконтрольном потреблении на территории следа радиоактивного облака",
+        "все пищевое сырье и продукты, загрязненные радионуклидами",
+        "мясо и молоко животных, выпасаемых на загрязненных пастбищах",
+        "ягоды, грибы, фрукты, овощи, произрастающие в районе радиационной катастрофы",
+        "рыба в водоемах, загрязненных радионуклидами",
+        "ягоды, грибы, фрукты, овощи, произрастающие в районе радиационной катастрофы, рыба в водоемах, загрязненных радионуклидами"
+      ]
+    },
+    {
+      "id": "medKat_533",
+      "arr": [
+        "Укажите оптимальный срок оказания квалифицированной медицинской помощи",
+        "1-2 часа",
+        "3-4 часа",
+        "4-5 часов.",
+        "5-8 часов",
+        "8-12 часов"
+      ]
+    },
+    {
+      "id": "medKat_534",
+      "arr": [
+        "Радиационная обстановка считается нормальной при уровне загрязнения местности",
+        "до 10 мкр/час",
+        "до 60 мкр/час",
+        "от 60 до 120 мкр/час",
+        "от 120 до 240 мкр/час",
+        "более 120 мкр/час"
+      ]
+    },
+    {
+      "id": "medKat_535",
+      "arr": [
+        "Каким термином принято обозначать ситуацию, сопровождающуюся проливом или выбросом АОХВ, способную привести к гибели или химическому поражению людей, заражению продовольствия, животных, растений и окружающей среды",
+        "химически опасный объект.",
+        "химически опасная зона",
+        "зона химического заражения",
+        "очаг химического заражения",
+        "химическая авария"
+      ]
+    },
+    {
+      "id": "medKat_536",
+      "arr": [
+        "Без оказания какого вида медицинской помощи транспортировка тяжело пораженных на неприспособленном транспорте (личный автомобил",
+        "приводит к гибели на дороге, либо доставляются в ЛПУ в тяжелом, даже терминальном состоянии",
+        "первая помощь",
+        "доврачебная помощь",
+        "первая врачебная помощь",
+        "квалифицированная медицинская помощь",
+        "эвакуация в лечебные учреждения"
+      ]
+    },
+    {
+      "id": "medKat_537",
+      "arr": [
+        "Повышение уровня воды в водоеме, ведущего к затоплению территории, происходит по следующим причинам",
+        "сезонное таяние снежного покрова",
+        "таяние ледников и снежного покрова в горах",
+        "интенсивные дожди",
+        "заторы и зажоры",
+        "сезонное таяние снежного покрова, таяние ледников и снежного покрова в горах, интенсивные дожди, заторы и зажор"
+      ]
+    },
+    {
+      "id": "medKat_538",
+      "arr": [
+        "Кто осуществляет медико-тактический анализ обстановки и прогнозирует медико-санитарные последствия ЧС в регионе",
+        "Региональные центры медицины катастроф.",
+        "МОСН военных округов и флотов",
+        "Формирования регионального подчинения МВД, МПС России.",
+        "Всеармейский центр медицины катастроф Минобороны России",
+        "Полевой многопрофильный госпиталь при ВСМК «Защита»"
+      ]
+    },
+    {
+      "id": "medKat_539",
+      "arr": [
+        "Дайте наиболее полное определение понятия «Медицинская сортировка»",
+        "распределение пораженных на однородные группы по характеру поражения",
+        "выделение пораженных, нуждающихся в неотложной медицинской помощи",
+        "распределение пораженных на группы нуждающихся в медицинской помощи и эвакуации",
+        "метод распределения пораженных на группы нуждающихся в однородных лечебнопрофилактических и эвакуационных мероприятиях",
+        "метод распределения пораженных по функциональным подразделениям ЛПУ"
+      ]
+    },
+    {
+      "id": "medKat_540",
+      "arr": [
+        "К мероприятиям первой помощи по работе с нарушениями дыхания относится",
+        "проведение искусственного дыхания",
+        "наложение окклюзионной повязки при открытом пневмотораксе",
+        "устранение асфиксии",
+        "пункция плевральной полости при клапанном пневмотораксе",
+        "ревизия ротовой полости"
+      ]
+    },
+    {
+      "id": "medKat_541",
+      "arr": [
+        "Скольким пораженным может оказывать помощь ожоговая БСМП за 12 часов работы",
+        "10",
+        "20",
+        "30",
+        "40",
+        "50"
+      ]
+    },
+    {
+      "id": "medKat_542",
+      "arr": [
+        "На площадку специальной обработки этапа медицинской помощи поступают лица, прибывшие из",
+        "очага поражения монооксидом углерода",
+        "очага поражения циановодородом",
+        "очага поражения аммиаком",
+        "очага поражения хлором",
+        "очага поражения фосгеном"
+      ]
+    },
+    {
+      "id": "medKat_543",
+      "arr": [
+        "Для предотвращения поражения АОХВ удушающего действия применяют",
+        "лечебные антидоты",
+        "профилактические антидоты",
+        "средства защиты органов дыхания",
+        "симптоматические средства",
+        "средства защиты кожных покровов"
+      ]
+    },
+    {
+      "id": "medKat_544",
+      "arr": [
+        "Кто является начальником ГО лечебно-профилактического учреждения",
+        "заместитель главного врача больницы по медицинской части.",
+        "начальник штаба ГО больницы",
+        "главный инженер больницы",
+        "главный врач больницы",
+        "заместитель главного врача по учебной части"
+      ]
+    },
+    {
+      "id": "medKat_545",
+      "arr": [
+        "На океанической нефтедобывающей платформе в результате несчастного случая, произошел взрыв, унесший жизни 21 человека, работавших на данном объекте, которые в момент этого находились в непосредственной близости. 36 человек получили травматические повреждения различной степени тяжести. Работа на платформе остановлена. Плюс, в результате утечки нефти, произошло значительное загрязнение океанической поверхности. Каким термином вы охарактеризуете данную ЧС.",
+        "авария",
+        "катастрофа",
+        "стихийное бедствие",
+        "террористический акт",
+        "локальное бедствие"
+      ]
+    },
+    {
+      "id": "medKat_546",
+      "arr": [
+        "Оптимальный срок оказания какого вида медицинской помощи не должен превышать 1-2 часа с момента поражения",
+        "первая помощь",
+        "доврачебная помощь",
+        "первая врачебная помощь",
+        "квалифицированная медицинская помощь",
+        "специализированная медицинская помощь"
+      ]
+    },
+    {
+      "id": "medKat_547",
+      "arr": [
+        "Пострадавшие с легкими повреждениями, не нуждающиеся в оказании медицинской помощи на данном этапе по лечебному признаку относятся к",
+        "1 сортировочной группе",
+        "2 сортировочной группе",
+        "3 сортировочной группе",
+        "4 сортировочной группе",
+        "5 сортировочной группе"
+      ]
+    },
+    {
+      "id": "medKat_548",
+      "arr": [
+        "Определяющими моментами при ликвидации наводнения являются",
+        "масштаб территории затопления",
+        "количество пострадавшего населения, оказавшегося без крова",
+        "количество затопленных продуктов питания и источников питьевой воды",
+        "метеорологические факторы (температура воды, ветер, наличие осадков)",
+        "масштаб территории затопления, количество пострадавшего населения, оказавшегося без крова, количество затопленных продуктов питания и источников питьевой воды, метеорологические факторы, температура воды, ветер, наличие осадков)"
+      ]
+    },
+    {
+      "id": "medKat_549",
+      "arr": [
+        "Что входит в понятие «эвакуационный признак»",
+        "необходимость эвакуации",
+        "очередность эвакуации",
+        "должность пострадавшего",
+        "положение пораженного на транспорте",
+        "вид транспорта"
+      ]
+    },
+    {
+      "id": "medKat_550",
+      "arr": [
+        "К какой группе ЧС относятся аварии, катастрофы, стихийные бедствия, в результате которых пострадало свыше 50 человек, но не более 500, либо нарушены условия жизнедеятельности свыше 300 человек, но не более 500 человек.",
+        "локальные",
+        "местные",
+        "территориальные",
+        "региональные",
+        "федеральные"
+      ]
+    },
+    {
+      "id": "medKat_551",
+      "arr": [
+        "Каким термином принято называть территорию, в пределах которой произошел выброс АОХВ и, как следствие, массовое поражение людей, сельскохозяйственных животных и загрязнение окружающей среды",
+        "химически опасный объект",
+        "химическое оружие",
+        "зона химического заражения",
+        "очаг химической аварии",
+        "химическая авария"
+      ]
+    },
+    {
+      "id": "medKat_552",
+      "arr": [
+        "Какой процент больных подлежит выписке из ЛПУ при его эвакуации",
+        "около 20%",
+        "около 45%",
+        "около 50%",
+        "около 5%",
+        "около 30%"
+      ]
+    },
+    {
+      "id": "medKat_553",
+      "arr": [
+        "Основными способами ведения радиационной разведки являются",
+        "определение радиоактивного заражения местности",
+        "определение радиоактивного фона на местности",
+        "ограждение радиоактивного участка местности знаками ‘заражено»",
+        "направление радиационных дозоров на местности",
+        "определение возможных путей объезда загрязненной территории"
+      ]
+    },
+    {
+      "id": "medKat_554",
+      "arr": [
+        "При аварии на радиационно-опасном объекте, при наличии у пострадавшего сильного кровотечения необходимо сначала",
+        "использовать средства индивидуальной защиты костюмы, респираторы",
+        "остановить кровотечение",
+        "выполнить специальную обработку открытых участков кожи",
+        "эвакуировать из очага поражения",
+        "использовать радиопротектор"
+      ]
+    },
+    {
+      "id": "medKat_555",
+      "arr": [
+        "Пострадавшие с тяжелой и средней тяжести повреждениями, непосредственной угрозы для жизни, по лечебному признаку относятся к",
+        "1сортировочной группе",
+        "2 сортировочной группе",
+        "3 сортировочной группе",
+        "4 сортировочной группе",
+        "5 сортировочной группе"
+      ]
+    },
+    {
+      "id": "medKat_556",
+      "arr": [
+        "Какое формирование создается на базе центров госсанэпиднадзора России и противочумных учреждений",
+        "группы эпидемиологической разведки",
+        "санитарно-эпидемиологические отряды",
+        "пункт медицинской помощи",
+        "бригады специализированной медицинской помощи",
+        "нештатные врачебно-сестринские бригады"
+      ]
+    },
+    {
+      "id": "medKat_557",
+      "arr": [
+        "Назовите АОХВ нервно-паралетического действия",
+        "тиофос, хлорофос, дихлофос, метафос",
+        "синильная кислота, окись углерода, анилин, сероводород, гидразин",
+        "аммиак, азотная кислота",
+        "хлор, фосген, дифосген, хлопикрин",
+        "диоксин, сероуглерод, дихлорэтан, четырёххлористый углерод"
+      ]
+    },
+    {
+      "id": "medKat_558",
+      "arr": [
+        "Сколько оперативных вмешательств может выполнить травматологическая БСМП за 12 часов работы",
+        "6",
+        "10",
+        "15",
+        "20",
+        "25"
+      ]
+    },
+    {
+      "id": "medKat_559",
+      "arr": [
+        "Какое формирование не входит в состав сил и средств ликвидации ЧС МЧС России",
+        "Государственный Центральный аэромобильный спасательный отряд",
+        "Ремонтно-восстановительные поезда",
+        "Поисково-спасательная служба",
+        "Авиация МЧС.",
+        "Войска гражданской обороны"
+      ]
+    },
+    {
+      "id": "medKat_560",
+      "arr": [
+        "В каком году впервые была организована медико-санитарная служба при МПВО",
+        "1932",
+        "1947",
+        "1952",
+        "1961",
+        "1994"
+      ]
+    },
+    {
+      "id": "medKat_561",
+      "arr": [
+        "Назовите одну из основных задач БСМП в ЧС",
+        "совершенствование теоретических знаний и практических навыков по медицинской сортировке и оказанию первой врачебной помощи пострадавшим в ЧС",
+        "поддержание бригады в постоянной готовности к выезду к очагу поражения и работе в ЧС",
+        "медицинская сортировка поражённых",
+        "извлечение поражённых из-под завалов",
+        "оказание специализированной медицинской помощи"
+      ]
+    },
+    {
+      "id": "medKat_562",
+      "arr": [
+        "К каким ЧС относятся эпидемии, голод, войны, терроризм, общественные беспорядки",
+        "техногенные",
+        "природные",
+        "экологические",
+        "социальные",
+        "специфические"
+      ]
+    },
+    {
+      "id": "medKat_563",
+      "arr": [
+        "БСМП предназначена для",
+        "медицинской сортировки поражённых, нуждающихся в 1-ой врачебной помощи",
+        "оказания 1-ой врачебной помощи",
+        "специализации или усиления ЛПУ и подвижных госпиталей СМК",
+        "оказания гуманитарной помощи ЛПУ",
+        "оказания первой медицинской помощи и лечения транспортабельных поражённых"
+      ]
+    },
+    {
+      "id": "medKat_564",
+      "arr": [
+        "На приемно-сортировочной площадке этапа все раненные и больные сортируются на группы",
+        "раненые и больные хирургического профиля",
+        "раненые и больные терапевтического профиля",
+        "нуждающиеся в специальной обработке",
+        "нуждающиеся в медицинской помощи на данном этапе и подлежащие дальнейшей эвакуации",
+        "раненые и больные хирургического профиля, раненые и больные терапевтического профиля, нуждающиеся в специальной обработке, нуждающиеся в медицинской помощи на данном этапе и подлежащие дальнейшей эвакуации"
+      ]
+    },
+    {
+      "id": "medKat_565",
+      "arr": [
+        "Табельным медицинским имуществом называется",
+        "имущество, используемое в особый период",
+        "имущество, которое имеется в распоряжении медицинской службы",
+        "имущество, которое предусмотрено соответствующими нормами снабжения и приказами",
+        "имущество, приобретенное за дополнительные средства, изготовленное своими силами",
+        "имущество, — которое предусмотрено соответствующими нормами снабжения и приказами,"
+      ]
+    },
+    {
+      "id": "medKat_566",
+      "arr": [
+        "К индивидуальным средствам защиты кожи относятся:",
+        "противогазы фильтрующего и изолирующего типов",
+        "плащ-накидка",
+        "общевойсковой защитный комплект (ОЗК",
+        "индивидуальный противохимический пакет",
+        "индивидуальный перевязочный пакет"
+      ]
+    },
+    {
+      "id": "medKat_567",
+      "arr": [
+        "Назовите дозу ионизирующего излучения, при воздействии которой на организм человека может возникнуть острая лучевая болезнь средней тяжести",
+        "50-100 рад (0.5-1 Гр)",
+        "100-150 рад (1-1.5 Гр)",
+        "100-200 рад (1-2 Гр)",
+        "200-400 рад (2-4 Гр)",
+        "свыше 600 рад"
+      ]
+    },
+    {
+      "id": "medKat_568",
+      "arr": [
+        "Если при появлении групповых инфекционных заболеваний и наличии условий для их дальнейшего распространения среди населения в районе его проживания или в соседних городах, а также при возникновении единичных заболеваний ООИ, то санитарно-эпидемическая обстановка расценивается как",
+        "благополучная",
+        "неустойчивая",
+        "неблагополучная",
+        "чрезвычайная",
+        "катастрофическая"
+      ]
+    },
+    {
+      "id": "medKat_569",
+      "arr": [
+        "Назовите одно из технических требований, необходимых для повышения устойчивости ЛПУ в ЧС",
+        "наличие КПП",
+        "наличие автозаправочной станции",
+        "наличие системы надёжности энергоснабжения",
+        "наличие авторемонтной мастерской",
+        "наличие санитарно-гигиенической лаборатории"
+      ]
+    },
+    {
+      "id": "medKat_570",
+      "arr": [
+        "Задачи РСЧС все, кроме:",
+        "разработка и реализация правовых и экономических норм по обеспечению защиты населения и территорий от ЧС;50-100 рад (0.5-1 Гр)",
+        "прогнозирование и оценка социально-экономических последствий ЧС;200-300 рад (2-3 Гр)",
+        "сбор, обработка, обмен и выдача информации в области защиты населения и территорий от ЧС;300-400 рад (3-4 Гр)",
+        "социальная защита населения, пострадавшего от ЧС",
+        "своевременное и эффективное оказание всех видов медицинской помощи населению в ЧС."
+      ]
+    },
+    {
+      "id": "medKat_571",
+      "arr": [
+        "Силы и средства МЧС России все, кроме:",
+        "Центроспас",
+        "поисково-спасательная служба",
+        "центр специального назначения",
+        "авиация МЧС",
+        "гражданская авиация."
+      ]
+    },
+    {
+      "id": "medKat_572",
+      "arr": [
+        "Режимы функционирования РС ЧС:",
+        "режим повседневной деятельности",
+        "проведение неотложных работ",
+        "режим чрезвычайной ситуации",
+        "режим повышенной готовности",
+        "проведение эвакуационных мероприятий."
+      ]
+    },
+    {
+      "id": "medKat_573",
+      "arr": [
+        "Назовите одну из основных задач ВСМК",
+        "организация и осуществление медико-санитарного обеспечения населения при ликвидации последствий ЧС",
+        "оказание специализированной медицинской помощи",
+        "проведение медицинской сортировки поражённых",
+        "организация работы медицинских бригад на месте ЧС",
+        "локализация ЧС в целях снижения воздействия поражающих факторов её источника"
+      ]
+    },
+    {
+      "id": "medKat_574",
+      "arr": [
+        "Основные принципы создания Службы медицины катастроф:",
+        "размещение больниц на путях эвакуации",
+        "создание формирований, учреждений и органов управления Службы экстренной медицинской помощи на базе существующих учреждений, органов управления",
+        "оказание помощи по профилю поражения",
+        "маневр сил и средств с использованием местных ресурсов, широкое привлечение населения к ликвидации последствий",
+        "проведение медицинской разведки, взаимодействие лечебных учреждений, постоянная готовность к маневру силами и средствами."
+      ]
+    },
+    {
+      "id": "medKat_575",
+      "arr": [
+        "Основные задачи службы медицины катастроф:",
+        "сохранение здоровья и жизни населения",
+        "своевременное и эффективное оказание всех видов медицинской помощи в ЧС с целью спасения жизни пораженных, снижение инвалидности и неоправданных безвозвратных потерь, обеспечение санитарно-эпидемиологического благополучия в районе ЧС",
+        "подготовка медицинских кадров, создание органов управления, медицинских формирований, учреждений, поддержание их в постоянной готовности",
+        "эвакуация и сортировка пострадавших в ЧС",
+        "сохранение здоровья личного состава медицинских формирований, планирование развития сил и средств здравоохранения и поддержание их в постоянной готовности к работе в зонах катастроф для ликвидации последствий ЧС."
+      ]
+    },
+    {
+      "id": "medKat_576",
+      "arr": [
+        "Режимы функционирования службы медицины катастроф:",
+        "неотложный и экстренный режим",
+        "повседневной деятельности, повышенной готовности, чрезвычайной ситуации",
+        "режим повышенной готовности, режим угрозы возникновения ЧС, режим ликвидации медицинских последствий ЧС",
+        "режим защиты населения от факторов ЧС, режим ликвидации последствий ЧС",
+        "режимы отсутствуют."
+      ]
+    },
+    {
+      "id": "medKat_577",
+      "arr": [
+        "Материально-техническое обеспечение формирований службы медицины катастроф осуществляется:",
+        "Минздравом России",
+        "органами управления территории",
+        "учреждениями-формирователями в виде комплектов, укладок и разрозненных предметов",
+        "бесперебойное и полное",
+        "для пополнения истраченного."
+      ]
+    },
+    {
+      "id": "medKat_578",
+      "arr": [
+        "Укажите основные показатели, необходимые для расчета количества бригад в ЧС",
+        "количество обслуживаемого населения поликлиникой",
+        "количество детей",
+        "количество пораженных",
+        "количество медперсонала поликлиники",
+        "количество санитарного автотранспорта."
+      ]
+    },
+    {
+      "id": "medKat_579",
+      "arr": [
+        "Какое количество пораженных должна обслуживать 1 врачебно-сестринская бригада в течение суток:",
+        "20 человек",
+        "40 человек",
+        "10 человек",
+        "50 человек",
+        "80 человек."
+      ]
+    },
+    {
+      "id": "medKat_580",
+      "arr": [
+        "Медицинской сортировкой называется:",
+        "распределение пострадавших по очередности их эвакуации",
+        "разделение потока пострадавших",
+        "распределение пораженных на группы по признаку нуждаемости в однородных лечебно-профилактических и эвакуационных мероприятиях",
+        "распределение пораженных на однородные группы по характеру поражения",
+        "разделение потока на «ходячих» и «носилочных»."
+      ]
+    },
+    {
+      "id": "medKat_581",
+      "arr": [
+        "Виды объектов здравоохранения, относящиеся к медицине катастроф:",
+        "склады медицинского имущества",
+        "лечебно-профилактические учреждения",
+        "санитарно-противоэпидемические учреждения",
+        "станции переливания крови",
+        "образовательные и научно-исследовательские учреждения"
+      ]
+    },
+    {
+      "id": "medKat_582",
+      "arr": [
+        "Органом повседневного управления СМК субъекта РФ являются:",
+        "областной отдел здравоохранения",
+        "управление здравоохранения области, края",
+        "комитет, управление социальной защиты области, края",
+        "территориальный центр медицины катастроф",
+        "штаб ГО ЧС территории."
+      ]
+    },
+    {
+      "id": "medKat_583",
+      "arr": [
+        "Территориальный центр медицины катастроф непосредственно подотчетен:",
+        "органу управления здравоохранением субъекта РФ",
+        "Всероссийскому центру медицины катастроф",
+        "межрегиональному центру медицины катастроф",
+        "чрезвычайной противоэпидемической комиссии",
+        "управлению по делам ГО ЧС территории."
+      ]
+    },
+    {
+      "id": "medKat_584",
+      "arr": [
+        "Организационной формой, позволяющей своевременно оказать мед. помощь наибольшему числу пораженных в очаге, является:",
+        "быстрое выведение пораженных из очага катастрофы",
+        "четко организованная медицинская эвакуация",
+        "прогнозирование исхода поражения",
+        "медицинская сортировка",
+        "оказание неотложной помощи."
+      ]
+    },
+    {
+      "id": "medKat_585",
+      "arr": [
+        "К числу нуждающихся в экстренной помощи при ОЛБ относят:",
+        "больных ОЛБ II степени в период разгара",
+        "больных ОЛБ III степени в период разгара",
+        "больных ОЛБ III степени в период первичной реакции",
+        "больных ОЛБ IV степени в период разгара",
+        "больных ОЛБ I при наличии местных лучевых поражений."
+      ]
+    },
+    {
+      "id": "medKat_586",
+      "arr": [
+        "Основными задачами формирований, оказывающих психиатрическую помощь в ЧС, являются:",
+        "выявление, диагностика и лечение патологических и непатологических форм психических расстройств, динамическое наблюдение при комбинированных поражениях, сохранение работоспособности пострадавшего населения, аварийно-спасательных и медицинских формирований",
+        "проведение первоочередных мероприятий в очаге поражения и исчерпывающей – в психиатрических больницах",
+        "установление правильного диагноза",
+        "купирование реактивных психозов",
+        "обеспечение транспортировки пострадавших без ухудшения их психического здоровья, оказание лечебно-профилактической и консультативной помощи."
+      ]
+    },
+    {
+      "id": "medKat_587",
+      "arr": [
+        "На региональном и муниципальном уровнях организация психиатрической помощи в ЧС осуществляется:",
+        "центрами психического здоровья, центральными, краевыми, республиканскими, областными, районными психиатрическими больницами и сформированными на их базах бригадами",
+        "региональными и территориальными центрами медицины катастроф",
+        "специализированными отделениями лечебно-профилактических учреждений",
+        "координационным советом по проблемам психиатрии катастроф",
+        "МНИИ психиатрии, ГНУ социальной и судебной психиатрии им. В.П.Сербского."
+      ]
+    },
+    {
+      "id": "medKat_588",
+      "arr": [
+        "Принципами оказания психиатрической помощи в ЧС являются:",
+        "приближенность, неотложность, адекватность, этапность, преемственность",
+        "адекватность и эффективность",
+        "стандартность, стабилизация, коррекция, реабилитация",
+        "купирование, наблюдение, коррекция",
+        "отсутствуют."
+      ]
+    },
+    {
+      "id": "medKat_589",
+      "arr": [
+        "Первая помощь пораженным с острым психотическим состоянием включает:",
+        "психолого-психиатрическая разведка, психиатрический прогноз",
+        "предупреждение психических реакций и агрессивных форм поведения населения, наблюдение при комбинированных поражениях, выявление отрицательного «лидера» и его изоляция",
+        "оценка состояния психического здоровья населения в ЧС",
+        "обеспечение транспортировки пострадавших",
+        "направление в территориальные и региональные центры психического здоровья."
+      ]
+    },
+    {
+      "id": "medKat_590",
+      "arr": [
+        "Организационно-медицинский метод, позволяющий своевременно оказать мед. помощь наибольшему числу пораженных:",
+        "четко организованная медицинская эвакуация",
+        "медицинская сортировка",
+        "прогнозирование исхода поражения",
+        "подворные обходы",
+        "организация и оказание медицинской помощи на месте."
+      ]
+    },
+    {
+      "id": "medKat_591",
+      "arr": [
+        "Прогнозирование обстановки осуществляется:",
+        "расчетным методом",
+        "в период действия фактора",
+        "дозой излучения",
+        "в дневное время",
+        "при определении метеоусловий."
+      ]
+    },
+    {
+      "id": "medKat_592",
+      "arr": [
+        "Принципы оказания медицинской помощи в ЧС:",
+        "быстрота и достаточность",
+        "преемственность и последовательность проводимых лечебно-эвакуационных мероприятий, своевременность их выполнения",
+        "доступность, возможность оказания медицинской помощи на этапах эвакуации",
+        "проведение медицинской сортировки, изоляции и эвакуации",
+        "определение потребности и установление порядка оказания медицинской помощи, осуществление контроля за массовым приемом, сортировкой и оказанием медицинской помощи."
+      ]
+    },
+    {
+      "id": "medKat_593",
+      "arr": [
+        "Определение специализированной медицинской помощи:",
+        "оказание помощи хирургическим и терапевтическим пораженным",
+        "высший тип медицинской помощи, оказываемый врачами-специалистами",
+        "помощь, оказываемая врачами-специалистами в специализированных лечебных учреждениях с использованием специального оборудования",
+        "полный объем медицинской помощи, оказываемый пораженному в профилированной больнице",
+        "оказание помощи по жизненным показаниям."
+      ]
+    },
+    {
+      "id": "medKat_594",
+      "arr": [
+        "Основной целью планирования медико-санитарного обеспечения населения в ЧС является:",
+        "приведение в готовность учреждений и формирований",
+        "готовность персонала к работе в ЧС",
+        "оснащение учреждений и формирований",
+        "организация и проведение лечебно-эвакуационных, санитарно-противоэпидемических мероприятий, медицинское снабжение",
+        "обучение населения правильному поведению при ЧС."
+      ]
+    },
+    {
+      "id": "medKat_595",
+      "arr": [
+        "В структуре санитарных потерь при наводнениях преобладают поражения:",
+        "с явлениями асфиксии",
+        "с нарушением дыхания и сердечно-сосудистой деятельности",
+        "с механической травмой",
+        "в состоянии психического расстройства",
+        "с гнойными осложнениями."
+      ]
+    },
+    {
+      "id": "medKat_596",
+      "arr": [
+        "Причины смерти при первичном утоплении:",
+        "внезапная остановка сердца",
+        "отсутствие рвотного рефлекса",
+        "отек головного мозга",
+        "острая почечная недостаточность",
+        "отек легких."
+      ]
+    },
+    {
+      "id": "medKat_597",
+      "arr": [
+        "Мероприятия по защите населения от поражающих факторов наводнения:",
+        "прогноз возможности возникновения наводнений, непрерывное наблюдение и контроль за состоянием окружающей среды",
+        "оповещение и эвакуация населения из опасных зон и районов",
+        "обеспечение эффективной, своевременной, непрерывной и последовательной медицинской помощи пострадавшим",
+        "использование средств индивидуальной защиты",
+        "проведение аварийно-спасательных и других неотложных работ в районах наводнения."
+      ]
+    },
+    {
+      "id": "medKat_598",
+      "arr": [
+        "Меры по оказанию первой помощи пораженным в первые 5-10 минут после утопления, все,кроме одной:",
+        "очистить полость рта от инородного содержимого и слизи",
+        "стимулировать дыхание с боков грудной клетки при выдохе",
+        "провести растирание ног, рук, грудной клетки",
+        "дать питье с алкоголем",
+        "эвакуировать в лечебное учреждение на боку."
+      ]
+    },
+    {
+      "id": "medKat_599",
+      "arr": [
+        "Характеристика зон разрушений зданий в зависимости от интенсивности землетрясений:",
+        "слабые",
+        "средние",
+        "сильные",
+        "сплошные",
+        "колебаний земной поверхности."
+      ]
+    },
+    {
+      "id": "medKat_600",
+      "arr": [
+        "Структура санитарных потерь по степени тяжести травм при землетрясении:",
+        "легкие потери – 36-39%",
+        "средней тяжести – 29-30%",
+        "изолированные травмы – 45%",
+        "сочетанные и комбинированные травмы",
+        "тяжелые потери 36-39%."
+      ]
+    },
+    {
+      "id": "medKat_601",
+      "arr": [
+        "Стадии общего замерзания:",
+        "сужение зрачка, судороги, психомоторное возбуждение",
+        "потеря сознания, рвота, боль в суставах",
+        "адинамия, ступор, судороги, сон",
+        "низкое АД, остановка сердечной деятельности",
+        "пробуждение."
+      ]
+    },
+    {
+      "id": "medKat_602",
+      "arr": [
+        "Мероприятия помощи, в догоспитальном периоде, при отморожениях:",
+        "массаж со снегом",
+        "немедленное согревание пораженного участка (теплые ванны)",
+        "горячий чай, кофе, растирание 5% раствором спирта",
+        "мазевая повязка, обезболивание, обильное питье",
+        "алкоголь внутрь."
+      ]
+    },
+    {
+      "id": "medKat_603",
+      "arr": [
+        "Мероприятие первой помощи пострадавшему с ожогами:",
+        "промывание ожоговой поверхности",
+        "введение анальгетиков",
+        "обезболивание",
+        "инфузионная терапия",
+        "введение противостолбнячной сыворотки."
+      ]
+    },
+    {
+      "id": "medKat_604",
+      "arr": [
+        "Наводнения в зависимости от масштабов и наносимого суммарного ущерба подразделяют на группы:",
+        "низкие наводнения",
+        "высокие наводнения",
+        "широкие наводнения",
+        "выдающиеся наводнения",
+        "катастрофические наводнения."
+      ]
+    },
+    {
+      "id": "medKat_605",
+      "arr": [
+        "Содержание работы радиологич. лабораторий Центров санитарно-эпидемиологического надзора по организации радиационной безопасности населения на территории следа радиоактивного облака:",
+        "приведение в готовность учреждений и формирований",
+        "готовность персонала к работе в ЧС",
+        "оснащение учреждений и формирований",
+        "организация и оказание медицинской и противоэпидемической помощи, медицинское снабжение",
+        "обучение населения правильному поведению при ЧС."
+      ]
+    },
+    {
+      "id": "medKat_606",
+      "arr": [
+        "Наиболее вероятная патология при аварии на ядерном реакторе:",
+        "ионизирующая радиация",
+        "радиационные ожоги",
+        "механические, термические травмы, лучевые поражения, реактивные состояния",
+        "ослепление, лучевая болезнь травмы",
+        "ранения вторичными снарядами, синдром длительного сдавления, ожоги, заражение РВ."
+      ]
+    },
+    {
+      "id": "medKat_607",
+      "arr": [
+        "О степени тяжести лучевого поражения можно судить по:",
+        "содержанию радионуклидов в объектах окружающей среды",
+        "количеству радиоактивного йода в почве",
+        "данным дозиметрии",
+        "количеству эритроцитов в крови",
+        "частоте и кратности рвоты."
+      ]
+    },
+    {
+      "id": "medKat_608",
+      "arr": [
+        "Гематологический показатель, по которому можно судить о заболевании острой лучевой болезнью:",
+        "гемоглобин",
+        "число лейкоцитов",
+        "уровень снижения количества лимфоцитов на 3-5-е сутки",
+        "тромбоцитопения, лейкопения, агранулоцитоз",
+        "тромбоцитопения"
+      ]
+    },
+    {
+      "id": "medKat_609",
+      "arr": [
+        "В каких дозах измеряется экспозиционная ( 1 ), поглощенная ( 2 ) и эффективная ( 3 ) доза; Грей ( Гр ) ( а ), Рентген ( Р ) ( б ), Зиверт ( Зв ) ( в ), рад ( г ), Беккерель ( д ):",
+        "1-а; 2-б; 3-г",
+        "1-б; 2-а,г; 3-д",
+        "1-д; 2-б,г; 3-а",
+        "1-а; 2-б, 3-в",
+        "1-а; 2-а,г; 3-в"
+      ]
+    },
+    {
+      "id": "medKat_610",
+      "arr": [
+        "Зоной заражения АХОВ называют:",
+        "место разлива вещества",
+        "территорию, на которой произошли массовые поражения людей",
+        "территорию заражения АХОВ в опасных для жизни людей пределах",
+        "местность, зараженную АХОВ в смертельных концентрациях",
+        "территорию, представляющую опасность заражения людей АХОВ."
+      ]
+    },
+    {
+      "id": "medKat_611",
+      "arr": [
+        "Глубина зоны заражения АХОВ определяется:",
+        "агрегатным состоянием вещества, влажностью воздуха, температурой воздуха",
+        "особенностью местности, количеством вылившегося вещества, его агрегатным состоянием",
+        "количеством выброшенного (вылившегос",
+        "при аварии вещества, скоростью ветра, степенью вертикальной устойчивости воздуха, характером местности",
+        "не определяется",
+        "характером местности, стойкостью вещества, скоростью ветра, температурой воздуха."
+      ]
+    },
+    {
+      "id": "medKat_612",
+      "arr": [
+        "Очагом поражения АХОВ называют:",
+        "территорию, в пределах которой в результате аварии на химически опасном объекте произошли массовые поражения населения",
+        "территорию, на которой могут быть массовая гибель",
+        "местность, опасную для здоровья и жизни людей вследствие действия АХОВ",
+        "местность, зараженную АХОВ в пределах опасных для здоровья и жизни людей",
+        "зона заражения АХОВ вследствие аварии на химически опасном объекте."
+      ]
+    },
+    {
+      "id": "medKat_613",
+      "arr": [
+        "Исходные данные для определения величины и структуры потерь населения в зоне заражения АХОВ:",
+        "площадь зоны заражения, плотность населения в зоне заражения, условия нахождения людей (открыто, в простейших укрытиях, зданиях), обеспеченность противогазами",
+        "концентрация вещества в воздухе, наличие противогазов, метеоусловия, характер местности",
+        "агрегатное состояние вещества в момент аварии, внезапность выброса (разлив",
+        "вещества, наличие средств защиты, метеоусловия",
+        "токсичность вещества, масштаб аварии, метеоусловия, наличие средств защиты",
+        "время суток, масштаб разлива вещества, наличие средств зашиты, готовность здравоохранения к ликвидации последствий аварии."
+      ]
+    },
+    {
+      "id": "medKat_614",
+      "arr": [
+        "К быстродействующим АХОВ относятся:",
+        "хлор, аммиак, синильная кислота",
+        "фосген, аммиак, хлор",
+        "акрилонитрил, окислы азота, окись углерода, аммиак",
+        "диоксин, хлорацетоцетон, динитрофенол",
+        "фосген, хлор, диоксин."
+      ]
+    },
+    {
+      "id": "medKat_615",
+      "arr": [
+        "Очаг поражения нестойкими медленнодействующими АХОВ образуется при заражении:",
+        "фосгеном, хлорпикрином, азотной кислотой",
+        "фосгеном, метанолом",
+        "акрилонитрилом, аммиаком, синильной кислотой",
+        "окисью углерода, амилнитритом, синильной кислотой",
+        "не образуется."
+      ]
+    },
+    {
+      "id": "medKat_616",
+      "arr": [
+        "Основные мероприятия, обеспечивающие повышение готовности здравоохранения к реагированию и действиям при ликвидации последствий терактов:",
+        "повышение квалификации медицинских кадров по медицине катастроф",
+        "повышение требовательности к руководящему составу органов управления здравоохранением",
+        "взаимодействие со структурами МЧС России",
+        "проведение с органами управления здравоохранением, медицинскими организациями специальных учений",
+        "время высвобождения пораженных из завалов, из транспортных средств"
+      ]
+    },
+    {
+      "id": "medKat_617",
+      "arr": [
+        "Медицинская эвакуация из ЛПУ при угрозе теракта:",
+        "немедленная выписка больных на амбулаторное лечение,",
+        "перевод в другие ЛПУ",
+        "мед. эвакуация больных средней и тяжелой тяжести в другие стационары бригадами СМП",
+        "проверка объектового и личного транспорта на территории объекта",
+        "обеспечение персонала объекта средствами индивидуальной защиты"
+      ]
+    },
+    {
+      "id": "medKat_618",
+      "arr": [
+        "Задачи медико-санитарного обеспечения населения в ходе вооруженных конфликтов:",
+        "своевременное оказание медицинской помощи пострадавшему населению, эвакуация больных и пораженных в ЛПУ",
+        "участие личного состава медицинских формирований в боевых действиях в зоне вооруженного конфликта",
+        "осуществление комплекса противоэпидемических мероприятий в зоне ВК и в местах наибольшего сосредоточения вынужденных переселенцев для предотвращения вспышек инфекционных заболеваний",
+        "бесперебойное снабжение медицинским имуществом учреждений и формирований здравоохранения, участвующих в ликвидации медико-санитарных последствий ВК",
+        "восстановление системы здравоохранения в зоне ВК"
+      ]
+    },
+    {
+      "id": "medKat_619",
+      "arr": [
+        "Основные условия, влияющие на организацию медико-санитарного обеспечения в ходе вооруженного конфликта, за исключением:",
+        "широкое вовлечение в конфликт и высокая степень уязвимости местного населения",
+        "особенности ведения боевых действий",
+        "медико-санитарное обеспечение боевых действий",
+        "характеристика санитарных потерь",
+        "снижение уровня медико-санитарного обеспечения населения в зоне конфликта и за ее пределами"
+      ]
+    },
+    {
+      "id": "medKat_620",
+      "arr": [
+        "Необходимые исходные документы для планирования мероприятий по мед. обеспечению пораженных на объекте здравоохранения:",
+        "план-задание органа управления здравоохранения",
+        "выписка из приказа штаба (управлени",
+        "ГОЧС района, города об обстановке на территории",
+        "решение начальника ГОЧС объекта",
+        "дополнительные материалы к плану",
+        "приказ на создание штаба ГОЧС объекта."
+      ]
+    },
+    {
+      "id": "medKat_621",
+      "arr": [
+        "Содержание план-задания для больницы:",
+        "тип больницы",
+        "количество дополнительных коек",
+        "количество бригад, сформированных в больнице",
+        "количество опасных объектов",
+        "бригад, сформированных в больнице количество выделяемых зданий в загородной зоне."
+      ]
+    },
+    {
+      "id": "medKat_622",
+      "arr": [
+        "Содержание выписки из паспорта безопасности ГОЧС района, города:",
+        "количество населения детей",
+        "структура населения",
+        "количество опасных объектов",
+        "запасы опасных веществ",
+        "возможные санитарные потери детского населения территории."
+      ]
+    },
+    {
+      "id": "medKat_623",
+      "arr": [
+        "Содержание решения главного врача на перевод больницы к работе в ЧС:",
+        "составить план действия больницы по предупреждению и ликвидации последствий ЧС и пожарной безопасности",
+        "составить план эвакуации больницы в загородную зону",
+        "составить план работы аварийно-спасательных формирований",
+        "составить план перевода отделений к работе в ЧС",
+        "составить план медицинского снабжения больницы в ЧС."
+      ]
+    },
+    {
+      "id": "medKat_624",
+      "arr": [
+        "Укажите состав штаба ГОЧС объекта:",
+        "начальник ГОЧС объекта",
+        "заместитель начальника ГОЧС объекта",
+        "начальник штаба ГОЧС объекта",
+        "начальник охраны объекта",
+        "начальники некоторых отделений объекта."
+      ]
+    },
+    {
+      "id": "medKat_625",
+      "arr": [
+        "Структура плана ГО объекта здравоохранения на военное время не включает:",
+        "краткая характеристика объекта и обстановки на территории",
+        "перевод объекта здравоохранения с мирного на военное положение",
+        "выполнение мероприятий по подготовке объекта при внезапном нападении противника",
+        "организация и управление",
+        "прогнозирование санитарных потерь при внезапном нападении противника."
+      ]
+    },
+    {
+      "id": "medKat_626",
+      "arr": [
+        "Структура плана ГО объекта здравоохранения на мирное время:",
+        "краткая характеристика объекта и обстановки на территории",
+        "содержание мероприятий при угрозе возникновения ЧС",
+        "содержание мероприятий при ликвидации последствий ЧС",
+        "характеристика транспортных средств",
+        "управление."
+      ]
+    },
+    {
+      "id": "medKat_627",
+      "arr": [
+        "Показатель, не характеризующий ЛПУ по оказанию медицинской помощи и лечению пораженных:",
+        "профиль больницы (базовая, вспомогательная, резервная)",
+        "наличие дополнительно развернутых коек",
+        "количество врачей и их подготовка",
+        "наличие средств индивидуальной защиты",
+        "материально-техническое оснащение."
+      ]
+    },
+    {
+      "id": "medKat_628",
+      "arr": [
+        "Какие типовые больницы создаются на территории города, района, их предназначение:",
+        "базовые – для приема всех видов пораженных",
+        "резервные – для двух групп пораженных",
+        "вспомогательные – для одной группы пораженных",
+        "многопрофильные – для всех видов пораженных",
+        "однопрофильные – для одной группы пораженных."
+      ]
+    },
+    {
+      "id": "medKat_629",
+      "arr": [
+        "В базовой больнице дополнительные койки не развертываются для лечения:",
+        "общехирургических пораженных",
+        "пораженных лучевой болезнью",
+        "пораженных АОХВ",
+        "обожженных",
+        "легкопораженных."
+      ]
+    },
+    {
+      "id": "medKat_630",
+      "arr": [
+        "Из какого расчета развертываются дополнительные койки:",
+        "из количества площади лечебного отделения",
+        "из расчета 4 кв. м. на койку",
+        "из количества дополнительных площадей",
+        "из расчета количества персонала с учетом 2 хирурга на 100 дополнительно развернутых коек",
+        "количества среднего медицинского персонала на 3-х человек дополнительно на 1 врача."
+      ]
+    },
+    {
+      "id": "medKat_631",
+      "arr": [
+        "В состав приемно-сортировочного отделения для работы в ЧС не входит:",
+        "распределительный пост",
+        "сортировочная площадка",
+        "площадка специальной обработки",
+        "центральное приемное отделение",
+        "площадка для приема загрязненной одежды."
+      ]
+    },
+    {
+      "id": "medKat_632",
+      "arr": [
+        "Назначение распределительного поста:",
+        "деление пораженных на опасных и неопасных",
+        "выявление легко пораженных и носилочных",
+        "выявление психических больных",
+        "выявление инфекционных больных",
+        "выявление пораженных АОХВ и РВ."
+      ]
+    },
+    {
+      "id": "medKat_633",
+      "arr": [
+        "Назначение сортировочной площадки:",
+        "сортировка по степени опасности для окружающих",
+        "сортировка пораженных по тяжести поражения",
+        "сортировка по очередности оказания помощи",
+        "сортировка пораженных АОХВ",
+        "сортировка легкопораженных."
+      ]
+    },
+    {
+      "id": "medKat_634",
+      "arr": [
+        "На площадке специальной обработки не проводят:",
+        "частичную санитарную обработку открытых частей тела пораженных",
+        "снятие и обработку одежды пораженных",
+        "обработку транспорта",
+        "упаковку загрязненной РВ одежды",
+        "дегазацию, дезактивацию одежды."
+      ]
+    },
+    {
+      "id": "medKat_635",
+      "arr": [
+        "В приемном отделении не проводится:",
+        "санитарная обработка носилочных пораженных",
+        "сортировка пораженных по степени опасности для окружающих",
+        "оказание неотложной скорой медицинской помощи",
+        "распределение пораженных по тяжести состояния по отделениям",
+        "направление в другие лечебные учреждения."
+      ]
+    },
+    {
+      "id": "medKat_636",
+      "arr": [
+        "Перевод лечебных отделений к работе в ЧС не включает:",
+        "распределение лечебных отделений для чистых и загрязненных пораженных",
+        "организация работы персонала в отделениях для загрязненных пораженных",
+        "организация защиты персонала в отделениях для незагрязненных пораженных",
+        "организация санитарно-гигиенических мероприятий в отделении для загрязненных пораженных",
+        "организация работы функциональных подразделений лечебных отделений."
+      ]
+    },
+    {
+      "id": "medKat_637",
+      "arr": [
+        "Перевод операционного блока к работе в ЧС не включает:",
+        "организация операционных для чистых и загрязненных пораженных",
+        "организация защиты персонала в грязных операционных",
+        "организация стерилизации грязного инструментария",
+        "организация стерилизации грязного белья",
+        "контроль доз облучения персонала."
+      ]
+    },
+    {
+      "id": "medKat_638",
+      "arr": [
+        "Перевод патологоанатомического отделения к работе в ЧС:",
+        "организация дополнительных мест для тел погибших",
+        "контроль доз облучения персонала",
+        "защита персонала",
+        "расчет доз облучения персонала",
+        "захоронение опасных для окружающих"
+      ]
+    },
+    {
+      "id": "medKat_639",
+      "arr": [
+        "Какое количество пораженных должна обслуживать одна врачебно-сестринская бригада в течение суток в ЧС:",
+        "20 человек",
+        "40 человек",
+        "10 человек",
+        "50 человек",
+        "80 человек"
+      ]
+    },
+    {
+      "id": "medKat_640",
+      "arr": [
+        "Организация работы больницы при приеме пораженных из очага химической аварии не включает:",
+        "организация распределительного поста",
+        "организация сортировочной площадки",
+        "организация площадки специальной обработки",
+        "перевод отделений к работе по приему опасных для окружающих",
+        "дегазация одежды пораженных"
+      ]
+    },
+    {
+      "id": "medKat_641",
+      "arr": [
+        "Организация работы больницы при приеме пораженных из очага радиационной аварии не включает:",
+        "организация распределительного поста",
+        "организация сортировочной площадки",
+        "организация площадки специальной обработки",
+        "перевод отделений к работе с загрязненными пораженными",
+        "дезактивация одежды пораженных."
+      ]
+    },
+    {
+      "id": "medKat_642",
+      "arr": [
+        "Организация работы больницы при приеме пораженных из очага биологического очага:",
+        "переход больницы на строгий противоэпидемический режим работы",
+        "перевод персонала на работу в карантине",
+        "организация защиты персонала",
+        "проведение санитарно-гигиенических мероприятий",
+        "вакцинация персонала."
+      ]
+    },
+    {
+      "id": "medKat_643",
+      "arr": [
+        "Организация приема пораженных в больнице при землетрясении не включает:",
+        "организацию распределительного поста",
+        "организацию сортировочной площадки",
+        "организацию дополнительного развертывания коек",
+        "организацию оказания скорой специализированной медицинской помощи пораженным",
+        "выявление группы пораженных опасных для окружающих"
+      ]
+    },
+    {
+      "id": "medKat_644",
+      "arr": [
+        "Показателями, характеризующими ЛПУ по оказанию медицинской помощи и лечению пораженных, не являются:",
+        "профиль больницы (базовая, вспомогательная, резервная)",
+        "наличие дополнительно развернутых коек",
+        "количество врачей и их подготовка",
+        "наличие средств индивидуальной защиты",
+        "материально-техническое оснащение."
+      ]
+    },
+    {
+      "id": "medKat_645",
+      "arr": [
+        "Принципы перепрофилирования отделений ЛПУ при лечении пораженных в ЧС, за исключением:",
+        "развертывание дополнительных коек",
+        "использование резервных фондов медикаментов и перевязочных средств",
+        "развертывание дополнительного медицинского оборудования",
+        "увеличение штата за счет введения специалистов по профилю поражения",
+        "подготовка медперсонала для работы в ЧС."
+      ]
+    },
+    {
+      "id": "medKat_646",
+      "arr": [
+        "Планирующие документы мероприятий больницы в ЧС корректируются:",
+        "заведующим отделением",
+        "в зависимости от вида ЧС",
+        "по приказу главного врача",
+        "2 раза в год",
+        "на 100%."
+      ]
+    },
+    {
+      "id": "medKat_647",
+      "arr": [
+        "Какими официальными документами определен расчет формирований больницы:",
+        "заданием",
+        "приказом",
+        "сметой расходов",
+        "схемой развертывания",
+        "информационным письмом"
+      ]
+    },
+    {
+      "id": "medKat_648",
+      "arr": [
+        "Устойчивость функционирования объектов здравоохранения в ЧС не определяется:",
+        "наличием защитных сооружений, обеспеченность персонала средствами индивидуальной защиты",
+        "обеспечением транспортом",
+        "повышением физической устойчивости зданий",
+        "способность объекта здравоохранения к продолжению работы в экстремальных условиях",
+        "порядком материально-технического обеспечения."
+      ]
+    },
+    {
+      "id": "medKat_649",
+      "arr": [
+        "Запас противогазов, йодистого калия больницей создается:",
+        "столько, сколько потребует МС ГО",
+        "на весь персонал + 10% от численности коек",
+        "выдается лишь при ЧС",
+        "снабжается пораженное население",
+        "постоянное обеспечение работающей смены приемного отделения."
+      ]
+    },
+    {
+      "id": "medKat_650",
+      "arr": [
+        "В состав приемно-сортировочного отделения, развертываемого на базе приемного отделения больницы не входит:",
+        "площадка санитарной обработки транспорта",
+        "распределительный пост (РП)",
+        "приемное отделение для носилочных больных",
+        "изолятор для инфекционных больных",
+        "приемное отделение для ходячих больных."
+      ]
+    },
+    {
+      "id": "medKat_651",
+      "arr": [
+        "Аварийно-спасательными формированиями, создаваемым на объекте здравоохранения, не являются:",
+        "спасательные группы",
+        "пост радиационного, химического наблюдения",
+        "группа (звен",
+        "связи",
+        "группа (команд",
+        "охраны общественного порядка",
+        "подвижные пункты питания."
+      ]
+    },
+    {
+      "id": "medKat_652",
+      "arr": [
+        "В последовательности работы руководителя больницы при принятии решения в ЧС выделяют следующие действия:",
+        "уяснение задачи",
+        "расчет времени",
+        "оценка обстановки",
+        "расчет санитарно-хозяйственного имущества",
+        "общие выводы для принятия решения."
+      ]
+    },
+    {
+      "id": "medKat_653",
+      "arr": [
+        "В штатно-организационную структуру инфекционного подвижного госпиталя (ИПГ), создаваемого на базе инфекционной больницы, не входят:",
+        "управление",
+        "приемно-диагностическое отделение",
+        "лечебно-диагностические подразделения, в т.ч. лечебные отделения, лаборатория, аптека",
+        "подразделения обслуживания, в т.ч.: обмывочно-дезинфекционное, столовая, хоз. отделение, транспортное",
+        "операционно-перевязочное отделение."
+      ]
+    },
+    {
+      "id": "medKat_654",
+      "arr": [
+        "Мероприятия больницы при террористическом акте:",
+        "перевод больницы в автономный режим",
+        "прекращение приема больных",
+        "подготовка врачебно-сестринской бригады приемного отделения для оказания первичной медико-санитарной помощи пораженным",
+        "организация работы зав. отделений согласно обстановки и решения главного врача",
+        "организация работы аварийно-спасательных формирований."
+      ]
+    },
+    {
+      "id": "medKat_655",
+      "arr": [
+        "Мероприятия больницы при автономном режиме не включают:",
+        "прекращение приема больных",
+        "санитарно-профилактические мероприятия",
+        "защита персонала и оставшихся больных",
+        "организация работы аварийно-спасательных формирований",
+        "выписка больных на амбулаторно-поликлиническое лечение."
+      ]
+    },
+    {
+      "id": "medKat_656",
+      "arr": [
+        "Мероприятия больницы в военное время не включают:",
+        "комплектование подвижных госпиталей согласно план-задания",
+        "дополнительное развертывание коек согласно план-задания",
+        "замещение должностей врачей ушедших в действующую армию",
+        "развертывание приемно-сортировочного отделения",
+        "организация работы звена укрытий и убежищ."
+      ]
+    },
+    {
+      "id": "medKat_657",
+      "arr": [
+        "Организация работы приемно-сортировочного отделения при массовом приеме обожженных:",
+        "развертывание приемно-сортировочного отделения",
+        "медицинская сортировка пораженных",
+        "выделение сортировочных групп",
+        "оценка тяжести ожога у пораженного",
+        "санитарная обработка пораженного."
+      ]
+    },
+    {
+      "id": "medKat_658",
+      "arr": [
+        "Организация работы приемно-сортировочного отделения при массовом приеме отравленных АОХВ:",
+        "развертывание приемно-сортировочного отделения",
+        "дегазация одежды пораженных",
+        "антидотная терапия",
+        "санитарная обработка пораженных",
+        "медицинская сортировка пораженных."
+      ]
+    },
+    {
+      "id": "medKat_659",
+      "arr": [
+        "Организация работы приемно-сортировочного отделения при массовом приеме пораженных из очага радиационной аварии не включает:",
+        "развертывание приемно-сортировочного отделения",
+        "медицинская сортировка пораженных",
+        "оказание первичной медико-санитарной врачебной помощи",
+        "прием цистамина персоналом и пораженными",
+        "зашита персонала и расчет доз облучения."
+      ]
+    },
+    {
+      "id": "medKat_660",
+      "arr": [
+        "Характерные особенности эпидемического очага в районах стихийных бедствий и техногенных катастроф:",
+        "массовое заражение людей и формирование множественных эпидочагов, длительность действия очага, сокращение инкубаци- онного периода, отсутствие защиты населения и пораженных от контакта с заразными больными, наличие различных клинических форм инфекционных болезней и несвоевременность диагностики",
+        "массовое заражение людей и формирование множественных эпидочагов, наличие зараженной территории и водоисточников, отсутствие защиты населения от контакта с инфекционными больными",
+        "массовое заражение людей, животных и объектов внешней среды, наличие различных клинических форм инфекционных больных и бактерионосителей",
+        "наличие инфекционных больных и бактерионосителей, отсутствие защиты продуктов питания, водоисточников и территории",
+        "формирование эпидочага, распространение инфекционных болезней."
+      ]
+    },
+    {
+      "id": "medKat_661",
+      "arr": [
+        "Сортировка больных опасными инфекциями осуществляется:",
+        "по предварительному диагнозу, по эпидемиологической опасности, по тяжести, по транспортабельности, по эвакуационному предназначению",
+        "по предварительному диагнозу, по лабораторной диагностике, по транспортабельности",
+        "по эпидемиологической опасности, по бактериологической диагностике, по эвакуационному предназначению",
+        "по эпидемиологической опасности, по тяжести, по транспортабельности, лабораторной диагностике",
+        "по траспортабельности."
+      ]
+    },
+    {
+      "id": "medKat_662",
+      "arr": [
+        "Экстренная профилактика организуется и проводится:",
+        "в формированиях и учреждениях, осуществляющих предупреждение или ликвидацию возникших вспышек инфекционных заболеваний, в организованных коллективах, среди контактных групп населения (пострадавших)",
+        "в формированиях и учреждениях, осуществляющих предупреждение или ликвидацию возникших вспышек инфекционных заболеваний",
+        "в формированиях и учреждениях, находящихся в пределах границ эпидемического очага, среди контактных групп населения",
+        "среди пострадавших, контактировавших и инфекционными больными",
+        "среди населения и больных."
+      ]
+    },
+    {
+      "id": "medKat_663",
+      "arr": [
+        "Основными задачами Сети наблюдения и лабораторного контроля при возникновении эпидемических очагов или групповых инфекционных заболеваний являются:",
+        "определение степени опасности эпидемического очага, индикация возбудителя во внешней среде и организме людей",
+        "проведение экспертизы продуктов питания, питьевой воды, пищевого сырья с выдачей заключения о пригодности их к использованию и употреблению",
+        "индикация возбудителя во внешней среде и в пробах, взятых у людей; проведение экспертизы продуктов питания, питьевой воды, пищевого сырья с выдачей заключения о пригодности их к использованию и употреблению, определение степени опасности эпидемического очага",
+        "установление в зонах ЧС наличия и активности природно-очаговых инфекций, эпизоотий среди диких и домашних животных",
+        "организация и проведение лабораторных исследований."
+      ]
+    },
+    {
+      "id": "medKat_664",
+      "arr": [
+        "Основными способами защиты населения являются:",
+        "оказание медицинской помощи",
+        "вывоз из очага катастрофы",
+        "укрытие в защитных сооружениях",
+        "прием медикаментов и эвакуация",
+        "укрытие в защитных сооружениях, использование средств индивидуальной защиты, эвакуация и рассредоточение."
+      ]
+    },
+    {
+      "id": "medKat_665",
+      "arr": [
+        "Базами создания формирований санитарно-противоэпидемического профиля не являются:",
+        "центры Роспотребнадзора",
+        "станции скорой медицинской помощи",
+        "центры медицины катастроф",
+        "при подвижном госпитале",
+        "Министерство здравоохранения России."
+      ]
+    },
+    {
+      "id": "medKat_666",
+      "arr": [
+        "Фильтрующие противогазы предназначены для защиты:",
+        "органов дыхания от паров, газов, аэрозолей, находящихся в воздухе в небольшом количестве",
+        "от попадания в органы дыхания, в глаза и на лицо отравляющих веществ, радиоактивных паров и аэрозолей и бактериальных (биологически",
+        "средств",
+        "от попадания в органы дыхания, в глаза и на лицо любых вредных веществ, находящихся в воздухе в высоких концентрациях",
+        "в течение 15-30 минут органов дыхания, глаз, лица от попадания в них токсических веществ, образующихся при пожарах, авариях",
+        "от угарного газа при пожарах."
+      ]
+    },
+    {
+      "id": "medKat_667",
+      "arr": [
+        "Организация медицинского снабжения и накопление запасов имущества базируется на:",
+        "данных прогноза возможных последствий катастроф",
+        "сведениях о наличии сил и средств здравоохранения",
+        "распространении поражающих факторов ЧС",
+        "разумной достаточности",
+        "методических рекомендациях."
+      ]
+    },
+    {
+      "id": "medKat_668",
+      "arr": [
+        "Материально-техническое обеспечение формирований службы медицины катастроф осуществляется:",
+        "Минздравом России",
+        "органами управления территории",
+        "учреждениями-формирователями в виде комплектов, укладок и разрозненных предметов",
+        "бесперебойное и полное",
+        "для пополнения истраченного."
+      ]
+    },
+    {
+      "id": "medKat_669",
+      "arr": [
+        "Место хранения медицинского имущества формирований службы медицины катастроф:",
+        "сами формирования",
+        "учреждения-формирователи",
+        "склады ГО",
+        "аптеки лечебных учреждений",
+        "склады «Медтехника» и «Росфармация»."
+      ]
+    },
+    {
+      "id": "medKat_670",
+      "arr": [
+        "Виды имущества формировании и учреждений СМК:",
+        "медицинское имущество",
+        "медицинские инструменты",
+        "санитарно-хозяйственное имущество",
+        "медицинская техника",
+        "специальное имущество."
+      ]
+    }
+  ]
+}

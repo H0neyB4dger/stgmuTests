@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/style.css">
+  <title>Судоку</title>
+</head>
+<body>
+
+  <div id="sudokuContainer">
+    <div id="sudoku"></div>
+    <div id="keyboard">
+      <div id="numbers">
+        <button id="_1" class="key" data-value="1">1</button>
+        <button id="_2" class="key" data-value="2">2</button>
+        <button id="_3" class="key" data-value="3">3</button>
+        <button id="_4" class="key" data-value="4">4</button>
+        <button id="_5" class="key" data-value="5">5</button>
+        <button id="_6" class="key" data-value="6">6</button>
+        <button id="_7" class="key" data-value="7">7</button>
+        <button id="_8" class="key" data-value="8">8</button>
+        <button id="_9" class="key" data-value="9">9</button>
+        <button id="null" class="key" data-value="">&#11013;</button>
+      </div>
+      <div id="commands">
+        <div class="column">
+          <button id="submit" class="command">Проверить</button>
+          <button id="generate" class="command">Сгенерировать</button>
+        </div>
+        <div class="column">
+          <button id="clear" class="command">Очистить</button>
+          <button id="solve" class="command">Решить</button>
+        </div>
+      </div>
+    </div>
+    <div id="sudokuWinText">Победа</div>
+  </div>
+
+  <script src="./js/sudoku.js"></script>
+
+</body>
+</html>

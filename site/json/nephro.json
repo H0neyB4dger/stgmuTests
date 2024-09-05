@@ -1,0 +1,455 @@
+{
+  "answers": {
+    "nephro_0": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "nephro_1": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "nephro_2": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_3": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_4": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_5": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "nephro_6": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_7": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "nephro_8": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "nephro_9": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_10": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_11": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_12": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_13": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "nephro_14": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_15": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "nephro_16": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_17": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "nephro_18": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_19": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_20": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_21": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_22": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "nephro_23": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_24": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "nephro_25": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "nephro_26": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "nephro_27": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_28": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "nephro_29": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_30": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "nephro_31": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "nephro_32": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "nephro_33": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_34": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_35": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_36": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_37": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_38": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_39": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_40": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "nephro_41": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_42": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "nephro_43": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_44": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "nephro_45": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "nephro_46": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "nephro_47": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "nephro_48": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_49": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_50": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_51": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_52": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_53": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_54": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "nephro_55": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "nephro_56": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_57": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "nephro_58": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "nephro_59": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_60": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_61": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_62": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_63": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_64": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_65": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_66": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_67": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "nephro_68": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_69": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_70": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_71": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "nephro_72": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "nephro_73": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "nephro_74": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    }
+  },
+  "questions": []
+}

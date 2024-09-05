@@ -1,0 +1,12679 @@
+{"answers": {
+    "pharm_0": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_1": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_2": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_3": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_4": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_5": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_6": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_7": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_8": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_9": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_10": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_11": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_12": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_13": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_14": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_15": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_16": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_17": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_18": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_19": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_20": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_21": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_22": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_23": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_24": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_25": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_26": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_27": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_28": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_29": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_30": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_31": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_32": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_33": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_34": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_35": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_36": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_37": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_38": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_39": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_40": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_41": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_42": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_43": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_44": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_45": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_46": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_47": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_48": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_49": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_50": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_51": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_52": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_53": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_54": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_55": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_56": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_57": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_58": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_59": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_60": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_61": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_62": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_63": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_64": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_65": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_66": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_67": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_68": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_69": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_70": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_71": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_72": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_73": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_74": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_75": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_76": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_77": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_78": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_79": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_80": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_81": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_82": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_83": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_84": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_85": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_86": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_87": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_88": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_89": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_90": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_91": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_92": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_93": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_94": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_95": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_96": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_97": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_98": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_99": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_100": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_101": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_102": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_103": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_104": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_105": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_106": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_107": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_108": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_109": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_110": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_111": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_112": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_113": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_114": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_115": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_116": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_117": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_118": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_119": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_120": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_121": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_122": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_123": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_124": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_125": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_126": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_127": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_128": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_129": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_130": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_131": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_132": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_133": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_134": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_135": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_136": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_137": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_138": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_139": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_140": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_141": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_142": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_143": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_144": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_145": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_146": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_147": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_148": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_149": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_150": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_151": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_152": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_153": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_154": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_155": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_156": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_157": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_158": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_159": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_160": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_161": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_162": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_163": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_164": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_165": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_166": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_167": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_168": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_169": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_170": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_171": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_172": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_173": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_174": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_175": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_176": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_177": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_178": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_179": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_180": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_181": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_182": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_183": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_184": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_185": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_186": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_187": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_188": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_189": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_190": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_191": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_192": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_193": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_194": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_195": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_196": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_197": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_198": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_199": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_200": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_201": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_202": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_203": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_204": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_205": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_206": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_207": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_208": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_209": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_210": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_211": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_212": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_213": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_214": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_215": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_216": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_217": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_218": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_219": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_220": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_221": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_222": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_223": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_224": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_225": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_226": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_227": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_228": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_229": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_230": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_231": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_232": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_233": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_234": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_235": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_236": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_237": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_238": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_239": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_240": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_241": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_242": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_243": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_244": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_245": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_246": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_247": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_248": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_249": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_250": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_251": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_252": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_253": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_254": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_255": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_256": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_257": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_258": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_259": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_260": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_261": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_262": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_263": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_264": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_265": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_266": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_267": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_268": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_269": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_270": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_271": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_272": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_273": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_274": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_275": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_276": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_277": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_278": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_279": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_280": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_281": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_282": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_283": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_284": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_285": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_286": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_287": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_288": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_289": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_290": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_291": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_292": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_293": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_294": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_295": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_296": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_297": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_298": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_299": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_300": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_301": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_302": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_303": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_304": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_305": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_306": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_307": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_308": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_309": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_310": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_311": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_312": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_313": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_314": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_315": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_316": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_317": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_318": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_319": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_320": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_321": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_322": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_323": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_324": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_325": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_326": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_327": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_328": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_329": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_330": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_331": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_332": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_333": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_334": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_335": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_336": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_337": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_338": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_339": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_340": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_341": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_342": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_343": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_344": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_345": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_346": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_347": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_348": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_349": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_350": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_351": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_352": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_353": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_354": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_355": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_356": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_357": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_358": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_359": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_360": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_361": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_362": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_363": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_364": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_365": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_366": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_367": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_368": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_369": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_370": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_371": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_372": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_373": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_374": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_375": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_376": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_377": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_378": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_379": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_380": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_381": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_382": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_383": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_384": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_385": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_386": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_387": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_388": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_389": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_390": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_391": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_392": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_393": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_394": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_395": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_396": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_397": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_398": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_399": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_400": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_401": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_402": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_403": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_404": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_405": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_406": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_407": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_408": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_409": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_410": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_411": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_412": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_413": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_414": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_415": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_416": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_417": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_418": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_419": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_420": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_421": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_422": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_423": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_424": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_425": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_426": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_427": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_428": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_429": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_430": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_431": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_432": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_433": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_434": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_435": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_436": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_437": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_438": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_439": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_440": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_441": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_442": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_443": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_444": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_445": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_446": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_447": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_448": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_449": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_450": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_451": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_452": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_453": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_454": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_455": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_456": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_457": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_458": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_459": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_460": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_461": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_462": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_463": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_464": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_465": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_466": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_467": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_468": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_469": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_470": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_471": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_472": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_473": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_474": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_475": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_476": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_477": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_478": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_479": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_480": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_481": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_482": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_483": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_484": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_485": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_486": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_487": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_488": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_489": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_490": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_491": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_492": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_493": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_494": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_495": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_496": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_497": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_498": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_499": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_500": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_501": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_502": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_503": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_504": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_505": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_506": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_507": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_508": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_509": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_510": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_511": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_512": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_513": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_514": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_515": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_516": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_517": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_518": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_519": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_520": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_521": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_522": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_523": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_524": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_525": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_526": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_527": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_528": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_529": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_530": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_531": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_532": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_533": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_534": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_535": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_536": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_537": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_538": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_539": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_540": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_541": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_542": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_543": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_544": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_545": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_546": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_547": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_548": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_549": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_550": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_551": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_552": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_553": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_554": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_555": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_556": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_557": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_558": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_559": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_560": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_561": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_562": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_563": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_564": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_565": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_566": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_567": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_568": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_569": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_570": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_571": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_572": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_573": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_574": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_575": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_576": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_577": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_578": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_579": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_580": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_581": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_582": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_583": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_584": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_585": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_586": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_587": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_588": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_589": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_590": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_591": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_592": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_593": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_594": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_595": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_596": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_597": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_598": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_599": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_600": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_601": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_602": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_603": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_604": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_605": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_606": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_607": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_608": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_609": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_610": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_611": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_612": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_613": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_614": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_615": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_616": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_617": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_618": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_619": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_620": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_621": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_622": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_623": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_624": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_625": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_626": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_627": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_628": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_629": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_630": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_631": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_632": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_633": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_634": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_635": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_636": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_637": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_638": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_639": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_640": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_641": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_642": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_643": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_644": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_645": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_646": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_647": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_648": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_649": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_650": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_651": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_652": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_653": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_654": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_655": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_656": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_657": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_658": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_659": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_660": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_661": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_662": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_663": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_664": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_665": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_666": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_667": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_668": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_669": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_670": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_671": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_672": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_673": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_674": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_675": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_676": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_677": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_678": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_679": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_680": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_681": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_682": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_683": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_684": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_685": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_686": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_687": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_688": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_689": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_690": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_691": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_692": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_693": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_694": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_695": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_696": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_697": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_698": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_699": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_700": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_701": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_702": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_703": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_704": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_705": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_706": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_707": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_708": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_709": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_710": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_711": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_712": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_713": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_714": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_715": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_716": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_717": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_718": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_719": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_720": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_721": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_722": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_723": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_724": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_725": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_726": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_727": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_728": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_729": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_730": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_731": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_732": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_733": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_734": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_735": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_736": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_737": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_738": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_739": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_740": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_741": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_742": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_743": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_744": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_745": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_746": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_747": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_748": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_749": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_750": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_751": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_752": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_753": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_754": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_755": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_756": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_757": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_758": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_759": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_760": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_761": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_762": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_763": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_764": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_765": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_766": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_767": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_768": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_769": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_770": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_771": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_772": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_773": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_774": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_775": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_776": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_777": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_778": {
+      "type": "single",
+      "answer": [
+        3
+      ]
+    },
+    "pharm_779": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_780": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_781": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_782": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_783": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_784": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_785": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_786": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    },
+    "pharm_787": {
+      "type": "single",
+      "answer": [
+        2
+      ]
+    },
+    "pharm_788": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_789": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_790": {
+      "type": "single",
+      "answer": [
+        1
+      ]
+    },
+    "pharm_791": {
+      "type": "single",
+      "answer": [
+        0
+      ]
+    }
+  },
+"questions": [
+  {
+    "id": "pharm_0",
+    "arr": [
+      "Фармакокинетика - это раздел фармакологии, изучающий",
+      "Совокупность эффектов лекарственных средств",
+      "Процессы всасывания, распределения, связывания с белками, биотрансформации и выведения лекарственных веществ из организма",
+      "Побочные эффекты лекарственных веществ на организм",
+      "Механизмы действия лекарственных средств"
+    ]
+  },
+  {
+    "id": "pharm_1",
+    "arr": [
+      "Фармакодинамика - это раздел фармакологии, изучающий",
+      "Совокупность эффектов лекарственных средств и механизмы их действия",
+      "Процессы всасывания, распределения, связывания с белками, биотрансформации и выведения лекарственных веществ из организма",
+      "Побочные эффекты лекарственных веществ на организм",
+      "Процессы взаимодействия лекарственных средств в организме"
+    ]
+  },
+  {
+    "id": "pharm_2",
+    "arr": [
+      "Что характерно для введения лекарственных веществ внутрь?",
+      "Быстрое развитие эффекта",
+      "Зависимость всасывания лекарственных веществ в кровь от рН среды, характера содержимого, характера моторики ЖКТ",
+      "Возможность попадания лекарственных веществ в общий кровоток, минуя печень",
+      "Риск развития тромбоэмболических осложнений"
+    ]
+  },
+  {
+    "id": "pharm_3",
+    "arr": [
+      "Основной механизм всасывания большинства лекарственных веществ в ЖКТ:",
+      "Пиноцитоз",
+      "Фильтрация",
+      "Пассивная диффузия",
+      "Активный транспорт"
+    ]
+  },
+  {
+    "id": "pharm_4",
+    "arr": [
+      "Какой путь введения обеспечивают попадание лекарственных веществ в общий кровоток, минуя печень?",
+      "Внутрь (через рот с проглатыванием)",
+      "Внутримышечный",
+      "Ректальный",
+      "В двенадцатиперстную кишку"
+    ]
+  },
+  {
+    "id": "pharm_5",
+    "arr": [
+      "Выбрать парентеральный путь введения лекарственных веществ:",
+      "Подкожный",
+      "Ректальный",
+      "Сублингвальный",
+      "Оральный с проглатыванием"
+    ]
+  },
+  {
+    "id": "pharm_6",
+    "arr": [
+      "Внутривенно нельзя вводить:",
+      "Изотонические растворы",
+      "Гипертонические растворы",
+      "Масляные растворы",
+      "Солевые растворы"
+    ]
+  },
+  {
+    "id": "pharm_7",
+    "arr": [
+      "Указать преимущественную направленность изменений лекарственных веществ под влиянием микросомальных ферментов печени:",
+      "Снижение полярности",
+      "Повышение фармакологической активности",
+      "Снижение фармакологической активности",
+      "Повышение липофильности"
+    ]
+  },
+  {
+    "id": "pharm_8",
+    "arr": [
+      "К процессам конъюгации лекарственных веществ относятся:",
+      "Окисление",
+      "Восстановление",
+      "Ацетилирование",
+      "Гидродиз"
+    ]
+  },
+  {
+    "id": "pharm_9",
+    "arr": [
+      "К процессам метаболической трансформации относятся:",
+      "Окисление и восстановление",
+      "Восстановление и ацетилирование",
+      "Ацетилирование",
+      "Гидродиз и образование глюкуронидов"
+    ]
+  },
+  {
+    "id": "pharm_10",
+    "arr": [
+      "Период «полужизни» (полуэлиминации, Т50) – это:",
+      "Время, за которое 50% вещества подвергается биотрансформации",
+      "Время, за которое концентрация вещества в плазме крови снижается наполовину",
+      "Время, за которое половина вещества выводится из организма",
+      "Время, за которое 50% вещества попадает в системный кровоток"
+    ]
+  },
+  {
+    "id": "pharm_11",
+    "arr": [
+      "Биодоступность лекарства – это:",
+      "Скорость выведения препарата из организма",
+      "Скорость всасывания препарата в желудочно-кишечном тракте после приема per os",
+      "Процентная часть дозы лекарственного вещества, принятой внутрь, введенной внутримышечно или подкожно, которая попадает в системный кровоток в неизменном виде",
+      "Это время за которое лекарственное вещество подвергается биотрансформации"
+    ]
+  },
+  {
+    "id": "pharm_12",
+    "arr": [
+      "Что включает в себя понятие «фармакодинамика»?",
+      "Распределение лекарственных веществ в организме",
+      "Депонирование лекарственных веществ",
+      "Локализацию действия лекарственных веществ",
+      "Механизмы действия"
+    ]
+  },
+  {
+    "id": "pharm_13",
+    "arr": [
+      "Об эффективности лекарственного вещества можно судить по:",
+      "Средней терапевтической дозе",
+      "Величине максимального эффекта",
+      "Дозе, необходимой для получения полумаксимального эффекта (ЭД50)",
+      "Высшей терапевтической дозе"
+    ]
+  },
+  {
+    "id": "pharm_14",
+    "arr": [
+      "Какие явления возможны при повторных введениях лекарственных веществ?",
+      "Тахифилаксия",
+      "Потенцирование",
+      "Идиосинкразия",
+      "Антагонизм"
+    ]
+  },
+  {
+    "id": "pharm_15",
+    "arr": [
+      "Как называют накопление в организме лекарственных веществ, при их повторных введениях",
+      "Функциональная кумуляция",
+      "Материальная кумуляция",
+      "Сенсибилизация",
+      "Идиосинкразия"
+    ]
+  },
+  {
+    "id": "pharm_16",
+    "arr": [
+      "Что характерно для привыкания к лекарственному веществу при его повторном введении?",
+      "Непреодолимое стремление к постоянному приему лекарственного вещества",
+      "Усиление эффекта лекарственного вещества",
+      "Ослабление эффекта лекарственного вещества",
+      "Абстиненция при отмене лекарственного вещества"
+    ]
+  },
+  {
+    "id": "pharm_17",
+    "arr": [
+      "Что характеризует физическую лекарственную зависимость?",
+      "Абстиненция",
+      "Ухудшение самочувствия после приема лекарственного вещества",
+      "Возможность быстрой отмены препарата при лечении лекарственной зависимости",
+      "Ослабление эффекта лекарственного вещества"
+    ]
+  },
+  {
+    "id": "pharm_18",
+    "arr": [
+      "Какие явления могут возникать при комбинированном применении лекарственных веществ?",
+      "Аддитивный эффект (суммирование эффектов) и идиосинкразия",
+      "Антагонизм и потенциирование",
+      "Потенцирование и тахифилаксия",
+      "Кумуляция и антагонизм"
+    ]
+  },
+  {
+    "id": "pharm_19",
+    "arr": [
+      "Каким термином обозначают действие лекарственных веществ на эмбрион, приводящее к врожденным уродствам:(выбрать один правильный ответ)?",
+      "Мутагенное действие",
+      "Фетотоксическое действие",
+      "Тератогенное действие",
+      "Эмбриотоксическое действие"
+    ]
+  },
+  {
+    "id": "pharm_20",
+    "arr": [
+      "Пресистемная элиминация – это:",
+      "Потеря части лекарственного вещества (ЛС) при всасывании и первом прохождении через печень",
+      "Биотрансформация ЛС в организме",
+      "Распределение ЛС с мочой",
+      "Выведение ЛС с желчью"
+    ]
+  },
+  {
+    "id": "pharm_21",
+    "arr": [
+      "Биодоступность лекарственного средства – это:",
+      "Часть введенной в организм дозы, подвергшаяся биотрансформации",
+      "Часть введенной в организм дозы, попавшая в больной орган",
+      "Часть введенной в организм дозы, которая достигла системного кровотока в неизмененном виде или в виде активных метаболитов",
+      "Часть введенной в организм дозы, оказывающая биологические эффекты"
+    ]
+  },
+  {
+    "id": "pharm_22",
+    "arr": [
+      "Для каких препаратов биотрансформация в печени наиболее значима?",
+      "Гидрофильных",
+      "Липофильных",
+      "Газообразных",
+      "Гидрофобных"
+    ]
+  },
+  {
+    "id": "pharm_23",
+    "arr": [
+      "Как изменится выведение с мочой слабых кислот при смещении рН первичной мочи в щелочную сторону",
+      "Увеличится",
+      "Уменьшится",
+      "Не изменится",
+      "Постепенно уменьшится"
+    ]
+  },
+  {
+    "id": "pharm_24",
+    "arr": [
+      "Рецепторы, относящиеся к классу G-белок-ассоциированных («змеевидных») рецепторов:",
+      "Н-холинорецепторы",
+      "ГАМК-рецепторы",
+      "Адренорецепторы",
+      "Инсулиновые рецепторы"
+    ]
+  },
+  {
+    "id": "pharm_25",
+    "arr": [
+      "Особенность транспорта лекарственных веществ (ЛС) через гематоэнцефалический барьер (ГЭБ):",
+      "Липидорастворимые ЛС проникают через ГЭБ путем простой диффузии",
+      "Водорастворимые ЛС хорошо проникают через ГЭБ",
+      "При воспалении проницаемость ГЭБ снижается",
+      "Некоторые вещества (например, аминокислоты) могут проходить через ГЭБ путем фильтрации"
+    ]
+  },
+  {
+    "id": "pharm_26",
+    "arr": [
+      "Наиболее значимым результатом биотрансформации лекарственных веществ в организме является:",
+      "Уменьшение гидрофильности ЛС",
+      "Увеличение липофильности ЛС",
+      "Увеличение экскреции ЛС печенью",
+      "Увеличение экскреции ЛС почками"
+    ]
+  },
+  {
+    "id": "pharm_27",
+    "arr": [
+      "Какое из перечисленных ниже лекарственных средств является клинически значимым индуктором микросомальных ферментов печени:",
+      "Фенобарбитал",
+      "Циметидин",
+      "Эритромицин",
+      "Сукцинилхолин"
+    ]
+  },
+  {
+    "id": "pharm_28",
+    "arr": [
+      "Указать группу лекарственных веществ, влияющих на афферентный отдел периферической нервной системы",
+      "М- и Н-холиномиметики",
+      "α- и β- адреноблокаторы",
+      "Вяжущие средства.",
+      "Миорелаксанты"
+    ]
+  },
+  {
+    "id": "pharm_29",
+    "arr": [
+      "Указать группу лекарственных веществ, которая влияет на афферентный отдел периферической нервной системы",
+      "Местные анестетики.",
+      "М- и Н-холиномиметики",
+      "α- и β- адреноблокаторы",
+      "Вяжущие средства.",
+      "e) Миорелаксанты"
+    ]
+  },
+  {
+    "id": "pharm_30",
+    "arr": [
+      "Указать группу лекарственных веществ, влияющих на афферентный отдел периферической нервной системы",
+      "М- и Н-холиномиметики",
+      "α- и β- адреноблокаторы",
+      "Миорелаксанты",
+      "Раздражающие"
+    ]
+  },
+  {
+    "id": "pharm_31",
+    "arr": [
+      "Указать группу лекарственных веществ, влияющих на афферентный отдел периферической нервной системы",
+      "М- и Н-холиномиметики",
+      "Адсорбирующие",
+      "Миорелаксанты",
+      "М-холиноблокаторы"
+    ]
+  },
+  {
+    "id": "pharm_32",
+    "arr": [
+      "Механизм клеточного действия местноанестезирующих средств",
+      "Препятствуют деполяризации, стабилизируя мембраны",
+      "Образуют плотные альбуминаты, препятствуя возбуждению рецепторов",
+      "Адсорбируются на поверхности тканей, препятствуя раздражению чувствительных рецепторов",
+      "Образуют коллоидную пленку на поверхности тканей"
+    ]
+  },
+  {
+    "id": "pharm_33",
+    "arr": [
+      "Механизм клеточного действия местноанестезирующих средств",
+      "Образуют плотные альбуминаты, препятствуя возбуждению рецепторов",
+      "Препятствуют раскрытию ионных каналов, нарушают поступление натрия в клетку и выход калия из клетки",
+      "Раскрывают натриевые каналы и повышают поступление натрия в клетку и выход калия из клетки",
+      "Адсорбируются на поверхности тканей, препятствуя раздражению чувствительных рецепторов"
+    ]
+  },
+  {
+    "id": "pharm_34",
+    "arr": [
+      "Механизм клеточного действия местноанестезирующих средств (выбрать неправильный ответ)",
+      "Препятствуют деполяризации, стабилизируя мембраны",
+      "Образуют плотные альбуминаты, препятствуя возбуждению рецепторов",
+      "Препятствуют раскрытию ионных каналов, нарушают поступление натрия в клетку и выход калия из клетки",
+      "Нарушают образование потенциала действия и препятствуют проведению импульса по афферентным нервам"
+    ]
+  },
+  {
+    "id": "pharm_35",
+    "arr": [
+      "Какие факторы, способствуют проявлению действия местноанестезирующих средств (выбрать неправильный ответ)?",
+      "Нервы, покрытые миелиновой оболочкой более чувствительны",
+      "Местное сужение сосудов",
+      "Слабощелочная среда",
+      "Воспалительная реакция"
+    ]
+  },
+  {
+    "id": "pharm_36",
+    "arr": [
+      "Резобтивные эффекты местноанестезирующих средств (выбрать неправильный ответ)",
+      "Повышение тонуса гладкой мускулатуры бронхов, кишечника",
+      "Понижение артериального давления",
+      "Понижение возбудимости и проводимости сердечной мышцы",
+      "Расслабление скелетной мускулатуры"
+    ]
+  },
+  {
+    "id": "pharm_37",
+    "arr": [
+      "Показания к применению местноанестезирующих средств (выбрать неправильный ответ)",
+      "Терминальная анестезия",
+      "Передозировка миорелаксантов",
+      "Обезболивание при операциях на органах малого таза и нижних конечностях",
+      "Фибрилляция желудочков"
+    ]
+  },
+  {
+    "id": "pharm_38",
+    "arr": [
+      "Что характерно для лидокаина (выбрать неправильный ответ)?",
+      "Применяется для всех видов анестезии",
+      "Легко разрушается эстеразами тканей",
+      "Относится к группе амидов",
+      "После резорбции оказывает антиаритмическое действие"
+    ]
+  },
+  {
+    "id": "pharm_39",
+    "arr": [
+      "Что характерно для лидокаина?",
+      "Применяется для всех видов анестезии",
+      "Вызывает возбуждение центральной нервной системы, эйфорию, зависимость",
+      "Легко разрушается эстеразами тканей",
+      "Применяется при острой гипотензии"
+    ]
+  },
+  {
+    "id": "pharm_40",
+    "arr": [
+      "Что характерно для лидокаина?",
+      "Вызывает возбуждение центральной нервной системы, эйфорию, зависимость",
+      "Легко разрушается эстеразами тканей",
+      "Применяется при острой гипотензии",
+      "После резорбции оказывает антиаритмическое действие"
+    ]
+  },
+  {
+    "id": "pharm_41",
+    "arr": [
+      "Что характерно для вяжущих средств?",
+      "Образуют плотные альбуминаты на поверхности ткани и препятствуют возбуждению афферентных рецепторов",
+      "Вызывают временный функциональный паралич чувствительных нервных окончаний или афферентных нервов",
+      "Неизбирательно возбуждают рецепторы афферентных нервов",
+      "Повышают проницаемость сосудистой стенки и способствуют выходу жидкости в ткани"
+    ]
+  },
+  {
+    "id": "pharm_42",
+    "arr": [
+      "Что характерно для вяжущих средств?",
+      "Вызывают временный функциональный паралич чувствительных нервных окончаний или афферентных нервов",
+      "Неизбирательно возбуждают рецепторы афферентных нервов",
+      "Обладают противовоспалительным действием",
+      "Повышают проницаемость сосудистой стенки и способствуют выходу жидкости в ткани"
+    ]
+  },
+  {
+    "id": "pharm_43",
+    "arr": [
+      "Выбрать группу лекарственных средств, которая действует в области холинергических синапсов?",
+      "Симпатомиметики",
+      "Антихолинэстеразные средства",
+      "Местноанестезирующие средства",
+      "Альфа-адреномиметики"
+    ]
+  },
+  {
+    "id": "pharm_44",
+    "arr": [
+      "Выбрать группу лекарственных средств, которая действует в области холинергических синапсов?",
+      "Симпатомиметики",
+      "Местноанестезирующие средства",
+      "Миорелаксанты",
+      "Альфа-адреномиметики"
+    ]
+  },
+  {
+    "id": "pharm_45",
+    "arr": [
+      "Выбрать группу лекарственных средств, которая действует в области холинергических синапсов?",
+      "Симпатомиметики",
+      "Местноанестезирующие средства",
+      "Альфа-адреномиметики",
+      "М-холиноблокаторы"
+    ]
+  },
+  {
+    "id": "pharm_46",
+    "arr": [
+      "Какие группы лекарственных веществ действуют в области холинергических синапсов (выбрать неправильный ответ)?",
+      "Местноанестезирующие средства",
+      "Антихолинэстеразные средства",
+      "Миорелаксанты",
+      "М-холиноблокаторы"
+    ]
+  },
+  {
+    "id": "pharm_47",
+    "arr": [
+      "Указать механизм действия антихолинэстеразных средств",
+      "Блокируют постсинаптические α-адренорецепторы",
+      "Возбуждают β-адренорецепторы",
+      "Непосредственно возбуждают М-холинорецепторы",
+      "Препятствуют гидролизу ацетилхолина и опосредованно вызывают холиномиметический эффект"
+    ]
+  },
+  {
+    "id": "pharm_48",
+    "arr": [
+      "Показания к применению антихолинэстеразных средств (выбрать неправильный ответ)",
+      "Миастения",
+      "Введение перед операцией (для профилактики вагусной остановки сердца)",
+      "Послеоперационная атония кишечника и мочевого пузыря",
+      "Отравление М-холиноблокаторами"
+    ]
+  },
+  {
+    "id": "pharm_49",
+    "arr": [
+      "Указать симптомы отравления фосфорорганическими соединениями (выбрать неправильный ответ)",
+      "Тошнота, рвота, боли в животе",
+      "Расширение зрачков",
+      "Затрудненность дыхания (бронхоспазм)",
+      "Судороги"
+    ]
+  },
+  {
+    "id": "pharm_50",
+    "arr": [
+      "Какие вещества или группы лекарственных веществ применяют при отравлении фосфорорганическими соединениями?",
+      "Атропин",
+      "Антихолинэстеразные средства",
+      "Мезатон",
+      "Прозерин"
+    ]
+  },
+  {
+    "id": "pharm_51",
+    "arr": [
+      "Какие вещества или группы лекарственных веществ применяют при отравлении фосфорорганическими соединениями?",
+      "Прозерин",
+      "М-холиноблокаторы",
+      "Антихолинэстеразные средства",
+      "Мезатон"
+    ]
+  },
+  {
+    "id": "pharm_52",
+    "arr": [
+      "Какие вещества или группы лекарственных веществ применяют при отравлении фосфорорганическими соединениями?",
+      "Мезатон",
+      "Прозерин",
+      "Антихолинэстеразные средства",
+      "Адреналин"
+    ]
+  },
+  {
+    "id": "pharm_53",
+    "arr": [
+      "Какие вещества или группы лекарственных веществ применяют при отравлении фосфорорганическими соединениями?",
+      "Дипироксим",
+      "Мезатон",
+      "Прозерин",
+      "Платифиллин"
+    ]
+  },
+  {
+    "id": "pharm_54",
+    "arr": [
+      "Какие вещества или группы лекарственных веществ применяют при отравлении фосфорорганическими соединениями?",
+      "Мезатон",
+      "Прозерин",
+      "М-холиномиметики",
+      "Реактиваторы холинэстеразы"
+    ]
+  },
+  {
+    "id": "pharm_55",
+    "arr": [
+      "Какие вещества или группы лекарственных веществ применяют при отравлении фосфорорганическими соединениями (выбрать неправильный ответ)?",
+      "М-холиноблокаторы",
+      "Антихолинэстеразные средства",
+      "Реактиваторы холинэстеразы",
+      "М-холиномиметики"
+    ]
+  },
+  {
+    "id": "pharm_56",
+    "arr": [
+      "Указать М-холиноблокаторы (выбрать неправильный ответ)",
+      "Резерпин",
+      "Метацин",
+      "Атропин",
+      "Платифиллин"
+    ]
+  },
+  {
+    "id": "pharm_57",
+    "arr": [
+      "Указать эффекты М-холиноблокаторов (выбрать неправильный ответ)",
+      "Снижение перистальтики кишечника",
+      "Расширение зрачка",
+      "Повышение тонуса скелетной мускулатуры",
+      "Ограничение секреции желудочных и кишечных желез"
+    ]
+  },
+  {
+    "id": "pharm_58",
+    "arr": [
+      "Что характерно для атропина (выбрать неправильный ответ)?",
+      "Является алкалоидом растений красавка, белена, дурман",
+      "Не проникает через гематоэнцефалический барьер",
+      "После закапывания в глаз, расширение зрачка сохраняется в течение 5-7 суток",
+      "Возбуждает центральную нервную систему"
+    ]
+  },
+  {
+    "id": "pharm_59",
+    "arr": [
+      "Что характерно для платифиллина?",
+      "Возбуждает центральную нервную систему",
+      "Обладает миотропным спазмолитическим действием",
+      "Оказывает успокаивающее действие",
+      "Является синтетическим средством"
+    ]
+  },
+  {
+    "id": "pharm_60",
+    "arr": [
+      "Указать препарат или группу лекарственных средств, применяемых при отравлении атропином",
+      "Прозерин",
+      "Диплацин",
+      "М-холиноблокаторы",
+      "Дипироксим"
+    ]
+  },
+  {
+    "id": "pharm_61",
+    "arr": [
+      "Указать препарат или группу лекарственных средств, применяемых при отравлении атропином",
+      "Пилокарпин",
+      "Дипироксим",
+      "Реактиваторы холинэстеразы",
+      "Антихолинэстеразные средства"
+    ]
+  },
+  {
+    "id": "pharm_62",
+    "arr": [
+      "Показания к применению ганглиоблокаторов (выбрать неправильный ответ)",
+      "Гипертонический криз",
+      "Пароксизмальная тахикардия",
+      "Отек легких",
+      "Язвенная болезнь желудка"
+    ]
+  },
+  {
+    "id": "pharm_63",
+    "arr": [
+      "Что характерно для миорелаксантов?",
+      "Повышение тонуса скелетной мускулатуры",
+      "Повышение секреции слюнных желез",
+      "Нарушение нервно-мышечной передачи",
+      "Бронхоспазм"
+    ]
+  },
+  {
+    "id": "pharm_64",
+    "arr": [
+      "Что характерно для миорелаксантов?",
+      "Повышение тонуса скелетной мускулатуры",
+      "Повышение секреции слюнных желез",
+      "Расслабление сосудов и понижение артериального давления",
+      "Расслабление скелетной мускулатуры"
+    ]
+  },
+  {
+    "id": "pharm_65",
+    "arr": [
+      "Какие группы лекарственных веществ действуют в области адренергических синапсов (выбрать неправильный ответ)?",
+      "β-адреномиметики",
+      "α-адреномиметики",
+      "β- адреноблокаторы",
+      "Ганглиоблокаторы"
+    ]
+  },
+  {
+    "id": "pharm_66",
+    "arr": [
+      "Локализация β2-адренорецепторов",
+      "Сосуды брюшной полости, подкожной клетчатки, мозга, сердца, печень",
+      "Бронхи, сосуды сердца, мозга, легких. скелетной мускулатуры, почки",
+      "Радиальная мышца радужки, сердце, печень, почки, скелетная мускулатура",
+      "Печень, сосуды подкожной клетчатки, сердца, скелетной мускулатуры, радиальная мышца радужки"
+    ]
+  },
+  {
+    "id": "pharm_67",
+    "arr": [
+      "Указать α-адреномиметики (выбрать неправильный ответ)",
+      "Мезатон",
+      "Пентамин",
+      "Норадреналин",
+      "Нафтизин"
+    ]
+  },
+  {
+    "id": "pharm_68",
+    "arr": [
+      "Указать селективный β-адреномиметик",
+      "Мезатон",
+      "Атропин",
+      "Адреналин",
+      "Фенотерол"
+    ]
+  },
+  {
+    "id": "pharm_69",
+    "arr": [
+      "Указать селективный β-адреномиметик",
+      "Сальбутамол",
+      "Адреналин",
+      "Анаприлин",
+      "Метопролол"
+    ]
+  },
+  {
+    "id": "pharm_70",
+    "arr": [
+      "Указать α-адреноблокаторы (выбрать неправильный ответ)",
+      "Анаприлин",
+      "Фентоламин",
+      "Празозин",
+      "Дигидроэрготамин"
+    ]
+  },
+  {
+    "id": "pharm_71",
+    "arr": [
+      "Указать β-адреноблокаторы (выбрать неправильный ответ)",
+      "Окспренолол",
+      "Анаприлин",
+      "Сальбутамол",
+      "Метопролол"
+    ]
+  },
+  {
+    "id": "pharm_72",
+    "arr": [
+      "Что характерно для адреналина?",
+      "Тахикардия, расширение зрачка, повышение возбудимости и проводимости сердечной мышцы",
+      "Понижение артериального давления, повышение возбудимости и проводимости сердечной мышцы",
+      "Расширение сосудов брюшной полости, повышение возбудимости и проводимости сердечной мышцы",
+      "Расслабление скелетной мускулатуры, тахикардия, расширение зрачка"
+    ]
+  },
+  {
+    "id": "pharm_73",
+    "arr": [
+      "Что характерно для норадреналина (выбрать неправильный ответ)?",
+      "Хорошо проникает в ЦНС",
+      "Действие быстрое, сильное, но короткое",
+      "Повышает артериальное давление",
+      "Вводится внутривенно"
+    ]
+  },
+  {
+    "id": "pharm_74",
+    "arr": [
+      "Показания для применения мезатона:",
+      "Гипотензия",
+      "Бронхиальная астма",
+      "Послеоперационная атония кишечника",
+      "Гипертензия"
+    ]
+  },
+  {
+    "id": "pharm_75",
+    "arr": [
+      "Что характерно для анаприлина?",
+      "Уменьшает частоту и силу сердечных сокращений",
+      "Повышает потребность сердечной мышцы в кислороде",
+      "Расслабляет бронхи",
+      "Возбуждает ЦНС"
+    ]
+  },
+  {
+    "id": "pharm_76",
+    "arr": [
+      "Что характерно для анаприлина?",
+      "Повышает потребность сердечной мышцы в кислороде",
+      "Уменьшает выработку ренина",
+      "Расслабляет бронхи",
+      "Повышает артериальное давление"
+    ]
+  },
+  {
+    "id": "pharm_77",
+    "arr": [
+      "Что характерно для анаприлина?",
+      "Повышает потребность сердечной мышцы в кислороде",
+      "Расслабляет бронхи",
+      "Повышает артериальное давление",
+      "Обладает антиангинальным действием"
+    ]
+  },
+  {
+    "id": "pharm_78",
+    "arr": [
+      "Показания к применению анаприлина (выбрать неправильный ответ)",
+      "Гипертоническая болезнь",
+      "Пароксизмальная тахикардия",
+      "Стенокардия",
+      "Брадикардия"
+    ]
+  },
+  {
+    "id": "pharm_79",
+    "arr": [
+      "Выбрать лекарственное средство, применяемые при глаукоме",
+      "Бензогексоний",
+      "Прозерин",
+      "Галантамин",
+      "Пилокарпин"
+    ]
+  },
+  {
+    "id": "pharm_80",
+    "arr": [
+      "Выбрать лекарственное средство, применяемое при бронхиальной астме",
+      "Галантамин",
+      "Атропин",
+      "Оксазил",
+      "Анаприлин"
+    ]
+  },
+  {
+    "id": "pharm_81",
+    "arr": [
+      "Выбрать вещества, применяемые при бронхиальной астме",
+      "Галантамин",
+      "Оксазил",
+      "Анаприлин",
+      "Сальбутамол"
+    ]
+  },
+  {
+    "id": "pharm_82",
+    "arr": [
+      "Выбрать вещества, применяемые при гипертонической болезни",
+      "Анаприлин.2 Мезатон",
+      "Сальбутамол",
+      "Прозерин"
+    ]
+  },
+  {
+    "id": "pharm_83",
+    "arr": [
+      "Выбрать лекарственное средство, применяемые для управляемой гипотонии",
+      "Пентамин",
+      "Мезатон",
+      "Галантамин",
+      "Фентоламин"
+    ]
+  },
+  {
+    "id": "pharm_84",
+    "arr": [
+      "Для какого вещества характерна следующая картина отравления: психомоторное возбуждение, галлюцинации, тахикардия, расширение зрачков",
+      "Прозерин",
+      "Пилокарпин",
+      "Атропин",
+      "Дитилин"
+    ]
+  },
+  {
+    "id": "pharm_85",
+    "arr": [
+      "Какие вещества обладают бронхолитическим действием (выбрать неправильный ответ)",
+      "Атропин",
+      "Пилокарпин",
+      "Адреналин",
+      "Салбутамол"
+    ]
+  },
+  {
+    "id": "pharm_86",
+    "arr": [
+      "Какие вещества обладают гипертензивным действием (выбрать неправильный ответ)",
+      "Окспренолол",
+      "Адреналин",
+      "Норадреналин",
+      "Мезатон"
+    ]
+  },
+  {
+    "id": "pharm_87",
+    "arr": [
+      "Какие вещества обладают гипотензивным действием (выбрать неправильный ответ)",
+      "Празозин",
+      "Анаприлин",
+      "Фентоламин",
+      "Орципреналин"
+    ]
+  },
+  {
+    "id": "pharm_88",
+    "arr": [
+      "При передозировке какого лекарственного вещества возможно развитие ортостатического коллапса?",
+      "Бензогексоний",
+      "Адреналин",
+      "Мезатон",
+      "Прозерин"
+    ]
+  },
+  {
+    "id": "pharm_89",
+    "arr": [
+      "При передозировке каких веществ возможно развитие ортостатического коллапса?",
+      ".Адреналин",
+      "Прозерин",
+      "Пентамин",
+      "Анаприлин"
+    ]
+  },
+  {
+    "id": "pharm_90",
+    "arr": [
+      "Для какой группы лекарственных веществ характерны следующие эффекты: повышение тонуса кишечника имочевого пузыря, усиление секреции слюнных и желудочных желез, повышение тонуса бронхов, сужение зрачка, понижение внутриглазного давления, повышение тонуса скелетной мускулатуры",
+      "Симпатолитики",
+      "Н-холиномиметики",
+      "М-холиномиметики",
+      "Антихолинэстеразные средства"
+    ]
+  },
+  {
+    "id": "pharm_91",
+    "arr": [
+      "Указать лекарственные средства, применяемые при коллапсе (выбрать неправильный ответ)",
+      "Фентоламин",
+      "Мезатон",
+      "Норадреналин",
+      "Адреналин"
+    ]
+  },
+  {
+    "id": "pharm_92",
+    "arr": [
+      "Указать лекарственное средство, применяемое, применяемые при гипертоническом кризе",
+      "Норадреналин",
+      "Бензогексоний",
+      "Моксонидин",
+      "Атропин"
+    ]
+  },
+  {
+    "id": "pharm_93",
+    "arr": [
+      "Для какого вещества характерна следующая картина отравления: депрессия, тошнота, рвота, боли в животе, бронхоспазм, брадикардия, явления паркинсонизма",
+      "Пилокарпин",
+      "Анаприлин",
+      "Прозерин",
+      "Резерпин"
+    ]
+  },
+  {
+    "id": "pharm_94",
+    "arr": [
+      "Какое вещество ослабляет влияние симпатической импульсации на рецепторы сердца, уменьшает силу и частоту сердечных сокращений, уменьшает величину сердечного выброса и потребность миокарда в кислороде.Применяется при синусовой тахикардии, ишемической болезни сердца, гипертонической болезни",
+      "Эфедрин",
+      "Адреналин",
+      "Орнид",
+      "Анаприлин"
+    ]
+  },
+  {
+    "id": "pharm_95",
+    "arr": [
+      "Указать адренергические вещества, применяемые при бронхиальной астме",
+      "Фенотерол",
+      "Платифиллин",
+      "Салбутамол",
+      "Адреналин"
+    ]
+  },
+  {
+    "id": "pharm_96",
+    "arr": [
+      "Указать вещества, понижающие возбудимость рецепторов и проводимость по афферентным нервам:",
+      "Раздражающие",
+      "Миорелаксанты",
+      "Местные анестики",
+      "Вяжущие средства"
+    ]
+  },
+  {
+    "id": "pharm_97",
+    "arr": [
+      "Указать вещества, создающие механическую защиту афферентных рецепторов и препятствующие их возбуждению (выбрать неправильный ответ):",
+      "Местные анестетики",
+      "Вяжущие средства",
+      "Обволакивающие средства",
+      "Адсорбирующие"
+    ]
+  },
+  {
+    "id": "pharm_98",
+    "arr": [
+      "Что характерно для местноанестезирующих средств?",
+      "Неизбирательно возбуждают рецепторы афферентных нервов",
+      "Блокируют фермент холинэстеразу и способствуют стабилизации ацетилхолина",
+      "Истощают депо медиатора в гранулах",
+      "Вызывают временный функциональный паралич чувствительных нервных окончаний или афферентных нервов"
+    ]
+  },
+  {
+    "id": "pharm_99",
+    "arr": [
+      "Указать местноанестзирующее средство, относящиеся к группе эфиров:",
+      "Новокаин",
+      "Лидокаин",
+      "Тримекаин",
+      "Бупивакаин"
+    ]
+  },
+  {
+    "id": "pharm_100",
+    "arr": [
+      "Указать местноанестезирующие средства, относящиеся к группе амидов:",
+      "Новокаин",
+      "Анестезин",
+      "Галантамин",
+      "Лидокаин"
+    ]
+  },
+  {
+    "id": "pharm_101",
+    "arr": [
+      "Что характерно для новокаина (выбрать неправильный ответ)?",
+      "Применяется для всех видов анестезии",
+      "Применяется для инфильтрационной анестезии",
+      "Применяется для терминальной анестезии",
+      "Легко разрушается эстеразами тканей"
+    ]
+  },
+  {
+    "id": "pharm_102",
+    "arr": [
+      "Что характерно для обволакивающих средств?",
+      "Вызывают временный функциональный паралич чувствительных нервных окончаний или афферентных нервов",
+      "Неизбирательно возбуждают рецепторы афферентных нервов",
+      "Образуют коллоидную пленку на поверхности ткани и препятствуют возбуждению рецепторов",
+      "Повышают проницаемость сосудистой стенки и способствуют выходу жидкости в ткани"
+    ]
+  },
+  {
+    "id": "pharm_103",
+    "arr": [
+      "Что характерно для раздражающих средств?",
+      "Вызывают временный функциональный паралич чувствительных нервных окончаний или афферентных нервов",
+      "Неизбирательно возбуждают рецепторы афферентных нервов",
+      "Образуют коллоидную пленку на поверхности ткани и препятствуют возбуждению рецепторов",
+      "Обладают противовоспалительным действием"
+    ]
+  },
+  {
+    "id": "pharm_104",
+    "arr": [
+      "Выбрать вяжущее средство:",
+      "Ментол",
+      "Танин",
+      "Слизь крахмала",
+      "Горчичники"
+    ]
+  },
+  {
+    "id": "pharm_105",
+    "arr": [
+      "Выбрать раздражающее средство:",
+      "Ментол",
+      "Танин",
+      "Слизь крахмала",
+      "Горчичники"
+    ]
+  },
+  {
+    "id": "pharm_106",
+    "arr": [
+      "Выбрать обволакивающее средство:",
+      "Ментол",
+      "Танин",
+      "Слизь крахмала",
+      "Горчичники"
+    ]
+  },
+  {
+    "id": "pharm_107",
+    "arr": [
+      "Локализация Н-холинорецепторов (выбрать неправильный ответ):",
+      "Окончания парасимпатических постганглионарных волокон",
+      "Ганглии симпатической нервной системы",
+      "Парасимпатические ганглии",
+      "Мозговое вещество надпочечников (хромаффинная субстанция)"
+    ]
+  },
+  {
+    "id": "pharm_108",
+    "arr": [
+      "Одновременное возбуждение м-и н-холинорецепторов отмечается при использовании:",
+      "Пилокарпина",
+      "Физостигмина",
+      "Цититона",
+      "Эфедрина"
+    ]
+  },
+  {
+    "id": "pharm_109",
+    "arr": [
+      "Механизм действия М-холиноблокаторов:",
+      "Способствуют выходу норадреналина из гранул, уменьшают его обратный захват",
+      "Блокируют фермент холинэстеразу",
+      "Стабилизируют мембраны рецепторов и нервных проводников афферентных нервов, препятствуя деполяризации",
+      "Блокируют М- холинорецепторы, снижая их чувствительность к медиатору"
+    ]
+  },
+  {
+    "id": "pharm_110",
+    "arr": [
+      "Механизм действия М-холиномиметиков:",
+      "Блокируют М-холинорецепторы, снижая их чувствительность к медиатору",
+      "Истощают депо медиатора в гранулах",
+      "Непосредственно возбуждают М-холинорецепторы",
+      "Блокируют фермент холинэстеразу"
+    ]
+  },
+  {
+    "id": "pharm_111",
+    "arr": [
+      "Что характерно для М-холиномиметиков? (укажите неправильный ответ)",
+      "Повышение перистальтики кишечника",
+      "Расширение зрачка",
+      "Повышение секреции слюнных желез",
+      "Понижение внутриглазного давления"
+    ]
+  },
+  {
+    "id": "pharm_112",
+    "arr": [
+      "Показания к применению М-холиномиметиков:",
+      "Бронхоспазм",
+      "Почечная, печеночная, кишечная колика",
+      "Глаукома",
+      "Отравление М-холиноблокаторами"
+    ]
+  },
+  {
+    "id": "pharm_113",
+    "arr": [
+      "Отравление М-холиномиметиками (укажите неправильный ответ):",
+      "Мидриаз",
+      "Тошнота, рвота, боли в животе",
+      "Затрудненность дыхания (бронхоспазм)",
+      "Миоз"
+    ]
+  },
+  {
+    "id": "pharm_114",
+    "arr": [
+      "Указать группу лекарственных средств, применяемое при отравлении М-холиномиметиками:",
+      "М-холиноблокаторы",
+      "Антихолинэстеразные средства",
+      "Миорелаксанты"
+    ]
+  },
+  {
+    "id": "pharm_115",
+    "arr": [
+      "Что характерно для лобелина и цититона (выбрать неправильный ответ)?",
+      "Учащение и углубление дыхания",
+      "Повышение тонуса скелетной мускулатуры",
+      "Возбуждение Н-холинорецепторов каротидных клубочков",
+      "Рефлекторное возбуждение центра дыхания"
+    ]
+  },
+  {
+    "id": "pharm_116",
+    "arr": [
+      "Показания для применения лобелина и цититона:",
+      "Бронхоспазм",
+      "Стимуляция дыхания (при сохранении рефлекторной возбудимости центра дыхания)",
+      "Введение перед операцией (для профилактики вагусной остановки сердца)",
+      "Отравление средствами для наркоза, снотворными"
+    ]
+  },
+  {
+    "id": "pharm_117",
+    "arr": [
+      "Механизм действия ганглиоблокаторов:",
+      "Блокируют постсинаптические алъфа-адренорецепторы",
+      "Истощают депо медиатора в гранулах",
+      "Возбуждают бета-адренорецепторы",
+      "Избирательно блокируют проведение импульса в симпатических и парасимпатических ганглиях"
+    ]
+  },
+  {
+    "id": "pharm_118",
+    "arr": [
+      "Какие эффекты характерны для ганглиоблокаторов (выбрать неправильный ответ)?",
+      "Снижение перистальтики и секреции кишечника",
+      "Повышение тонуса бронхов",
+      "Расслабление сосудов и понижение артериального давления",
+      "Усиление сокращений матки"
+    ]
+  },
+  {
+    "id": "pharm_119",
+    "arr": [
+      "Указать миорелаксанты антидеполяризующего действия:",
+      "Дитилин",
+      "Лобелин",
+      "Анаприлин",
+      "Диплацин"
+    ]
+  },
+  {
+    "id": "pharm_120",
+    "arr": [
+      "Указать миорелаксант деполяризующего действия:",
+      "Бензогексоний",
+      "Дитилин",
+      "Панкуроний",
+      "Диплацин"
+    ]
+  },
+  {
+    "id": "pharm_121",
+    "arr": [
+      "Механизм действия диплацина:",
+      "Способствует выходу норадреналина из гранул, уменьшает его обратный захват",
+      "Вызывает стойкую деполяризацию постсинапти-ческих мембран в нервно-мышечных синапсах",
+      "Препятствует гидролизу ацетилхолина и опосредованно вызывают холиномиметический эффект",
+      "Блокирует нервно-мышечные синапсы, снижая чувствительность рецепторов к ацетилхолину по типу конкуренции"
+    ]
+  },
+  {
+    "id": "pharm_122",
+    "arr": [
+      "Механизм действия дитилина:",
+      "Блокирует постсинаптические α-адренорецепторы",
+      "Истощает депо медиатора в гранулах",
+      "Вызывает стойкую деполяризацию постсинаптических мембран в нервно-мышечных синапсах",
+      "Блокирует нервно-мышечные синапсы, снижая чувствительность рецепторов к ацетилхолину по типу конкуренции"
+    ]
+  },
+  {
+    "id": "pharm_123",
+    "arr": [
+      "Меры помощи при передозировке антидеполяризующих миорелаксантов:",
+      "Введение атропина",
+      "Введение М-холиноблокаторов",
+      "Применение антихолинэстеразных средств",
+      "Переливание крови, плазмы"
+    ]
+  },
+  {
+    "id": "pharm_124",
+    "arr": [
+      "Меры помощи при передозировке деполяризующих миорелаксантов:",
+      "Введение атропина",
+      "Введение прозерина",
+      "Применение антихолинэстеразных средств",
+      "Переливание крови, плазмы"
+    ]
+  },
+  {
+    "id": "pharm_125",
+    "arr": [
+      "Указать вещество, неизбирательно усиливающее проведение импульса в адренергических синапсах:",
+      "Норадреналин",
+      "Адреналин",
+      "Ипидакрин",
+      "Сальбутамол"
+    ]
+  },
+  {
+    "id": "pharm_126",
+    "arr": [
+      "Указать β- адреномиметик:",
+      "Ипратропия бромид",
+      "Сальбутамол",
+      "Адреналин",
+      "Анаприлин"
+    ]
+  },
+  {
+    "id": "pharm_127",
+    "arr": [
+      "Указать β- адреноблокирующее средство:",
+      "Метапролол",
+      "Адреналин",
+      "Ацеклидин",
+      "Орципреналин"
+    ]
+  },
+  {
+    "id": "pharm_128",
+    "arr": [
+      "Механизм действия симпатомиметиков:",
+      "Блокируют постсинаптические α- адренорецепторы",
+      "Способствуют накоплению в синаптической щели адреналина и норадреналина",
+      "Ингибируют моноаминооксидазу (МАО)",
+      "Блокируют М-холинорецепторы, снижая их чувствительность к медиатору"
+    ]
+  },
+  {
+    "id": "pharm_129",
+    "arr": [
+      "Что характерно для эфедрина (выбрать неправильный ответ)?",
+      "Хорошо проникает в ЦНС и возбуждает центральную нервную систему",
+      "Действие более сильное и быстрое, чем у адреналина",
+      "Расслабляет бронхи",
+      "Повышает артериальное давление"
+    ]
+  },
+  {
+    "id": "pharm_130",
+    "arr": [
+      "Показания для применения норадреналина:",
+      "Гипертонический криз",
+      "Коллапс",
+      "Хроническая гипотензия",
+      "Бронхиальная астма"
+    ]
+  },
+  {
+    "id": "pharm_131",
+    "arr": [
+      "Механизм действия β- адреномиметиков:",
+      "Возбуждают постсинаптические α- адренорецепторы",
+      "Истощают депо медиатора в гранулах",
+      "Возбуждают β-адренорецепторы",
+      "Способствуют выходу норадреналина из гранул, уменьшают его обратный захват"
+    ]
+  },
+  {
+    "id": "pharm_132",
+    "arr": [
+      "Какие эффекты характерны для сальбутамола (выбрать неправильный ответ)?",
+      "Тормозит сократительную активность миометрия",
+      "Предупреждает преждевременные роды",
+      "Усиление секреции слюнных, желудочных и кишечных желез",
+      "Расслабление бронхов"
+    ]
+  },
+  {
+    "id": "pharm_133",
+    "arr": [
+      "Механизм действия орнида:",
+      "Истощает депо медиатора в гранулах",
+      "Возбуждает β- адренорецепторы",
+      "Вызывает утечку норадреналина из гранул и нарушают возврат медиатора",
+      "Уплотняет мембрану и препятствует выходу медиатора в синаптическую щель"
+    ]
+  },
+  {
+    "id": "pharm_134",
+    "arr": [
+      "Показания к применению симпатолитиков:",
+      "Гипертоническая болезнь",
+      "Коллапс",
+      "Хроническая гипотензия",
+      "Бронхиальная астма",
+      "e) Отек легких",
+      "f) Брадикардия"
+    ]
+  },
+  {
+    "id": "pharm_135",
+    "arr": [
+      "Выбрать лекарственное средство, применяемое при стенокардии:",
+      "Оксазил",
+      "Ацеклидин",
+      "Атропин",
+      "Метопролол"
+    ]
+  },
+  {
+    "id": "pharm_136",
+    "arr": [
+      "Указать лекарственное средство, применяемые при коллапсе:",
+      "Арфонад",
+      "Мезатон",
+      "Пентамин",
+      "Лабеталол"
+    ]
+  },
+  {
+    "id": "pharm_137",
+    "arr": [
+      "Какое вещество ослабляет влияние симпатической импульсации на рецепторы сердца, уменьшает силу и частоту сердечных сокращений, уменьшает величину сердечного выброса и потребность миокарда вкислороде? Применяется при синусовой тахикардии, ишемической болезни сердца, гипертонической болезни (укажите один правильный ответ):",
+      "Эфедрин",
+      "Адреналин",
+      "Орнид",
+      "Анаприлин"
+    ]
+  },
+  {
+    "id": "pharm_138",
+    "arr": [
+      "Указать антихолинэстеразное средство обратимого действия, хорошо проникающее в центральную нервную систему:",
+      "Прозерин",
+      "Атропин",
+      "Скополамин",
+      "Физостигмин"
+    ]
+  },
+  {
+    "id": "pharm_139",
+    "arr": [
+      "Отметить кардиоселективный β-адреноблокатор:",
+      "Окспренолол. 2 Лабеталол",
+      "Метопролол",
+      "Пентамин",
+      "Изадрин"
+    ]
+  },
+  {
+    "id": "pharm_140",
+    "arr": [
+      "Какая группа веществ повышает АД, ЧСС, увеличивает АV- проводимость, усиливает гликогенолиз, снижает тонус бронхов?",
+      "М-холиноблокаторы",
+      "Симпатолитики",
+      "α-, β- адреномиметики",
+      "α –адреномиметики"
+    ]
+  },
+  {
+    "id": "pharm_141",
+    "arr": [
+      "Какое общее свойство есть у тубокурарина и дитилина?",
+      "Блокируют вегетативные ганглии",
+      "Блокируют нервно-мышечную передачу",
+      "Действие препаратов устраняется прозерином",
+      "Эфир для наркоза потенцирует их действие"
+    ]
+  },
+  {
+    "id": "pharm_142",
+    "arr": [
+      "Общими показаниями для применения М-холиномиметиков и антихолинэстеразных средств являются (выберите неправильный ответ):",
+      "Послеоперационная атония кишечника",
+      "Послеоперационная атония мочевого пузыря",
+      "Глаукома",
+      "Миастения"
+    ]
+  },
+  {
+    "id": "pharm_143",
+    "arr": [
+      "Каким свойством, в отличие от всей группы М-холиноблокаторов, обладает атропин (укажите один правильный ответ)?",
+      "Стимулирует дыхательный центр",
+      "Оказывает седативное действие",
+      "Понижает секрецию большинства желез",
+      "Расширяет бронхи"
+    ]
+  },
+  {
+    "id": "pharm_144",
+    "arr": [
+      "Атропин устраняет брадикардию и АВ-блокаду, так как:",
+      "Блокирует М-холинорецепторы и уменьшает влияние блуждающего нерва на сердце",
+      "Стимулирует β-адренорецепторы и повышает активность симпатической нервной системы",
+      "Блокирует медленные кальциевые каналы и снижает сократимость миокард.а",
+      "Блокирует калиевые каналы и замедляет скорость реполяризации"
+    ]
+  },
+  {
+    "id": "pharm_145",
+    "arr": [
+      "Противопоказанием к применению атропина является:",
+      "Почечная колика",
+      "Язвенная болезнь желудка",
+      "Острый миокардит",
+      "Глаукома"
+    ]
+  },
+  {
+    "id": "pharm_146",
+    "arr": [
+      "К препаратам, блокирующим преимущественно β1-рецепторы, относят:",
+      "Пропранолол",
+      "Атенолол",
+      "Пиндолол",
+      "Лабеталол"
+    ]
+  },
+  {
+    "id": "pharm_147",
+    "arr": [
+      "Показанием к применению атропина как средства неотложной помощи является:",
+      "Анафилактический шок",
+      "АВ-блокада",
+      "Передозировка периферических миорелаксантов",
+      "Гипогликемическая кома"
+    ]
+  },
+  {
+    "id": "pharm_148",
+    "arr": [
+      "Нежелательным эффектом при применении атропина является:",
+      "Сухость во рту",
+      "Бронхоспазм",
+      "Брадикардия",
+      "Повышение внутричерепного давления"
+    ]
+  },
+  {
+    "id": "pharm_149",
+    "arr": [
+      "Нежелательным эффектом при применении адреналина является:",
+      "Брадиаритмия",
+      "Артериальная гипертензия",
+      "Гипогликемия",
+      "Повышение внутриглазного давления"
+    ]
+  },
+  {
+    "id": "pharm_150",
+    "arr": [
+      "Терапевтически значимым фармакологическим эффектом пропранолола является:",
+      "Понижение силы и частоты сокращений сердца",
+      "Повышение продукции внутриглазной жидкости",
+      "Понижение тонуса бронхов",
+      "Повышение секреции ренина"
+    ]
+  },
+  {
+    "id": "pharm_151",
+    "arr": [
+      "Показанием к применению адреналина как средства неотложной помощи является:",
+      "Анафилактический шок",
+      "Отек легких",
+      "Гипертонический криз",
+      "Пароксизмальная желудочковая тахикардия",
+      "e) Кетоацидотическая кома"
+    ]
+  },
+  {
+    "id": "pharm_152",
+    "arr": [
+      "Терапевтически значимым фармакологическим эффектом ά-адреноблокаторов является:",
+      "Повышение АД",
+      "Повышение частоты сокращений сердца",
+      "Расслабление сфинктеров",
+      "Понижение АД"
+    ]
+  },
+  {
+    "id": "pharm_153",
+    "arr": [
+      "Когда дана умеренная доза норадреналина на фоне большой дозы атропина, какой из перечисленных эффектов будет наиболее вероятен (выбрать один правильный ответ):",
+      "Брадикардия, вызванная прямым кардиальным эффектом",
+      "Брадикардия, вызванная непрямым рефлекторным действием",
+      "Брадикардия, вызванная прямым действием на сердце",
+      "Тахикардия, вызванная непрямым рефлекторным действием"
+    ]
+  },
+  {
+    "id": "pharm_154",
+    "arr": [
+      "Определите препарат, для которого характерны следующие побочные реакции: угнетение сократимости миокарда, брадикардия, гипотензия, спазм бронхов, «синдром отмены»:",
+      "Нитроглицерин",
+      "Дипиридамол",
+      "Верапамил",
+      "Анаприлин"
+    ]
+  },
+  {
+    "id": "pharm_155",
+    "arr": [
+      "Какие эффекты возникают при использовании антихолинэстеразных средств в терапевтических дозах? (выбрать неправильный ответ)",
+      "Сужение зрачков и снижение внутриглазного давления",
+      "Спазм аккомодации",
+      "Паралич аккомодации",
+      "Облегчение нервно-мышечной передачи",
+      "e) Расширение зрачков и повышение внутриглазного давления"
+    ]
+  },
+  {
+    "id": "pharm_156",
+    "arr": [
+      "Как влияют антихолинэстеразные препараты на глаз? (выбрать неправильный ответ)",
+      "Вызывают сужение зрачков",
+      "Вызывают расширение зрачков",
+      "Вызывают спазм аккомодации",
+      "Снижают внутриглазное давление"
+    ]
+  },
+  {
+    "id": "pharm_157",
+    "arr": [
+      "Какое высказывание неправильное?",
+      "В кислой среде анестетики теряют свою активность",
+      "На безмиелиновые проводники анестетики действуют слабее, чем на покрытые миелиновой оболочкой",
+      "Новокаин обладает противоаритмическим действием",
+      "При отравлении местными анестетиками показаны вещества, повышающие артериальное давление"
+    ]
+  },
+  {
+    "id": "pharm_158",
+    "arr": [
+      "Местные анестетики могут блокировать проведение электрического импульса:",
+      "Только по чувствительным нервным волокнам",
+      "Только по чувствительным и вегетативным волокнам",
+      "Только по чувствительным и двигательным волокнам",
+      "По любым нервным волокнам"
+    ]
+  },
+  {
+    "id": "pharm_159",
+    "arr": [
+      "Для купирования желудочковой аритмии при остром инфаркте миокарда применяют:",
+      "Лидокаин",
+      "Атропин",
+      "Пропранолол",
+      "Верапамил",
+      "e) Адреналин"
+    ]
+  },
+  {
+    "id": "pharm_160",
+    "arr": [
+      "Указать средства для ингаляционного наркоза (выбрать неправильный ответ):",
+      "Гексенал",
+      "Эфир",
+      "Закись азота",
+      "Изофлуран"
+    ]
+  },
+  {
+    "id": "pharm_161",
+    "arr": [
+      "Указать средства для неингаляционного наркоза (выбрать неправильный ответ)",
+      "Гексенал",
+      "Фентанил",
+      "Тиопентал натрия",
+      "Кетамин"
+    ]
+  },
+  {
+    "id": "pharm_162",
+    "arr": [
+      "Что характерно для наркоза?",
+      "Усиление нервно-мышечной передачи",
+      "Утрата сознания",
+      "Повышение рефлексов",
+      "Потеря болевой чувствительности"
+    ]
+  },
+  {
+    "id": "pharm_163",
+    "arr": [
+      "Что характерно для наркоза?",
+      "Усиление нервно-мышечной передачи",
+      "Повышение рефлексов",
+      "Расслабление скелетной мускулатуры",
+      "Угнетение психики при сохранении сознания"
+    ]
+  },
+  {
+    "id": "pharm_164",
+    "arr": [
+      "Что характерно для наркоза?",
+      "Усиление нервно-мышечной передачи",
+      "Возбуждение дыхательного и сосудодвигательного центров",
+      "Повышение рефлексов",
+      "Потеря болевой чувствительности"
+    ]
+  },
+  {
+    "id": "pharm_165",
+    "arr": [
+      "Механизм клеточного действия средств для наркоза (выбрать неправильный ответ)",
+      "Усиление выделения медиатора в синаптическую щель и нарушение его обратного захвата",
+      "Универсальное, неспецифическое ингибирование синаптической передачи",
+      "Усиление ГАМК-ергической передачи",
+      "Неизбирательное нарушение функции любых центральных синапсов"
+    ]
+  },
+  {
+    "id": "pharm_166",
+    "arr": [
+      "Механизм клеточного действия средств для ингаляционного наркоза",
+      "Адсорбируются на поверхности клеточных мембран и нарушают межнейрональные контакты",
+      "Нарушают синаптическую передачу за счет вмешательства во внутриклеточные процессы, угнетают энергетический обмен",
+      "Взаимодействуют с бензодиазепиновыми рецепторами, сопряженными с ГАМК рецепторами и усиливают ГАМК-ергическую передачу",
+      "Нарушают сопряженное окислительное фосфорилирование и образование макроэргов"
+    ]
+  },
+  {
+    "id": "pharm_167",
+    "arr": [
+      "Механизм клеточного действия средств для ингаляционного наркоза",
+      "Взаимодействуют с бензодиазепиновыми рецепторами, сопряженными с ГАМК рецепторами и усиливают ГАМК-ергическую передачу",
+      "Образуют непрочные (вандервальсовые) связи с активными центрами белков мембраны и нарушают функцию пресинаптического окончания и постсинаптической клетки",
+      "Нарушают синаптическую передачу за счет вмешательства во внутриклеточные процессы, угнетают энергетический обмен",
+      "Нарушают сопряженное окислительное фосфорилирование и образование макроэргов"
+    ]
+  },
+  {
+    "id": "pharm_168",
+    "arr": [
+      "Механизм клеточного действия средств для неингаляционного наркоза",
+      "Образуют непрочные (вандервальсовые) связи с активными центрами белков мембраны и нарушают функцию пресинаптического окончания и постсинаптической клетки",
+      "Нарушают синаптическую передачу за счет вмешательства во внутриклеточные процессы, угнетают энергетический обмен.3 Адсорбируются на поверхности клеточных мембран и нарушают межнейрональные контакты",
+      "Взаимодействуют с бензодиазепиновыми рецепторами, сопряженными с ГАМК рецепторами и усиливают ГАМК-ергическую передачу"
+    ]
+  },
+  {
+    "id": "pharm_169",
+    "arr": [
+      "Механизм клеточного действия средств для неингаляционного наркоза",
+      "Образуют непрочные (вандервальсовые) связи с активными центрами белков мембраны и нарушают функцию пресинаптического окончания и постсинаптической клетки",
+      "Адсорбируются на поверхности клеточных мембран и нарушают межнейрональные контакты",
+      "Нарушают сопряженное окислительное фосфорилирование и образование макроэргов",
+      "Взаимодействуют с бензодиазепиновыми рецепторами, сопряженными с ГАМК рецепторами и усиливают ГАМК-ергическую передачу"
+    ]
+  },
+  {
+    "id": "pharm_170",
+    "arr": [
+      "Механизм системного действия средств для наркоза",
+      "Угнетение активности мезолимбической, мезокортикальной и нигростриатной системы",
+      "Нарушение проведения импульсов по афферентным специфическим и неспецифическим путям",
+      "Возбуждение коры головного мозга",
+      "Возбуждение центра положительных эмоций и реципрокное торможение центра отрицательных эмоций в лимбической системе"
+    ]
+  },
+  {
+    "id": "pharm_171",
+    "arr": [
+      "Механизм системного действия средств для наркоза",
+      "Угнетение активности мезолимбической, мезокортикальной и нигростриатной системы",
+      "Возбуждение коры головного мозга",
+      "Угнетение ретикулярной формации ствола мозга и нарушение проведения активирующей импульсации к коре головного мозга",
+      "Возбуждение центра положительных эмоций и реципрокное торможение центра отрицательных эмоций в лимбической системе"
+    ]
+  },
+  {
+    "id": "pharm_172",
+    "arr": [
+      "Что характерно для ингаляционного наркоза (выбрать неправильный ответ)?",
+      "Наркоз неуправляемый",
+      "Выражены стадии наркоза",
+      "Наркоз легко управляем",
+      "Выход из наркоза длительный"
+    ]
+  },
+  {
+    "id": "pharm_173",
+    "arr": [
+      "Что характерно для неингаляционного наркоза (выбрать неправильный ответ)?",
+      "Наркоз развивается быстро, нет стадийности",
+      "Наркоз неуправляемый",
+      "Выражены стадии наркоза",
+      "Наркозные средства вводятся внутривенно"
+    ]
+  },
+  {
+    "id": "pharm_174",
+    "arr": [
+      "Что характерно для фторотана (выбрать неправильный ответ)?",
+      "Раздражает дыхательные пути",
+      "Вызывает снижение артериального давления",
+      "Миорелаксация достаточно выражена",
+      "Пробуждение быстрое"
+    ]
+  },
+  {
+    "id": "pharm_175",
+    "arr": [
+      "Что характерно для закиси азота (выбрать неправильный ответ)?",
+      "Глубокого наркоза не вызывает",
+      "Сильное анальгезирующее действие",
+      "Выражено последействие",
+      "Наркоз наступает быстро без стадии возбуждения"
+    ]
+  },
+  {
+    "id": "pharm_176",
+    "arr": [
+      "Указать лекарственное средство, производное барбитуровой кислоты, применяемые для неингаляционного наркоза",
+      "Фентанил",
+      "Гексенал",
+      "Пропанидид",
+      "Фторотан"
+    ]
+  },
+  {
+    "id": "pharm_177",
+    "arr": [
+      "Указать лекарственное средство, производное барбитуровой кислоты, применяемые для неингаляционного наркоза",
+      "Фентанил",
+      "Пропанидид",
+      "Тиопентал натрия",
+      "Кетамин"
+    ]
+  },
+  {
+    "id": "pharm_178",
+    "arr": [
+      "Что характерно для тиопентала натрия (выбрать неправильный ответ)?",
+      "При быстром введении угнетает дыхательный центр",
+      "Наркоз развивается медленно",
+      "Длительность действия 10-15 минут",
+      "Быстро перераспределяется из ткани мозга в жировую ткань"
+    ]
+  },
+  {
+    "id": "pharm_179",
+    "arr": [
+      "Указать небарбитуровые средства для неингаляционного наркоза",
+      "Гексенал",
+      "Эфир",
+      "Пропанидид",
+      "Фторотан"
+    ]
+  },
+  {
+    "id": "pharm_180",
+    "arr": [
+      "Указать небарбитуровые средства для неингаляционного наркоза",
+      "Гексенал",
+      "Эфир",
+      "Фторотан",
+      "Кетамин"
+    ]
+  },
+  {
+    "id": "pharm_181",
+    "arr": [
+      "Указать небарбитуровые средства для неингаляционного наркоза",
+      "Гексенал",
+      "Оксибутират натрия",
+      "Фторотан",
+      "Нитразепам"
+    ]
+  },
+  {
+    "id": "pharm_182",
+    "arr": [
+      "Что характерно для пропанидида (выбрать неправильный ответ):",
+      "Относится к ингаляционным наркозным средствам",
+      "Сильное анальгезирующее действие",
+      "Наркоз наступает быстро без стадии возбуждения",
+      "Длительность действия 3-5 минут"
+    ]
+  },
+  {
+    "id": "pharm_183",
+    "arr": [
+      "Что характерно для оксибутирата натрия (выбрать неправильный ответ)?",
+      "Обладает выраженным антигипоксическим действием",
+      "Применяется как снотворное, успокаивающее и противосудорожное средство",
+      "Препарат длительного действия",
+      "Длительная стадия возбуждения"
+    ]
+  },
+  {
+    "id": "pharm_184",
+    "arr": [
+      "Что характерно для кетамина (выбрать неправильный ответ)?1 Сильное анальгезирующее действие",
+      "Наркоз развивается медленно",
+      "Глубокого наркоза не вызывает",
+      "Создает «диссоциативную» анестезию"
+    ]
+  },
+  {
+    "id": "pharm_185",
+    "arr": [
+      "Указать снотворное средство небарбитурового ряда",
+      "Фенобарбитал",
+      "Фторотан",
+      "Кетамин",
+      "Оксибутират натрия"
+    ]
+  },
+  {
+    "id": "pharm_186",
+    "arr": [
+      "Указать снотворное средство небарбитурового ряда",
+      "Фторотан",
+      "Кетамин",
+      "Нитразепам",
+      "Оксибутират натрия"
+    ]
+  },
+  {
+    "id": "pharm_187",
+    "arr": [
+      "Механизм и особенности снотворного действия бензодиазепинов (выбрать неправильный ответ)",
+      "Не нарушают структуру сна",
+      "Воздействуют на лимбическую систему",
+      "Расслабляют скелетную мускулатуру, уменьшая поток афферентных импульсов в ЦНС",
+      "Укорачивают фазу быстрого сна"
+    ]
+  },
+  {
+    "id": "pharm_188",
+    "arr": [
+      "Особенности действия наркотических анальгетиков (выбрать неправильный ответ)",
+      "Оказывают обезболивающее действие",
+      "В терапевтических дозах выключают сознание",
+      "В больших дозах вызывают наркозоподобное состояние",
+      "Оказывают влияние на центральные механизмы восприятия боли"
+    ]
+  },
+  {
+    "id": "pharm_189",
+    "arr": [
+      "Указать синтетический заменитель морфина",
+      "Оксибутират натрия",
+      "Кодеин",
+      "Пентазоцин",
+      "Омнопон"
+    ]
+  },
+  {
+    "id": "pharm_190",
+    "arr": [
+      "Указать синтетический заменитель морфина",
+      "Оксибутират натрия",
+      "Кодеин",
+      "Дроперидол",
+      "Фентанил"
+    ]
+  },
+  {
+    "id": "pharm_191",
+    "arr": [
+      "Указать синтетический заменитель морфина",
+      "Промедол",
+      "Кодеин",
+      "Дроперидол",
+      "Омнопон"
+    ]
+  },
+  {
+    "id": "pharm_192",
+    "arr": [
+      "Механизм болеутоляющего действия наркотических анальгетиков (выбрать неправильный ответ)",
+      "Нарушают передачу болевых сигналов по неспецифическим афферентным путям",
+      "Угнетают ретикулярной формации ствола мозга и нарушают проведения активирующей импульсации к коре головного мозга",
+      "Вызывают возбуждение центра положительных эмоций и реципрокное торможение центра отрицательных эмоций в лимбической системе",
+      "Имитируют действие противоболевой системы, воздействуют на опиатные рецепторы"
+    ]
+  },
+  {
+    "id": "pharm_193",
+    "arr": [
+      "Что характерно для морфина?",
+      "Понижает тонус гладкой мускулатуры",
+      "Применяется для нейролептанальгезии",
+      "Применяется при почечных, печеночных коликах",
+      "Вызывает лекарственную зависимость"
+    ]
+  },
+  {
+    "id": "pharm_194",
+    "arr": [
+      "Что характерно для морфина?",
+      "Понижает тонус гладкой мускулатуры",
+      "Угнетает дыхательный центр",
+      "Применяется для нейролептанальгезии",
+      "Применяется при почечных, печеночных коликах"
+    ]
+  },
+  {
+    "id": "pharm_195",
+    "arr": [
+      "Что характерно для промедола?",
+      "Понижает тонус гладкой мускулатуры",
+      "Содержит сумму алкалоидов опия.3 Применяется для нейролептанальгезии",
+      "Угнетает дыхательный центр"
+    ]
+  },
+  {
+    "id": "pharm_196",
+    "arr": [
+      "Что характерно для промедола?",
+      "Содержит сумму алкалоидов опия",
+      ".Применяется для нейролептанальгезии",
+      "Является синтетическим средством",
+      "Угнетает дыхательный центр"
+    ]
+  },
+  {
+    "id": "pharm_197",
+    "arr": [
+      "Что характерно для морфина?",
+      "Содержит сумму алкалоидов опия",
+      "Угнетает дыхательный центр",
+      "Применяется при почечных, печеночных коликах",
+      "Применяется для нейролептанальгезии"
+    ]
+  },
+  {
+    "id": "pharm_198",
+    "arr": [
+      "Что характерно для фентанила?",
+      "Возбуждает дыхательный центр",
+      "Применяется при зубной, головной боли",
+      "Применяется для нейролептанальгезии",
+      "Содержит сумму алкалоидов опия"
+    ]
+  },
+  {
+    "id": "pharm_199",
+    "arr": [
+      "Что характерно для фентанила?",
+      "Возбуждает дыхательный центр",
+      "Применяется при зубной, головной боли",
+      "Содержит сумму алкалоидов опия",
+      "По болеутоляющему эффекту значительно превосходит морфин"
+    ]
+  },
+  {
+    "id": "pharm_200",
+    "arr": [
+      "Что характерно для фентанила?",
+      "Является синтетическим средством",
+      "Возбуждает дыхательный центр",
+      "Применяется при зубной, головной боли",
+      "Содержит сумму алкалоидов опия"
+    ]
+  },
+  {
+    "id": "pharm_201",
+    "arr": [
+      "Показания к применению наркотических анальгетиков (выбрать неправильный ответ)",
+      "Нейролептанальгезия",
+      "Нарушение сна",
+      "При тяжелых травмах",
+      "При почечных, печеночных и кишечных коликах"
+    ]
+  },
+  {
+    "id": "pharm_202",
+    "arr": [
+      "Клинические проявления острого отравления наркотическими анальгетиками",
+      "Коматозное состояние",
+      "Брадикардия",
+      "Все перечисленное верно",
+      "Сужение зрачков"
+    ]
+  },
+  {
+    "id": "pharm_203",
+    "arr": [
+      "Меры помощи при отравлении наркотическими анальгетиками",
+      "Все перечисленное верно",
+      "Промывание желудка",
+      "Введение налоксона, введение аналептиков",
+      "Проведение искусственного дыхания"
+    ]
+  },
+  {
+    "id": "pharm_204",
+    "arr": [
+      "Указать противоэпилептическое средство",
+      "Омнопон",
+      "Пропанидид",
+      "Фенобарбитал",
+      "Пентазоцин"
+    ]
+  },
+  {
+    "id": "pharm_205",
+    "arr": [
+      "Указать противоэпилептическое средство",
+      "Триметин",
+      "Пропанидид",
+      "Омнопон",
+      "Пентазоцин"
+    ]
+  },
+  {
+    "id": "pharm_206",
+    "arr": [
+      "Указать противоэпилептическое средство",
+      "Пропанидид",
+      "Омнопон",
+      "Пентазоцин",
+      "Дифенин"
+    ]
+  },
+  {
+    "id": "pharm_207",
+    "arr": [
+      "Указать противоэпилептическое средство",
+      "Пропанидид",
+      "Карбамазепин",
+      "Омнопон",
+      "Пентазоцин"
+    ]
+  },
+  {
+    "id": "pharm_208",
+    "arr": [
+      "Средства,применяемые при больших судорожных припадках (выбрать неправильный ответ)",
+      "Дроперидол",
+      "Фенобарбитал",
+      "Дифенин",
+      "Сибазон"
+    ]
+  },
+  {
+    "id": "pharm_209",
+    "arr": [
+      "Средства,применяемые при малых эпилептических припадках(выбрать неправильный ответ)",
+      "Триметин",
+      "Фенобарбитал",
+      "Карбамазепин",
+      "Этосуксимид"
+    ]
+  },
+  {
+    "id": "pharm_210",
+    "arr": [
+      "Механизм действия противоэпилептических средств, применяемых при больших судорожных припадках",
+      "Препятствуют генерализации судорожного фокуса и стабилизируют мембраны и препятствуют накоплению натрия в клетке",
+      "Блокируют дофаминовые рецепторы",
+      "Все перечисленное верно",
+      "Угнетают неспецифические (интраламинарные) ядра таламуса"
+    ]
+  },
+  {
+    "id": "pharm_211",
+    "arr": [
+      "Указать дофаминомиметические противопаркинсонические средства",
+      "Карбидопа",
+      "Циклодол",
+      "Дифенин",
+      "Нитразепам"
+    ]
+  },
+  {
+    "id": "pharm_212",
+    "arr": [
+      "Указать дофаминомиметические противопаркинсонические средства.1Дроперидол",
+      "Циклодол",
+      "Дифенин",
+      "Леводопа"
+    ]
+  },
+  {
+    "id": "pharm_213",
+    "arr": [
+      "Указать нейролептическое средство",
+      "Аминазин",
+      "Фентанил",
+      "Гексенал",
+      "Фенамин."
+    ]
+  },
+  {
+    "id": "pharm_214",
+    "arr": [
+      "Указать нейролептическое средство",
+      "Фентанил",
+      "Дроперидол",
+      "Фенамин.",
+      "Хлозепид"
+    ]
+  },
+  {
+    "id": "pharm_215",
+    "arr": [
+      "Указать нейролептическое средство",
+      "Фентанил",
+      "Гексенал",
+      "Галоперидол",
+      "Фенамин"
+    ]
+  },
+  {
+    "id": "pharm_216",
+    "arr": [
+      "Указать нейролептическое средство",
+      "Фентанил",
+      "Гексенал",
+      "Фенамин",
+      "Сульпирид"
+    ]
+  },
+  {
+    "id": "pharm_217",
+    "arr": [
+      "Какие эффекты характерны для нейролептиков (выбрать неправильный ответ)",
+      "Антипсихотическое действие",
+      "Возбуждение ЦНС",
+      "Расслабление скелетной мускулатуры",
+      "Гипортермическое действие"
+    ]
+  },
+  {
+    "id": "pharm_218",
+    "arr": [
+      "Механизм антипсихотического действия нейролептиков",
+      "Блокируют дофаминовые рецепторы, мезокортикальную и мезолимбическую системы",
+      "Обладают дофаминомиметическим действием",
+      "Оказывают центральное М-холиноблокирующее действие",
+      "Все перечисленное верно"
+    ]
+  },
+  {
+    "id": "pharm_219",
+    "arr": [
+      "Показания к применению нейролептиков",
+      "Все перечисленное верно",
+      "Нейролептанальгезия",
+      "Психозы",
+      "Купирование рвоты"
+    ]
+  },
+  {
+    "id": "pharm_220",
+    "arr": [
+      "Побочные явления при применении нейролептиков (выбрать неправильный ответ)",
+      "Ортостатический коллапс",
+      "Психическая депрессия",
+      "Галлюциногенный психоз",
+      "Явления паркинсонизма"
+    ]
+  },
+  {
+    "id": "pharm_221",
+    "arr": [
+      "Указать анксиолитики (транквилизаторы)",
+      "Триоксазин, хлозепид, сибазон, феназепам",
+      "Фентанил., триоксазин, кетамин. хлозепид",
+      "Триоксазин. кетамин, хлозепид, сульпирид",
+      "Хлозепид, сульпирид, сибазон, феназепам"
+    ]
+  },
+  {
+    "id": "pharm_222",
+    "arr": [
+      "Указать производные бензодиазепинов (выбрать неправильный ответ)",
+      "Мепротан",
+      "Нитразепам",
+      "Хлозепид",
+      "Сибазон"
+    ]
+  },
+  {
+    "id": "pharm_223",
+    "arr": [
+      "Механизм действия производных бензодиазепинов",
+      "Адсорбируются на поверхности клеточных мембран и нарушают межнейрональные контакты",
+      "Блокируют дофаминовые рецепторы",
+      "Оказывают центральное холиноблокирующее действие",
+      "Взаимодействуют с бензодиазепиновыми рецепторами, сопряженными с ГАМК рецепторами и усиливают ГАМК-ергическую передачу"
+    ]
+  },
+  {
+    "id": "pharm_224",
+    "arr": [
+      "Механизм действия производных бензодиазепинов",
+      "Адсорбируются на поверхности клеточных мембран и нарушают межнейрональные контакты",
+      "Усиливают тормозные процессы в лимбических структурах",
+      "Блокируют дофаминовые рецепторы",
+      "Оказывают центральное холиноблокирующее действие"
+    ]
+  },
+  {
+    "id": "pharm_225",
+    "arr": [
+      "Фармакологические свойства производных бензодиазепинов",
+      "Противотревожное действие",
+      "Расслабление скелетной мускулатуры",
+      "Потенцирование действия средств для наркоза",
+      "Все перечисленное верно"
+    ]
+  },
+  {
+    "id": "pharm_226",
+    "arr": [
+      "Показания к применению производных бензодиазепинов (выбрать неправильный ответ)",
+      "Отравление наркотическими анальгетиками",
+      "Потенцирование действия наркозных средств",
+      "Функциональная умственная недостаточность",
+      "Неврозы и неврозоподобные состояния"
+    ]
+  },
+  {
+    "id": "pharm_227",
+    "arr": [
+      "Выбрать антидепрессант:",
+      "Сиднокарб",
+      "Пиразидол",
+      "Пирацетам",
+      "Галоперидол"
+    ]
+  },
+  {
+    "id": "pharm_228",
+    "arr": [
+      "Выбрать антидепрессант:",
+      "Сиднокарб",
+      "Кетамин",
+      "Хлозепид",
+      "Ниаламид"
+    ]
+  },
+  {
+    "id": "pharm_229",
+    "arr": [
+      "Выбрать антидепрессант:",
+      "Сиднокарб",
+      "Амитриптилин",
+      "Галоперидол",
+      "Хлозепид"
+    ]
+  },
+  {
+    "id": "pharm_230",
+    "arr": [
+      "Механизм и особенности действия амитриптилина (выбрать неправильный ответ)",
+      "Избирательно возбуждает ДА-рецепторы",
+      "Ингибирует обратный нейрональный захват медиаторных моноаминов",
+      "Понижает чувствительность постсинаптических рецепторов к дофамину, норадреналину и серотонину",
+      "Применяется при различных формах депрессии, оказывая модулирующее действие"
+    ]
+  },
+  {
+    "id": "pharm_231",
+    "arr": [
+      "Указать ноотропные средства",
+      "Пирацетам, пантогам, женьшень",
+      "Пирацетам, фенамин, сибазон",
+      "Пирацетам, пантогам, аминалон",
+      "Пирацетам, фенамин, пантогам"
+    ]
+  },
+  {
+    "id": "pharm_232",
+    "arr": [
+      "Механизм действия психомоторных стимуляторов",
+      "Повышают функциональную активность корковых нейронов и актвирующую систему мозга",
+      "Взаимодействуют с бензодиазепиновыми рецепторами и возбуждают сопряженные с ними ГАМК-рецепторы",
+      "Блокируют адренергические синапсы ретикулярной формации ствола мозга",
+      "Расширяют сосуды и улучшают мозговое кровообращение"
+    ]
+  },
+  {
+    "id": "pharm_233",
+    "arr": [
+      "Механизм действия психометаболических стимуляторов",
+      "Повышают функциональную активность корковых нейронов, возбуждают активирующую систему мозга",
+      "Повышают энергетический потенциал нервных клеток, влияя на метаболическую активность ГАМК, расширяют сосуды и улучшают мозговое кровообращение",
+      "Взаимодействуют с бензодиазепиновыми рецепторами и возбуждают сопряженные с ними ГАМК-рецепторы",
+      "Блокируют адренергические синапсы ретикулярной формации ствола мозга"
+    ]
+  },
+  {
+    "id": "pharm_234",
+    "arr": [
+      "Механизм и особенности действия пирацетама (выбрать неправильный ответ)",
+      "Проявляет метаболическое действие подобно ГАМК",
+      "Эффективен при длительном применении",
+      "Устраняет органическую умственную недостаточность",
+      "Блокирует аденозиновые рецепторы"
+    ]
+  },
+  {
+    "id": "pharm_235",
+    "arr": [
+      "Показания к применению психометаболических стимуляторов",
+      "Органическая умственная недостаточность",
+      "Состояние после перенесенного инсульта, нарушения мозгового кровообращения",
+      "Возрастная умственная недостаточность",
+      "Все перечисленное верно"
+    ]
+  },
+  {
+    "id": "pharm_236",
+    "arr": [
+      "Указать аналептики",
+      "Кордиамин, фентанил, кофеин, галоперидол",
+      "Кордиамин, кофеин, бемегрид, этимизол",
+      "Бемегрид, хлозепид, этимизол, аминалон",
+      "Кордиамин, кофеин, бемегрид. хлозепид"
+    ]
+  },
+  {
+    "id": "pharm_237",
+    "arr": [
+      "Показания к применению аналептиков (выбрать неправильный ответ)",
+      "Передозировка наркозных средств",
+      "Купирование рвоты",
+      "Отравление наркотическими анальгетиками",
+      "Отравление угарным газом"
+    ]
+  },
+  {
+    "id": "pharm_238",
+    "arr": [
+      "Особености действия этимизола",
+      "Все перечисленное верно",
+      "Возбуждает дыхательный и сосудодвигательный центр",
+      "Не оказывает возбуждающего влияния на кору",
+      "Активирует гипоталамо-гипофизарно-надпочечниковую систему"
+    ]
+  },
+  {
+    "id": "pharm_239",
+    "arr": [
+      "Указать группы лекарственных веществ, влияющих на витальные функции организма:",
+      "Средства для наркоза",
+      "Наркотические анальгетики",
+      "Спирт этиловый",
+      "Все перечисленное верно"
+    ]
+  },
+  {
+    "id": "pharm_240",
+    "arr": [
+      "Указать группы лекарственных веществ, неизбирательно угнетающие витальные функции организма (выбрать неправильный ответ):",
+      "Средства для наркоза",
+      "Наркотические анальгетики",
+      "Некоторые снотворные средства. 4Спирт этиловый"
+    ]
+  },
+  {
+    "id": "pharm_241",
+    "arr": [
+      "Указать группы лекарственных веществ, избирательно угнетающие витальные функции организма (выбрать неправильный ответ):",
+      "Наркотические анальгетики",
+      "Психостимуляторы",
+      "Противоэпилептические средства",
+      "Противопаркинсонические средства"
+    ]
+  },
+  {
+    "id": "pharm_242",
+    "arr": [
+      "Указать группу лекарственных веществ, активирующих витальные функции организма:",
+      "Психостимуляторы",
+      "Противоэпилептические средства",
+      "Аналептики",
+      "Снотворные средства"
+    ]
+  },
+  {
+    "id": "pharm_243",
+    "arr": [
+      "Указать группы лекарственных веществ, угнетающие психические функции организма:",
+      "Нейролептики, антидепрессанты",
+      "Нейролептики, наркотические анальгетики",
+      "Нейролептики, средства для наркоза",
+      "Нейролептики, анксиолитики"
+    ]
+  },
+  {
+    "id": "pharm_244",
+    "arr": [
+      "Указать группы лекарственных веществ, активирующие психические функции организма (выбрать неправильный ответ):",
+      "Психостимуляторы",
+      "Аналептики",
+      "Психотонические средства",
+      "Антидепрессанты"
+    ]
+  },
+  {
+    "id": "pharm_245",
+    "arr": [
+      "Что характерно для наркоза?",
+      "Все перечисленное верно",
+      "Утрата сознания",
+      "Расслабление скелетной",
+      "Потеря болевой чувствительности"
+    ]
+  },
+  {
+    "id": "pharm_246",
+    "arr": [
+      "Что характерно для стадии анальгезии?",
+      "Миорелаксация",
+      "Исчезновение болевой чувствительности",
+      "Усиление рефлексов",
+      "Все виды чувствительности сохранены"
+    ]
+  },
+  {
+    "id": "pharm_247",
+    "arr": [
+      "Что характерно для стадии возбуждения (выбрать неправильный ответ)?",
+      "Миорелаксация",
+      "Усиление рефлексов, повышение тонуса скелетной мускулатуры.",
+      "Двигательное и речевое возбуждение",
+      "Утрата сознания."
+    ]
+  },
+  {
+    "id": "pharm_248",
+    "arr": [
+      "Что характерно для стадии хирургического наркоза (выбрать неправильный ответ)?",
+      "Утрата сознания. 2 Усиление рефлексов",
+      "Исчезновение всех видов чувствительности.",
+      "Миорелаксация"
+    ]
+  },
+  {
+    "id": "pharm_249",
+    "arr": [
+      "Какие осложнения характерны для стадии возбуждения (выбрать неправильный ответ)?",
+      "Асфиксия за счет аспирации слизи",
+      "Рефлекторная остановка дыхания и сердца",
+      "Ларингоспазм и бронхоспазм",
+      "Нарушение деятельности сердца за счет прямого влияния на миокард"
+    ]
+  },
+  {
+    "id": "pharm_250",
+    "arr": [
+      "Какие осложнения характерны для стадии хирургического наркоза (выбрать неправильный ответ)?",
+      "Паралич дыхательного центра",
+      "Угнетение сосудодвигательного центра и падение артериального давления",
+      "Рефлекторная остановка сердца",
+      "Нарушение деятельности сердца за счет прямого влияния на миокард"
+    ]
+  },
+  {
+    "id": "pharm_251",
+    "arr": [
+      "Что характерно для эфира?",
+      "Все перечисленное верно",
+      "Сенсибилизирует сердце к катехоламинам",
+      "Миорелаксация достаточно выражена",
+      "Длительная стадия возбуждения"
+    ]
+  },
+  {
+    "id": "pharm_252",
+    "arr": [
+      "Что характерно для фторотана?",
+      "Сенсибилизирует сердце к катехоламинам",
+      "Раздражает дыхательные пути",
+      "Длительная стадия возбуждения",
+      "Глубокого наркоза не вызывает"
+    ]
+  },
+  {
+    "id": "pharm_253",
+    "arr": [
+      "Что характерно для фторотана?",
+      "Раздражает дыхательные пути",
+      "Вызывает снижение артериального давления",
+      "Длительная стадия возбуждения",
+      "Глубокого наркоза не вызывает"
+    ]
+  },
+  {
+    "id": "pharm_254",
+    "arr": [
+      "Что характерно для фторотана?",
+      "Раздражает дыхательные пути",
+      "Глубокого наркоза не вызывает",
+      "Миорелаксация достаточно выражена",
+      "Длительная стадия возбуждения"
+    ]
+  },
+  {
+    "id": "pharm_255",
+    "arr": [
+      "Что характерно для закиси азота (выбрать неправильный ответ)?",
+      "Раздражает дыхательные пути",
+      "Глубокого наркоза не вызывает",
+      "Сильное анальгезирующее действие",
+      "Наркоз наступает быстро без стадии возбуждения"
+    ]
+  },
+  {
+    "id": "pharm_256",
+    "arr": [
+      "Что характерно для этилового спирта?",
+      "В больших дозах вызывает наркозоподобное состояние",
+      "Большая широта наркозного действия",
+      "Возбуждает активирующую систему мозга",
+      "Улучшает сон"
+    ]
+  },
+  {
+    "id": "pharm_257",
+    "arr": [
+      "Что характерно для этилового спирта?",
+      "Большая широта наркозного действия",
+      "Выраженная стадия возбуждения",
+      "Возбуждает активирующую систему мозга",
+      "Улучшает сон"
+    ]
+  },
+  {
+    "id": "pharm_258",
+    "arr": [
+      "Что характерно для этилового спирта?",
+      "Большая широта наркозного действия",
+      "Улучшает сон",
+      "Возбуждает активирующую систему мозга",
+      "Вмешивается в метаболизм клеток и нарушает синаптическую передачу"
+    ]
+  },
+  {
+    "id": "pharm_259",
+    "arr": [
+      "Что характерно для этилового спирта?",
+      "Большая широта наркозного действия",
+      "Возбуждает активирующую систему мозга",
+      "Улучшает сон",
+      "Обладает противомикробным действием"
+    ]
+  },
+  {
+    "id": "pharm_260",
+    "arr": [
+      "Резорбтивное действие этилового спирта (выбрать неправильный ответ):",
+      "Вмешивается в метаболизм клеток и нарушает синаптическую передачу",
+      "Обладает противомикробным действием",
+      "Нарушает возбудимость центра терморегуляции",
+      "Оказывает анальгезирующее действие"
+    ]
+  },
+  {
+    "id": "pharm_261",
+    "arr": [
+      "Местное действие этилового спирта (выбрать неправильный ответ):",
+      "Вмешивается в метаболизм клеток и нарушает синаптическую передачу",
+      "Обладает противомикробным действием",
+      "Вызывает денатурацию белков",
+      "В малых концентрациях усиливает секрецию желез желудка"
+    ]
+  },
+  {
+    "id": "pharm_262",
+    "arr": [
+      "Показания к применению этилового спирта:",
+      "Для обработки рук хирурга 70%. и стерилизации инструментов 40%",
+      "Для компрессов при воспалении",
+      "При отеке легких",
+      "Все перечисленное верно"
+    ]
+  },
+  {
+    "id": "pharm_263",
+    "arr": [
+      "Симптомы острого отравления этиловым спиртом:",
+      "Нарушение сознания",
+      "Угнетение сосудодвигательного центра",
+      "Расслабление скелетной мускулатуры, урежение и остановка дыхания",
+      "Все перечисленное верно"
+    ]
+  },
+  {
+    "id": "pharm_264",
+    "arr": [
+      "Особенности действия нитразепама (выбрать неправильный ответ):",
+      "Относится к барбитуратам",
+      "Не нарушает фазную структуру сна",
+      "Вызывает сон близкий к физиологическому",
+      "Действует на лимбическую систему"
+    ]
+  },
+  {
+    "id": "pharm_265",
+    "arr": [
+      "Показания к применение нитразепама:",
+      "Инсомния и неврозы",
+      "При эпилепсии",
+      "Для базисного наркоза",
+      "При депрессии"
+    ]
+  },
+  {
+    "id": "pharm_266",
+    "arr": [
+      "Что характерно для алкалоидов фенантренового ряда (выбрать неправильный ответ)?",
+      "Обладают болеутоляющим действием",
+      "Повышают тонус гладкомышечных органов",
+      "Обладают спазмолитическим действием",
+      "Оказывают угнетающее влияние на центральную нервную систему"
+    ]
+  },
+  {
+    "id": "pharm_267",
+    "arr": [
+      "Что характерно для алкалоидов изохинолинового ряда?",
+      "Улучшают умственную работоспособность",
+      "Обладают болеутоляющим действием",
+      "Повышают тонус гладкомышечных органов",
+      "Обладают спазмолитическим действием"
+    ]
+  },
+  {
+    "id": "pharm_268",
+    "arr": [
+      "Что характерно для омнопона (выбрать неправильный ответ)?",
+      "Повышает тонус гладкой мускулатуры",
+      "Применяется при травматических болях",
+      "Применяется при почечных, печеночных коликах",
+      "Содержит сумму алкалоидов опия"
+    ]
+  },
+  {
+    "id": "pharm_269",
+    "arr": [
+      "Что характерно для кодеина (выбрать неправильный ответ)?",
+      "Угнетает кашлевой центр",
+      "Применяется при травматическихболях",
+      "Вызывает развитие зависимости",
+      "Применяется как противокашлевое средство"
+    ]
+  },
+  {
+    "id": "pharm_270",
+    "arr": [
+      "Механизм действия противоэпилептических средств, применяемых при больших судорожных припадках:",
+      "Препятствуют генерализации судорожного фокуса",
+      "Блокируют дофаминовые рецепторы",
+      "Угнетают неспецифические (интраламинарные) ядра таламуса",
+      "Блокируют мезокортикальную и мезолимбическую системы"
+    ]
+  },
+  {
+    "id": "pharm_271",
+    "arr": [
+      "Механизм действия противоэпилептических средств, применяемых при больших судорожных припадках:",
+      "Блокируют дофаминовые рецепторы",
+      "Стабилизируют мембраны и препятствуют накоплению натрия в клетке",
+      "Угнетают неспецифические (интраламинарные) ядра таламуса",
+      "Блокируют мезокортикальную и мезолимбическую системы"
+    ]
+  },
+  {
+    "id": "pharm_272",
+    "arr": [
+      "Механизм действия противоэпилептических средств, применяемых при малых припадках:",
+      "Стабилизируют мембраны и препятствуют накоплению натрия в клетке",
+      "Обладают дофаминомиметическим действием",
+      "Оказывают центральное М-холиноблокирующее действие",
+      "Угнетают неспецифические (интраламинарные) ядра таламуса"
+    ]
+  },
+  {
+    "id": "pharm_273",
+    "arr": [
+      "Указать холиноблокирующее противопаркинсоническое средство:",
+      "Циклодол",
+      "Леводопа",
+      "Нитразепам",
+      "Карбидопа"
+    ]
+  },
+  {
+    "id": "pharm_274",
+    "arr": [
+      "Механизм действия леводопы:",
+      "Блокирует дофаминовые рецепторы",
+      "Стабилизирует мембраны и препятствуют накоплению натрия в клетке",
+      "Возбуждает дофаминовые рецепторы и восстанавливает нигростриатный сдерживающий контроль",
+      "Оказывает центральное М- холиноблокирующее действие и восстанавливает нигростриатный сдерживающий контроль"
+    ]
+  },
+  {
+    "id": "pharm_275",
+    "arr": [
+      "Механизм действия циклодола:",
+      "Препятствует генерализации судорожного фокуса. Блокируют дофаминовые рецепторы",
+      "Стабилизирует мембраны и препятствуют накоплению натрия в клетке",
+      "Обладает дофаминомиметическим действием",
+      "Оказывает центральное М- холиноблокирующее действие"
+    ]
+  },
+  {
+    "id": "pharm_276",
+    "arr": [
+      "Особенности действия фенотиазинов (выбрать неправильный ответ):",
+      "Оказывают выраженное противорвотное действие",
+      "Обладают психоседативным действием",
+      "Вызывают возбуждение ДА-рецепторов пусковой зоны",
+      "Оказывают сильное антипсихотическое действие"
+    ]
+  },
+  {
+    "id": "pharm_277",
+    "arr": [
+      "Особенности действия бутирофенонов (выбрать неправильный ответ):",
+      "Применяются для нейролептанальгезии",
+      "Относятся к каталептогенным нейролептикам",
+      "Вызывают выраженные экстрапирамидные нарушения",
+      "Не вызывают выраженных моторных нарушений"
+    ]
+  },
+  {
+    "id": "pharm_278",
+    "arr": [
+      "Особенности действия клозапина:",
+      "Возбуждает центральную нервную систему",
+      "Не вызывает выраженных моторных нарушений",
+      "Вызывает выраженные экстрапирамидные нарушения",
+      "Применяется для нейролептанальгезии"
+    ]
+  },
+  {
+    "id": "pharm_279",
+    "arr": [
+      "Механизм действия кофеина (выбрать неправильный ответ):",
+      "Оказывает прямое стимулирующее влияние на корковые нейроны",
+      "Блокирует аденозиновые рецепторы",
+      "Угнетает фосфодиэстеразу и способствует накоплению цАМФ",
+      "Ингибирует МАО"
+    ]
+  },
+  {
+    "id": "pharm_280",
+    "arr": [
+      "Механизм и действия сиднокарба (выбрать неправильныйответ):",
+      "Угнетает фосфодиэстеразу и способствует накоплению цАМФ",
+      "Усиливает работу адренергических синапсов ретикулярной формации",
+      "Усиливает выброс медиатора в синаптическую щель",
+      "Ингибирует МАО"
+    ]
+  },
+  {
+    "id": "pharm_281",
+    "arr": [
+      "Особености действия этимизола (выбрать неправильный ответ):",
+      "Возбуждает дыхательный и сосудодвигательный центры",
+      "Не оказывает возбуждающего влияния на кору",
+      "При передозировке легко возникают судороги",
+      "Активирует гипоталамо-гипофизарно-надпочечниковую систему"
+    ]
+  },
+  {
+    "id": "pharm_282",
+    "arr": [
+      "Указать препараты растительного происхождения, тонизирующие ЦНС (адаптогены):",
+      "Пантокрин, бемегрид, кетамин",
+      "Феназепам, аминалон. женьшень",
+      "Пантокрин, женьшень, элеутерококк",
+      "Бемегрид, женьшень, элеутерококк"
+    ]
+  },
+  {
+    "id": "pharm_283",
+    "arr": [
+      "Какой препарат применяется при эпилептическом статусе",
+      "Амитриптилин",
+      "Диазепам",
+      "Леводопа",
+      "Морфин"
+    ]
+  },
+  {
+    "id": "pharm_284",
+    "arr": [
+      "Какой препарат является средством выбора при передозировке опиоидных анальгетиков?",
+      "Кофеин",
+      "Кордиамин",
+      "Налоксон",
+      "Пентазоцин"
+    ]
+  },
+  {
+    "id": "pharm_285",
+    "arr": [
+      "Какой препарат вызывает клинически значимую индукцию микросомальных ферментов печени?",
+      "Аминазин",
+      "Диазепам",
+      "Морфин",
+      "Фенобарбитал",
+      "e) Фторотан"
+    ]
+  },
+  {
+    "id": "pharm_286",
+    "arr": [
+      "Какой препарат используется для лечения болезни Паркинсона?",
+      "Аминазин",
+      "Леводопа",
+      "Галоперидол",
+      "Хлорпротиксен"
+    ]
+  },
+  {
+    "id": "pharm_287",
+    "arr": [
+      "Какой эффект опиоидных анальгетиков имеет диагностическое значение при их передозировке?",
+      "Угнетение сознания",
+      "Гипотензия",
+      "Брадикардия",
+      "Миоз"
+    ]
+  },
+  {
+    "id": "pharm_288",
+    "arr": [
+      "Какое средство для наркоза повышает чувствительность β- адренорецепторов сердца к катехоламинам?",
+      "Закись азота",
+      "Пропанидид",
+      "Фторотан",
+      "Оксибутират натрия"
+    ]
+  },
+  {
+    "id": "pharm_289",
+    "arr": [
+      "Паркинсоноподобный синдром является осложнением курсового применения:",
+      "Галоперидола",
+      "Амитриптилина",
+      "Циклодола",
+      "Леводопы"
+    ]
+  },
+  {
+    "id": "pharm_290",
+    "arr": [
+      "Морфин применяется при:",
+      "Артралгии",
+      "Отеке легкого",
+      "Головной боли",
+      "Повышенном внутричерепном давлении"
+    ]
+  },
+  {
+    "id": "pharm_291",
+    "arr": [
+      "Трициклические антидепрессанты увеличивают содержание моноаминов в синапсах ЦНС, потому что:",
+      "Ускоряют их синтез",
+      "Замедляют их инактивацию",
+      "Увеличивают их высвобождение из нервных окончаний",
+      "Угнетают их захват нервными окончаниями"
+    ]
+  },
+  {
+    "id": "pharm_292",
+    "arr": [
+      "Действие какого препарата прекращается в результате его перераспределения в организме?:",
+      "Тиопентала-натрия",
+      "Фторотана",
+      "Кетамина",
+      "Пропанидида"
+    ]
+  },
+  {
+    "id": "pharm_293",
+    "arr": [
+      "Какой препарат создает «диссоциативную» анестезию?",
+      "Дроперидол",
+      "Кетамин",
+      "Пропанидид",
+      "Тиопентал-натрия",
+      "e) Фторотан"
+    ]
+  },
+  {
+    "id": "pharm_294",
+    "arr": [
+      "Какой нейролептик используют для нейролептанальгезии?",
+      "Трифтазин",
+      "Левомепромазин",
+      "Дроперидол",
+      "Сульпирид"
+    ]
+  },
+  {
+    "id": "pharm_295",
+    "arr": [
+      "Выбрать препараты, относящиеся к седативным средствам (выбрать неправильный ответ)",
+      "Хлозепид",
+      "Натрия бромид",
+      "Настойка валерианы",
+      "Настойка пустырника"
+    ]
+  },
+  {
+    "id": "pharm_296",
+    "arr": [
+      "Препарат, используемый для отмены эффектов бензодиазепинов:",
+      "Налоксон",
+      "Налтрексон",
+      "Диазепам",
+      "Флумазенил",
+      "e) Леводопа"
+    ]
+  },
+  {
+    "id": "pharm_297",
+    "arr": [
+      "Препарат, обладающий противорвотным действием:",
+      "Диазепам",
+      "Галоперидол",
+      "Кофеин",
+      "Пирацетам"
+    ]
+  },
+  {
+    "id": "pharm_298",
+    "arr": [
+      "Указать основные свойства пентазоцина",
+      "Обладает анальгетическим действием",
+      "Редко вызывает лекарственную зависимость",
+      "Слабо угнетает дыхательный центр",
+      "Все перечисленное верно"
+    ]
+  },
+  {
+    "id": "pharm_299",
+    "arr": [
+      "Каков механизм действия тетурама?",
+      "Ускоряет выведение этилового спирта",
+      "Вытесняет этиловый спирт из мест его взаимодействия с тканями",
+      "Нарушает окисление этилового спирта в организме",
+      "Конкурирует с этиловым спиртом за рецпторы"
+    ]
+  },
+  {
+    "id": "pharm_300",
+    "arr": [
+      "Свойство ингаляционного анестетика, определяющее скорость индукции анестезии:",
+      "Растворимость в жирах",
+      "Растворимость в крови",
+      "Удельный вес",
+      "Агрегатное состояние (летучая жидкость или газ)"
+    ]
+  },
+  {
+    "id": "pharm_301",
+    "arr": [
+      "Указать фармакологический эффект, характерный для терапевтического действия сердечных гликозидов",
+      "Повышение давления в правом предсердии",
+      "Усиление сокращений миокарда",
+      "Учащение ритма сердечных сокращений",
+      "Уменьшение минутного объема"
+    ]
+  },
+  {
+    "id": "pharm_302",
+    "arr": [
+      "Указать фармакологический эффект, характерный для терапевтического действия сердечных гликозидов",
+      "Повышение давления в правом предсердии",
+      "Учащение ритма сердечных сокращений",
+      "Снижение венозного давления",
+      "Уменьшение минутного объема"
+    ]
+  },
+  {
+    "id": "pharm_303",
+    "arr": [
+      "Указать фармакологический эффект, характерный для терапевтического действия сердечных гликозидов",
+      "Увеличение ударного объема сердца",
+      "Повышение давления в правом предсердии",
+      "Учащение ритма сердечных сокращений",
+      "Уменьшение минутного объема"
+    ]
+  },
+  {
+    "id": "pharm_304",
+    "arr": [
+      "Указать какие эффекты характерны для терапевтического действия сердечных гликозидов",
+      "Повышение давления в правом предсердии",
+      "Учащение ритма сердечных сокращений",
+      "Уменьшение минутного объема",
+      "Удлинение интервала РР"
+    ]
+  },
+  {
+    "id": "pharm_305",
+    "arr": [
+      "Механизм систолического действия сердечных гликозидов (выбрать неправильный ответ)",
+      "Повышают уровень свободного ионизированного кальция в клетке в результате связывают тропонин-тропомиозиновый комплекс",
+      "Нарушают трансмембранный транспорт Са++ и расслабляют сосуды",
+      "Увеличивают проникновение Са++ внутрь клетки",
+      "Блокируют Νа+ ,К+-АТФ-азу"
+    ]
+  },
+  {
+    "id": "pharm_306",
+    "arr": [
+      "Явления, наблюдаемые при интоксикации сердечными гликозидами",
+      "Резкая брадикардия",
+      "Экстрасистолия",
+      "Атриовентрикулярная блокада",
+      "Все перечисленное верно"
+    ]
+  },
+  {
+    "id": "pharm_307",
+    "arr": [
+      "Что применяют при интоксикации сердечными гликозидами?",
+      "Унитиол, препараты калия, миотропные спазмолитики",
+      "Унитиол, препараты калия, антагонисты Са++",
+      "Унитио, антагонисты Са++, ганглиоблокаторы",
+      "Миотропные спазмолитики, антагонисты Са++, ганглиоблокаторы"
+    ]
+  },
+  {
+    "id": "pharm_308",
+    "arr": [
+      "Механизм и особенности действия нифедипина",
+      "Блокирует β-адренорецепторы",
+      "Блокирует кальциевые каналы",
+      "Обладает отрицательным инотропным действием",
+      "Улучшает проводимость",
+      "e) Уменьшает выработку ренина",
+      "f) Понижает потребность сердечной мышцы в кислороде",
+      "g) Понижает артериальное давление",
+      "h) Обладает противоаритмическим действием"
+    ]
+  },
+  {
+    "id": "pharm_309",
+    "arr": [
+      "Механизм и особенности действия нифедипина",
+      "Блокирует β-адренорецепторы",
+      "Улучшает проводимость",
+      "Обладает отрицательным инотропным действием",
+      "Уменьшает выработку ренина"
+    ]
+  },
+  {
+    "id": "pharm_310",
+    "arr": [
+      "Механизм и особенности действия нифедипина",
+      "Блокирует β-адренорецепторы",
+      "Улучшает проводимость",
+      "Уменьшает выработку ренина",
+      "Понижает потребность сердечной мышцы в кислороде"
+    ]
+  },
+  {
+    "id": "pharm_311",
+    "arr": [
+      "Указать препараты, относящиеся к нитратам",
+      "Изосорбида мононитрат., верапамил, нитроглицерин",
+      "Изосорбида мононитрат, нитросорбид, валидол",
+      "Изосорбида мононитрат, нитроглицерин, нитросорбид",
+      "Изосорбида мононитрат, нитросорбид. папаверин"
+    ]
+  },
+  {
+    "id": "pharm_312",
+    "arr": [
+      "Указать антиангинальные вещества, понижающие потребность сердца в кислороде (выбрать неправильный ответ)",
+      "Нифедипин",
+      "Верапамил",
+      "Карбокромен",
+      "Талинолол"
+    ]
+  },
+  {
+    "id": "pharm_313",
+    "arr": [
+      "Указать антиангинальные вещества, вмешивающиеся в метаболические процессы миокарда (выбрать неправильный ответ):",
+      "Сустак",
+      "Рибоксин",
+      "Оротат калия",
+      "Ретаболил"
+    ]
+  },
+  {
+    "id": "pharm_314",
+    "arr": [
+      "Указать, что характерно для нитроглицерина",
+      "Снижает венозное и артериальное давление",
+      "Увеличивает венозный возврат",
+      "Усиливает работу сердца",
+      "Угнетает транспорт ионов кальция внутрь клетки"
+    ]
+  },
+  {
+    "id": "pharm_315",
+    "arr": [
+      "Указать, что характерно для нитроглицерина",
+      "Увеличивает венозный возврат",
+      "Блокирует кальциевые каналы",
+      "Усиливает работу сердца",
+      "Уменьшает потребность миокарда в кислороде"
+    ]
+  },
+  {
+    "id": "pharm_316",
+    "arr": [
+      "Указать, что характерно для нитроглицерина",
+      "Увеличивает венозный возврат",
+      "Блокирует кальциевые каналы",
+      "Улучшает кровоснабжение в ишимизированном участке миокарда",
+      "Угнетает транспорт ионов кальция внутрь клетки"
+    ]
+  },
+  {
+    "id": "pharm_317",
+    "arr": [
+      "Отметить возможные побочные эффекты, характерные для нитроглицерина",
+      "Брадикардия",
+      "Резкое снижение артериального давления",
+      "Бронхоспазм",
+      "Нарушение функции печени и почек"
+    ]
+  },
+  {
+    "id": "pharm_318",
+    "arr": [
+      "Отметить возможные побочные эффекты, характерные для нитроглицерина",
+      "Брадикардия",
+      "Бронхоспазм",
+      "Головная боль и головокружение",
+      "Нарушение функции печени и почек"
+    ]
+  },
+  {
+    "id": "pharm_319",
+    "arr": [
+      "Отметить вещество, являющееся антагонистами ионов Са++",
+      "Эуфиллин",
+      "Верапамил",
+      "Карбокромен",
+      "Нитросорбид"
+    ]
+  },
+  {
+    "id": "pharm_320",
+    "arr": [
+      "Отметить вещество, являющееся антагонистами ионов Са++",
+      "Эуфиллин",
+      "Карбокромен",
+      "Нитросорбид",
+      "Нифедипин"
+    ]
+  },
+  {
+    "id": "pharm_321",
+    "arr": [
+      "Отметить вещество, являющееся антагонистами ионов Са++",
+      "Дилтиазем",
+      "Эуфиллин",
+      "Карбокромен",
+      "Гидрохлортиазид"
+    ]
+  },
+  {
+    "id": "pharm_322",
+    "arr": [
+      "Указать антигипертензивные средства центрального нейротропного действия",
+      "Клонидин(клофелин), анаприлин",
+      "Клонидин(клофелин), ангиотензинамид",
+      "Клонидин(клофелин), пентамин",
+      "Клонидин(клофелин), моксонидин"
+    ]
+  },
+  {
+    "id": "pharm_323",
+    "arr": [
+      "Указать антигипертензивное средство, влияющие на ренин-ангиотензиновую систему",
+      "Анаприлин",
+      "Каптоприл",
+      "Фентоламин",
+      "Верапамил"
+    ]
+  },
+  {
+    "id": "pharm_324",
+    "arr": [
+      "Указать антигипертензивное средство, влияющие на ренин-ангиотензиновую систему",
+      "Анаприлин",
+      "Фентоламин",
+      "Верапамил",
+      "Эналаприл"
+    ]
+  },
+  {
+    "id": "pharm_325",
+    "arr": [
+      "Что характерно для ингибиторов АПФ (выбрать неправильный ответ)",
+      "Блокируют ангиотензинпревращающий фермент",
+      "Блокируют ангиотензиновые рецепторы.3Уменьшают выработку альдостерона",
+      "Понижают артериальное давления"
+    ]
+  },
+  {
+    "id": "pharm_326",
+    "arr": [
+      "Что характерно для клонидина (выбрать неправильный ответ):",
+      "Обладает центральным антиадренергическим действием",
+      "Возбуждает пресинаптические α2-адренорецепторы",
+      "Истощает запасы медиатора в адренергических синапсах",
+      "Применяется при гипертонических кризах"
+    ]
+  },
+  {
+    "id": "pharm_327",
+    "arr": [
+      "Какое антигипертензивное средство применяют при гипертоническом кризе",
+      "Дибазол",
+      "Спиронолактон",
+      "Но-шпа",
+      "Ангиотензинамид"
+    ]
+  },
+  {
+    "id": "pharm_328",
+    "arr": [
+      "Какое антигипертензивное средство применяют при гипертоническом кризе",
+      "Валидол",
+      "Клофелин",
+      "Спиронолактон",
+      "Но-шпа"
+    ]
+  },
+  {
+    "id": "pharm_329",
+    "arr": [
+      "Какое антигипертензивное средство применяют при гипертоническом кризе",
+      "Спиронолактон",
+      "Но-шпа",
+      "Ангиотензинамид",
+      "Пентамин"
+    ]
+  },
+  {
+    "id": "pharm_330",
+    "arr": [
+      "Какое антигипертензивное средство применяют при гипертоническом кризе",
+      "Спиронолактон",
+      "Но-шпа",
+      "Моксонидин",
+      "Ангиотензинамид"
+    ]
+  },
+  {
+    "id": "pharm_331",
+    "arr": [
+      "Какое антигипертензивное средство применяют при гипертоническом кризе",
+      "Спиронолактон",
+      "Каптоприл",
+      "Но-шпа",
+      "Ангиотензинамид"
+    ]
+  },
+  {
+    "id": "pharm_332",
+    "arr": [
+      "При коллапсе применяют:",
+      "Мезатон",
+      "Дибазол",
+      "Папаверин",
+      "Каптоприл"
+    ]
+  },
+  {
+    "id": "pharm_333",
+    "arr": [
+      "Указать средства, применяемые при коллапсе",
+      "Дибазол",
+      "Папаверин",
+      "Ангиотензинамид",
+      "Каптоприл"
+    ]
+  },
+  {
+    "id": "pharm_334",
+    "arr": [
+      "Указать средства, применяемые при коллапсе",
+      "Дибазол",
+      "Папаверин",
+      "Каптоприл",
+      "Норадреналин"
+    ]
+  },
+  {
+    "id": "pharm_335",
+    "arr": [
+      "Выбрать препарат сердечных гликозидов, обладающий средней продолжительностью действия:",
+      "Коргликон",
+      "Дигоксин",
+      "Строфантин",
+      "Целанид"
+    ]
+  },
+  {
+    "id": "pharm_336",
+    "arr": [
+      "Что характерно для строфантина (выбрать неправильный ответ)?",
+      "Усиливает и укорачивает систолу",
+      "Удлиняет диастолу",
+      "Применяется при хронической сердечной недостаточности",
+      "Обладает быстрым и коротким действием"
+    ]
+  },
+  {
+    "id": "pharm_337",
+    "arr": [
+      "Что характерно для дигоксина (выбрать неправильный ответ)?",
+      "Обладает быстрым и коротким действием",
+      "Усиливает и укорачивает систолу",
+      "Удлиняет диастолу",
+      "Применяется при хронической сердечной недостаточности"
+    ]
+  },
+  {
+    "id": "pharm_338",
+    "arr": [
+      "В каких растениях содержатся сердечные гликозиды?",
+      "Наперстянка пурпуровая, строфант, горицвет весенний, майский ландыш",
+      "Наперстянка пурпуровая, опийный мак, строфант, горицвет весенний",
+      "Наперстянка пурпуровая, красавка, строфант, майский ландыш",
+      "Наперстянка пурпуровая, опийный мак, красавка, строфант"
+    ]
+  },
+  {
+    "id": "pharm_339",
+    "arr": [
+      "Отметить препараты наперстянки:",
+      "Строфантин К. дигитоксин, целанид",
+      "Дигитоксин, новокаинамид, целанид",
+      "Дигитоксин, целанид, дигоксин",
+      "Дигитоксин, аспаркам, дигоксин"
+    ]
+  },
+  {
+    "id": "pharm_340",
+    "arr": [
+      "Какие сердечные гликозиды связываются с белками крови 9выбрать неправильный ответ)?",
+      "Дигитоксин",
+      "Строфантин",
+      "Целанид",
+      "Дигоксин"
+    ]
+  },
+  {
+    "id": "pharm_341",
+    "arr": [
+      "Каков механизм кардиотонического действия сердечных гликозидов (выбрать неправильный ответ)?",
+      "Повышают уровень свободного ионизированного кальция в клетке и связывают тропонин-тропомиозиновый комплекс",
+      "Нарушают трансмембранный транспорт Са2+ внутрь клетки и расслабляют сосуды",
+      "Увеличивают проникновение Са2+ внутрь клетки",
+      "Активируют миозиновую АТФ-азу и способствуют взаимодействию актина и миозина"
+    ]
+  },
+  {
+    "id": "pharm_342",
+    "arr": [
+      "Отметить механизм действия унитиола при интоксикации сердечными гликозидами",
+      "Связывание ионизированного кальция",
+      "Увеличение содержания ионизированного натрия в миокарде",
+      "Активация мембранной АТФ-азы",
+      "Связывание гликозида в комплекс"
+    ]
+  },
+  {
+    "id": "pharm_343",
+    "arr": [
+      "Какие препараты сердечных гликозидов хорошо всасываются в желудочно-кишечном тракте (выбрать неправильный ответ)",
+      "Дигоксин",
+      "Дигитоксин",
+      "Коргликон",
+      "Целанид"
+    ]
+  },
+  {
+    "id": "pharm_344",
+    "arr": [
+      "Какие изменения ЭКГ не наблюдаются при применении сердечных гликозидов в терапевтических дозах?",
+      "Увеличение вольтажа комплекса QRS",
+      "Сужение комплекса QRS",
+      "Удлинение интервала PQ",
+      "Уменьшение интервала PP"
+    ]
+  },
+  {
+    "id": "pharm_345",
+    "arr": [
+      "С чем связано противоаритмическое действие верапамила?",
+      "Оказывает прямое мембраностабилизирующее действие",
+      "Блокирует кальциевые каналы",
+      "Блокирует бета-адренорецепторы сердца",
+      "Увеличивает автоматизм сердца"
+    ]
+  },
+  {
+    "id": "pharm_346",
+    "arr": [
+      "Укажите противоаритмические средства из группы бета-адреноблокаторов",
+      "Хинидина сульфат, мезатон",
+      "Метопролол, верапамил",
+      "Анаприлин, адреналин",
+      "Анаприлин, метопролол"
+    ]
+  },
+  {
+    "id": "pharm_347",
+    "arr": [
+      "Указать особенности новокаинамида (выбрать неправильный ответ)",
+      "Снижает сократительную способность миокарда",
+      "Понижает артериальное давление",
+      "Не влияет на артериальное давление",
+      "Применяется внутрь и парентерально"
+    ]
+  },
+  {
+    "id": "pharm_348",
+    "arr": [
+      "Укажите механизм действия верапамила",
+      "Блокада бета-адренорецепторов сердца",
+      "Блокада кальциевых каналов мембран кардиомиоцитов",
+      "Ингибирование ангиотензин-превращающего фермента",
+      "Угнетение фосфодиэстеразы в сосудистых миоцитах"
+    ]
+  },
+  {
+    "id": "pharm_349",
+    "arr": [
+      "Укажите механизм действия верапамила",
+      "Блокада бета-адренорецепторов сердца",
+      "Ингибирование ангиотензин-превращающего фермента",
+      "Блокада кальциевых каналов сосудистых миоцитов",
+      "Угнетение фосфодиэстеразы в сосудистых миоцитах"
+    ]
+  },
+  {
+    "id": "pharm_350",
+    "arr": [
+      "Что не характерно для дофамина?",
+      "Действует на специфические дофаминовые рецепторы",
+      "В средних терапевтических дозах оказывает отрицательное инотропное действие",
+      "Являясь предшественником норадреналина, опосредованно стимулирует α- и β-адренорецепторы",
+      "Может вызывать тахикардию, аритмии, чрезмерное повышение периферического сопротивления сосудов"
+    ]
+  },
+  {
+    "id": "pharm_351",
+    "arr": [
+      "Выбрать антиаритмическое средство:",
+      "Моксонидин",
+      "Клофелин",
+      "Новокаинамид",
+      "Дибазол"
+    ]
+  },
+  {
+    "id": "pharm_352",
+    "arr": [
+      "Выбрать антиаритмическое средство:",
+      "Моксонидин",
+      "Клофелин",
+      "Дибазол",
+      "Верапамил"
+    ]
+  },
+  {
+    "id": "pharm_353",
+    "arr": [
+      "Выбрать антиаритмическое средство:",
+      "Моксонидин",
+      "Клофелин",
+      "Анаприлин",
+      "Дибазол"
+    ]
+  },
+  {
+    "id": "pharm_354",
+    "arr": [
+      "Выбрать антиаритмическое средство:",
+      "Моксонидин",
+      "Хинидин",
+      "Клофелин",
+      "Дибазол"
+    ]
+  },
+  {
+    "id": "pharm_355",
+    "arr": [
+      "Механизм и особенности действия нифедипина (выбрать неправильный ответ):",
+      "Улучшает проводимость",
+      "Блокирует кальциевые каналы",
+      "Обладает отрицательным инотропным действием.",
+      "Понижает потребность сердечной мышцы в кислороде"
+    ]
+  },
+  {
+    "id": "pharm_356",
+    "arr": [
+      "Механизм и особенности действия анаприлина (выбрать неправильный ответ):",
+      "Блокирует β- адренорецепторы",
+      "Улучшает проводимость",
+      "Уменьшает выработку ренина",
+      "Обладает противоаритмическим и антиангианльным действием"
+    ]
+  },
+  {
+    "id": "pharm_357",
+    "arr": [
+      "Указать вещество, только расширяющие коронарные сосуды",
+      "Валидол",
+      "Нитроглицерин",
+      "Сустак",
+      "Нитросорбид"
+    ]
+  },
+  {
+    "id": "pharm_358",
+    "arr": [
+      "Отметить вещество, улучшающие доставку кислорода к миокарду",
+      "Оротат калия",
+      "Сустак",
+      "Анаприлин",
+      "Но-шпа"
+    ]
+  },
+  {
+    "id": "pharm_359",
+    "arr": [
+      "Отметить вещество, улучшающие доставку кислорода к миокарду",
+      "Оротат калия",
+      "Но-шпа",
+      "Нитроглицерин",
+      "Анаприлин"
+    ]
+  },
+  {
+    "id": "pharm_360",
+    "arr": [
+      "Отметить вещество, улучшающие доставку кислорода к миокарду",
+      "Оротат калия",
+      "Но-шпа",
+      "Анаприлин",
+      "Нитросорбид"
+    ]
+  },
+  {
+    "id": "pharm_361",
+    "arr": [
+      "Отметить вещество, улучшающие доставку кислорода к миокарду",
+      "Оротат калия",
+      "Верапамил",
+      "Анаприлин",
+      "Но-шпа"
+    ]
+  },
+  {
+    "id": "pharm_362",
+    "arr": [
+      "Отметить препарат, который одновременно улучшают коронарный кровоток и снижают потребность миокарда в кислороде",
+      "Сустак",
+      "Валидол",
+      "Карбокромен",
+      "Анаприлин"
+    ]
+  },
+  {
+    "id": "pharm_363",
+    "arr": [
+      "Отметить препарат, который одновременно улучшают коронарный кровоток и снижают потребность миокарда в кислороде",
+      "Валидол",
+      "Карбокромен",
+      "Нитроглицерин",
+      "Анаприлин"
+    ]
+  },
+  {
+    "id": "pharm_364",
+    "arr": [
+      "Отметить препарат, который одновременно улучшают коронарный кровоток и снижают потребность миокарда в кислороде",
+      "Валидол",
+      "Карбокромен",
+      "Анаприлин",
+      "Верапамил"
+    ]
+  },
+  {
+    "id": "pharm_365",
+    "arr": [
+      "Отметить препарат, который одновременно улучшают коронарный кровоток и снижают потребность миокарда в кислороде",
+      "Валидол",
+      "Нифедипин",
+      "Карбокромен",
+      "Анаприлин"
+    ]
+  },
+  {
+    "id": "pharm_366",
+    "arr": [
+      "Отметить препарат, который одновременно улучшают коронарный кровоток и снижают потребность миокарда в кислороде",
+      "Нитросорбид",
+      "Валидол",
+      "Карбокромен",
+      "Анаприлин"
+    ]
+  },
+  {
+    "id": "pharm_367",
+    "arr": [
+      "Отметить вещество из группы блокаторов кальциевых каналов",
+      "Эуфиллин",
+      "Папаверин",
+      "Верапамил",
+      "Карбокромен"
+    ]
+  },
+  {
+    "id": "pharm_368",
+    "arr": [
+      "Отметить вещество из группы блокаторов кальциевых каналов",
+      "Эуфиллин",
+      "Папаверин",
+      "Карбокромен",
+      "Нифедипин"
+    ]
+  },
+  {
+    "id": "pharm_369",
+    "arr": [
+      "Выбрать средство, применяемые для купирования приступов стенокардии",
+      "Дифенин",
+      "Нитроглицерин",
+      "Нитросорбид",
+      "Папаверин"
+    ]
+  },
+  {
+    "id": "pharm_370",
+    "arr": [
+      "Определить вещество, способное ингибировать фосфодиэстеразу",
+      "Папаверин",
+      "Сустак",
+      "Нитроглицерин",
+      "Верапамил"
+    ]
+  },
+  {
+    "id": "pharm_371",
+    "arr": [
+      "Определить вещество, способное ингибировать фосфодиэстеразу",
+      "Сустак",
+      "Но-шпа",
+      "Нитроглицерин",
+      "Верапамил"
+    ]
+  },
+  {
+    "id": "pharm_372",
+    "arr": [
+      "Определить вещество, способное ингибировать фосфодиэстеразу",
+      "Сустак",
+      "Верапамил",
+      "Нитроглицерин",
+      "Эуфиллин"
+    ]
+  },
+  {
+    "id": "pharm_373",
+    "arr": [
+      "Выбрать средство, снижающее потребность миокарда в кислороде",
+      "Анаприлин",
+      "Папаверин",
+      "Сустак",
+      "Но-шпа"
+    ]
+  },
+  {
+    "id": "pharm_374",
+    "arr": [
+      "Выбрать средство, снижающее потребность миокарда в кислороде",
+      "Папаверин",
+      "Сустак",
+      "Но-шпа",
+      "Рибоксин"
+    ]
+  },
+  {
+    "id": "pharm_375",
+    "arr": [
+      "Выбрать средство, снижающее потребность миокарда в кислороде",
+      "Папаверин",
+      "Фосфаден",
+      "Сустак",
+      "Но-шпа"
+    ]
+  },
+  {
+    "id": "pharm_376",
+    "arr": [
+      "Выбрать средство, снижающее потребность миокарда в кислороде",
+      "Папаверин",
+      "Но-шпа",
+      "Оротат калия",
+      "Сустак"
+    ]
+  },
+  {
+    "id": "pharm_377",
+    "arr": [
+      "К веществам метаболического действия, применяемые для лечения стенокардии не относится:",
+      "Оротат калия",
+      "Ретаболил",
+      "Сустак",
+      "Рибоксин"
+    ]
+  },
+  {
+    "id": "pharm_378",
+    "arr": [
+      "К препаратам нитроглицерина пролонгированного действия не относится:",
+      "Нитроглицерин",
+      "Сустак",
+      "Нитронг",
+      "Тринитролонг"
+    ]
+  },
+  {
+    "id": "pharm_379",
+    "arr": [
+      "К препаратам, которые используются в комплексной терапии стенокардии не относятся:",
+      "Сердечные гликозиды",
+      "Диуретики",
+      "Антилипидемические вещества"
+    ]
+  },
+  {
+    "id": "pharm_380",
+    "arr": [
+      "К основным эффектам блокаторов кальциевых каналов не относится:",
+      "Блокада аденозиновых рецепторов",
+      "Блокада медленных кальциевых каналов",
+      "Уменьшение потребности миокарда в кислороде",
+      "Антигипертензивное действие"
+    ]
+  },
+  {
+    "id": "pharm_381",
+    "arr": [
+      "Указать коронарорасширяющее средство:",
+      "Оротат калия",
+      "Дипиридамол",
+      "Анаприлин",
+      "Рибоксин"
+    ]
+  },
+  {
+    "id": "pharm_382",
+    "arr": [
+      "Указать коронарорасширяющее средство:",
+      "Оротат калия",
+      "Рибоксин",
+      "Нитроглицерин",
+      "Анаприлин"
+    ]
+  },
+  {
+    "id": "pharm_383",
+    "arr": [
+      "Указать коронарорасширяющее средство:",
+      "Верапамил",
+      "Анаприлин",
+      "Оротат калия.",
+      "Рибоксин"
+    ]
+  },
+  {
+    "id": "pharm_384",
+    "arr": [
+      "К нитратам не относится:",
+      "Сустак",
+      "Валидол",
+      "Нитроглицерин",
+      "Нитросорбид"
+    ]
+  },
+  {
+    "id": "pharm_385",
+    "arr": [
+      "Отметить коронарорасширяющее вещество - ингибитор фосфодиэстеразы:",
+      "Нифедипин",
+      "Сустак",
+      "Валидол",
+      "Но-шпа"
+    ]
+  },
+  {
+    "id": "pharm_386",
+    "arr": [
+      "К основным эффектам действия папаверина не относится:",
+      "Угнетает активность фосфодиэстеразы",
+      "Угнетает ЦНС",
+      "Повышает содержание цАМФ",
+      "Оказывает миотропное спазмолитическое действие"
+    ]
+  },
+  {
+    "id": "pharm_387",
+    "arr": [
+      "Указать препарат, применяемые для лечения стенокардии:",
+      "Нитроглицерин",
+      "Моксонидин",
+      "Клонидин",
+      "Нитросорбид"
+    ]
+  },
+  {
+    "id": "pharm_388",
+    "arr": [
+      "К побочным эффектам анаприлина не относится:",
+      "Чрезмерное ослабление силы сердечных сокращений",
+      "Нарушение атриовентрикулярной проводимости",
+      "Повышение артериального давления",
+      "Повышение тонуса бронхов"
+    ]
+  },
+  {
+    "id": "pharm_389",
+    "arr": [
+      "В чем преимущество атенолола как антиангинальногосредства перед анаприлином?",
+      "Не снижает артериальное давление",
+      "Значительно реже вызывает бронхоспазм",
+      "Не нарушает атривентрикулярную проводимость",
+      "Не снижает силу сердечных сокращений"
+    ]
+  },
+  {
+    "id": "pharm_390",
+    "arr": [
+      "Средства, улучшающие кровообращение в мозге при ишемии:",
+      "Суматриптан, парацетамол, нимодипин, винпоцетин",
+      "Нимодипин, винпоцетин, ксантинола никотинат, пентоксифиллин",
+      "Нимодипин,винпоцетин, ксантинола никотинат, анаприлин",
+      "Нимодипин, винпоцетин, суматриптан, анаприлин"
+    ]
+  },
+  {
+    "id": "pharm_391",
+    "arr": [
+      "Что характерно для нимодипина (выбрать неправильный ответ)?",
+      "Расширяет преимущественно мозговые сосуды",
+      "Эффект обусловлен блокадой кальциевых каналов мембран гладкомышечных клеток сосудов",
+      "Оказывает нейропротекторное действие",
+      "Применяется для купирования приступов мигрени"
+    ]
+  },
+  {
+    "id": "pharm_392",
+    "arr": [
+      "Что не характерно для винпоцетина?",
+      "Ингибирует фосфодиэстеразу и повышает содержание цАМФ",
+      "Расширяет преимущественно сосуды мозга",
+      "Применяется главным образом для предупреждения приступов мигрени",
+      "Применяется главным образом для улучшения кровообращения в мозге при его ишемии"
+    ]
+  },
+  {
+    "id": "pharm_393",
+    "arr": [
+      "Что характерно для ксантинола никотината (выбрать неправильный ответ)?",
+      "Улучшает мозговое и периферическое кровообращение",
+      "Избирательно улучшает мозговое кровообращение",
+      "Применяется для устранения и предупреждения спазмов мозговых и периферических сосудов",
+      "Вызывает меньше побочных эффектов, чем кислота никотиновая"
+    ]
+  },
+  {
+    "id": "pharm_394",
+    "arr": [
+      "Что не характерно для пентоксифиллина?",
+      "Выраженно расширяет артериальные сосуды",
+      "Оказывает умеренное сосудорасширяющее действие",
+      "Понижает агрегацию тромбоцитов",
+      "Улучшает микроциркуляцию"
+    ]
+  },
+  {
+    "id": "pharm_395",
+    "arr": [
+      "Что не характерно для пикамилона?",
+      "Является производным ГАМК",
+      "Расширяет мозговые сосуды",
+      "Улучшает обменные процессы в головном мозге",
+      "Ингибирует фосфодиэстеразу и повышает количество цАМФ"
+    ]
+  },
+  {
+    "id": "pharm_396",
+    "arr": [
+      "Указать группы препаратов, снижающих артериальное давление за счет влияния на периферический отдел нервной системы (выбрать неправильный ответ)",
+      "Альфа-адреномиметики",
+      "Симпатолитики",
+      "Ганглиоблокаторы. .Альфа-адреноблокаторы"
+    ]
+  },
+  {
+    "id": "pharm_397",
+    "arr": [
+      "Выбрать препарат, снижающий артериальное давление за счет влияния на ренин-ангиотензиновую систему",
+      "Каптоприл",
+      "Верапамил",
+      "Моксонидин",
+      "Дибазол"
+    ]
+  },
+  {
+    "id": "pharm_398",
+    "arr": [
+      "Выбрать препарат, снижающий артериальное давление за счет влияния на ренин-ангиотензиновую систему",
+      "Верапамил",
+      "Моксонидин",
+      "Дибазол",
+      "Эналаприл"
+    ]
+  },
+  {
+    "id": "pharm_399",
+    "arr": [
+      "Выбрать препарат, снижающий артериальное давление за счет влияния на ренин-ангиотензиновую систему",
+      "Верапамил",
+      "Анаприлин",
+      "Моксонидин",
+      "Дибазол"
+    ]
+  },
+  {
+    "id": "pharm_400",
+    "arr": [
+      "Выбрать препарат, снижающий артериальное давление за счет влияния на ренин-ангиотензиновую систему",
+      ".Верапамил",
+      "Моксонидин",
+      "Лозартан",
+      "Дибазол"
+    ]
+  },
+  {
+    "id": "pharm_401",
+    "arr": [
+      "Препараты каких групп снижают артериальное давление, ограничивая работу сердца?",
+      "Антагонисты кальция, симпатолитики, бета-адреноблокаторы",
+      "Бета-адреномиметики, симпатомиметики, антагонисты кальция",
+      "Симпатолитики, бета-адреноблокаторы, альфа-адреномиметики",
+      "Симпатомиметикинтагонисты кальция",
+      "e) Симпатолитики"
+    ]
+  },
+  {
+    "id": "pharm_402",
+    "arr": [
+      "Показанием к применению но-шпы не является:",
+      "Гипоацидный гастрит",
+      "Холецистит",
+      "Стенокардия",
+      "Гипертоническая болезнь"
+    ]
+  },
+  {
+    "id": "pharm_403",
+    "arr": [
+      "Что не характерно для моксонидина?",
+      "Понижает тонус вазомоторных центров",
+      "Стимулирует альфа2-адренорецепторы и имидазолиновые I1 – рецепторы нейронов ядер солитарного тракта",
+      "Стимулирует только имидазолиновые I1- рецепторы нейронов ядер солитарного тракта",
+      "Вызывает сухость во рту"
+    ]
+  },
+  {
+    "id": "pharm_404",
+    "arr": [
+      "С чем связано гипотензивное действие альфа, бета- адреноблокаторов?",
+      "Только с расширением периферических сосудов",
+      "Только с уменьшением работы сердца",
+      "С одновременным расширением периферических сосудов и уменьшением работы сердца",
+      "С уменьшением объема циркулирующей крови"
+    ]
+  },
+  {
+    "id": "pharm_405",
+    "arr": [
+      "Каким образом эналаприл угнетает активность ренин-ангиотензиновой системы?",
+      "Угнетает секрецию ренина",
+      "Ингибирует ренин",
+      "Ингибирует ангиотензипревращающий фермент",
+      "Блокирует ангиотензиновые рецпторы"
+    ]
+  },
+  {
+    "id": "pharm_406",
+    "arr": [
+      "Каким образом лозартан угнетает активность ренин-ангиотензиновой системы?",
+      "Угнетает секрецию ренина",
+      "Ингибирует ренин",
+      "Ингибирует ангиотензинпревращающий фермент",
+      "Блокирует ангиотензиновые рецепторы"
+    ]
+  },
+  {
+    "id": "pharm_407",
+    "arr": [
+      "Выбрать салуретик",
+      "Спиронолактон",
+      "Триамтерен",
+      "Фуросемид",
+      "Эуфиллин"
+    ]
+  },
+  {
+    "id": "pharm_408",
+    "arr": [
+      "К калийсберегающим диуретикам не относится",
+      "Диакарб",
+      "Спиронолактон",
+      "Триамтерен",
+      "Амилорид"
+    ]
+  },
+  {
+    "id": "pharm_409",
+    "arr": [
+      "Указать механизм действия фуросемида",
+      "Уменьшение проницаемости апикальных мембран и нарушение реабсорбции натрия",
+      "Нарушение реабсорбции Сl- и Nа+ в толстом восходящем отделе петли Генле",
+      "Блокада альдостероновых рецепторов и нарушение синтеза белка переносчика Nа+",
+      "Создание высокого осмотического давления в просвете канальцев"
+    ]
+  },
+  {
+    "id": "pharm_410",
+    "arr": [
+      "Указать механизм действия фуросемида",
+      "Блокада альдостероновых рецепторов и нарушение синтеза белка переносчика Nа+",
+      "Создание высокого осмотического давления в просвете канальцев",
+      "Усиление фильтрации и нарушение реабсорбции Nа+ в проксимальном отделе канальцев",
+      "Блокада АТФ-азы и нарушение транспорта Nа+ на уровне базальной мембраны клеток канальцев"
+    ]
+  },
+  {
+    "id": "pharm_411",
+    "arr": [
+      "Особенности применения фуросемида (выбрать неправильный ответ)",
+      "В условиях ацидоза активность падает",
+      "Применяют для форсированного диуреза",
+      "Применяется при отеке мозга, отеке легких",
+      "Применяют при гипертонической болезни"
+    ]
+  },
+  {
+    "id": "pharm_412",
+    "arr": [
+      "Особенности применения тиазидов (выбрать неправильный ответ):",
+      "Вызывают гипонатриемию, гипохлоремию",
+      "Задерживают в организме мочевую кислоту",
+      "Применяются в комбинации с калийсберегающими диуретиками",
+      "Применяется при отеке мозга, отеке легких"
+    ]
+  },
+  {
+    "id": "pharm_413",
+    "arr": [
+      "Особенности действия и применения калийсберегающих диуретиков (выбрать неправильный ответ)",
+      "Вызывают гиперкалиемию",
+      "Вызывают гипонатриемию, гипохлоремию",
+      "Применяются при гипертонической болезни",
+      "Применяются в комбинации с салуретиками"
+    ]
+  },
+  {
+    "id": "pharm_414",
+    "arr": [
+      "К осложнениям при применении петлевых диуретиков не относится:",
+      "Мышечная слабость",
+      "Тахикардия, экстрасистолия",
+      "Обострение сахарного диабета",
+      "Понижение слуха"
+    ]
+  },
+  {
+    "id": "pharm_415",
+    "arr": [
+      "Выбрать диуретики, обладающие сильным эффектом.1Ацетазоламид, гидрохлортиазид",
+      "Фуросемид, спиронолактон",
+      "Триамтерен, этакриновая кислота",
+      "Фуросемид, этакриновая кислота"
+    ]
+  },
+  {
+    "id": "pharm_416",
+    "arr": [
+      "К механизмам действия фуросемида не относится:",
+      "Угнетает реабсорбцию ионов натрия в толстом сегменте восходящей петли нефрона и проксимальных канальцах",
+      "Повышает секрецию ионов калия",
+      "Усиливает почечный кровоток",
+      "Ингибирует карбоангидразу"
+    ]
+  },
+  {
+    "id": "pharm_417",
+    "arr": [
+      "Указать диуретики, обладающие умеренным эффектом",
+      "Фуросемид, листья толокнянки, гидрохлортиазид",
+      "Этакриновая кислота, гидрохлортиазид, ацетазоламид",
+      "Гидрохлортиазид, циклометиазид, триамтерен",
+      "Ацетазоламид, циклометиазид, триамтерен"
+    ]
+  },
+  {
+    "id": "pharm_418",
+    "arr": [
+      "Указать механизм диуретического действия спиронолактона",
+      "Способствует выведению ионов калия из организма",
+      "Угнетает синтез альдостерона",
+      "Усиливает выведение ионов хлора",
+      "Конкурентно взаимодействует с альдостероновыми рецепторами почек"
+    ]
+  },
+  {
+    "id": "pharm_419",
+    "arr": [
+      "Отметить диуретик, обладающий слабым эффектом",
+      "Циклометиазид",
+      "Ацетазоламид",
+      "Этакриновая кислота",
+      "Спиронолактон"
+    ]
+  },
+  {
+    "id": "pharm_420",
+    "arr": [
+      "Указать препарат, применяемый для форсированного диуреза",
+      "Ацетазоламид",
+      "Триамтерен",
+      "Спиронолактон",
+      "Фуросемид"
+    ]
+  },
+  {
+    "id": "pharm_421",
+    "arr": [
+      "Какие мочегонные средства применяют для лечения гипертонической болезни (выбрать неправильный ответ)?",
+      "Гидрохлортиазид",
+      "Фуросемид",
+      "Индапамид",
+      "Маннит"
+    ]
+  },
+  {
+    "id": "pharm_422",
+    "arr": [
+      "Отметить калийсберегающие диуретики",
+      "Циклометиазид, фуросемид",
+      "Триамтерен, спиронолактон",
+      "Ацетазоламид, этакриновая кислота",
+      "Гидрохлортиазид, триамтерен"
+    ]
+  },
+  {
+    "id": "pharm_423",
+    "arr": [
+      "Механизм диуретического действия спиронолактона обусловлен:",
+      "Блокадой карбоангидразы",
+      "Усилением клубочковой фильтрации",
+      "Угнетением синтеза альдостерона",
+      "Устранением влияния альдостерона на почечные канальцы"
+    ]
+  },
+  {
+    "id": "pharm_424",
+    "arr": [
+      "Укажите диуретическое средство, действующее преимущественно в области петли Генле:",
+      "Спиронолактон",
+      "Маннитол",
+      "Фуросемид",
+      "Индапамид"
+    ]
+  },
+  {
+    "id": "pharm_425",
+    "arr": [
+      "Укажите калийсберегающее средство:",
+      "Фуросемид",
+      "Гидрохлортиазид",
+      "Индапамид",
+      "Спиронолактон"
+    ]
+  },
+  {
+    "id": "pharm_426",
+    "arr": [
+      "Указать препарат, стимулирующий родовую деятельность",
+      "Эрготал",
+      "Прогестерон",
+      "Туринал",
+      "Окситоцин"
+    ]
+  },
+  {
+    "id": "pharm_427",
+    "arr": [
+      "Указать препарат, стимулирующий родовую деятельность",
+      "Динопрост",
+      "Эрготал",
+      "Прогестерон",
+      "Туринал"
+    ]
+  },
+  {
+    "id": "pharm_428",
+    "arr": [
+      "Указать токолитическое средство",
+      "Прогестерон",
+      "Кальция хлорид",
+      "Окситоцин",
+      "Динопростон"
+    ]
+  },
+  {
+    "id": "pharm_429",
+    "arr": [
+      "Указать токолитическое средство",
+      "Кальция хлорид",
+      "Туринал",
+      "Окситоцин",
+      "Динопростон"
+    ]
+  },
+  {
+    "id": "pharm_430",
+    "arr": [
+      "Указать токолитическое средство",
+      "Окситоцин",
+      "Динопростон",
+      "Кальция хлорид",
+      "Партусистен"
+    ]
+  },
+  {
+    "id": "pharm_431",
+    "arr": [
+      "Механизм действия простагландинов (выбрать неправильный ответ)",
+      "Способствуют поляризации клеточных мембран",
+      "Увеличивают образование сократительных белков в миометрии",
+      "Тормозят рецепторы, чувствительные к гестагенам",
+      "Увеличивают возбудимость и сократимость мускулатуры матки"
+    ]
+  },
+  {
+    "id": "pharm_432",
+    "arr": [
+      "Выбрать препарат, чувствительность миометрия к которому при увеличении срока беременности повышается",
+      "Окситоцин",
+      "Динопростон",
+      "Кальция хлорид",
+      "Партусистен"
+    ]
+  },
+  {
+    "id": "pharm_433",
+    "arr": [
+      "К веществам, вызывающие ритмические сокращения матки не относится:",
+      "Метилэргометрин",
+      "Динопрост",
+      "Динопростон",
+      "Окситоцин"
+    ]
+  },
+  {
+    "id": "pharm_434",
+    "arr": [
+      "Отметить вещество, вызывающие спастическиесокращения матки:",
+      "Динопрост",
+      "Динопростон",
+      "Метилэргометрин",
+      "Окситоцин"
+    ]
+  },
+  {
+    "id": "pharm_435",
+    "arr": [
+      "Показания к применению окситоцина (выбрать неправильный ответ):",
+      "Индукция родов",
+      "Прерывание беременности",
+      "Остановка послеродовых маточных кровотечений",
+      "Ускорение инволюции матки в послеродовом периоде"
+    ]
+  },
+  {
+    "id": "pharm_436",
+    "arr": [
+      "Выбрать препараты, применяемые для остановки маточных кровотечений:",
+      "Метилэргометрин",
+      "Динопростон",
+      "Партусистен",
+      "Динопрост"
+    ]
+  },
+  {
+    "id": "pharm_437",
+    "arr": [
+      "Что характерно для динопроста (выбрать неправильный ответ)?",
+      "Усиливает сократительную активность матки независимо от срока и наличия беременности",
+      "Расширяет легочные сосуды",
+      "Повышает моторику желудочно-кишечного тракта",
+      "Расширяет шейку матки"
+    ]
+  },
+  {
+    "id": "pharm_438",
+    "arr": [
+      "Указать препарат, влияющий на жидкое состояние крови",
+      "Гепарин",
+      "Цианокобаламин",
+      "Лейкоген",
+      "Ферроплекс"
+    ]
+  },
+  {
+    "id": "pharm_439",
+    "arr": [
+      "Указать препарат, влияющий на жидкое состояние крови",
+      "Цианокобаламин",
+      "Стрептолиаза",
+      "Лейкоген",
+      "Ферроплекс"
+    ]
+  },
+  {
+    "id": "pharm_440",
+    "arr": [
+      "Указать препарат, влияющий на жидкое состояние крови",
+      "Цианокобаламин",
+      "Лейкоген",
+      "Варфарин",
+      "Ферроплекс"
+    ]
+  },
+  {
+    "id": "pharm_441",
+    "arr": [
+      "Указать препарат, влияющий на жидкое состояние крови",
+      "Цианокобаламин",
+      "Лейкоген",
+      "Ферроплекс",
+      "Тромбин"
+    ]
+  },
+  {
+    "id": "pharm_442",
+    "arr": [
+      "Указать антикоагулянт прямого действия",
+      "Кальция хлорид",
+      "Гепарин",
+      "Фибриноген",
+      "Варфарин"
+    ]
+  },
+  {
+    "id": "pharm_443",
+    "arr": [
+      "Механизм действия гепарина (выбрать неправильный ответ)",
+      "Угнетение активности протромбиназы (тромбопластина)",
+      "Угнетение активности тромбина и нарушение перехода фибриногена в фибрин",
+      "Торможение синтеза протромбина в печени",
+      "Нарушение агглютинации тромбоцитов"
+    ]
+  },
+  {
+    "id": "pharm_444",
+    "arr": [
+      "Отметить активатор фибринолиза",
+      "Стрептолиаза",
+      "Контрикал",
+      "Аминокапроновая кислота",
+      "Натрия гидроцитрат"
+    ]
+  },
+  {
+    "id": "pharm_445",
+    "arr": [
+      "Отметить активатор фибринолиза",
+      "Контрикал",
+      "Аминокапроновая кислота",
+      "Натрия гидроцитрат",
+      "Фибринолизин"
+    ]
+  },
+  {
+    "id": "pharm_446",
+    "arr": [
+      "Указать ингибитор фибринолиза",
+      "Гепарин",
+      "Адреналин",
+      "Контрикал",
+      "Фибринолизин"
+    ]
+  },
+  {
+    "id": "pharm_447",
+    "arr": [
+      "Указать ингибитор фибринолиза",
+      "Гепарин",
+      "Адреналин",
+      "Фибринолизин",
+      "Аминокапроновая кислота"
+    ]
+  },
+  {
+    "id": "pharm_448",
+    "arr": [
+      "Указать антиагрегант:",
+      "Тромбин",
+      "Ацетилсалициловая кислота",
+      "Викасол",
+      "Аминокапроновая кислота"
+    ]
+  },
+  {
+    "id": "pharm_449",
+    "arr": [
+      "Указать антиагрегант:",
+      "Тромбин",
+      "Аминокапроновая кислота",
+      "Дипиридамол",
+      "Викасол"
+    ]
+  },
+  {
+    "id": "pharm_450",
+    "arr": [
+      "К препаратам, стимулирующим эритропоэз не относится:",
+      "Ферковен",
+      "Фолиевая кислота",
+      "Цианокобаламин",
+      "Пентоксил"
+    ]
+  },
+  {
+    "id": "pharm_451",
+    "arr": [
+      "Какое осложнение не возникают при использовании препаратов железа:",
+      "Эмболии и тромбозы крупных сосудов",
+      "Диспепсические расстройства",
+      "Боли за грудиной",
+      "Сидероз"
+    ]
+  },
+  {
+    "id": "pharm_452",
+    "arr": [
+      "Что не характерно для цианокобаламина?",
+      "Активирует редуктазу",
+      "Необходим для синтеза дезоксирибозы",
+      "Участвует в синтезе нуклеиновых кислот, стимулирует эритропоэз",
+      "Участвует в образовании миелина"
+    ]
+  },
+  {
+    "id": "pharm_453",
+    "arr": [
+      "К препаратам, стимулирующим лейкопоэз не относится:",
+      "Цитрат натрия",
+      "Лейкоген",
+      "Метилурацил",
+      "Пентоксил"
+    ]
+  },
+  {
+    "id": "pharm_454",
+    "arr": [
+      "Отметить основные свойства и показания для использования препаратов, стимулирующих лейкопоэз (выбрать неправильный ответ)",
+      "Стимулируют процессы адгезии и агрегации тромбоцитов",
+      "Стимулируют регенерацию клеток костной ткани, слизистых",
+      "Повышают иммунные свойства организма",
+      "Применяются при лейкопениях, агранулоцитозах"
+    ]
+  },
+  {
+    "id": "pharm_455",
+    "arr": [
+      "Выбрать показания для использования цианокобаламина:",
+      "Мегалобластическая анемия Аддисона-Бирмера",
+      "Радикулиты, невралгии, полиневриты",
+      "Гепатиты",
+      "Все перечисленное верно"
+    ]
+  },
+  {
+    "id": "pharm_456",
+    "arr": [
+      "Какой препарат используют местно для остановки кровотечения?",
+      "Гепарин",
+      "Кальция хлорид",
+      "Перекись водорода",
+      "Аминокапроновая кислота"
+    ]
+  },
+  {
+    "id": "pharm_457",
+    "arr": [
+      "Какой препарат используют местно для остановки кровотечения?",
+      "Адреналин",
+      "Гепарин",
+      "Кальция хлорид",
+      "Аминокапроновая кислота"
+    ]
+  },
+  {
+    "id": "pharm_458",
+    "arr": [
+      "Какие препараты используют местно для остановки кровотечения?",
+      "Гепарин",
+      "Аминокапроновая кислота",
+      "Кальция",
+      "Тромбин"
+    ]
+  },
+  {
+    "id": "pharm_459",
+    "arr": [
+      "К механизмам действия местных специфических гемостатиков относят все, кроме:?",
+      "Суживают сосуды и замедляют кровоток",
+      "Способствуют адгезии и агрегации тромбоцитов",
+      "Вызывают ретракцию кровяного сгустка",
+      "Активируют выработку протромбина"
+    ]
+  },
+  {
+    "id": "pharm_460",
+    "arr": [
+      "Что характерно для низкомолекулярных гепаринов (выбрать неправильный ответ)?",
+      "Усиливают угнетающее действие антитромбина III на переход протромбина в тромбин",
+      "На фоне действия препаратов не происходит угнетение активности тромбина",
+      "На фоне действия препаратов активность тромбина угнетается в большей степени, чем на фоне действия гепарина",
+      "Обладают выраженной антиагрегантной активностью"
+    ]
+  },
+  {
+    "id": "pharm_461",
+    "arr": [
+      "Механизм антиагрегантного действия клопидогрела?",
+      "Блокирует тромбоксановые рецепторы тромбоцитов",
+      "Ингибирует циклооксигеназу и нарушает образование тромбоксана",
+      "Стимулирует простациклиновые рецепторы тромбоцитов",
+      "Блокирует пуриновые рецепторы тромбоцитов и препятствует действию на них АДФ"
+    ]
+  },
+  {
+    "id": "pharm_462",
+    "arr": [
+      "К антикоагулянтам относят:",
+      "Апротинин",
+      "Стрептокиназу",
+      "Гепарин",
+      "Ацетилсалициловая кислота"
+    ]
+  },
+  {
+    "id": "pharm_463",
+    "arr": [
+      "Для остановки кровотечений применяют:",
+      "Урокиназу",
+      "Стрептокиназу",
+      "Варфарин",
+      "Аминокапроновую кислоту"
+    ]
+  },
+  {
+    "id": "pharm_464",
+    "arr": [
+      "Гепарин:",
+      "Является антикоагулянтом непрямого действия",
+      "Инактивирует тромбин (фактор II свертывания крови)",
+      "Повышает агрегацию тромбоцитов, эффективен при приеме внутрь",
+      "Оказывает антикоагулянтное действие в течение 24 часов"
+    ]
+  },
+  {
+    "id": "pharm_465",
+    "arr": [
+      "К механизмам бронхолитического действия эуфиллина относят все, кроме:",
+      "Расслабление гладкой мускулатуры бронхов за счет миопаралитического действия",
+      "Возбуждение а-адренорецепторов.3Блокада фосфодиэстеразы",
+      "Блокада аденозиновых рецепторов"
+    ]
+  },
+  {
+    "id": "pharm_466",
+    "arr": [
+      "Указать механизм действия и эффекты бромгексина (выбрать неправильный ответ):",
+      "Раздражает рецепторы желудка и рефлекторно усиливает секрецию бронхиальных желез",
+      "Разжижает мукопротеины и кислые мукополисахариды бронхиального секрета",
+      "Обладает противокашлевым действием",
+      "Вызывает деполимеризацию белков бронхиального секрета"
+    ]
+  },
+  {
+    "id": "pharm_467",
+    "arr": [
+      "Указать противокашлевые средства центрального действия",
+      "Глауцин, кодеин, тусупрекс",
+      "Глауцин, кодеин, корень алтея",
+      "Глауцин, кодеин, бромгексин",
+      "Глауцин, кодеин, либексин"
+    ]
+  },
+  {
+    "id": "pharm_468",
+    "arr": [
+      "Указать средство, применяемое при отеке легких",
+      "Ганглиоблокаторы",
+      "α- и β -адреномиметики",
+      "М-холиноблокаторы",
+      "β -адреноблокаторы"
+    ]
+  },
+  {
+    "id": "pharm_469",
+    "arr": [
+      "Указать средство, применяемое при отеке легких",
+      "Папаверин",
+      "Спирт этиловый",
+      "α- и β -адреномиметики",
+      "М-холиноблокаторы"
+    ]
+  },
+  {
+    "id": "pharm_470",
+    "arr": [
+      "Указать средство, применяемое при отеке легких",
+      "Дибазол",
+      "α- и β -адреномиметики",
+      "Фуросемид",
+      "М-холиноблокаторы"
+    ]
+  },
+  {
+    "id": "pharm_471",
+    "arr": [
+      "Основные принципы фармакотерапии при отеке легких (выбрать неправильный ответ)",
+      "Понижение давления в малом круге кровообращения",
+      "Стимуляция центра дыхания",
+      "Устранение вспенивания экссудата и дегидратация тканей",
+      "Устранение гипоксии"
+    ]
+  },
+  {
+    "id": "pharm_472",
+    "arr": [
+      "К отхаркивающим средствам прямого действия относят все препараты, кроме:?",
+      "Препараты термопсиса",
+      "Трипсин кристаллический",
+      "Натрия гидрокарбонат",
+      "Препараты корня алтея"
+    ]
+  },
+  {
+    "id": "pharm_473",
+    "arr": [
+      "Какие препараты относятся к отхаркивающим средствам рефлекторного действия?",
+      "Изадрин, препараты ипекакуаны",
+      "Трипсин кристаллический, ацетилцистеин",
+      "Кордиамин, препараты термопсиса",
+      "Препараты ипекакуаны, препараты термопсиса"
+    ]
+  },
+  {
+    "id": "pharm_474",
+    "arr": [
+      "Для сальбутамола не характерно:?",
+      "Расширяет бронхи",
+      "Преимущественно стимулирует β2- адренорецепторы",
+      "В равной степени стимулирует β1 и β2-адренорецепторы",
+      "В терапевтических дозах практически не влияет на частоту и ритм сердечных сокращений"
+    ]
+  },
+  {
+    "id": "pharm_475",
+    "arr": [
+      "Что обусловливает терапевтическое действие этилового спирта при отеке легких?",
+      "Наркотическое действие",
+      "Дегидратирующее действие",
+      "Противовспенивающее действие",
+      "Понижение давления в малом круге кровообращения"
+    ]
+  },
+  {
+    "id": "pharm_476",
+    "arr": [
+      "Что характерно для либексина?",
+      "По эффективности сопоставим с кодеином",
+      "Вызывает привыкание и развитие лекарственной зависимости",
+      "Повышает возбудимость чувствительных окончаний",
+      "Подавляет кашлевой рефлекс, действуя периферически"
+    ]
+  },
+  {
+    "id": "pharm_477",
+    "arr": [
+      "Что обусловливает терапевтическое действин ганглиоблокаторов при отеке легких?",
+      "Дегидратирующее действие",
+      "Диуретическое действие",
+      "Противовспенивающее действие",
+      "Понижение давления в малом круге кровообращения"
+    ]
+  },
+  {
+    "id": "pharm_478",
+    "arr": [
+      "Указать препараты, блокирующие Н1–гистаминовые рецепторы:",
+      "Циметидин, димедрол, супрастин, дипразин",
+      "Анальгин, индометацин, супрастин, дипразин",
+      "Супрастин, дипразин, диазолин, димедрол",
+      "Бутадион, диазолин, димедрол, супрастин"
+    ]
+  },
+  {
+    "id": "pharm_479",
+    "arr": [
+      "Указать препараты, блокирующие Н2–гистаминовые рецепторы:",
+      "Димедрол, диазолин",
+      "Циметидин, ранитидин",
+      "Индометацин, циметидин",
+      "Ранитидин, супрастин"
+    ]
+  },
+  {
+    "id": "pharm_480",
+    "arr": [
+      "К заболеваниям, требующим применения блокаторов Н1–гистаминовых рецепторов относят все, кроме:",
+      "Ангионевротический отек",
+      "Язвенная болезнь желудка",
+      "Крапивница",
+      "Поллинозы"
+    ]
+  },
+  {
+    "id": "pharm_481",
+    "arr": [
+      "Какой антигистаминный препарат используется для лечения гастрита и язвенной болезни желудка?",
+      "Супрастин",
+      "Димедрол",
+      "Ранитидин",
+      "Лоратадин"
+    ]
+  },
+  {
+    "id": "pharm_482",
+    "arr": [
+      "Указать средство, понижающие секрецию желез желудка",
+      "Омепразол",
+      "Папаверин",
+      "Но-шпа",
+      "Метоклопрамид"
+    ]
+  },
+  {
+    "id": "pharm_483",
+    "arr": [
+      "Указать средство, понижающие секрецию желез желудка",
+      "Но-шпа",
+      "Ранитидин",
+      "Папаверин",
+      "Метоклопрамид"
+    ]
+  },
+  {
+    "id": "pharm_484",
+    "arr": [
+      "Указать средство, понижающие секрецию желез желудка",
+      "Гастрозепин",
+      "Папаверин",
+      "Но-шпа",
+      "Метоклопрамид"
+    ]
+  },
+  {
+    "id": "pharm_485",
+    "arr": [
+      "Особенности действия ранитидина",
+      "Возбуждает протоновый насос",
+      "Образует СО2 и вызывает вторичную волну секреции желез желудка",
+      "Блокируют Н2-гистаминовые рецепторы и подавляет секрецию соляной кислоты",
+      "Оказывают послабляющее действие"
+    ]
+  },
+  {
+    "id": "pharm_486",
+    "arr": [
+      "Особенности применения и действия метоклопромида (выбрать неправильный ответ)",
+      "Обладает дофаминоблокирующим действием",
+      "Способствует сокращению желудка в дистальном направлении, препятствуя ретроградным сокращениям",
+      "Обладает антацидным действием",
+      "Применяют как противорвотное средство"
+    ]
+  },
+  {
+    "id": "pharm_487",
+    "arr": [
+      "Указать средство, облегчающее поступление желчи в кишечник",
+      "Холосас",
+      "Фепранон",
+      "Пепсин",
+      "Ранитидин"
+    ]
+  },
+  {
+    "id": "pharm_488",
+    "arr": [
+      "Что не характерно для препаратов, содержащих желчь и желчные кислоты:",
+      "Способствуют эмульгированию и всасыванию жиров",
+      "Стимулируют секрецию желчи",
+      "Вызывают сокращение желчного пузыря и расслабление сфинктера Одди",
+      "Применяют при хронических холециститах, холангитах, холецистогепатитах"
+    ]
+  },
+  {
+    "id": "pharm_489",
+    "arr": [
+      "Указать ингибитор протеолиза, применяемые при остром панкреатите",
+      "Панзинорм",
+      "Контрикал",
+      "Метоклопрамид",
+      "Панкреатин"
+    ]
+  },
+  {
+    "id": "pharm_490",
+    "arr": [
+      "Указать механизмы антиагрегантного действия ацетилсалициловой кислоты",
+      "Нарушает синтез тромбоксана, связывает циклооксигиназу",
+      "Усиливает фибринолиз, связывает циклооксигиназу",
+      "Ингибирует фосфодиэстеразу, связывает циклооксигиназу",
+      "Ингибирует аденозиндезаминазу, связывает циклооксигиназу"
+    ]
+  },
+  {
+    "id": "pharm_491",
+    "arr": [
+      "К лекарственным средства, тормозящим секрецию желез желудка относится все, кроме:",
+      "Блокаторы протонового насоса",
+      "Н2-гистаминоблокаторы",
+      "Антацидные средства",
+      "Простагландины"
+    ]
+  },
+  {
+    "id": "pharm_492",
+    "arr": [
+      "К гастропротекторам относится все, кроме:",
+      "Мизопростол",
+      "Панзинорм",
+      "Омепразол",
+      "Де-нол"
+    ]
+  },
+  {
+    "id": "pharm_493",
+    "arr": [
+      "Указать вещество, подавляющее Helicobacter pylori",
+      "Мизопростол",
+      "Де-нол",
+      "Сукралфат",
+      "Пепсин"
+    ]
+  },
+  {
+    "id": "pharm_494",
+    "arr": [
+      "Указать вещество, подавляющее Helicobacter pylori",
+      "Мизопростол",
+      "Пепсин",
+      "Метронидазол.",
+      "Сукралфат"
+    ]
+  },
+  {
+    "id": "pharm_495",
+    "arr": [
+      "Указать вещество, подавляющее Helicobacter pylori",
+      "Фуразолидон",
+      "Сукралфат",
+      "Пепсин",
+      "Мизопростол"
+    ]
+  },
+  {
+    "id": "pharm_496",
+    "arr": [
+      "Указать вещество, подавляющее Helicobacter pylori",
+      "Мизопростол",
+      "Сукралфат",
+      "Пепсин",
+      "Амоксициллин"
+    ]
+  },
+  {
+    "id": "pharm_497",
+    "arr": [
+      "К механизмам действия омепразола относится все кроме:",
+      "Нейтрализует соляную кислоту желудка",
+      "Уменьшает выработку HCl",
+      "Нарушает протоновый насос",
+      "Блокирует Н+/К+-АТФ-азу"
+    ]
+  },
+  {
+    "id": "pharm_498",
+    "arr": [
+      "Указать механизм действия гастрозепина (пиренцепин)",
+      "Бокирует М-холинорецепторы и уменьшает выработку HСl",
+      "Подавляет Helicobacter pylori и уменьшает выработку HСl",
+      "Нарушает протоновый насос и уменьшает выработку HСl",
+      "Блокирует Н+/К+-АТФ-азу и уменьшает выработку HСl"
+    ]
+  },
+  {
+    "id": "pharm_499",
+    "arr": [
+      "Отметить средство, обладающее анорексигенным действием:",
+      "Настойка полыни",
+      "Инсулин",
+      "Фенфлурамин",
+      "Алмагель"
+    ]
+  },
+  {
+    "id": "pharm_500",
+    "arr": [
+      "Указать средство, применяемое при нарушениях экскреторной функции поджелудочной железы:",
+      "Аэрон",
+      "Панкреатин",
+      "Оксафенамид",
+      "Инсулин"
+    ]
+  },
+  {
+    "id": "pharm_501",
+    "arr": [
+      "Указать средство, применяемые при нарушениях экскреторной функции поджелудочной железы:",
+      "Аэрон",
+      "Панкреатин",
+      "Оксафенамид",
+      "Апротинин",
+      "e) Инсулин"
+    ]
+  },
+  {
+    "id": "pharm_502",
+    "arr": [
+      "Указать антацидные средства, нейтрализующиехлористоводородную кислоту желудочного сока без образования СО2 (выбрать неправильный ответ):",
+      "Натрия гидрокарбонат",
+      "Магния окись",
+      "Алюминия гидроокись",
+      "Алмагель"
+    ]
+  },
+  {
+    "id": "pharm_503",
+    "arr": [
+      "Указать группы веществ, угнетающих моторику желудочно-кишечного тракта (выбрать неправильный ответ):",
+      "М-холиномиметики",
+      "М-холиноблокаторы",
+      "Ганглиоблокаторы",
+      "Спазмолитики миотропного действия"
+    ]
+  },
+  {
+    "id": "pharm_504",
+    "arr": [
+      "Что не характерно для омепразола?",
+      "Выраженно снижает секрецию желез желудка",
+      "Избирательно действует на париетальные клетки желудка",
+      "Блокирует гистаминовые Н2-рецепторы",
+      "Ингибирует протоновый насос"
+    ]
+  },
+  {
+    "id": "pharm_505",
+    "arr": [
+      "Ранитидин уменьшает продукцию соляной кислоты в желудке, потому что:",
+      "Блокирует М-холинорецепторы",
+      "Блокирует гистаминовые рецепторы первого типа",
+      "Блокирует гистаминовые рецепторы второго типа",
+      "Блокирует протоновый насос"
+    ]
+  },
+  {
+    "id": "pharm_506",
+    "arr": [
+      "Препарат, обладающий противорвотным действием:",
+      "Диазепам",
+      "Галоперидол",
+      "Кофеин",
+      "Пирацетам"
+    ]
+  },
+  {
+    "id": "pharm_507",
+    "arr": [
+      "Указать осмотический диуретики",
+      "Фуросемид",
+      "Маннит",
+      "Индапамид",
+      "Спиронолактон"
+    ]
+  },
+  {
+    "id": "pharm_508",
+    "arr": [
+      "Указать механизм действия тиазидов (выбрать неправильный ответ):",
+      "Нарушение реабсорбции Сl- и Nа+",
+      "Блокада карбоангидразы",
+      "Усиление фильтрации и нарушение реабсорбции Nа+ в проксимальном отделе канальцев",
+      "Блокада АТФ-азы и нарушение транспорта Nа+ на уровне базальной мембраны клеток канальцев"
+    ]
+  },
+  {
+    "id": "pharm_509",
+    "arr": [
+      "Указать механизм действия диакарба:",
+      "Блокада карбоангидразы",
+      "Блокада альдостероновых рецепторов и нарушение синтеза белка-переносчика Nа+",
+      "Создание высокого осмотического давления в просвете канальцев",
+      "Усиление фильтрации и нарушение реабсорбции Nа+ в проксимальном отделе канальцев"
+    ]
+  },
+  {
+    "id": "pharm_510",
+    "arr": [
+      "Указать механизм действия осмотических диуретиков:",
+      "Нарушение реабсорбции Сl- и Nа+ в толстом восходящем отделе петли Генле",
+      "Создание высокого осмотического давления в просвете канальцев",
+      "Усиление фильтрации и нарушение реабсорбции Nа+ в проксимальном отделе канальцев",
+      "Блокада АТФ-азы и нарушение транспорта Nа+ на уровне базальной мембраны клеток канальцев"
+    ]
+  },
+  {
+    "id": "pharm_511",
+    "arr": [
+      "Особенности действия и применения осмотических диуретиков (выбрать неправильный ответ):",
+      "Повышают осмотическое давление в сосудистом русле и увеличивают объем циркулирующей крови",
+      "Вызывают ацидоз",
+      "Оказывают дегидратирующее действие",
+      "Применяются при отеке мозга, отеке легких"
+    ]
+  },
+  {
+    "id": "pharm_512",
+    "arr": [
+      "К механизмам действия окситоцина относится все, кроме:",
+      "Увеличивает проницаемость клеточных мембран для Nа+ и Са++",
+      "Способствует высвобождению ионизированного Са++ из саркоплазматического ретикулума",
+      "Вызывает гиперполяризацию клеточных мембран",
+      "Увеличивает образование сократительных белков в миометрии"
+    ]
+  },
+  {
+    "id": "pharm_513",
+    "arr": [
+      "Механизм действия простагландинов (выбрать неправильный ответ):",
+      "Способствуют высвобождению ионизированного Са++ из саркоплазматического ретикулума и увеличивают образование сократительных белков в миометрии",
+      "Вызывают гиперполяризацию клеточных мембран",
+      "Тормозят рецепторы,чувствительные к гестагенам",
+      "Увеличивают возбудимость и сократимость мускулатуры матки"
+    ]
+  },
+  {
+    "id": "pharm_514",
+    "arr": [
+      "Указать механизм действия прогестерона:",
+      "Вызывает гиперполяризацию клеточных мембран",
+      "Увеличивает образование сократительных белков в миометрии",
+      "Тормозит рецепторы, чувствительные к гестагенам",
+      "Стимулирует выработку окситоцина"
+    ]
+  },
+  {
+    "id": "pharm_515",
+    "arr": [
+      "К гемостатическим средствам относится все, кроме:",
+      "Аминокапроновая кислота",
+      "Фибриноген",
+      "Тромбин",
+      "Гемостатическая губка"
+    ]
+  },
+  {
+    "id": "pharm_516",
+    "arr": [
+      "Указать гемостатики системного действия:",
+      "Стрептолиаза",
+      "Фибриноген",
+      "Тромбин",
+      "Цитрат натрия"
+    ]
+  },
+  {
+    "id": "pharm_517",
+    "arr": [
+      "Указать гемостатики системного действия:",
+      "Стрептолиаза",
+      "Цитрат натрия",
+      "Викасол",
+      "Варфарин"
+    ]
+  },
+  {
+    "id": "pharm_518",
+    "arr": [
+      "Указать гемостатики системного действия:",
+      "Стрептолиаза",
+      "Тромбин",
+      "Цитрат натрия",
+      "Кальция хлорид"
+    ]
+  },
+  {
+    "id": "pharm_519",
+    "arr": [
+      "Что характерно для тромбина?",
+      "Применяют при обширных кровотечениях",
+      "Является фактором свертывания крови и превращается в фибрин",
+      "Является фактором свертывания крови и способствует превращению фибриногена в фибрин",
+      "Способствует синтезу протромбина в печени"
+    ]
+  },
+  {
+    "id": "pharm_520",
+    "arr": [
+      "Что не характерно для фибриногена?",
+      "Является фактором свертывания крови и превращается в фибрин",
+      "Способствует синтезу протромбина в печени",
+      "Применяют при обширных кровотечениях",
+      "Применяют местно при поверхностных кровотечениях"
+    ]
+  },
+  {
+    "id": "pharm_521",
+    "arr": [
+      "Что не характерно для викасола?",
+      "Способствует синтезу протромбина в печени",
+      "Является фактором свертывания крови и способствует превращению фибриногена в фибрин",
+      "Применяют при геморрагической болезни",
+      "При длительном применении возможно образование метгемоглобина"
+    ]
+  },
+  {
+    "id": "pharm_522",
+    "arr": [
+      "Механизм действия гепарина (выбрать неправильный ответ):",
+      "Связывание ионов Са++",
+      "Угнетение активности протромбиназы (тромбопластина)",
+      "Угнетение активности тромбина и нарушение перехода фибриногена в фибрин",
+      "Нарушение агглютинации тромбоцитов"
+    ]
+  },
+  {
+    "id": "pharm_523",
+    "arr": [
+      "Показания к применению гепарина (выбрать неправильный ответ):",
+      "Применяют при ДВСК-синдроме",
+      "Применяют при геморрагиях",
+      "Применяют при тромбозах, тромбоэмболиях",
+      "Применяют при инфаркте миокарда"
+    ]
+  },
+  {
+    "id": "pharm_524",
+    "arr": [
+      "Что характерно для натрия гидроцитрата?",
+      "Проявляет действие только в организме, нарушая синтез протромбина в печени",
+      "Образует комплексы с протромбиназой, протромбином и тромбином",
+      "Ингибирует активаторы перехода плазминогена в плазмин (фибринолизин)",
+      "Связывает ионы Са++"
+    ]
+  },
+  {
+    "id": "pharm_525",
+    "arr": [
+      "Что характерно для варфарина?",
+      "Блокирует в печени синтез витамин-К-зависимых факторов свертывания крови (II, VII, IX,",
+      "X)",
+      "Ингибирует активаторы перехода плазминогена в плазмин (фибринолизин)",
+      "Связывает ионы Са++",
+      "Нарушает агрегацию тромбоцитов"
+    ]
+  },
+  {
+    "id": "pharm_526",
+    "arr": [
+      "Что характерно для кислоты аминокапроновой?",
+      "Образует комплексы с протромбиназой, протромбином и тромбином",
+      "Ингибирует активаторы перехода плазминогена в плазмин (фибринолизин)",
+      "Связывает ионы Са++",
+      "Способствует превращению фибриногена в фибрин"
+    ]
+  },
+  {
+    "id": "pharm_527",
+    "arr": [
+      "Средства, применяемые при гипохромных анемиях (выбрать неправильный ответ):",
+      "Цианокобаламин",
+      "Ферковен",
+      "Аскорбиновая кислота",
+      "Феррум Лек"
+    ]
+  },
+  {
+    "id": "pharm_528",
+    "arr": [
+      "Выбрать средство, применяемое при гиперхромных анемиях:",
+      "Цианокобаламин",
+      "Ферковен",
+      "Аскорбиновая кислота",
+      "Феррум Лек"
+    ]
+  },
+  {
+    "id": "pharm_529",
+    "arr": [
+      "Выбрать средство, применяемое при гиперхромных анемиях:",
+      "Ферковен",
+      "Аскорбиновая кислота",
+      "Феррум Лек",
+      "Фолиевая кислота"
+    ]
+  },
+  {
+    "id": "pharm_530",
+    "arr": [
+      "Что не характерно для фолиевой кислоты?",
+      "Недостаточность может развиться при подавлении жизнедеятельности микрофлоры кишечника",
+      "Участвует в синтезе нуклеиновых кислот, стимулирует эритропоэз",
+      "Активирует редуктазу",
+      "Синтезируется микрофлорой кишечника"
+    ]
+  },
+  {
+    "id": "pharm_531",
+    "arr": [
+      "Указать лекарственное средство, применяемых при бронхообструктивном синдроме:",
+      "Эуфиллин",
+      "Норадреналин",
+      "Анаприлин",
+      "Резерпин"
+    ]
+  },
+  {
+    "id": "pharm_532",
+    "arr": [
+      "Указать лекарственное средство, применяемых при бронхообструктивном синдроме:",
+      "Норадреналин",
+      "Анаприлин",
+      "Резерпин",
+      "Кетотифен"
+    ]
+  },
+  {
+    "id": "pharm_533",
+    "arr": [
+      "Указать лекарственное средство, применяемых при бронхообструктивном синдроме:",
+      "Норадреналин",
+      "Сальбутамол",
+      "Анаприлин",
+      "Резерпин"
+    ]
+  },
+  {
+    "id": "pharm_534",
+    "arr": [
+      "Указать механизм действия и эффекты термопсиса (выбрать неправильный ответ):",
+      "Вызывает деполимеризацию белков бронхиального секрета",
+      "Усиливает активность мерцательного эпителия",
+      "В больших дозах вызывает рвоту",
+      "Раздражает рецепторы желудка и рефлекторно усиливает секрецию бронхиальных желез"
+    ]
+  },
+  {
+    "id": "pharm_535",
+    "arr": [
+      "Указать стимулятор дыхания прямого действия:",
+      "Метацин",
+      "Эуфиллин",
+      "Лобелин",
+      "Этимизол"
+    ]
+  },
+  {
+    "id": "pharm_536",
+    "arr": [
+      "Указать стимуляторы дыхания прямого действия:",
+      "Кофеин",
+      "Метацин. 3 Эуфиллин",
+      "Лобелин"
+    ]
+  },
+  {
+    "id": "pharm_537",
+    "arr": [
+      "Указать стимуляторы дыхания прямого действия:",
+      "Метацин",
+      "Бемегрид",
+      "Эуфиллин",
+      "Лобелин"
+    ]
+  },
+  {
+    "id": "pharm_538",
+    "arr": [
+      "Указать стимулятор дыхания рефлекторного действия:",
+      "Метацин",
+      "Бемегрид",
+      "Эуфиллин",
+      "Лобелин"
+    ]
+  },
+  {
+    "id": "pharm_539",
+    "arr": [
+      "Указать стимулятор дыхания рефлекторного действия:",
+      "Метацин",
+      "Эуфиллин",
+      "Цититон",
+      "Лобелин"
+    ]
+  },
+  {
+    "id": "pharm_540",
+    "arr": [
+      "Указать стимуляторы дыхания смешанного действия:",
+      "Бемегрид",
+      "Кордиамин",
+      "Эуфиллин",
+      "Этимизол"
+    ]
+  },
+  {
+    "id": "pharm_541",
+    "arr": [
+      "Указать стимуляторы дыхания смешанного действия:",
+      "Бемегрид",
+      "Этимизол",
+      "Кофеин",
+      "Карбоген"
+    ]
+  },
+  {
+    "id": "pharm_542",
+    "arr": [
+      "Что характерно для цититона?",
+      "Непосредственно повышает активность дыхательного центра",
+      "Рефлекторно стимулирует дыхание, возбуждая Н-холинорецепторы синокаротидной зоны",
+      "Стимулирует систему гипоталамус-гипофиз, способствуя образованию глюкокортикоидов",
+      "Применяют для стимуляции дыхания при передозировке наркозных средств"
+    ]
+  },
+  {
+    "id": "pharm_543",
+    "arr": [
+      "Указать средство, влияющие на аппетит:",
+      "Фепранон",
+      "Магния сульфат",
+      "Апоморфин",
+      "Лист сенны"
+    ]
+  },
+  {
+    "id": "pharm_544",
+    "arr": [
+      "Указать средство, влияющие на аппетит:",
+      "Магния сульфат",
+      "Настойка полыни",
+      "Апоморфин",
+      "Лист сенны"
+    ]
+  },
+  {
+    "id": "pharm_545",
+    "arr": [
+      "Указать средство, влияющие на аппетит:",
+      "Магния сульфат",
+      "Апоморфин",
+      "Дезопимон",
+      "Лист сенны"
+    ]
+  },
+  {
+    "id": "pharm_546",
+    "arr": [
+      "Средства заместительной терапии, применяемые при недостаточности секреторной функции желез желудка (выбрать неправильный ответ):",
+      "Пепсин",
+      "Алмагель",
+      "Абомин",
+      "Панзинорм"
+    ]
+  },
+  {
+    "id": "pharm_547",
+    "arr": [
+      "Указать средство, понижающее секрецию желез желудка:",
+      "Метацин",
+      "Папаверин",
+      "Но-шпа",
+      "Метоклопрамид"
+    ]
+  },
+  {
+    "id": "pharm_548",
+    "arr": [
+      "К антацидным средствам не относится:",
+      "Циметидин",
+      "Магния окись",
+      "Алмагель",
+      "Алюминия тригидрат"
+    ]
+  },
+  {
+    "id": "pharm_549",
+    "arr": [
+      "Особенности действия магния окиси (выбрать неправильный ответ):",
+      "Действие развивается не очень быстро, но достаточно полно нейтрализует НСl желудочного сока",
+      "Образует СО2 и вызывает вторичную волну секреции желез желудка",
+      "Оказывает послабляющее действие",
+      "Применяют при язвенной болезни желудка и 12-перстной кишки"
+    ]
+  },
+  {
+    "id": "pharm_550",
+    "arr": [
+      "Особенности действия натрия гидрокарбоната (выбрать неправильный ответ):",
+      "Нейтрализует НСl, образует СО2 и вызывает вторичную волну секреции желез желудка",
+      "Хорошо резорбируется и вызывает алкалоз",
+      "Действие проявляется очень быстро, но недостаточно сильно",
+      "Возбуждает М-холинорецепторы"
+    ]
+  },
+  {
+    "id": "pharm_551",
+    "arr": [
+      "Особенности действия препаратов алюминия (выбратьнеправильный ответ):",
+      "Обладают обволакивающим и адсорбирующим действием",
+      "Не резорбируются",
+      "Вызывают системный алкалоз",
+      "Быстро нейтрализуют соляную кислоту желудка"
+    ]
+  },
+  {
+    "id": "pharm_552",
+    "arr": [
+      "Особенности действия циметидина:",
+      "Активирует протоновый насос",
+      "Образует СО2 и вызывает вторичную волну секреции желез желудка",
+      "Подавляет секрецию соляной кислоты",
+      "Оказывает послабляющее действие"
+    ]
+  },
+  {
+    "id": "pharm_553",
+    "arr": [
+      "Что не характерно для горечей?",
+      "Раздражают вкусовые рецепторы и рефлекторно стимулируют пищевые центры",
+      "Воздействуют на структуры гипоталамуса, регулирующие аппетит",
+      "Стимулируют центры насыщения",
+      "Назначают при нейрогенной анорексии и хронических заболеваниях, сопровождающихся снижением аппетита"
+    ]
+  },
+  {
+    "id": "pharm_554",
+    "arr": [
+      "Указать рвотное средство центрального действия:",
+      "Метоклопрамид",
+      "Трава термопсиса",
+      "Трава горицвета",
+      "Апоморфин"
+    ]
+  },
+  {
+    "id": "pharm_555",
+    "arr": [
+      "Что характерно для апоморфина?",
+      "Стимулирует дофаминовые рецепторы в тригерной зоне продолговатого мозга",
+      "Обладает дофаминоблокирующим действием",
+      "Раздражает рецепторы слизистой желудка и рефлекторно возбуждает рвотный центр",
+      "Блокирует М-холинорецепторы"
+    ]
+  },
+  {
+    "id": "pharm_556",
+    "arr": [
+      "Указать группу лекарственных средств, обладающую противорвотным действием:",
+      "Нейролептики",
+      "Н-холиномиметики",
+      "Вяжущие средства",
+      "Антихолинэстеразные средства"
+    ]
+  },
+  {
+    "id": "pharm_557",
+    "arr": [
+      "Указать группы лекарственных средств, обладающих противорвотным действием:",
+      "Антихолинэстеразные средства",
+      "Антигистаминные",
+      "Н-холиномиметики",
+      "Вяжущие средства"
+    ]
+  },
+  {
+    "id": "pharm_558",
+    "arr": [
+      "Указать группы лекарственных средств, обладающих противорвотным действием:",
+      "М-холиноблокаторы",
+      "Н-холиномиметики",
+      "Вяжущие средства",
+      "Антихолинэстеразные средства"
+    ]
+  },
+  {
+    "id": "pharm_559",
+    "arr": [
+      "Указать вещество, усиливающее секрецию желчи:",
+      "Холензим",
+      "Магния сульфат",
+      "Атропин",
+      "Но-шпа"
+    ]
+  },
+  {
+    "id": "pharm_560",
+    "arr": [
+      "Указать вещество, усиливающее секрецию желчи:",
+      "Магния сульфат",
+      "Атропин",
+      "Но-шпа",
+      "Холосас"
+    ]
+  },
+  {
+    "id": "pharm_561",
+    "arr": [
+      "Указать средства, облегчающие поступление желчи в кишечник (выбрать неправильный ответ):",
+      "Холосас",
+      "Магния сульфат",
+      "Атропин",
+      "Папаверин"
+    ]
+  },
+  {
+    "id": "pharm_562",
+    "arr": [
+      "Указать средство заместительной терапии, применяемое при хроническом панкреатите:",
+      "Контрикал",
+      "Панкреатин",
+      "Холензим",
+      "Фепранон"
+    ]
+  },
+  {
+    "id": "pharm_563",
+    "arr": [
+      "Указать средства заместительной терапии, применяемые при хроническом панкреатите:",
+      "Контрикал",
+      "Абомин",
+      "Панзинорм",
+      "Холензим"
+    ]
+  },
+  {
+    "id": "pharm_564",
+    "arr": [
+      "Указать средства заместительной терапии, применяемые при хроническом панкреатите:",
+      "Контрикал",
+      "Абомин",
+      "Холензим",
+      "Фестал"
+    ]
+  },
+  {
+    "id": "pharm_565",
+    "arr": [
+      "Указать ингибитор протеолиза, применяемые при остром панкреатите:",
+      "Циметидин",
+      "Апротинин",
+      "Метоклопрамид",
+      "Панкреатин"
+    ]
+  },
+  {
+    "id": "pharm_566",
+    "arr": [
+      "Механизм, точка приложения действия и особенности действия касторового масла (выбрать неправильный ответ):",
+      "Действует преимущественно на тонкий кишечник",
+      "В 12-перстной кишке из препарата освобождается рициноловая кислота и раздражает рецепторы кишечника",
+      "Повышает осмотическое давление в кишечнике, увеличивает объем содержимого и рефлекторно стимулирует перистальтику",
+      "Нельзя применять при отравлении бензином, керосином и другими жирорастворимыми ядами"
+    ]
+  },
+  {
+    "id": "pharm_567",
+    "arr": [
+      "Механизм, точка приложения и особенности действия препаратов растений (ревень, крушина, сенна), содержащих антрагликозиды (выбрать неправильный ответ):",
+      "Действуют на толстый кишечник",
+      "Эффект наступает через 8 -10 часов",
+      ".Назначают при хронических запорах",
+      "Применяют при лечении острых отравлений для ускорения выведения и задержки всасывания яда"
+    ]
+  },
+  {
+    "id": "pharm_568",
+    "arr": [
+      "Механизм, точка приложения и особенности действия натрия сульфата и магния сульфата:",
+      "Действуют на толстый кишечник, и эффект наступает через 8-10 часов",
+      "Повышают осмотическое давление в кишечнике, увеличивают объем содержимого и рефлекторно стимулируют перистальтику",
+      "Действуют на протяжении всего кишечника",
+      "Применяют при лечении острых отравлений для ускорения выведения и задержки всасывания яда"
+    ]
+  },
+  {
+    "id": "pharm_569",
+    "arr": [
+      "Указать механизм антиагрегантного действия дипиридамола:",
+      "Усиливает фибринолиз",
+      "Ингибирует фосфодиэстеразу",
+      "Способствует синтезу протромбина в печени",
+      "Ингибирует аденозиндезаминазу"
+    ]
+  },
+  {
+    "id": "pharm_570",
+    "arr": [
+      "Указать механизм антиагрегантного действия производных пурина (выбрать неправильный ответ):",
+      "Ингибируют фосфодиэстеразу",
+      "Связывают циклооксигеназу",
+      "Повышают содержание цАМФ",
+      ".Блокируют аденозиновые рецепторы"
+    ]
+  },
+  {
+    "id": "pharm_571",
+    "arr": [
+      "Показанием к назначению морфина является:",
+      "Продолжительная обстипация (запор)",
+      "Неукротимая рвота",
+      "Тахикардия",
+      "Отек легкого"
+    ]
+  },
+  {
+    "id": "pharm_572",
+    "arr": [
+      "К антикоагулянтам относят (указать один правильный ответ):",
+      "Дельтепарин и апротинин",
+      "Стрептокиназу и варфарин",
+      "Варфарин и гепарин",
+      "Ацетилсалициловую кислоту и гепарин"
+    ]
+  },
+  {
+    "id": "pharm_573",
+    "arr": [
+      "Для остановки кровотечений:",
+      "Урокиназу",
+      "Стрептокиназу",
+      "Варфарин",
+      "Аминокапроновую кислоту"
+    ]
+  },
+  {
+    "id": "pharm_574",
+    "arr": [
+      "Противоаллергическое лекарственное средство, препятствующее вхождению ионов кальция в тучные клетки:",
+      "Димедрол",
+      "Кетотифен",
+      "Лоратадин",
+      "Тавегил"
+    ]
+  },
+  {
+    "id": "pharm_575",
+    "arr": [
+      "Показанием для применения ацетилсалициловой кислоты является:",
+      "Ишемическая болезнь сердца",
+      "Язвенная болезнь желудка",
+      "Лихорадка у детей с вирусной инфекцией",
+      "Бронхиальная астма"
+    ]
+  },
+  {
+    "id": "pharm_576",
+    "arr": [
+      "К препаратам, обладающим муколитическим действием, относят:",
+      "Кодеин",
+      "Бромгексин",
+      "Либексин",
+      "Цититон"
+    ]
+  },
+  {
+    "id": "pharm_577",
+    "arr": [
+      "Антигистаминные препараты, не влияющие на ЦНС (выбрать неправильный ответ):",
+      "Дипразин",
+      "Диазолин",
+      "Тавегил",
+      "Лоратадин"
+    ]
+  },
+  {
+    "id": "pharm_578",
+    "arr": [
+      "Механизм действия антигистаминных средств:",
+      "Уменьшают синтез гистамина, снижая активность гистидиндекарбоксилазы",
+      "Препятствуют выходу гистамина из тучных клеток",
+      "Разрушают гистамин",
+      "Блокируют гистаминовые рецепторы и препятствуют взаимодействию гистамина с ними"
+    ]
+  },
+  {
+    "id": "pharm_579",
+    "arr": [
+      "Фармакологические свойства антигистаминных средств короткого действия, блокирующих Н1-гистаминовые рецепторы (выбрать неправильный ответ):",
+      "Снижают секрецию соляной кислоты в желудке",
+      "Понижают возбудимость вестибулярного аппарата",
+      "Обладают противоаллергическим действием",
+      "Потенцируют действие наркозных и снотворных средств"
+    ]
+  },
+  {
+    "id": "pharm_580",
+    "arr": [
+      "Показания к применению Н1-гистаминовых блокаторов:",
+      "Лучевая болезнь",
+      "Предупреждение и лечение аллергических заболеваний",
+      "Купирование приступов бронхиальной астмы",
+      "Язвенная болезнь желудка"
+    ]
+  },
+  {
+    "id": "pharm_581",
+    "arr": [
+      "Фармакологическая характеристика средств, блокирующих Н2-гистаминовые рецепторы (выбрать неправильный ответ):",
+      "Обладают противовоспалительным действием",
+      "Снижают секрецию желез желудка",
+      "Применяется при гиперацидных гастритах",
+      "Применяют при язвенной болезни желудка"
+    ]
+  },
+  {
+    "id": "pharm_582",
+    "arr": [
+      "Указать гормональный препарат белковой и полипептидной структуры",
+      "Беклометазон",
+      "Кальцитрин",
+      "Мерказолил",
+      "Гидрокортизон"
+    ]
+  },
+  {
+    "id": "pharm_583",
+    "arr": [
+      "Указать гормональный препарат белковой и полипептидной структуры",
+      "Беклометазон",
+      "Мерказолил",
+      "Паратиреоидин",
+      "Гидрокортизон"
+    ]
+  },
+  {
+    "id": "pharm_584",
+    "arr": [
+      "Указать гормональный препарат белковой и полипептидной структуры",
+      "Кортикотропин",
+      "Беклометазон",
+      "Мерказолил",
+      "Гидрокортизон"
+    ]
+  },
+  {
+    "id": "pharm_585",
+    "arr": [
+      "Указать гормональный препарат белковой и полипептидной структуры",
+      "Беклометазон",
+      "Мерказолил",
+      "Гидрокортизон",
+      "Инсулин"
+    ]
+  },
+  {
+    "id": "pharm_586",
+    "arr": [
+      "Указать гормональный препарат стероидной структуры",
+      "Беклометазон",
+      "Мерказолил",
+      "Паратиреоидин",
+      "Гонадотропин хорионический"
+    ]
+  },
+  {
+    "id": "pharm_587",
+    "arr": [
+      "Указать гормональный препарат стероидной структуры",
+      "Феноболин",
+      "Мерказолил",
+      "Паратиреоидин",
+      "Гонадотропин хорионический"
+    ]
+  },
+  {
+    "id": "pharm_588",
+    "arr": [
+      "Указать гормональный препарат стероидной структуры",
+      "Метандростенолон",
+      "Мерказолил",
+      "Паратиреоидин",
+      "Гонадотропин хорионический"
+    ]
+  },
+  {
+    "id": "pharm_589",
+    "arr": [
+      "Указать гормональный препарат стероидной структуры",
+      "Мерказолил",
+      "Паратиреоидин",
+      "Эстрон",
+      "Гонадотропин хорионический"
+    ]
+  },
+  {
+    "id": "pharm_590",
+    "arr": [
+      "Указать механизм действия и свойства кортикотропина (выбрать неправильный ответ)",
+      "Стимулирует синтез глюкокортикоидов",
+      "Вырабатывается корой надпочечников",
+      "Является препаратом АКТГ",
+      "Применяется при длительном назначении глюкокортикоидов"
+    ]
+  },
+  {
+    "id": "pharm_591",
+    "arr": [
+      "Указать механизм действия, фармакологические свойства, особенности действия и применения иодсодержащих гормональных препаратов щитовидной железы (выбрать неправильный ответ)",
+      "Стимулируют рост совместно с соматотропным гормоном",
+      "Повышают основной обмен",
+      "Применяют при тиреотоксикозе",
+      "Применяют при лечении кретинизма, микседемы"
+    ]
+  },
+  {
+    "id": "pharm_592",
+    "arr": [
+      "Механизм действия, свойства кальцитонина (кальцитрина) (выбрать неправильный ответ)",
+      "Повышает активность остеобластов",
+      "Повышает активность остеокластов",
+      "Снижает содержание кальция в крови",
+      "Способствует отложению Са2+ в костях"
+    ]
+  },
+  {
+    "id": "pharm_593",
+    "arr": [
+      "Что не характерно для инсулина?",
+      "Стимулирует синтез белков",
+      "Обладает катаболическим действием",
+      "Способствует транспорту глюкозы в ткани",
+      "Устраняет глюкозурию и гипергликемию"
+    ]
+  },
+  {
+    "id": "pharm_594",
+    "arr": [
+      "Механизм действия инсулина",
+      "Подавляет глюконеогенез",
+      "Нарушает превращение глюкозы в гликоген",
+      "Истощает гликогеновый резерв печени",
+      "Повышают основной обмен"
+    ]
+  },
+  {
+    "id": "pharm_595",
+    "arr": [
+      "Механизм действия инсулина",
+      "Снижает уровень сахара в крови за счет активного транспорта глюкозы в клетки",
+      "Нарушает превращение глюкозы в гликоген",
+      "Истощает гликогеновый резерв печени",
+      "Повышают основной обмен"
+    ]
+  },
+  {
+    "id": "pharm_596",
+    "arr": [
+      "Механизм действия инсулина",
+      "Нарушает превращение глюкозы в гликоген",
+      "Усиливает синтез белков и жиров",
+      "Истощает гликогеновый резерв печени",
+      "Повышают основной обмен"
+    ]
+  },
+  {
+    "id": "pharm_597",
+    "arr": [
+      "Механизм действия инсулина",
+      "Нарушает превращение глюкозы в гликоген",
+      "Истощает гликогеновый резерв печени",
+      "Уменьшает образование недоокисленных продуктов (ацетоновых и кетоновых тел)",
+      "Повышают основной обмен"
+    ]
+  },
+  {
+    "id": "pharm_598",
+    "arr": [
+      "Механизм действия, особенности действия синтетических противодиабетических средств",
+      "Способствуют поступлению глюкозы в ткани",
+      "Усиливают глюконеогенез",
+      "Уменьшают связывания инсулина белками плазмы",
+      "Обладает катаболическим действием"
+    ]
+  },
+  {
+    "id": "pharm_599",
+    "arr": [
+      "Механизм действия, фармакологические свойства паратиреоидина",
+      "Уменьшает реабсорбцию фосфора в почках",
+      "Уменьшает реабсорбцию Са2+ в почках",
+      "Повышает содержание фосфора в крови",
+      "Способствуют отложению фосфора в почках"
+    ]
+  },
+  {
+    "id": "pharm_600",
+    "arr": [
+      "Механизм действия, фармакологические свойства паратиреоидина",
+      "Уменьшает реабсорбцию Са2+ в почках",
+      "Повышает содержание Са2+ в крови",
+      "Повышает содержание фосфора в крови",
+      "Способствуют отложению фосфора в почках"
+    ]
+  },
+  {
+    "id": "pharm_601",
+    "arr": [
+      "Механизм действия, фармакологические свойства паратиреоидина",
+      "Уменьшает реабсорбцию Са2+ в почках",
+      "Повышает содержание фосфора в крови",
+      "Способствует всасыванию Са в кишечнике",
+      "Способствуют отложению фосфора в почках"
+    ]
+  },
+  {
+    "id": "pharm_602",
+    "arr": [
+      "Механизм действия, фармакологические свойства паратиреоидина",
+      "Уменьшает реабсорбцию Са2+ в почках",
+      "Повышает содержание фосфора в крови",
+      "Усиливает выход Са2+ из костей, за счет накопления цАМФ, усиления гликолиза и снижения активности щелочной фосфатазы",
+      "Способствуют отложению фосфора в почках"
+    ]
+  },
+  {
+    "id": "pharm_603",
+    "arr": [
+      "Указать фармакологические свойства глюкокортикоидных препаратов",
+      "Усиливают глюконеогенез",
+      "Усиливают синтез белка",
+      "Усиливают фиксацию кальция в костях",
+      "Повышает содержание фосфора в крови"
+    ]
+  },
+  {
+    "id": "pharm_604",
+    "arr": [
+      "Указать фармакологические свойства глюкокортикоидных препаратов",
+      "Обладают иммунодепрессивным действием.2Усиливают синтез белка",
+      "Усиливают фиксацию кальция в костях",
+      "Повышает содержание фосфора в крови"
+    ]
+  },
+  {
+    "id": "pharm_605",
+    "arr": [
+      "Указать фармакологические свойства глюкокортикоидных препаратов",
+      "Оказывают противовоспалительное действие",
+      "Усиливают синтез белка",
+      "Усиливают фиксацию кальция в костях",
+      "Повышает содержание фосфора в крови"
+    ]
+  },
+  {
+    "id": "pharm_606",
+    "arr": [
+      "Указать фармакологические свойства глюкокортикоидных препаратов",
+      "Усиливают синтез белка",
+      "Оказывают катаболическое действие",
+      "Усиливают фиксацию кальция в костях",
+      "Повышает содержание фосфора в крови"
+    ]
+  },
+  {
+    "id": "pharm_607",
+    "arr": [
+      "Механизм противовоспалительного действия глюкокортикоидов (выбрать неправильный ответ)",
+      "Повышают активность гиалуронидазы",
+      "Обладают антиэкссудативным действием",
+      "Стабилизируют мембраны лизосом и нарушают выход лизосомальных ферментов",
+      "Нарушают активность фибробластов"
+    ]
+  },
+  {
+    "id": "pharm_608",
+    "arr": [
+      "Механизм иммунодепрессивного действия глюкокортикоидов (выбрать неправильный ответ)",
+      "Угнетают процессы пролиферации",
+      "Препятствуют кооперации Т и В лимфоцитов",
+      "Оказывают лимфолитическое действие",
+      "Нарушают синтез лимфоцитов"
+    ]
+  },
+  {
+    "id": "pharm_609",
+    "arr": [
+      "Показания к применению глюкокортикоидов (выбрать неправильный ответ)",
+      "Остеопороз",
+      "Аутоиммунная гемолитическая анемия",
+      "Ревматизм",
+      "Тяжелая бронхиальная астма"
+    ]
+  },
+  {
+    "id": "pharm_610",
+    "arr": [
+      "Осложнения при применении глюкокортикоидов (выбрать неправильный ответ)",
+      "Остеопороз",
+      "Стероидная миопатия",
+      "Кальцификация сосудов легких, сердца, мозга",
+      "Тромбозы"
+    ]
+  },
+  {
+    "id": "pharm_611",
+    "arr": [
+      "К анаболическим стероидам относится все, кроме:",
+      "Феноболин",
+      "Ретаболил",
+      "Гидрокортизон",
+      "Метандростенолон"
+    ]
+  },
+  {
+    "id": "pharm_612",
+    "arr": [
+      "Механизм действия и фармакологические свойства анаболических стероидов (выбрать неправильный ответ)",
+      "Усиливают фиксацию кальция в костях",
+      "Усиливают синтез белка",
+      "Оказывают катаболическое действие",
+      "Усиливают процессы регенерации"
+    ]
+  },
+  {
+    "id": "pharm_613",
+    "arr": [
+      "Показания к применению анаболических стероидов (выбрать неправильный ответ)",
+      "Острый лейкоз",
+      "Остеопороз",
+      "Задержка роста",
+      "Замедленное заживления переломов"
+    ]
+  },
+  {
+    "id": "pharm_614",
+    "arr": [
+      "Выбрать препарат водорастворимых витаминов",
+      "Рибофлавин",
+      "Эргокальциферол",
+      "Токоферола ацетат",
+      "Ретинола ацетат"
+    ]
+  },
+  {
+    "id": "pharm_615",
+    "arr": [
+      "Выбрать препарат водорастворимых витаминов",
+      "Пиридоксин",
+      "Эргокальциферол",
+      "Ретинола ацетат",
+      "Токоферола ацетат"
+    ]
+  },
+  {
+    "id": "pharm_616",
+    "arr": [
+      "Выбрать препарат водорастворимых витаминов",
+      "Эргокальциферол",
+      "Аскорбиновая кислота",
+      "Ретинола ацетат",
+      "Токоферола ацетат"
+    ]
+  },
+  {
+    "id": "pharm_617",
+    "arr": [
+      "Выбрать препарат водорастворимых витаминов",
+      "Эргокальциферол",
+      "Ретинола ацетат",
+      "Токоферола ацетат",
+      "Тиамина хлорид"
+    ]
+  },
+  {
+    "id": "pharm_618",
+    "arr": [
+      "Выбрать препарат жирорастворимых витаминов",
+      "Эргокальциферол",
+      "Никотиновая кислота",
+      "Цианокобаламин",
+      "Аскорбиновая кислота"
+    ]
+  },
+  {
+    "id": "pharm_619",
+    "arr": [
+      "Выбрать препарат жирорастворимых витаминов",
+      "Никотиновая кислота",
+      "Цианокобаламин",
+      "Аскорбиновая кислота",
+      "Ретинола ацетат"
+    ]
+  },
+  {
+    "id": "pharm_620",
+    "arr": [
+      "Выбрать препарат жирорастворимых витаминов",
+      "Никотиновая кислота",
+      "Цианокобаламин",
+      "Аскорбиновая кислота",
+      "Токоферола ацетат"
+    ]
+  },
+  {
+    "id": "pharm_621",
+    "arr": [
+      "Механизм действия и фармакологические свойства ретинола",
+      "Способствует заживлению медленно гранулирующих ран",
+      "Усиливает синтез глюкокортикоидов",
+      "Участвует в распаде родопсина на свету",
+      "Участвует в цикле Кребса"
+    ]
+  },
+  {
+    "id": "pharm_622",
+    "arr": [
+      "Механизм действия и фармакологические свойства ретинола",
+      "Участвует в цикле Кребса",
+      "Усиливает синтез глюкокортикоидов",
+      "Участвует в распаде родопсина на свету",
+      "Участвует в синтезе зрительного пурпура"
+    ]
+  },
+  {
+    "id": "pharm_623",
+    "arr": [
+      "Механизм действия и фармакологические свойства ретинола",
+      "Участвует в цикле Кребса",
+      "Усиливает синтез глюкокортикоидов",
+      "Участвует в распаде родопсина на свету",
+      "Улучшает развитие хрящевой и костной ткани"
+    ]
+  },
+  {
+    "id": "pharm_624",
+    "arr": [
+      "Механизм действия и фармакологические свойства ретинола",
+      "Участвует в цикле Кребса",
+      "Усиливает синтез глюкокортикоидов",
+      "Участвует в распаде родопсина на свету",
+      "Препятствует образованию многослойного плоского ороговевающего эпителия"
+    ]
+  },
+  {
+    "id": "pharm_625",
+    "arr": [
+      "Показания к применению ретинола (выбрать неправильный ответ)",
+      "Вялозаживающие раны и переломы",
+      "Геморрагические диатезы",
+      "Острые инфекционные заболевания (корь, пневмония, сепсис)",
+      "Нарушения зрения (гемералопия)"
+    ]
+  },
+  {
+    "id": "pharm_626",
+    "arr": [
+      "Симптомы гипервитаминоза витамина А (выбрать неправильный ответ)",
+      "Нарушение функции печени",
+      "Повышение внутричерепного давления",
+      "Головная боль, рвота",
+      "Остеопороз"
+    ]
+  },
+  {
+    "id": "pharm_627",
+    "arr": [
+      "Механизм действия и фармакологические свойства эргокальциферола",
+      "Способствует всасыванию кальция в кишечнике",
+      "Препятствует образованию многослойного плоского ороговевающего эпителия",
+      "Усиливает образование фосфатов кальция и отложение в костях",
+      "Усиливает реабсорбцию кальция в почках"
+    ]
+  },
+  {
+    "id": "pharm_628",
+    "arr": [
+      "Механизм действия и фармакологические свойства эргокальциферола",
+      "Препятствует образованию многослойного плоского ороговевающего эпителия",
+      "Способствует синтезу белковой стромы кости",
+      "Усиливает образование фосфатов кальция и отложение в костях",
+      "Усиливает реабсорбцию кальция в почках"
+    ]
+  },
+  {
+    "id": "pharm_629",
+    "arr": [
+      "Механизм действия и фармакологические свойства эргокальциферола",
+      "Препятствует образованию многослойного плоского ороговевающего эпителия",
+      "Повышает активность остеокластов",
+      "Усиливает образование фосфатов кальция и отложение в костях",
+      "Усиливает реабсорбцию кальция в почках"
+    ]
+  },
+  {
+    "id": "pharm_630",
+    "arr": [
+      "Механизм действия и фармакологические свойства эргокальциферола",
+      "Препятствует образованию многослойного плоского ороговевающего эпителия",
+      "Усиливает образование фосфатов кальция и отложение в костях",
+      "Способствует всасыванию железа",
+      "Усиливает реабсорбцию кальция в почках"
+    ]
+  },
+  {
+    "id": "pharm_631",
+    "arr": [
+      "Показания к применению эргокальциферола (выбрать неправильный ответ)",
+      "Вялозаживающие переломы",
+      "Кариес, парадонтоз",
+      "Нарушение развития костной ткани и лечение рахита",
+      "Полиневриты"
+    ]
+  },
+  {
+    "id": "pharm_632",
+    "arr": [
+      "Симптомы гипервитаминоза витамина Д (выбрать неправильный ответ)",
+      "Повышение внутричерепного давления",
+      "Усиление свободнорадикальных реакций",
+      "Усиление выхода кальция из кости, остеопороз",
+      "Кальцификация сосудов мозга, сердца, легких"
+    ]
+  },
+  {
+    "id": "pharm_633",
+    "arr": [
+      "Меры помощи при гипервитаминозе витамина D (выбрать неправильный ответ)",
+      "Глюкокортикоиды",
+      "Токоферол",
+      "Строфантин",
+      "Ретинол"
+    ]
+  },
+  {
+    "id": "pharm_634",
+    "arr": [
+      "Механизм действия и фармакологические свойства токоферола (выбрать неправильный ответ)",
+      "Поддерживает прочность клеточных мембран",
+      "Обладает антиоксидантным действием",
+      "Необходим для синтеза гонадотропинов",
+      "Участвует в декарбоксилировании кета-кислот"
+    ]
+  },
+  {
+    "id": "pharm_635",
+    "arr": [
+      "Показания к применению токоферола (выбрать неправильный ответ)",
+      "Дистрофии миокарда",
+      "Лечение бесплодия",
+      "При гипервитаминозе А и D",
+      "Бронхиальная астма"
+    ]
+  },
+  {
+    "id": "pharm_636",
+    "arr": [
+      "Механизм действия и фармакологические свойства аскорбиновой кислоты (выбрать неправильный ответ)",
+      "Способствует всасыванию железа",
+      "Создает окислительно-восстановительную систему, участвующую в переносе электронов и водорода в дыхательной цепи",
+      "Препятствует образованию многослойного плоского ороговевающего эпителия",
+      "Повышает синтез гиалуроновой и хондроитинсерной кислот, участвует в синтезе коллагена"
+    ]
+  },
+  {
+    "id": "pharm_637",
+    "arr": [
+      "Механизм действия и фармакологические свойства тиамина (выбрать неправильный ответ)",
+      "Повышает синтез белков",
+      "Усиливает синтез глюкокортикоидов",
+      "Участвует в синтезе ацетилхолина",
+      "Участвует в декарбоксилировании кета- кислот"
+    ]
+  },
+  {
+    "id": "pharm_638",
+    "arr": [
+      "Механизм действия, фармакологические свойства рибофлавина (выбрать неправильный ответ)",
+      "Участвует в распаде родопсина на свету",
+      "Способствует всасыванию железа",
+      "Участвует в образовании флавиновых ферментов, переносе электронов и водорода в дыхательной цепи",
+      "Нарушает декарбоксилирование кета- кислот"
+    ]
+  },
+  {
+    "id": "pharm_639",
+    "arr": [
+      "Показания к применению рибофлавина (выбрать неправильный ответ)",
+      "Стоматиты (хейлоз), глосситы",
+      "Атония кишечника",
+      "Нарушение развития костной ткани",
+      "Полиневриты",
+      "e) Нарушение зрения (гемералопия)"
+    ]
+  },
+  {
+    "id": "pharm_640",
+    "arr": [
+      "Механизм действия никотиновой кислоты (выбрать неправильный ответ)",
+      "Входит в НАД и НАДФ",
+      "Участвует в распаде родопсина на свету",
+      "Улучшает микроциркуляцию",
+      "Участвует в переносе электронов и водорода в дыхательной цепи"
+    ]
+  },
+  {
+    "id": "pharm_641",
+    "arr": [
+      "Показания к применению никотиновой кислоты (выбрать неправильный ответ)",
+      "Гастриты, энтериты",
+      "Гемеролопия",
+      "Гипо- и гиперхромные анемии",
+      "Спазм сосудов конечностей"
+    ]
+  },
+  {
+    "id": "pharm_642",
+    "arr": [
+      "Указать нестероидное противовоспалительное средство",
+      "Преднизолон",
+      "Диклофенак натрия",
+      "Аскорбиновая кислота",
+      "Циметидин"
+    ]
+  },
+  {
+    "id": "pharm_643",
+    "arr": [
+      "Указать нестероидное противовоспалительное средство",
+      "Преднизолон",
+      "Аскорбиновая кислота",
+      "Пироксикам",
+      "Циметидин"
+    ]
+  },
+  {
+    "id": "pharm_644",
+    "arr": [
+      "Указать нестероидное противовоспалительное средство",
+      "Преднизолон",
+      "Аскорбиновая кислота",
+      "Циметидин",
+      "Ибупрофен"
+    ]
+  },
+  {
+    "id": "pharm_645",
+    "arr": [
+      "Указать основные виды фармакологического действия нестероидных противовоспалительных средств (выбрать неправильный ответ):",
+      "Противокашлевое",
+      "Жаропонижающее",
+      "Болеутоляющее",
+      "Противовоспалительное"
+    ]
+  },
+  {
+    "id": "pharm_646",
+    "arr": [
+      "Механизмы противовоспалительного действия НПВС (выбрать неправильный ответ)",
+      "Стабилизируют мембраны лизосом",
+      "Угнетают синтез коллагена, подавляя функцию фибробластов",
+      "Ингибируют циклоксигеназу и нарушают образование простагландинов",
+      "Нарушают синтез брадикинина, серотонина, гистамина"
+    ]
+  },
+  {
+    "id": "pharm_647",
+    "arr": [
+      "Механизм жаропонижающего действия НПВС (выбрать неправильный ответ)",
+      "Ингибируют циклооксигеназу и нарушают образование простагландинов",
+      "Нарушают синтез брадикинина",
+      "Угнетают образование коллагена, подавляя функцию фибробластов",
+      "Нарушают синтез пирогенных веществ, в результате понижают возбудимость центра терморегуляции"
+    ]
+  },
+  {
+    "id": "pharm_648",
+    "arr": [
+      "Механизм анальгетического действия НПВС (выбрать неправильный ответ)",
+      "Уменьшают воспалительную реакцию",
+      "Угнетают проведение болевых импульсов",
+      "Ингибируют циклооксигеназу и нарушают образование простагландинов",
+      "Нарушают синтез брадикинина"
+    ]
+  },
+  {
+    "id": "pharm_649",
+    "arr": [
+      "Показания к применению ацетилсалициловой кислоты (выбрать неправильный ответ)",
+      "Гипертермия",
+      "Ревматизм",
+      "Ишемическая болезнь сердца",
+      "Геморрагии"
+    ]
+  },
+  {
+    "id": "pharm_650",
+    "arr": [
+      "Отметить побочные эффекты, возникающие при применении салицилатов (выбрать неправильный ответ)",
+      "Диспепсические явления",
+      "Изъявления слизистой оболочки желудка",
+      "Геморрагии",
+      "Остеопороз"
+    ]
+  },
+  {
+    "id": "pharm_651",
+    "arr": [
+      "Особенности действия диклофенак-натрия (выбрать неправильный ответ)",
+      "Оказывает выраженное анальгетическое действие",
+      "Обладает выраженным противовоспалительным действием",
+      "Обладает судорожным действием",
+      "Вызывает диспепсические нарушения"
+    ]
+  },
+  {
+    "id": "pharm_652",
+    "arr": [
+      "Указать гормональные препараты гипофиза (выбрать неправильный ответ):",
+      "Окситоцин",
+      "Паратиреоидин",
+      "Кортикотропин",
+      "Гонадотропин хорионический"
+    ]
+  },
+  {
+    "id": "pharm_653",
+    "arr": [
+      "Фармакологические свойства, особенности действия, показания к применению и осложнения при применении мерказолила:",
+      "Нарушает синтез тиреотропного гормона гипофиза",
+      "Разрушает ткань железы",
+      "Вызывает разрастание ткани железы",
+      "Примняется при кретинизме"
+    ]
+  },
+  {
+    "id": "pharm_654",
+    "arr": [
+      "Фармакологические свойства, особенности действия, показания к применению и осложнения при применении мерказолила:",
+      "Нарушает синтез тиреотропного гормона гипофиза",
+      "Разрушает ткань железы",
+      "Примняется при кретинизме",
+      "Применяется при тиреотоксикозе"
+    ]
+  },
+  {
+    "id": "pharm_655",
+    "arr": [
+      "Фармакологические свойства, особенности действия,показания к применению и осложнения при применении мерказолила:",
+      "Нарушает синтез тиреотропного гормона гипофиза",
+      "Нарушает синтез тироксина и трииодтиронина",
+      "Разрушает ткань железы",
+      "Применяется при кретинизме"
+    ]
+  },
+  {
+    "id": "pharm_656",
+    "arr": [
+      "Фармакологические свойства, особенности действия, показания к применению и осложнения при применении мерказолила:",
+      "Нарушает синтез тиреотропного гормона гипофиза",
+      "Разрушает ткань железы",
+      "Примняется при кретинизме",
+      "Вызывает лейкопению, агранулоцитоз"
+    ]
+  },
+  {
+    "id": "pharm_657",
+    "arr": [
+      "Применение кальцитонина (кальцитрина):",
+      "Применяется при гипервитаминозе D",
+      "Применяется при спазмофилии",
+      "Применяется при тиреотоксикозе",
+      "Применяется при язвенной болезни"
+    ]
+  },
+  {
+    "id": "pharm_658",
+    "arr": [
+      "К препаратам поджелудочной железы относится:",
+      "Гидрокортизон",
+      "Метформин",
+      "Глибенкломид",
+      "Инсулин"
+    ]
+  },
+  {
+    "id": "pharm_659",
+    "arr": [
+      "К синтетическим гипогликемическим средствам:",
+      "Метформин",
+      "Трииодтиронин",
+      "Тестостерон",
+      "Инсулин"
+    ]
+  },
+  {
+    "id": "pharm_660",
+    "arr": [
+      "К синтетическим гипогликемическим средствам:",
+      "Трииодтиронин",
+      "Глибенкломид",
+      "Тестостерон",
+      "Инсулин"
+    ]
+  },
+  {
+    "id": "pharm_661",
+    "arr": [
+      "Механизм действия инсулина:",
+      "Подавляет глюконеогенез",
+      "Нарушает превращение глюкозы в гликоген",
+      "Истощает гликогеновый резерв печени",
+      "Усиливают глюконеогенез"
+    ]
+  },
+  {
+    "id": "pharm_662",
+    "arr": [
+      "Механизм действия инсулина:",
+      "Снижает уровень сахара в крови за счет активного транспортаглюкозы в клетки",
+      "Нарушает превращение глюкозы в гликоген",
+      "Истощает гликогеновый резерв печени",
+      "Усиливают глюконеогенез"
+    ]
+  },
+  {
+    "id": "pharm_663",
+    "arr": [
+      "Механизм действия инсулина:",
+      "Нарушает превращение глюкозы в гликоген",
+      "Истощает гликогеновый резерв печени",
+      "Уменьшает образование недоокисленных продуктов (ацетоновых и кетоновых тел)",
+      "Усиливают глюконеогенез"
+    ]
+  },
+  {
+    "id": "pharm_664",
+    "arr": [
+      "Указать гормональный препарат паращитовидной железы:",
+      "Кальцитрин",
+      "Метандростенолон",
+      "Мерказолил",
+      "Паратиреоидин"
+    ]
+  },
+  {
+    "id": "pharm_665",
+    "arr": [
+      "К гормональным препаратам и синтетическим заменителям глюкокортикоидов относится все кроме:",
+      "Беклометазон",
+      "Феноболин",
+      "Гидрокортизон",
+      "Дексаметазон"
+    ]
+  },
+  {
+    "id": "pharm_666",
+    "arr": [
+      "Механизм противоаллергического действия глюкокортикоидов (выбрать неправильный ответ):",
+      "Нарушают выход гистамина",
+      "Стабилизируют мембраны тучных клеток",
+      "Нарушают образование антител",
+      "Усиливают синтез лимфоцитов"
+    ]
+  },
+  {
+    "id": "pharm_667",
+    "arr": [
+      "Осложнеия при применении анаболических стероидов:",
+      "Вирилизм у девочек и ускорение закрытия зон роста костей",
+      "Кальцификация сосудов легких, сердца, мозга и ускорение закрытия зон роста костей",
+      "Остеопороз",
+      "Гипогликемическая кома"
+    ]
+  },
+  {
+    "id": "pharm_668",
+    "arr": [
+      "Указать эстрогенный препарат:",
+      "Прогестерона пропионат",
+      "Синэстрол",
+      "Кортикотропин",
+      "Беклометазон"
+    ]
+  },
+  {
+    "id": "pharm_669",
+    "arr": [
+      "Указать эстрогенный препарат:",
+      "Прогестерона пропионат",
+      "Кортикотропин",
+      "Беклометазон",
+      "Эстрадиол"
+    ]
+  },
+  {
+    "id": "pharm_670",
+    "arr": [
+      "Фармакологические свойства эстрогенных препаратов (выбрать неправильный ответ):",
+      "Оказывают токолитическое действие",
+      "Повышают чувствительность к окситоцину и усиливают ритмические сокращения матки",
+      "Поддерживают пролиферативную фазу циклических изменений в матке",
+      "Усиливают образование сократительного белка миометрия"
+    ]
+  },
+  {
+    "id": "pharm_671",
+    "arr": [
+      "Показания к применению эстрогенных препаратов (выбрать неправильный ответ):",
+      "Аменорея",
+      "Преждевременные роды",
+      "Слабость родовой деятельности",
+      "Маточные кровотечения"
+    ]
+  },
+  {
+    "id": "pharm_672",
+    "arr": [
+      "Указать гестагенный препарат:",
+      "Преднизолон",
+      "Синэстрол",
+      "Кортикотропин",
+      "Прогестерона пропионат"
+    ]
+  },
+  {
+    "id": "pharm_673",
+    "arr": [
+      "Указать гестагенный препарат:",
+      "Преднизолон",
+      "Синэстрол",
+      "Эстрадиол",
+      "Оксипрогестерон"
+    ]
+  },
+  {
+    "id": "pharm_674",
+    "arr": [
+      "Фармакологические свойства прогестерона (выбрать неправильный ответ):",
+      "Поддерживает пролиферативную фазу циклических изменений в матке",
+      "Оказывает токолитическое действие",
+      "Переводит фазу пролиферации в фазу секреции",
+      "Вызывает гиперполяризацию мембран"
+    ]
+  },
+  {
+    "id": "pharm_675",
+    "arr": [
+      "Показания к применению прогестерона *выбрать неправильный ответ):",
+      "Аменорея",
+      "Преждевременные роды",
+      "Угрожающий выкидыш",
+      "Слабость родовой деятельности"
+    ]
+  },
+  {
+    "id": "pharm_676",
+    "arr": [
+      "Указать андрогенный препарат:",
+      "Ретаболил",
+      "Тестостерон",
+      "Прогестерон",
+      "Метандростенолон"
+    ]
+  },
+  {
+    "id": "pharm_677",
+    "arr": [
+      "Указать андрогенный препарат:",
+      "Ретаболил",
+      "Прогестерон",
+      "Метандростенолон",
+      "Метилтестостерон"
+    ]
+  },
+  {
+    "id": "pharm_678",
+    "arr": [
+      "Симптомы гипервитаминоза витамина С:",
+      "Кальцификация сосудов сердца, мозга, легких",
+      "Остеопороз",
+      "Снижение активности бета- клеток поджелудочной железы",
+      "Нарушение дыхания"
+    ]
+  },
+  {
+    "id": "pharm_679",
+    "arr": [
+      "Осложнения при применении тиамина (выбрать неправильный ответ):",
+      "Повышение внутричерепного давления",
+      "Тиаминовый шок",
+      "Нарушение дыхания",
+      "Аллергические реакции"
+    ]
+  },
+  {
+    "id": "pharm_680",
+    "arr": [
+      "Указать производное салициловой кислоты:",
+      "Диазолин",
+      "Преднизолон",
+      "Ацетилсалициловая кислота",
+      "Мефенамовая кислота"
+    ]
+  },
+  {
+    "id": "pharm_681",
+    "arr": [
+      "Указать производное пиразолона:",
+      "Индометацин",
+      "Пироксикам",
+      "Мефенамовая кислота",
+      "Анальгин"
+    ]
+  },
+  {
+    "id": "pharm_682",
+    "arr": [
+      "Как влияют НПВС на иммунные процессы?",
+      "Угнетают лимфопоэз",
+      "Оказывают лимфолитическое действие",
+      "Тормозят кооперацию Т- и В- лимфоцитов",
+      "Угнетают фагоцитоз"
+    ]
+  },
+  {
+    "id": "pharm_683",
+    "arr": [
+      "Особенности действия ацетилсалициловой кислоты (выбрать неправильный ответ):",
+      "Нарушает агрегацию тромбоцитов",
+      "Оказывает анальгезирующее действие",
+      "Вызывает кровотечения",
+      "Стабилизирует мембраны лизосом"
+    ]
+  },
+  {
+    "id": "pharm_684",
+    "arr": [
+      "Что характерно для производных пиразолона (выбрать неправильный ответ)?",
+      "Анальгетическое действие",
+      "Противовоспалительная активность",
+      "Вызывают лейкопению",
+      "Тормозят агрегацию тромбоцитов"
+    ]
+  },
+  {
+    "id": "pharm_685",
+    "arr": [
+      "Отметить производные парааминофенола (выбрать один правильный ответ):",
+      "Анальгин",
+      "Пироксикам",
+      "Парацетамол",
+      "Индометацин"
+    ]
+  },
+  {
+    "id": "pharm_686",
+    "arr": [
+      "Профилактика невритов, вызванных изониазидом, включает в себя:",
+      "Витамин К",
+      "Обильное щелочное питье",
+      "Витамин D",
+      "Витамины В1 и B",
+      "e)"
+    ]
+  },
+  {
+    "id": "pharm_687",
+    "arr": [
+      "Какой побочный эффект ацетилсалициловой кислоты отличает этот препарат от других нестероидных противовоспалительных средств:?",
+      "Бронхоспазм",
+      "Геморрагический синдром",
+      "Синдром Рейя",
+      "Раздражение слизистой оболочки желудка"
+    ]
+  },
+  {
+    "id": "pharm_688",
+    "arr": [
+      "Укажите фармакологические эффекты нестероидных противовоспалительных средств:",
+      "Жаропонижающий и противовоспалительный",
+      "Анальгетический и противоаллергический",
+      "Противовоспалительный и противорвотный",
+      "Иммуностимулирующий и противовоспалительный"
+    ]
+  },
+  {
+    "id": "pharm_689",
+    "arr": [
+      "Препарат, относящийся к группе селективных ингибиторов ЦОГ:",
+      "Преднизолон",
+      "Индометацин",
+      "Диклофенак-натрия",
+      "Целекоксиб"
+    ]
+  },
+  {
+    "id": "pharm_690",
+    "arr": [
+      "Показанием для применения ацетилсалициловой кислоты является",
+      "Ишемическая болезнь сердца",
+      "Язвенная болезнь желудка",
+      "Лихорадка у детей с вирусной инфекцией",
+      "Бронхиальная астма"
+    ]
+  },
+  {
+    "id": "pharm_691",
+    "arr": [
+      "Укажите витамины-антиоксиданты:",
+      "Аскорбиновая кислота и токоферол",
+      "Токоферол и цианокобаламин",
+      "Цианокобаламин и ретинол",
+      "Токоферол и тиамин"
+    ]
+  },
+  {
+    "id": "pharm_692",
+    "arr": [
+      "Один из основных эффектов глюкокортикоидов (выбрать один правильный ответ):",
+      "Понижение уровня глюкозы в крови",
+      "Анаболический эффект",
+      "Противовоспалительное действие",
+      "Задержка в организме К+ и Са++"
+    ]
+  },
+  {
+    "id": "pharm_693",
+    "arr": [
+      "Показанием для применения глюкокортикоидов является:",
+      "Остеопороз",
+      "Отеки",
+      "Анафилактический шок",
+      "Гипергликемическая кома"
+    ]
+  },
+  {
+    "id": "pharm_694",
+    "arr": [
+      "Побочные эффекты глюкокортикоидов:",
+      "Гипогликемия и тахикардия",
+      "Кахексия и остеопороз",
+      "Остеопороз и гипергликемия",
+      "Остеопороз и тахикардия"
+    ]
+  },
+  {
+    "id": "pharm_695",
+    "arr": [
+      "Для лечения диабетической комы применяют:",
+      "Преднизолон",
+      "40% раствор глюкозы",
+      "Глюкагон",
+      "Инсулин"
+    ]
+  },
+  {
+    "id": "pharm_696",
+    "arr": [
+      "Для лечения гипогликемической комы применяют:",
+      "Глюкагон и тироксин",
+      "Инсулин для инъекций",
+      "Преднизолон",
+      "40% раствор глюкозы"
+    ]
+  },
+  {
+    "id": "pharm_697",
+    "arr": [
+      "Анаболические стероиды:",
+      "Выводят из организма Са++",
+      "Задерживают в организме Na+ иводу",
+      "Угнетают синтез белка",
+      "Уменьшают мышечную массу"
+    ]
+  },
+  {
+    "id": "pharm_698",
+    "arr": [
+      "Анаболическим действием обладает препарат:",
+      "Трийодтиронин",
+      "Тиреоидин",
+      "Дексаметазон",
+      "Инсулин"
+    ]
+  },
+  {
+    "id": "pharm_699",
+    "arr": [
+      "К неорганическим антисептическим средствам относится все, кроме:",
+      "Хлорамин",
+      "Метиленовый синий",
+      "Перекись водорода",
+      "Перманганат калия"
+    ]
+  },
+  {
+    "id": "pharm_700",
+    "arr": [
+      "К антисептическим средствам из группы красителей относится все, кроме:",
+      "Резорцин",
+      "Брилиантовый зеленый",
+      "Метиленовый синий",
+      "Этакридина лактат"
+    ]
+  },
+  {
+    "id": "pharm_701",
+    "arr": [
+      "Указать антисептические средства из группы окислителей:",
+      "Бриллиантовый зеленый, цинка окись",
+      "Перекись водорода, этакридина лактат",
+      "Перманганат калия, метиленовый синий",
+      "Перекись водорода, перманганат калия"
+    ]
+  },
+  {
+    "id": "pharm_702",
+    "arr": [
+      "Отметить антисептические средства, применяемые для обработки рук хирурга (выбрать неправильный ответ):",
+      "Спирт этиловый",
+      "Раствор йода",
+      "Этакридина лактат",
+      "Церигель"
+    ]
+  },
+  {
+    "id": "pharm_703",
+    "arr": [
+      "Выбрать средства, применяемые при отравлении солями тяжелых металлов (выбрать неправильный ответ):",
+      "Дипироксим",
+      "Тетацин-кальций",
+      "Унитиол",
+      "Тиосульфат натрия"
+    ]
+  },
+  {
+    "id": "pharm_704",
+    "arr": [
+      "Выбрать группу β-лактамных антибиотиков:",
+      "Полимиксины",
+      "Пенициллины",
+      "Тетрациклины",
+      "Рифамицины"
+    ]
+  },
+  {
+    "id": "pharm_705",
+    "arr": [
+      "Выбрать группу β-лактамных антибиотиков:",
+      "Полимиксины",
+      "Цефалоспорины",
+      "Тетрациклины",
+      "Рифамицины"
+    ]
+  },
+  {
+    "id": "pharm_706",
+    "arr": [
+      "Выбрать группу β-лактамных антибиотиков:",
+      "Полимиксины",
+      "Монобактамы",
+      "Тетрациклины",
+      "Рифамицины"
+    ]
+  },
+  {
+    "id": "pharm_707",
+    "arr": [
+      "Выбрать группу β-лактамных антибиотиков:",
+      "Полимиксины",
+      "Тетрациклины",
+      "Рифамицины",
+      "Карбопенемы"
+    ]
+  },
+  {
+    "id": "pharm_708",
+    "arr": [
+      "Указать пенициллины, устойчивые в кислой среде желудка (выбрать неправильный ответ):",
+      "Оксациллин",
+      "Ампициллин",
+      "Цефалотин",
+      "Амоксициллин"
+    ]
+  },
+  {
+    "id": "pharm_709",
+    "arr": [
+      "Выбрать пенициллины, устойчивые к действию пенициллиназы (выбрать неправильный ответ):",
+      "Ампиокс",
+      "Феноксиметилпенициллин",
+      "Амоксиклав",
+      "Оксациллин"
+    ]
+  },
+  {
+    "id": "pharm_710",
+    "arr": [
+      "Отметить антибиотик, нарушающий синтез микробной стенки:",
+      "Леворин",
+      "Цефтазидим",
+      "Стрептомицин",
+      "Азтреонам"
+    ]
+  },
+  {
+    "id": "pharm_711",
+    "arr": [
+      "Отметить антибиотик, нарушающий синтез микробной стенки:",
+      "Леворин",
+      "Бензилпенициллин",
+      "Стрептомицин",
+      "Азтреонам"
+    ]
+  },
+  {
+    "id": "pharm_712",
+    "arr": [
+      "Отметить антибиотик, нарушающие синтез микробной стенки:",
+      "Леворин",
+      "Имипенем",
+      "Стрептомицин",
+      "Азтреонам"
+    ]
+  },
+  {
+    "id": "pharm_713",
+    "arr": [
+      "Механизм и особенности действия бензилпенициллина натриевой соли (выбрать неправильный ответ):",
+      "Нарушает синтез уридиновых оснований",
+      "Блокирует транспептидазу",
+      "Нарушает синтез муреина",
+      "Нарушает синтез микробной стенки"
+    ]
+  },
+  {
+    "id": "pharm_714",
+    "arr": [
+      "Что характерно для амоксициллина (выбрать неправильный ответ)?",
+      "Препарат широкого спектра действия",
+      "Устойчив к действию пенициллиназы",
+      "Не разрушается в кислой среде желудка.4Действует бактерицидно"
+    ]
+  },
+  {
+    "id": "pharm_715",
+    "arr": [
+      "Какие побочные реакции наблюдаются при использовании пенициллинов (выбрать неправильный ответ)?",
+      "Крапивница",
+      "Снижение слуха и вестибулярные расстройства",
+      "Анафилактический шок",
+      "Дизбактериоз"
+    ]
+  },
+  {
+    "id": "pharm_716",
+    "arr": [
+      "Отметить механизм действия сульфаниламидных препаратов:",
+      "Нарушение ферментативного контроля за синтезом фолиевой кислоты",
+      "Нарушение синтеза белка в микробной клетке",
+      "Блокада синтетазы",
+      "Нарушение клеточной стенки микроорганизмов"
+    ]
+  },
+  {
+    "id": "pharm_717",
+    "arr": [
+      "Отметить механизм действия сульфаниламидных препаратов:",
+      "Нарушение синтеза белка в микробной клетке",
+      "Блокада синтетазы",
+      "Нарушение клеточной стенки микроорганизмов",
+      "Конкурентный антагонизм с ПАБК в процессе синтеза фолиевой кислоты"
+    ]
+  },
+  {
+    "id": "pharm_718",
+    "arr": [
+      "Какие осложнения могут возникнуть при применении сульфаниламидов (выбрать неправильный ответ)?",
+      "Анемия, лейкопения",
+      "Вестибулярные расстройства",
+      "Аллергические реакции",
+      "Кристаллурия"
+    ]
+  },
+  {
+    "id": "pharm_719",
+    "arr": [
+      "Указать механизм действия цефалоспоринов (выбрать неправильный ответ)",
+      "Нарушают проницаемость цитоплазматической мембраны",
+      "Угнетают транспептидазу",
+      "Угнетают синтез муреина на 1-м этапе",
+      "Ингибируют синтез микробной стенки (оболочки)"
+    ]
+  },
+  {
+    "id": "pharm_720",
+    "arr": [
+      "Выбрать цефалоспорины 3 -го поколения:",
+      "Цефуроксим",
+      "Цефтазидим",
+      "Цефазолин",
+      "Цефалотин"
+    ]
+  },
+  {
+    "id": "pharm_721",
+    "arr": [
+      "Выбрать цефалоспорины 3 -го поколения:",
+      "Цефуроксим",
+      "Цефотаксим",
+      "Цефазолин",
+      "Цефалотин"
+    ]
+  },
+  {
+    "id": "pharm_722",
+    "arr": [
+      "Выбрать цефалоспорины 4-го поколения:",
+      "Цефуроксим",
+      "Цефтазидим",
+      "Цефотаксим",
+      "Цефепим"
+    ]
+  },
+  {
+    "id": "pharm_723",
+    "arr": [
+      "Выбрать цефалоспорины 2-го поколения:",
+      "Цефуроксим",
+      "Цефтазидим",
+      "Цефотаксим",
+      "Цефепим"
+    ]
+  },
+  {
+    "id": "pharm_724",
+    "arr": [
+      "Выбрать цефалоспорины 1 -го поколения:",
+      "Цефуроксим",
+      "Цефотаксим",
+      "Цефазолин",
+      "Цефалотин"
+    ]
+  },
+  {
+    "id": "pharm_725",
+    "arr": [
+      "Цефалоспорины, активные против синегнойной палочки (выбрать неправильный ответ):",
+      "Цефтазидим",
+      "Цефотаксим",
+      "Цефоперазон",
+      "Цефепим"
+    ]
+  },
+  {
+    "id": "pharm_726",
+    "arr": [
+      "Указать антибиотики, нарушающие проницаемость цитоплазматической мембраны:",
+      "Стрептомицина сульфат",
+      "Леворин",
+      "Тетрациклин",
+      "Линкомицин"
+    ]
+  },
+  {
+    "id": "pharm_727",
+    "arr": [
+      "Указать антибиотики, нарушающие проницаемость цитоплазматической мембраны:",
+      "Стрептомицина сульфат",
+      "Тетрациклин",
+      "Линкомицин",
+      "Грамицидин"
+    ]
+  },
+  {
+    "id": "pharm_728",
+    "arr": [
+      "Указать антибиотики, нарушающие проницаемость цитоплазматической мембраны:",
+      "Стрептомицина сульфат",
+      "Тетрациклин",
+      "Нистатин",
+      "Линкомицин"
+    ]
+  },
+  {
+    "id": "pharm_729",
+    "arr": [
+      "Указать антибиотики, нарушающие проницаемость цитоплазматической мембраны:",
+      "Стрептомицина сульфат",
+      "Тетрациклин",
+      "Полимиксина сульфат",
+      "Линкомицин"
+    ]
+  },
+  {
+    "id": "pharm_730",
+    "arr": [
+      "Каков механизм и спектр действия аминогликозидов (выбрать неправильный ответ)?",
+      "Нарушают синтез белка микробной клетки",
+      "Нарушают проницаемость цитоплазматической мембраны",
+      "Накапливаясь на рибосомах, нарушают генетическое кодирование",
+      "Губительно действуют на микобактерии туберкулеза, туляремии, чумы, синегнойную палочку, бруцеллы"
+    ]
+  },
+  {
+    "id": "pharm_731",
+    "arr": [
+      "Отметить основные свойства макролидов (выбрать неправильный ответ):",
+      "Влияют в основном на грамположительные бактерии",
+      "Действуют на синегнойную палочку",
+      "В основе молекулы содержат макролактонное кольцо",
+      "Угнетают активность транслоказы, нарушая синтез белка микробной клетки"
+    ]
+  },
+  {
+    "id": "pharm_732",
+    "arr": [
+      "Указать основные свойства тетрациклинов (выбрать неправильный ответ):",
+      "Оказывают бактериостатическое действие",
+      "Действуют на протей, синегнойную палочку, патогенные грибы",
+      "Нарушают синтез белка за счет нарушения переноса аминокислот с РНК на рибосомы",
+      "Снижают энергетический потенциал микробной клетки вследствие разобщения процессов сопряженного окислительного фосфорилирования"
+    ]
+  },
+  {
+    "id": "pharm_733",
+    "arr": [
+      "Отметить основные свойства полимиксинов (выбрать неправильный ответ):",
+      "Действуют на синегнойную палочку и кишечные бактерии",
+      "Оказывают бактерицидный эффект",
+      "Угнетают костно-мозговое кроветворение",
+      "Нарушают проницаемость цитоплазматической мембраны"
+    ]
+  },
+  {
+    "id": "pharm_734",
+    "arr": [
+      "Какие осложнения вызывают аминогликозиды (выбрать неправильный ответ)?",
+      "Нарушение нервно-мышечной передачи",
+      "Ототоксическое действие",
+      "Поражение VIII пары черепно-мозговых нервов",
+      "Угнетение кроветворения"
+    ]
+  },
+  {
+    "id": "pharm_735",
+    "arr": [
+      "Выбрать противовирусные средства (выбрать неправильный ответ):",
+      "Ацикловир",
+      "Ремантадин",
+      "Интерферон",
+      "Фурадонин"
+    ]
+  },
+  {
+    "id": "pharm_736",
+    "arr": [
+      "Механизм действия интерферона",
+      "Блокирует бактериальный фермент ДНК-гиразу",
+      "Нарушает синтез муреина",
+      "Нарушает перенос аминокислот с РНК на рибосомы",
+      "Ингибирует вирусную ДНК-полимеразу"
+    ]
+  },
+  {
+    "id": "pharm_737",
+    "arr": [
+      "Выбрать производное нитрофурана:",
+      "Ампициллин",
+      "Фурациллин",
+      "Ремантадин",
+      "Оксациллин"
+    ]
+  },
+  {
+    "id": "pharm_738",
+    "arr": [
+      "Выбрать производные нитрофурана:",
+      "Ампициллин",
+      "Фуразолидон",
+      "Ремантадин",
+      "Оксациллин"
+    ]
+  },
+  {
+    "id": "pharm_739",
+    "arr": [
+      "Выбрать производные нитрофурана:",
+      "Ампициллин",
+      "Ремантадин",
+      "Оксациллин",
+      "Фурагин"
+    ]
+  },
+  {
+    "id": "pharm_740",
+    "arr": [
+      "Выбрать производные нитрофурана:",
+      "Ампициллин",
+      "Ремантадин",
+      "Оксациллин",
+      "Фурадонин"
+    ]
+  },
+  {
+    "id": "pharm_741",
+    "arr": [
+      "Механизм действия производных нитрофурана",
+      "Нарушают перенос аминокислот с РНК на рибосомы",
+      "Связывают ионы двухвалентного железа",
+      "Образуют комплексы с ионами металлов, необходимых для активации ферментных систем",
+      "Блокируют НАДН, нарушают цикл трикарбоновых кислот (цикл Кребса)"
+    ]
+  },
+  {
+    "id": "pharm_742",
+    "arr": [
+      "Выбрать производные хинолонафторхинолона",
+      "Ампициллин",
+      "Офлоксацин",
+      "Фурадонин",
+      "Фуразолидон"
+    ]
+  },
+  {
+    "id": "pharm_743",
+    "arr": [
+      "Выбрать производные хинолонафторхинолона",
+      "Ампициллин",
+      "Ципрофлоксацин",
+      "Фурадонин",
+      "Фурагин"
+    ]
+  },
+  {
+    "id": "pharm_744",
+    "arr": [
+      "Выбрать производные хинолонафторхинолона",
+      "Ампициллин",
+      "Левофлоксацин",
+      "Фурадонин",
+      "Фурагин"
+    ]
+  },
+  {
+    "id": "pharm_745",
+    "arr": [
+      "Механизм действия производных фторхинолона",
+      "Блокируют бактериальный фермент ДНК-гиразу и топоизомеразу IV",
+      "Нарушают перенос аминокислот с РНК на рибосомы",
+      "Образуют комплексы с ионами металлов, необходимых для активации ферментных систем",
+      "Блокируют НАДН, нарушают цикл трикарбоновых кислот (Кребса)"
+    ]
+  },
+  {
+    "id": "pharm_746",
+    "arr": [
+      "Выбрать противотуберкулезные средства 1-й группы (выбрать неправильный ответ)",
+      "Изониазид",
+      "Фтивазид",
+      "Пиразинамид",
+      "Рафампицин"
+    ]
+  },
+  {
+    "id": "pharm_747",
+    "arr": [
+      "Каков механизм действия производных гидразида изоникотиновой кислоты",
+      "Нарушают синтез белка микробной клетки",
+      "Нарушают проницаемость цитоплазматической мембраны",
+      "Блокируют ферменты микобактерий (каталазу, дегидрогеназы, дезоксирибонуклеазу)",
+      "Являются конкурентными антагонистами ПАБК"
+    ]
+  },
+  {
+    "id": "pharm_748",
+    "arr": [
+      "Каков механизм действия производных гидразида изоникотиновой кислоты",
+      "Нарушают синтез белка микробной клетки",
+      "Нарушают проницаемость цитоплазматической мембраны",
+      "Являются конкурентными антагонистами ПАБК",
+      "Угнетают синтез миколевых кислот и нарушают структуру клеточной стенки"
+    ]
+  },
+  {
+    "id": "pharm_749",
+    "arr": [
+      "Указать противобластомные алкиллирующие средства: (выбрать неправильный ответ):",
+      "Тиофосфамид",
+      "Винбластин",
+      "Проспидин",
+      "Допан"
+    ]
+  },
+  {
+    "id": "pharm_750",
+    "arr": [
+      "Указать противобластомные средства, являющиеся антиметаболитами (выбрать неправильный ответ):",
+      "Метотрексат",
+      "Тамоксифен",
+      "Меркаптопурин",
+      "Фторурацил"
+    ]
+  },
+  {
+    "id": "pharm_751",
+    "arr": [
+      "Указать основные показания к применению метотрексата и меркаптопурина (выбрать неправильный ответ) :",
+      "Рак желудка",
+      "Острый лейкоз",
+      "Лимфагрануломатоз",
+      "Ревматоидный артрит"
+    ]
+  },
+  {
+    "id": "pharm_752",
+    "arr": [
+      "Указать побочные эффекты, типичные для цитостатических средств (выбрать неправильный ответ):",
+      "Лейкоцитоз",
+      "Тромбоцитопения, анемия",
+      "Поражение слизистой ЖКТ",
+      "Рвота"
+    ]
+  },
+  {
+    "id": "pharm_753",
+    "arr": [
+      "К иммунодепрессантам относится все:",
+      "Левамизол",
+      "Меркаптопурин",
+      "Циклоспорин",
+      "Азатиоприн"
+    ]
+  },
+  {
+    "id": "pharm_754",
+    "arr": [
+      "К иммуностимуляторам относится все, кроме:",
+      "Интерферон",
+      "Хлорбутин",
+      "Тактивин",
+      "Продигиозан"
+    ]
+  },
+  {
+    "id": "pharm_755",
+    "arr": [
+      "Указать возможные пути подавления иммунного ответа (выбрать неправильный ответ):",
+      "Подавить синтез белка и образование антител",
+      "Стимулировать кооперацию Т- и В- лимфоцитов",
+      "Разрушить сформировавшиеся лимфоциты",
+      "Нарушить образование Т- и В- лимфоцитов"
+    ]
+  },
+  {
+    "id": "pharm_756",
+    "arr": [
+      "Указать возможные пути стимулирования иммунной системы (выбрать неправильный ответ):",
+      "Активация синтеза нуклеиновых кислот",
+      "Подавить активность лимфокинов",
+      "Подавить активность Т-супрессоров",
+      "Стимулировать кооперацию Т- и В- лимфоцитов"
+    ]
+  },
+  {
+    "id": "pharm_757",
+    "arr": [
+      "Выбрать, что не относится к показаниям для применения иммуностимуляторов:",
+      "Хронические инфекции",
+      "Комплексная терапия иммунодефицитных состояний",
+      "Хронические гнойные воспаления мягких тканей и костей",
+      "Гипертоническая болезнь"
+    ]
+  },
+  {
+    "id": "pharm_758",
+    "arr": [
+      "Выбрать что не относится к показаниям для применения иммунодепрессантов:",
+      "Для подавления реакции тканевой несовместимости в трансплантологии",
+      "Злокачественные новообразования",
+      "Аутоиммунные заболевания",
+      "Хронические гнойные воспаления мягких тканей и костей"
+    ]
+  },
+  {
+    "id": "pharm_759",
+    "arr": [
+      "Атропин устраняет брадикардию и АВ-блокаду, так как:",
+      "блокирует М-холинорецепторы и уменьшает влияние блуждающего нерва на сердце",
+      "стимулирует β-адренорецепторы и повышает активность симпатической нервной системы",
+      "блокирует медленные кальциевые каналы и снижает сократимость миокарда",
+      "блокирует калиевые каналы и замедляет скорость реполяризации"
+    ]
+  },
+  {
+    "id": "pharm_760",
+    "arr": [
+      "Нежелательным эффектом при применении адреналина является:",
+      "брадиаритмия",
+      "артериальная гипертензия",
+      "гипогликемия",
+      "повышение внутриглазного давления"
+    ]
+  },
+  {
+    "id": "pharm_761",
+    "arr": [
+      "Терапевтически значимым фармакологическим эффектом пропранолола является:",
+      "понижение силы и частоты сокращений сердца",
+      "повышение продукции внутриглазной жидкости",
+      "понижение тонуса бронхов",
+      "повышение секреции ренина"
+    ]
+  },
+  {
+    "id": "pharm_762",
+    "arr": [
+      "Показанием к применению адреналина как средства неотложной помощи является:",
+      "анафилактический шок",
+      "отек легких",
+      "гипертонический криз",
+      "пароксизмальная желудочковая тахикардия"
+    ]
+  },
+  {
+    "id": "pharm_763",
+    "arr": [
+      "Препарат, используемый для отмены эффектов бензодиазепинов:",
+      "налоксон",
+      "налтрексон",
+      "диазепам",
+      "флумазенил"
+    ]
+  },
+  {
+    "id": "pharm_764",
+    "arr": [
+      "Препарат, являющийся специфическим антагонистом морфина:",
+      "налоксон",
+      "диазепам",
+      "флумазенил",
+      "трамадол"
+    ]
+  },
+  {
+    "id": "pharm_765",
+    "arr": [
+      "К противоаритмическим средствам 1 класса (блокаторам натриевых каналов) относят:",
+      "прокаинамид и верапамил",
+      "лидокаин и пропранолол",
+      "хинидин и прокаинамид",
+      "метопролол и новокаинамид",
+      "e) сердечной недостаточности"
+    ]
+  },
+  {
+    "id": "pharm_766",
+    "arr": [
+      "Для купирования желудочковой аритмии при остром инфаркте миокарда применяют:",
+      "лидокаин",
+      "атропин",
+      "пропранолол",
+      "верапамил"
+    ]
+  },
+  {
+    "id": "pharm_767",
+    "arr": [
+      "К сердечным гликозидам относят:",
+      "допамин",
+      "дигоксин",
+      "адреналин",
+      "пропранолол"
+    ]
+  },
+  {
+    "id": "pharm_768",
+    "arr": [
+      "Укажите антибиотик, обладающий выраженным антибактериальным действием и противопоказанный детям до 8 лет:",
+      "пенициллин",
+      "цефотаксим",
+      "фузидин",
+      "тетрациклин"
+    ]
+  },
+  {
+    "id": "pharm_769",
+    "arr": [
+      "Иммунекомпетентные клетки, являющиеся мишенью для циклоспорина А:",
+      "В-лимфоциты и макрофаги",
+      "избирательно Т-лимфоциты",
+      "избирательно В-лимфоциты",
+      "Т-лимфоциты и В-лимфоциты"
+    ]
+  },
+  {
+    "id": "pharm_770",
+    "arr": [
+      "Укажите механизм антимикробного действия офлоксацина:",
+      "блок ДНК-полимеразы и нарушение синтеза ДНК",
+      "блок ДНК-гиразы и нарушение сверхспирализации ДНК",
+      "блок транспептидазы и нарушение синтеза клеточной стенки",
+      "нарушение целостности ЦПМ"
+    ]
+  },
+  {
+    "id": "pharm_771",
+    "arr": [
+      "Укажите основные фармакокинетические принципы химиотерапии:",
+      "выбор оптимальной дозы и пути введения антибиотиков",
+      "назначение минимально эффективных доз антибиотиков с целью снижения токсичности",
+      "выбор оптимального пути введения",
+      "выбоминимально эффективных доз антибиотиков с целью снижения токсичности"
+    ]
+  },
+  {
+    "id": "pharm_772",
+    "arr": [
+      "Укажите препарат, используемый для профилактики гриппа:",
+      "азидотимидин",
+      "идоксуридин",
+      "ацикловир",
+      "ремантадин"
+    ]
+  },
+  {
+    "id": "pharm_773",
+    "arr": [
+      "Укажите один из механизмов, вызывающий резистентность бактерий к β-лактамным антибиотикам:",
+      "блокада ДНК-гиразы",
+      "блокада транслоказы",
+      "ферментная инактивация",
+      "повышение проницаемости клеточной стенки бактерий для антибиотиков"
+    ]
+  },
+  {
+    "id": "pharm_774",
+    "arr": [
+      "Укажите препарат, угнетающий синтез вирусных структурных белков и тем самым нарушающий сборку вирионов оспы:",
+      "азидотимидин",
+      "ацикловир",
+      "метисазон",
+      "мидантан"
+    ]
+  },
+  {
+    "id": "pharm_775",
+    "arr": [
+      "При одновременном введении в организм больного комбинации стрептомицина и гентамицина возможно развитие:",
+      "фотосенсибилизации",
+      "ототоксичности",
+      "токсического воздействия на костную ткань",
+      "холестаза"
+    ]
+  },
+  {
+    "id": "pharm_776",
+    "arr": [
+      "Укажите препарат, блокирующий обратную транскриптазу онкорновирусов и применяемый в комплексной терапии СПИДа:",
+      "ацикловир",
+      "мидантан",
+      "азидотимидин",
+      "идоксуридин"
+    ]
+  },
+  {
+    "id": "pharm_777",
+    "arr": [
+      "Показанием для применения глюкокортикоидов является:",
+      "остеопороз",
+      "отеки",
+      "анафилактический шок",
+      "гипергликемическая кома"
+    ]
+  },
+  {
+    "id": "pharm_778",
+    "arr": [
+      "Отметить антисептические средства из групп альдегидов и спиртов:",
+      "Формальдегид, хлорамин",
+      "Метиленовый синий, перекись водорода",
+      "Фурацилин, спирт этиловый",
+      "Формальдегид, спирт этиловый"
+    ]
+  },
+  {
+    "id": "pharm_779",
+    "arr": [
+      "Указать антисептики из группы детергентов (выбрать неправильный ответ):",
+      "Этоний",
+      "Церигель",
+      "Хлорамин",
+      "Хлоргексидин"
+    ]
+  },
+  {
+    "id": "pharm_780",
+    "arr": [
+      "Отметить симптомы острого отравления ртутными соединениями (выбрать неправильный ответ):",
+      "Острая сердечная и сосудистая недостаточность",
+      "Фотофобия",
+      "Возбуждение ЦНС, сменяющееся угнетением",
+      "Тошнота, рвота, резкие боли в животе"
+    ]
+  },
+  {
+    "id": "pharm_781",
+    "arr": [
+      "Механизм действия бензилпенициллина натриевой соли (выбрать неправильный ответ):",
+      "Нарушает синтез уридиновых оснований",
+      "Блокирует транспептидазу и нарушает синтез муреина",
+      "Нарушает синтез микробной стенки",
+      "Действует бактерицидно"
+    ]
+  },
+  {
+    "id": "pharm_782",
+    "arr": [
+      "Особенности действия и применения бензилпенициллина натриевой соли (выбрать неправильный ответ):",
+      "Препарат широкого спектра действия",
+      "Действует на грамположительные и грамотрицательные кокки",
+      "Не применяется внутрь",
+      "При использовании характерны аллергические реакции"
+    ]
+  },
+  {
+    "id": "pharm_783",
+    "arr": [
+      "Отметить сульфаниламидные препараты, применяемые при кишечных инфекциях (выбрать неправильный ответ):",
+      "Сульгин",
+      "Уросульфан",
+      "Фталазол",
+      "Фтазин"
+    ]
+  },
+  {
+    "id": "pharm_784",
+    "arr": [
+      "Особенности действия и применения ко-тримоксазола (выбрать неправильный ответ):",
+      "Нарушает синтез микробной стенки",
+      "Препарат нарушает активность ферментов синтетазы и редуктазы, участвующих в синтезе фолиевой кислоты",
+      "Возможно развитие кристаллурии",
+      "Действует бактерицидно"
+    ]
+  },
+  {
+    "id": "pharm_785",
+    "arr": [
+      "Каковы основные свойства левомицетина (выбрать неправильный ответ)?",
+      "Ограничивает проницаемость цитоплазматической мембраны",
+      "Нарушает перенос аминокислот с РНК на рибосомы",
+      "Угнетает синтез белка микробной клетки",
+      "Угнетает кроветворение"
+    ]
+  },
+  {
+    "id": "pharm_786",
+    "arr": [
+      "Какие осложнения антибиотикотерапии связаны с воздействием на микроорганизмы (выбрать неправильный ответ):",
+      "Поражение печени",
+      "Развитие устойчивых штамов микроорганизмов",
+      "Кандидомикозы и суперинфекция",
+      "Эндотоксический шок"
+    ]
+  },
+  {
+    "id": "pharm_787",
+    "arr": [
+      "Выбрать производные хиноксалина:",
+      "Кислота налидиксовая",
+      "Нитроксолин",
+      "Диоксидин",
+      "Фурадонин"
+    ]
+  },
+  {
+    "id": "pharm_788",
+    "arr": [
+      "Механизм действия производных 8-оксихинолина:",
+      "Нарушают перенос аминокислот с РНК на рибосомы",
+      "Образуют комплексы с ионами металлов, необходимых для активации ферментных систем",
+      "Блокируют НАДН, нарушают цикл трикарбоновых кислот (Кребса)",
+      "Нарушают стабильность ДНК бактерий"
+    ]
+  },
+  {
+    "id": "pharm_789",
+    "arr": [
+      "Выбрать производные 8-оксихинолина:",
+      "Кислота налидиксовая",
+      "Нитроксолин",
+      "Хиноксидин",
+      "Диоксидин"
+    ]
+  },
+  {
+    "id": "pharm_790",
+    "arr": [
+      "Перечислить побочные эффекты при применении производных 8-оксихинолина (выбрать неправильный ответ):",
+      "Периферические невриты и миелопатии",
+      "Спастическиепараличи",
+      "Кожный зуд (дерматит)",
+      "Тошнота, боли в животе"
+    ]
+  },
+  {
+    "id": "pharm_791",
+    "arr": [
+      "Выбрать противотуберкулезные антибиотики(выбрать неправильный ответ):",
+      "Изониазид",
+      "Канамицин",
+      "Рифампицин",
+      "Стрептомицин"
+    ]
+  }
+]}

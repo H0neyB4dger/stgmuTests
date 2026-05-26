@@ -1,0 +1,5860 @@
+{
+  "answers": {
+    "polyclinicTherapy_0": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_1": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_2": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_3": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_4": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_5": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_6": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_7": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_8": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_9": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_10": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_11": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_12": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_13": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_14": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_15": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_16": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_17": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_18": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_19": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_20": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_21": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_22": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_23": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_24": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_25": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_26": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_27": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_28": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_29": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_30": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_31": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_32": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_33": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_34": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_35": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_36": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_37": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_38": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_39": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_40": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_41": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_42": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_43": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_44": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_45": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_46": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_47": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_48": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_49": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_50": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_51": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_52": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_53": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_54": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_55": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_56": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_57": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_58": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_59": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_60": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_61": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_62": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_63": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_64": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_65": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_66": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_67": {
+      "type": "single",
+      "answer": [5]
+    },
+    "polyclinicTherapy_68": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_69": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_70": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_71": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_72": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_73": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_74": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_75": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_76": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_77": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_78": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_79": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_80": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_81": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_82": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_83": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_84": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_85": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_86": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_87": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_88": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_89": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_90": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_91": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_92": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_93": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_94": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_95": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_96": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_97": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_98": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_99": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_100": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_101": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_102": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_103": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_104": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_105": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_106": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_107": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_108": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_109": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_110": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_111": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_112": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_113": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_114": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_115": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_116": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_117": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_118": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_119": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_120": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_121": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_122": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_123": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_124": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_125": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_126": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_127": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_128": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_129": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_130": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_131": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_132": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_133": {
+      "type": "single",
+      "answer": [5]
+    },
+    "polyclinicTherapy_134": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_135": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_136": {
+      "type": "single",
+      "answer": [5]
+    },
+    "polyclinicTherapy_137": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_138": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_139": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_140": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_141": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_142": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_143": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_144": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_145": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_146": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_147": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_148": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_149": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_150": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_151": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_152": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_153": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_154": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_155": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_156": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_157": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_158": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_159": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_160": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_161": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_162": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_163": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_164": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_165": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_166": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_167": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_168": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_169": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_170": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_171": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_172": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_173": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_174": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_175": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_176": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_177": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_178": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_179": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_180": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_181": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_182": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_183": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_184": {
+      "type": "single",
+      "answer": [5]
+    },
+    "polyclinicTherapy_185": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_186": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_187": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_188": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_189": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_190": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_191": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_192": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_193": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_194": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_195": {
+      "type": "single",
+      "answer": [6]
+    },
+    "polyclinicTherapy_196": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_197": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_198": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_199": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_200": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_201": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_202": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_203": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_204": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_205": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_206": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_207": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_208": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_209": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_210": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_211": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_212": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_213": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_214": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_215": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_216": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_217": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_218": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_219": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_220": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_221": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_222": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_223": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_224": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_225": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_226": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_227": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_228": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_229": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_230": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_231": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_232": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_233": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_234": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_235": {
+      "type": "single",
+      "answer": [5]
+    },
+    "polyclinicTherapy_236": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_237": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_238": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_239": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_240": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_241": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_242": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_243": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_244": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_245": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_246": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_247": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_248": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_249": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_250": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_251": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_252": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_253": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_254": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_255": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_256": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_257": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_258": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_259": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_260": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_261": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_262": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_263": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_264": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_265": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_266": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_267": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_268": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_269": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_270": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_271": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_272": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_273": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_274": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_275": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_276": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_277": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_278": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_279": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_280": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_281": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_282": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_283": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_284": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_285": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_286": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_287": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_288": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_289": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_290": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_291": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_292": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_293": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_294": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_295": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_296": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_297": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_298": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_299": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_300": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_301": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_302": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_303": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_304": {
+      "type": "single",
+      "answer": [6]
+    },
+    "polyclinicTherapy_305": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_306": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_307": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_308": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_309": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_310": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_311": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_312": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_313": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_314": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_315": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_316": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_317": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_318": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_319": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_320": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_321": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_322": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_323": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_324": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_325": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_326": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_327": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_328": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_329": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_330": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_331": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_332": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_333": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_334": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_335": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_336": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_337": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_338": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_339": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_340": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_341": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_342": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_343": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_344": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_345": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_346": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_347": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_348": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_349": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_350": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_351": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_352": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_353": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_354": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_355": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_356": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_357": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_358": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_359": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_360": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_361": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_362": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_363": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_364": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_365": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_366": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_367": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_368": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_369": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_370": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_371": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_372": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_373": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_374": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_375": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_376": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_377": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_378": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_379": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_380": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_381": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_382": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_383": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_384": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_385": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_386": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_387": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_388": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_389": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_390": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_391": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_392": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_393": {
+      "type": "single",
+      "answer": [1]
+    },
+    "polyclinicTherapy_394": {
+      "type": "single",
+      "answer": [3]
+    },
+    "polyclinicTherapy_395": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_396": {
+      "type": "single",
+      "answer": [4]
+    },
+    "polyclinicTherapy_397": {
+      "type": "single",
+      "answer": [2]
+    },
+    "polyclinicTherapy_398": {
+      "type": "single",
+      "answer": [0]
+    },
+    "polyclinicTherapy_399": {
+      "type": "single",
+      "answer": [2]
+    }
+  },
+  "questions": [
+    {
+      "id": "polyclinicTherapy_0",
+      "arr": [
+        " В структуре причин смертности в России в настоящее время первое ранговое место\r\nпринадлежит: (выберите один правильный ответ)",
+        "злокачественным новообразованиям",
+        "болезням системы кровообращения",
+        "инфекционным и паразитарным болезням",
+        "травмам и отравлениям",
+        "болезням органов дыхания"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_1",
+      "arr": [
+        " В структуре причин инвалидности в России в настоящее время первое ранговое место\r\nпринадлежит: (выберите один правильный ответ)",
+        "злокачественным новообразованиям",
+        "болезням системы кровообращения",
+        "инфекционным и паразитарным болезням",
+        "травмам и отравлениям",
+        "болезням органов дыхания"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_2",
+      "arr": [
+        " Процесс формирования здорового образа жизни включает: 1) информирование населения о факторах риска; 2) формирование убежденности в необходимости сохранении здоровья; 3) повышение материального благосостояния; 4) воспитание навыков здорового образа жизни; 5) снижение показателя летальности. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "1, 2,4",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_3",
+      "arr": [
+        " Основными направлениями формирования здорового образа жизни являются: 1) создание и активизация позитивных для здоровья факторов; 2) повышение эффективности деятельности служб здравоохранения; 3) снижение уровня заболеваемости; 4) снижение уровня смертности; 5) минимизация и устранение факторов риска. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "1, 2, 4",
+        "1, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_4",
+      "arr": [
+        " Обязательным условием формирования здорового образа жизни является: 1) рациональное индивидуальное поведение; 2) осуществление общегосударственных мероприятий по созданию здоровых условий жизни; 3) формирование установок на здоровье в обществе; 4) повышение эффективности диспансеризации; 5) снижение уровня заболеваемости. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3,4, 5",
+        "1, 2, 3",
+        "1, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_5",
+      "arr": [
+        " Первичная профилактика включает: 1) проведение прививок; 2) мероприятия, предупреждающие развитие заболеваний; 3) выявление заболеваний; 4) мероприятия, предупреждающие развитие осложнений и рецидивов заболевания; 5) повышение материального благосостояния. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "1, 2, 3",
+        "1, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_6",
+      "arr": [
+        " Вторичная профилактика включает: (выберите один правильный ответ)",
+        "проведение прививок",
+        "мероприятия, предупреждающие развитие заболеваний",
+        "выявление заболеваний",
+        "мероприятия, предупреждающие развитие осложнений и рецидивов заболевания",
+        "повышение материального благосостояния"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_7",
+      "arr": [
+        " Врачи поликлиники выполняют следующие виды работы: 1) диагностику и лечение заболеваний; 2) профилактическую работу; 3) санитарно-просветительную работу; 4) противоэпидемическую работу; 5) ведение оперативно-учетной документации. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "1, 2, 3, 4, 5",
+        "1, 3, 4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_8",
+      "arr": [
+        " Организация диспансерного наблюдения включает: 1) активное выявление и взятие на учет больных и лиц с факторами риска; 2) активное динамическое наблюдение и лечение; 3) проведение лечебно-оздоровительных мероприятий; 4) регулирование потока посетителей поликлиники; 5) анализ качества и эффективности диспансерного наблюдения. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "2, 3, 4, 5",
+        "1, 2, 3, 5",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_9",
+      "arr": [
+        " Эффективность диспансерного наблюдения оценивается следующими показателями: 1) полнотой взятия на диспансерное наблюдение; 2) своевременностью взятия на диспансерное наблюдение; 3) летальностью; 4) кратностью обострений и заболеваний; 5) процентом перевода по группам диспансерного наблюдения. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "1, 2, 4, 5",
+        "1, 2, 3",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_10",
+      "arr": [
+        " Право на получение листка нетрудоспособности имеют: 1) граждане Российской Федерации; 2) иностранные граждане, работающие в учреждениях РФ, независимо от форм собственности; 3) учащиеся средних учебных заведений; 4) безработные граждане, состоящие на учете в органах труда и занятости; 5) безработные граждане, не состоящие на учете в органах труда и занятости. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "1, 2, 4",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_11",
+      "arr": [
+        " Право на выдачу листка нетрудоспособности имеют: 1) врачи санэпиднадзора; 2) врачи амбулаторно-поликлинических учреждений; 3) врачи бальнеогрязелечебниц; 4) врачи стационарных учреждений; 5) частнопрактикующие врачи, имеющие лицензию. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "1, 2, 4",
+        "2, 4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_12",
+      "arr": [
+        " Продление листка нетрудоспособности при заболеваниях и травмах свыше 15 дней\r\nосуществляет: (выберите один правильный ответ)",
+        "лечащий врач",
+        "заведующий отделением",
+        "медицинская комиссия лечебно-профилактического учреждения",
+        "главный специалист по экспертизе нетрудоспособности Минздрава РФ",
+        "медико-социальная экспертная комиссия"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_13",
+      "arr": [
+        " Установление группы инвалидности осуществляет: (выберите один правильный ответ)",
+        "лечащий врач",
+        "заведующий отделением",
+        "врачебная комиссия лечебно-профилактического учреждения",
+        "главный специалист по экспертизе нетрудоспособности Минздрава РФ",
+        "медико-социальная экспертная комиссия"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_14",
+      "arr": [
+        " Право на бесплатное лекарственное обеспечение имеют следующие категории граждан, относящиеся к «федеральным» льготникам (обеспечиваются льготами за счет средств федерального бюджета): 1) инвалиды войны; 2) участники Великой Отечественной войны, ставшие инвалидами; 3) дети в возрасте до 6 лет; 4) неработающие граждане; 5) ветераны боевых действий. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 2, 5",
+        "3, 4, 5",
+        "1, 2, 3",
+        "2, 4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_15",
+      "arr": [
+        " Для прикрепления больного к аптеке по месту жительства для обеспечения его\r\nнаркотическими лекарственными средствами оформляется: (выберите один правильный ответ)",
+        "больничный лист",
+        "письменное распоряжение руководителя лечебно-профилактического учреждения, зарегистрированное в установленном порядке",
+        "решение врачебной комиссии",
+        "заявление от онкобольного",
+        "специальная справка из поликлиники"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_16",
+      "arr": [
+        " Для организации работы дневного стационара в его структуре рекомендуется\r\nпредусматривать следующие помещения: 1) палаты в зависимости от коечной мощности, пост медицинской сестры; 2) процедурную; 3) операционную; 4) палату переливания крови; 5) прозектуру. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "1, 2, 3",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_17",
+      "arr": [
+        " В течение амбулаторного периода наблюдения за больными, перенесшими миокардит, клинико-электрокардиографическое и лабораторное обследования проводятся не менее, чем: (выберите один правильный ответ)",
+        "3-4 раза в год",
+        "6 раз в год",
+        "не менее 2 раз в год"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_18",
+      "arr": [
+        " Врач-терапевт участковый должен знать: 1) основы законодательства РФ о здравоохранении; 2) нормативно-правовые документы, регламентирующие деятельность учреждений здравоохранения; 3) основы организации лечебно-профилактической помощи в больницах и амбулаторно-поликлинических учреждениях, учреждениях скорой и неотложной медицинской помощи, службе медицины катастроф; 5) Уголовный Кодекс РФ; 5) нормативную базу налогообложения. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "1, 2, 3",
+        "4,5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_19",
+      "arr": [
+        " Документом, подтверждающим временную нетрудоспособность, является: 1) выписка из истории болезни стационарного больного; 2) справка станции скорой медицинской помощи; 3) индивидуальная программа реабилитации инвалида; 4) свидетельство об инвалидности; 5) лист временной нетрудоспособности (больничный лист). Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "1, 2, 3, 4",
+        "2, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_20",
+      "arr": [
+        " На дому пневмонию лечат: (выберите один правильный ответ)",
+        "у лиц с декомпенсированным сахарным диабетом",
+        "у лиц с ХСН",
+        "у пожилых пациентов с ХОБЛ",
+        "у молодых больных при легком или среднетяжелом течении заболевания",
+        "у молодых пациентов при наличии осложнений (плеврита, дыхательной недостаточности)"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_21",
+      "arr": [
+        " Отделение (кабинет) медицинской профилактики осуществляет: 1) организацию и проведение акций профилактической направленности; 2) организацию семинаров по вопросам охраны здоровья среди различных групп населения; 3) лечение хронических заболеваний у прикрепленного населения; 4) выдачу рекомендаций по коррекции здорового образа жизни; д) выдачу листков нетрудоспособности при эпидемиях ОРВИ. Выберите правильную комбинацию ответов:",
+        "1, 2, 4",
+        "1, 3, 5",
+        "3, 4, 5",
+        "1, 2, 3",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_22",
+      "arr": [
+        " Социальная профилактика включает: 1) проведение прививок; 2) проведение медицинских осмотров; 3) выявление заболеваний; 4) улучшение условий труда и отдыха; 5) повышение материального благосостояния. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "1, 2, 3",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_23",
+      "arr": [
+        " Медицинская профилактика включает: 1) проведение прививок; 2) проведение медицинских осмотров; 3) выявление заболеваний; 4) улучшение условий труда и отдыха; 5) повышение материального благосостояния. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "1, 2, 3",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_24",
+      "arr": [
+        " В стандарт оснащения дневного стационара терапевтического профиля: 1) набор хирургических инструментов; 2) набор для неотложной помощи; 3) набор для экстракции зуба; 4) ингалятор аэрозольный компрессорный (небулайзер); 5) наркозный аппарат. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "1, 2, 3",
+        "2, 4"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_25",
+      "arr": [
+        " Выписывание льготных рецептов только по решению врачебной комиссии поликлиники осуществляется лечащим врачом: (выберите один правильный ответ)",
+        "на анальгетики",
+        "на антибиотики",
+        "на инсулин",
+        "на витамины",
+        "на психотропные, сильнодействующие и ядовитые вещества, анаболические гормоны"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_26",
+      "arr": [
+        " К методам и средствам первичной профилактики следует отнести: 1) раннюю диагностику заболеваний; 2) вакцинирование; 3) профилактическую госпитализацию; 4) оздоровление окружающей среды. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 4",
+        "3, 5",
+        "1, 2, 3",
+        "2, 4"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_27",
+      "arr": [
+        " Целью вторичной профилактики является предупреждение возникновения: 1) острых заболеваний; 2) осложнений заболеваний; 3) несчастных случаев; 4) хронических заболеваний. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3",
+        "1, 3, 4",
+        "1, 2, 3",
+        "2, 4"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_28",
+      "arr": [
+        " Категория «ребенок-инвалид» устанавливается: (выберите один правильный ответ)",
+        "на 5 лет",
+        "на 1 или 2 года либо до достижения гражданином возраста 18 лет",
+        "всем до достижения 18 лет",
+        "на 1 год",
+        "на 2 года или пожизненно"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_29",
+      "arr": [
+        " Диспансеризация работающего населения осуществляется: (выберите один правильный ответ)",
+        "ежегодно",
+        "1 раз в квартал",
+        "1 раз в 2 года",
+        "1 раз в 5 лет",
+        "1 раз в 3 года"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_30",
+      "arr": [
+        " Задачи врачебно-трудовой экспертизы: (выберите один правильный ответ)",
+        "определение характера нетрудоспособности",
+        "установление причин стойкой или временной нетрудоспособности",
+        "изучение причин заболеваемости и инвалидности для разработки медицинских и социальных мероприятий",
+        "все перечисленное верно",
+        "ничего из перечисленного не верно"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_31",
+      "arr": [
+        " Сроки временной нетрудоспособности определяет: (выберите один правильный ответ)",
+        "главный врач ЛПУ",
+        "врачебная комиссия",
+        "только узкий специалист",
+        "участковый терапевт",
+        "заведующий отделением"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_32",
+      "arr": [
+        " Лист временной нетрудоспособности может выдаваться при: 1) необходимости ухода за больным членом семьи; 2) уходе за здоровым ребенком и ребенком-инвалидом, на период карантина; 3) отпуске по беременности и родам; 4) протезировании в условиях протезно-ортопедического стационара; 5) нахождении в доме отдыха. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 2, 3, 4",
+        "3, 4, 5",
+        "1, 2, 3",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_33",
+      "arr": [
+        " Функции листа временной нетрудоспособности: 1) государственная; 2) юридическая; 3) финансовая; 4) статистическая; 5) диагностическая. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "2, 3, 4",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_34",
+      "arr": [
+        " Больным дилатационной кардиомиопатией с сердечной недостаточностью II и III функциональных классов по NYHA определяется: (выберите один правильный ответ)",
+        "I группа инвалидности",
+        "II группа инвалидности",
+        "III группа инвалидности"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_35",
+      "arr": [
+        " Стандарт оснащения кабинета врача общей практики, семейного врача, оказывающий амбулаторно-поликлиническую помощь в рамках первичной медико-санитарной помощи: 1) измеритель артериального давления, сфигмоманометр; 2) стетофонендоскоп; 3) набор диагностический для офтальмоскопии и оториноскопии; 4) набор реанимационный; 5) небулайзер. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4",
+        "1, 2, 3",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_36",
+      "arr": [
+        " Пациент трудоспособного возраста при наличии у него признаков гриппа считается: (выберите один правильный ответ)",
+        "трудоспособным",
+        "временно нетрудоспособным",
+        "частично трудоспособным",
+        "инвалидом",
+        "тяжелым инкурабельным пациентом"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_37",
+      "arr": [
+        " Лист временной нетрудоспособности единолично врач имеет право выписать на срок: (выберите один правильный ответ)",
+        "5 дней",
+        "10 дней",
+        "15 дней",
+        "20 дней",
+        "30 дней"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_38",
+      "arr": [
+        " Временная нетрудоспособность – это:",
+        "состояние организма человека, обусловленное заболеванием или травмой, при котором нарушение функций организма сопровождается невозможностью выполнения профессионального труда в обычных производственных условиях в течение ограниченного промежутка времени",
+        "болезнь, при которой выполнение любого труда невозможно",
+        "нарушение функции одной из систем организма",
+        "утрата конечности",
+        "состояние организма человека, требующее пребывания на дому"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_39",
+      "arr": [
+        " Ориентировочные сроки назначения антибиотиков при пневмонии:",
+        "до нормализации температуры",
+        "до полного рассасывания инфильтрата в легком",
+        "до нормализации СОЭ",
+        "до 4- 5 дней стойко нормальной температуры тела",
+        "до момента исчезновения кашля"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_40",
+      "arr": [
+        " Здоровые лица, подлежащие диспансеризации: 1) лица, в силу своего образа жизни способные получить хроническое заболевание; 2) лица, которые в силу своих физиологических особенностей требуют систематического наблюдения за состоянием здоровья (дети, подростки, беременные женщины); 3) лица, испытывающие воздействие неблагоприятных факторов производственной среды; 4) спецконтингент (лица, пострадавшие от катастрофы на ЧАЭС); 5) хронические больные. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3,4, 5",
+        "2, 3, 4",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_41",
+      "arr": [
+        " Цели диспансеризации здоровых: 1) сохранение здоровья и трудоспособности; 2) выявление факторов риска развития заболеваний и их устранение; 3) предупреждение возникновения заболеваний и травм путем осуществления профилактических и оздоровительных мероприятий; 4) своевременное хирургическое лечение; 5) профориентация. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "1, 2, 3",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_42",
+      "arr": [
+        " Диспансерное наблюдение в поликлинике больных включает: 1) больных с хроническими заболеваниями; 2) здоровых с факторами риска хронических болезней; 3) реконвалесцентов после некоторых острых заболеваний; 4) больных с врожденными (генетическими) заболеваниями и пороками развития; 5) детей и стариков. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 4",
+        "3, 4, 5",
+        "1, 2, 3",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_43",
+      "arr": [
+        " Анемия у беременных чаще всего является: (выберите один правильный ответ)",
+        "апластической",
+        "фолиеводефицитной",
+        "железодефицитной",
+        "постгеморрагической",
+        "токсической"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_44",
+      "arr": [
+        " Периодические профилактические осмотры проводятся: 1) при приеме на работу; 2) рабочих промышленных предприятий с вредными и опасными условиями труда; 3) работников ведущих профессий сельскохозяйственного производства; 4) инвалидов детства; 5) детей и подростков, юношей допризывного возраста. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "2, 3, 5",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_45",
+      "arr": [
+        " Принципы отбора лиц, подлежащих диспансеризации: (выберите один правильный ответ)",
+        "социальный и медицинский",
+        "медицинский и финансовый",
+        "профессиональный и национальный",
+        "возрастной и половой",
+        "административный и религиозный"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_46",
+      "arr": [
+        " 1 группа диспансерного наблюдения. Выберите один правильный ответ:",
+        "здоровые: осмотр не менее 1 раза в год",
+        "практически здоровые: осмотр 1-2 раза в год (угрожаемые по хронической патологии, частые ОРВИ, как первичная профилактика ХНЗЛ)",
+        "больные, имеющие хронические заболевания в стадии компенсации (обострения редкие, лечение эффективно, вне обострения сохраняют трудоспособность). Осмотр 2 раза в год",
+        "больные, имеющие хронические заболевания в стадии субкомпенсации. Осмотр 4 раза в год",
+        "больные, имеющие хронические заболевания в стадии декомпенсации"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_47",
+      "arr": [
+        " 4 группа диспансерного наблюдения. Выберите один правильный ответ:",
+        "практически здоровые: осмотр 1-2 раза в год (с хроническими заболеваниями в стадии стойкой ремиссии без функциональных нарушений)",
+        "здоровые: осмотр не менее 1 раза в год",
+        "больные, имеющие хронические заболевания в стадии компенсации (обострения редкие, лечение эффективно, вне обострения сохраняют трудоспособность). Осмотр 2 раза в год",
+        "больные, имеющие хронические заболевания в стадии декомпенсации",
+        "больные, имеющие хронические заболевания в стадии субкомпенсации"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_48",
+      "arr": [
+        " Варианты реабилитации: 1) адаптация реабилитанта на прежнем рабочем месте; 2) реадаптация ‒ работа на новом рабочем месте с измененными условиями труда, но на том же\r\nпредприятии; 3) работа на новом месте в соответствии с приобретенной новой квалификацией, близкой к прежней специальности, но отличающейся пониженной нагрузкой; 4) переквалификация в любую интересную для пациента профессию; 5) работа на неполный рабочий день. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "1, 2, 3",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_49",
+      "arr": [
+        " Основные направления медицинской реабилитации: 1) ранняя диагностика болезни (травмы); 2) своевременная госпитализация; 3) полноценное лабораторно-инструментальное обследование; 4) раннее комплексное лечение (режим, диета, медикаменты и др.); 5) контроль динамики болезненного процесса и эффективности лечения. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "1, 2, 3, 4, 5",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_50",
+      "arr": [
+        " Больничный лист в установленном порядке выдается: (выберите один правильный ответ)",
+        "гражданам, признанным безработными и состоящим на учете в государственных учреждениях службы занятости населения",
+        "уволенным по статье «служебное несоответствие»",
+        "неработающим застрахованным лицам",
+        "женщинам, находящимся в декретном отпуске",
+        "здоровым на время трудового отпуска"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_51",
+      "arr": [
+        " Артериальной гипертензией беременных называется: (выберите один правильный ответ)",
+        "АД выше 120/80 мм рт.ст, выявленное на любом сроке беременности",
+        "повышение АД после 20-й недели беременности выше 140/90 мм рт ст",
+        "артериальная гипертензия, выявленная сразу после родоразрешения",
+        "высокое АД, выявленное у беременной с патологией почек на 5-15 неделе беременности",
+        "гипертонический криз на любом сроке беременности"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_52",
+      "arr": [
+        " Профилактика развития и прогрессирования диабетической нефропатии сводится: (выберите один правильный ответ)",
+        "к контролю уровня гликемии",
+        "к коррекции гипертонии",
+        "к назначению инсулина",
+        "к назначению малобелковой диеты",
+        "ко всему перечисленному"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_53",
+      "arr": [
+        " Рекомендуемым жаропонижающим препаратом при лечении ОРВИ у беременных\r\nЯвляется: (выберите один правильный ответ)",
+        "ацетилсалициловая кислота (аспирин)",
+        "ацетаминофен (парацетамол)",
+        "кеторолак (кеторол)",
+        "осельтамивир (тамифлю)",
+        "чай с малиной"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_54",
+      "arr": [
+        " Лейкоцитурия у беременных в отсутствии признаков инфекционно-воспалительного\r\nпоражения почек наблюдается: (выберите один правильный ответ)",
+        "всегда",
+        "никогда",
+        "у части пациенток (10%)",
+        "у большинства пациенток"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_55",
+      "arr": [
+        " Если у беременной нет экстрагенитальной патологии, она осматривается терапевтом: (выберите один правильный ответ)",
+        "каждый месяц",
+        "не осматривается ни разу",
+        "осматривается трижды за беременность",
+        "осматривается в начале и в конце беременности",
+        "осматривается однократно"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_56",
+      "arr": [
+        " При нормально протекающей беременности и отсутствии экстрагенитальной патологии беременная осматривается терапевтом: (выберите один правильный ответ)",
+        "при постановке на учет в женскую консультацию",
+        "при постановке на учет в женскую консультацию, в 32 и 36-37 недель",
+        "непосредственно перед родоразрешением",
+        "не осматривается никогда",
+        "во 2 триместре беременности"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_57",
+      "arr": [
+        " Больничный лист работающей беременной с ОРВИ выдается сроком на: (выберите один правильный ответ)",
+        "весь период высокой температуры",
+        "на 5-7 дней с возможной пролонгацией",
+        "не выдается",
+        "на 10-14 дней",
+        "на 21 день"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_58",
+      "arr": [
+        " Направление на стационарное лечение выдается беременной при наличии: (выберите один правильный ответ)",
+        "железодефицитной анемии легкой степени",
+        "бессимптомной бактериурии",
+        "артериальной гипертензии",
+        "артериальной гипотензии",
+        "запоров"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_59",
+      "arr": [
+        " Показания для госпитализации больных гриппом: 1) легкие и среднетяжелые формы болезни; 2) тяжелые формы болезни; 3) наличие осложнений; 4) наличие тяжелых сопутствующих заболеваний; 5) молодые лица до 30 лет. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "2, 3, 4",
+        "3, 4, 5",
+        "1, 2, 3",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_60",
+      "arr": [
+        " Наиболее частые осложнения при гриппе: 1) менингит; 2) миокардит; 3) пневмония; 4) панкреатит; 5) синусит. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "2, 3, 4",
+        "3, 4, 5",
+        "1, 2, 3",
+        "3, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_61",
+      "arr": [
+        " Кратность проведения диспансерных осмотров при хроническом бронхите в течение\r\nгода: (выберите один правильный ответ)",
+        "1 раз",
+        "2 раза",
+        "3 раза",
+        "4 раза",
+        "5 раз"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_62",
+      "arr": [
+        " Осложнения хронического бронхита: (выберите один правильный ответ)",
+        "лёгочное кровотечение",
+        "острая сосудистая недостаточность",
+        "острая сердечная недостаточность",
+        "хроническая дыхательная недостаточность",
+        "хроническая почечная недостаточность"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_63",
+      "arr": [
+        " Меры специфической профилактики гриппа: (выберите один правильный ответ)",
+        "изоляция больных",
+        "введение противогриппозной вакцины",
+        "ношение четырехслойной маски",
+        "кварцевание помещений",
+        "изоляция здоровых"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_64",
+      "arr": [
+        " Неспецифическая профилактика гриппа включает использование: (выберите один правильный ответ)",
+        "иммунобиологических препаратов",
+        "противовирусных препаратов",
+        "антибактериальных препаратов в профилактических целях",
+        "все ответы правильные",
+        "а, б"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_65",
+      "arr": [
+        " В «золотой стандарт» диагностики пневмонии входят: 1) острое начало; 2) инфильтрация в легочной ткани, которая ранее не определялась на рентгенограмме; 3) инспираторное удушье; 4) кашель с мокротой; 5) абсолютный лимфоцитоз; 6) лихорадка. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "2, 4, 6",
+        "1, 2, 3",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_66",
+      "arr": [
+        " Настороженность следует проявлять при пневмонии у пациентов: 1) с отягощенным анамнезом; 2) с наличием инфильтрата в легких; 3) с неэффективностью терапии; 4) с затяжным течением. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 4",
+        "3, 4",
+        "1, 2, 3",
+        "4"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_67",
+      "arr": [
+        " Осложнение пневмоний: (выберите один правильный ответ)",
+        "абсцесс легких",
+        "плеврит",
+        "миокардит",
+        "перикардит",
+        "инфекционно-токсический шок",
+        "возможны все перечисленные варианты"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_68",
+      "arr": [
+        " Какой антибиотик является средством выбора при лечении коммунальной\r\n(внебольничной) пневмонии, по клиническим и бактериологическим исследованиям\r\nопределяемой как пневмококковая: (выберите один правильный ответ)",
+        "доксициклин",
+        "ампициллин",
+        "цефалоспорин III поколения",
+        "пенициллин",
+        "эритромицин",
+        "гентамицин"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_69",
+      "arr": [
+        " Наиболее эффективная комбинация антибиотиков при эмпирической антибактериальной терапии крайне тяжелой пневмонии: (выберите один правильный ответ)",
+        "пенициллин + оксациллин",
+        "ампициллин + оксациллин",
+        "ампициллин + гентамицин",
+        "амоксициллин + клаволанат + цефалоспорин + левофлоксацин",
+        "тетрациклин + эритромицин",
+        "ампициллин + оксациллин + стрептомицин"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_70",
+      "arr": [
+        " Больного с пневмонией следует госпитализировать, если: (выберите один правильный ответ)",
+        "больной старше 70 лет",
+        "нет эффекта от проводимой антибактериальной терапии",
+        "одышка свыше 30 в минуту",
+        "уровень Hb ниже 90 г/л",
+        "все вышеперечисленное"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_71",
+      "arr": [
+        " Женщинам в случае нормально протекающей беременности, родов, послеродового\r\nпериода и рождения живого ребенка листок нетрудоспособности выдается на срок: (выберите один правильный ответ)",
+        "86 дней",
+        "140 дней",
+        "156 дней",
+        "180 дней",
+        "194 дня"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_72",
+      "arr": [
+        " В исключительных случаях право на выписку рецептов имеют: 1) санитарки; 2) зубные врачи; 3) фельдшеры, акушерки; 4) студенты медицинских вузов; 5) ветеринарные врачи. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 4",
+        "3, 4",
+        "2, 3",
+        "4"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_73",
+      "arr": [
+        " Препаратом выбора при лечении гестационного пиелонефрита является: (выберите один правильный ответ)",
+        "эритромицин",
+        "ципрофлоксацин",
+        "цефтриаксон",
+        "амоксициллин плюс клавулановая кислота",
+        "канефрон"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_74",
+      "arr": [
+        " «Аспириновая» астматическая триада включает: (выберите один правильный ответ)",
+        "хронический гайморит, поллиноз, язвенный колит",
+        "бронхиальную астму, непереносимость нестероидных противовоспалительных препаратов, полипоз носа",
+        "аллергию на лекарственные препараты, ларингит, лихорадку",
+        "гипотензию, анемию, тахикардию",
+        "хронический бронхит, альвеолит, плеврит"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_75",
+      "arr": [
+        " Для купирования гипертонического криза у беременных применяют: (выберите один правильный ответ)",
+        "каптоприл",
+        "дибазол с папаверином внутримышечно",
+        "раствор сульфата магния парентерально или клонидин",
+        "раствор сульфата магния энтерально или лозартан",
+        "пентамин парентерально"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_76",
+      "arr": [
+        " Лабораторные методы исследования, применяемые для диагностики ХСН: 1) электролиты крови; 2) креатинин, мочевина крови; 3) коагулограмма; 4) бактериологическое исследование мочи; 5) прогестерон крови. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 4",
+        "3, 4",
+        "1, 2, 3",
+        "4"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_77",
+      "arr": [
+        " Каковы основные причины роста смертности от бронхиальной астмы: (выберите один правильный ответ)",
+        "социально-экономические условия",
+        "ухудшение экологической обстановки (загрязнение окружающей среды)",
+        "старение населения земного шара",
+        "гиподиагностика и неправильное лечение бронхильной астмы",
+        "все вышеперечисленное"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_78",
+      "arr": [
+        " Признаком декомпенсации ХСН является: (выберите один правильный ответ)",
+        "гепатомегалия",
+        "кардиомегалия",
+        "гидроторакс",
+        "острый отек легких",
+        "отеки нижних конечностей"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_79",
+      "arr": [
+        " К методам профилактики при наличии бронхиальной астмы можно отнести: (выберите один правильный ответ)",
+        "прекращение контакта с аллергеном",
+        "наблюдение аллерголога",
+        "своевременная и адекватная терапия",
+        "своевременное проведение вакцинации от гриппа",
+        "все перечисленные варианты"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_80",
+      "arr": [
+        " У пожилых и стариков наблюдается, связанная с инволюцией: (выберите один правильный ответ)",
+        "гипотермия",
+        "гиперволемия",
+        "высокая социальная активность",
+        "лихорадка",
+        "изолированная систолическая артериальная гипертензия"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_81",
+      "arr": [
+        " По результатам диспансеризации формируется",
+        "3 группы",
+        "1 группа",
+        "2 группы",
+        "4 группы"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_82",
+      "arr": [
+        " Диспансерное наблюдение пациентов без доказанных сердечно-сосудистых заболеваний с высоким и очень высоким суммарным сердечно-сосудистым риском осуществляет (выберите один правильный ответ)",
+        "врач отделения медицинской профилактики, при отсутствии кабинета профилактики, например, в сельской местности – врач-терапевт участковый",
+        "врач-терапевт участковый",
+        "врач дневного стационара",
+        "врач-кардиолог поликлиники"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_83",
+      "arr": [
+        " Количество дней временной нетрудоспособности при дискинезиях желчевыводящих путей: (выберите один правильный ответ)",
+        "до 10-15 дней при выраженном обострении",
+        "до появления стойкой ремиссии",
+        "временная нетрудоспособность не устанавливается"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_84",
+      "arr": [
+        " Краткое профилактическое консультирование занимает ___ минут (выберите один правильный ответ)",
+        "10",
+        "30",
+        "60",
+        "5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_85",
+      "arr": [
+        " Инвалидность I группы устанавливается на (выберите один правильный ответ)",
+        "2 года",
+        "1 год",
+        "3 года",
+        "бессрочно"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_86",
+      "arr": [
+        " Вероятной причиной анемии у мужчины 55 лет перенесшего 7 лет назад резекцию желудка (в мазке крови макроцитоз) является дефицит (выберите один правильный ответ)",
+        "цианкобаламина",
+        "железа",
+        "эритропоэтина",
+        "пиридоксина"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_87",
+      "arr": [
+        " Основной целью антихеликобактерной терапии при язвенной болезни является (выберите один правильный ответ)",
+        "снижение частоты рецидивов",
+        "уменьшение выраженности болевого синдрома",
+        "ускорение рубцевания язвы",
+        "уменьшение риска прободения язвы"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_88",
+      "arr": [
+        " Санаторно-курортное лечение показано больным хроническим некалькулезным холециститом спустя: (выберите один правильный ответ)",
+        "1 месяц после обострения болезни",
+        "2 месяца после обострения болезни",
+        "3 месяца после обострения болезни",
+        "6 месяцев после обострения болезни"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_89",
+      "arr": [
+        " Временная нетрудоспособность при обострении хронического холецистита определяется при: 1) повышении активности щелочной фосфатазы; 2) наличии субфебрилитета; 3) повышении активности сорбитдегидрогеназы; 4) наличии диспепсии; 5) нарушении функций организма, обусловленных клинической картиной обострения холецистита; 6) анемии; 7) появлении субиктеричности. Выберите правильную комбинацию ответов:",
+        "1, 2, 6, 7",
+        "1, 3, 5",
+        "3, 4, 5",
+        "1, 2, 4, 5",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_90",
+      "arr": [
+        " Показания к санаторно-курортной реабилитации при заболеваниях кишечника: (выберите один правильный ответ)",
+        "становление ремиссии",
+        "смена времени года;",
+        "обострение заболевания"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_91",
+      "arr": [
+        " При болезни Вильсона-Коновалова поражаются (выберите один правильный ответ)",
+        "печень и мозг",
+        "сердце и почки",
+        "почки и легкие",
+        "печень и почки"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_92",
+      "arr": [
+        " В диагностике цирроза печени решающим является (выберите один правильный ответ)",
+        "эластометрия",
+        "ультразвуковое исследование",
+        "рентгенография",
+        "ирригоскопия"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_93",
+      "arr": [
+        " При тяжелом хроническом энтероколите диспансерные осмотры проводятся: (выберите один правильный ответ)",
+        "2 раза в год",
+        "3 раза в год",
+        "4 раза в год",
+        "6 – 8 раз в год",
+        "ежемесячно"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_94",
+      "arr": [
+        " На наличие холестаза указывают (выберите один правильный ответ)",
+        "повышение щелочной фосфатазы, билирубина, холестерина",
+        "повышение аспарагиновой и аланиновой трансаминаз, глюкозы",
+        "снижение протромбина, гемоглобина, фибриногена",
+        "увеличение амилазы, общего белка, креатинина"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_95",
+      "arr": [
+        " Больные, перенесшие острый гломерулонефрит, стоят на диспансерном учете: (выберите один правильный ответ)",
+        "2 года",
+        "1 год",
+        "3 года",
+        "4 года",
+        "5 лет"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_96",
+      "arr": [
+        " Уровнем триглицеридов, являющимся фактором риска развития сердечно-сосудистых заболеваний, является _____ ммоль/л (выберите один правильный ответ)",
+        "1,7",
+        "1,2",
+        "1,0",
+        "0,7"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_97",
+      "arr": [
+        " К ассоциированному клиническому состоянию при артериальной гипертензии относится (выберите один правильный ответ)",
+        "расслаивающая аневризма аорты",
+        "аортальный стеноз",
+        "аортальная недостаточность",
+        "трикуспидальная недостаточность"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_98",
+      "arr": [
+        " Дополнительным методом обследования больных артериальной гипертензией, устанавливающим наличие и тяжесть поражения органов-мишеней, является (выберите один правильный ответ)",
+        "оценка состояния глазного дна",
+        "суточная экскреция с мочой кортизола",
+        "содержание альдостерона в крови",
+        "суточная экскреция адреналина"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_99",
+      "arr": [
+        " Больные артериальной гипертензией с высоким и очень высоким риском считаются при наличии _________синдрома (выберите один правильный ответ)",
+        "метаболического",
+        "астено-вегетативного",
+        "диспептического",
+        "постхолецистэктомического"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_100",
+      "arr": [
+        " Причиной артериальной гипертензии при поражении паренхимы почек является (выберите один правильный ответ)",
+        "активация ренин-ангиотензиновой системы",
+        "избыточная секреция минералокортикоидов",
+        "повышенная секреция катехоламинов",
+        "повышенное образование ангиотензина"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_101",
+      "arr": [
+        " При обращении к врачу-терапевту участковому в пункте 19 учетной формы N 025-1/У «Талон пациента, получающего медицинскую помощь в амбулаторных условиях» необходимо выбрать пункт (выберите один правильный ответ)",
+        "первичная врачебная медико-санитарная помощь",
+        "первичная доврачебная медико-санитарная помощь",
+        "первичная специализированная медико-санитарная помощь",
+        "паллиативная медицинская помощь"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_102",
+      "arr": [
+        " Учетная форма N 030-13/У «Паспорт врачебного участка граждан, имеющих право на получение набора социальных услуг» по завершении отчетного периода подписывается (выберите один правильный ответ)",
+        "врачом-терапевтом участковым и специалистом организационно-методического кабинета",
+        "главным врачом",
+        "председателем врачебной комиссии",
+        "заместителем главного врача по организационно-методической работе"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_103",
+      "arr": [
+        " «Справка для получения путевки на санаторно-курортное лечение» (Форма N 070/У), выдаваемая лицу, имеющего право на получение социальных услуг, заверяется подписью: (выберите один правильный ответ)",
+        "председателя врачебной комиссии",
+        "лечащего врача",
+        "главного врача",
+        "заместителя главного врача по организационно-методической работе"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_104",
+      "arr": [
+        " «НАПРАВЛЕНИЕ НА ГОСПИТАЛИЗАЦИЮ, ВОССТАНОВИТЕЛЬНОЕ ЛЕЧЕНИЕ, ОБСЛЕДОВАНИЕ, КОНСУЛЬТАЦИЮ» (УЧЕТНАЯ ФОРМА N 057/У-04) ПОДПИСЫВАЕТСЯ",
+        "заведующим отделением",
+        "главным врачом",
+        "заместителем главного врача по лечебной работе",
+        "председателем врачебной комиссии"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_105",
+      "arr": [
+        " РАЗРЕШЕНИЕ НА ПРОДЛЕНИЕ ЛИСТКА НЕТРУДОСПОСОБНОСТИ БОЛЕЕ 15 ДНЕЙ ОПРЕДЕЛЯЕТСЯ",
+        "врачебной комиссией",
+        "лечащим врачом",
+        "главным врачом",
+        "заместителем главного врача по клинико-экспертной работе"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_106",
+      "arr": [
+        " В СЛУЧАЯХ ТРАВМ, РЕКОНСТРУКТИВНЫХ ОПЕРАЦИЙ И ЛЕЧЕНИИ ТУБЕРКУЛЕЗА ПРИ ОЧЕВИДНОМ НЕБЛАГОПРИЯТНОМ КЛИНИЧЕСКОМ И ТРУДОВОМ ПРОГНОЗЕ ГРАЖДАНЕ НАПРАВЛЯЮТСЯ НА МЕДИКО-СОЦИАЛЬНУЮ ЭКСПЕРТИЗУ НЕ ПОЗДНЕЕ _____ МЕСЯЦЕВ",
+        "12-ти",
+        "4-х",
+        "10-ти",
+        "3-х"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_107",
+      "arr": [
+        " Диспансерное наблюдение пожилых людей при наличии анемии необходимо проводить: (выберите один правильный ответ)",
+        "1 раз в месяц",
+        "1 раз в 2 – 3 месяца",
+        "1 раз в полгода",
+        "1 – 2 раза в год",
+        "3 раза в год"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_108",
+      "arr": [
+        " ВЫБОР ТАКТИКИ ПРИ ПАЛЛИАТИВНОЙ ПОМОЩИ ЗАВИСИТ ОТ",
+        "стадии опухолевого процесса и жизненного прогноза",
+        "стадии опухолевого процесса",
+        "возраста пациента",
+        "локализации опухоли"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_109",
+      "arr": [
+        " ДЕПРЕССИЯ СЕГМЕНТА ST НА ЭКГ ТИПИЧНА ДЛЯ",
+        "приступа стенокардии напряжения",
+        "приступа вариантной (вазоспастической) стенокардии",
+        "перикардита",
+        "аневризмы левого желудочка"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_110",
+      "arr": [
+        " НАИБОЛЕЕ ЧАСТОЙ ПРИЧИНОЙ РАЗВИТИЯ ОСТРОГО МИОКАРДИТА ЯВЛЯЮТСЯ",
+        "вирусные инфекции",
+        "бактериальные инфекции",
+        "грибковые инфекции",
+        "воздействия токсинов"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_111",
+      "arr": [
+        " САМОЙ ЧАСТОЙ ПРИЧИНОЙ КОРОНАРНОЙ НЕДОСТАТОЧНОСТИ ЯВЛЯЕТСЯ",
+        "атеросклероз коронарных артерий",
+        "«мышечный» мостик",
+        "коронариит",
+        "гипертрофия левого желудочка"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_112",
+      "arr": [
+        " СИНКОПАЛЬНЫЕ СОСТОЯНИЯ, ГОЛОВОКРУЖЕНИЕ, КОРОНАРНАЯ НЕДОСТАТОЧНОСТЬ И ОДЫШКА ЧАЩЕ ВСЕГО ВСТРЕЧАЮТСЯ ПРИ",
+        "ГКМП с обструкцией выносящего тракта ЛЖ",
+        "недостаточности аортального клапана",
+        "ДКМП",
+        "постинфарктном кардиосклерозе"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_113",
+      "arr": [
+        " В ТАБЛИЦЕ SCORE ДЛЯ ОЦЕНКИ СЕРДЕЧНО-СОСУДИСТОГО РИСКА ОТСУТСТВУЕТ ПОКАЗАТЕЛЬ",
+        "глюкозы крови",
+        "общего холестерина",
+        "систолического АД",
+        "возраста"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_114",
+      "arr": [
+        " КАРДИОСПЕЦИФИЧЕСКИМ МАРКЕРОМ НЕКРОЗА МИОКАРДА ЯВЛЯЕТСЯ",
+        "тропонин I",
+        "миоглобин",
+        "ЛДГ",
+        "общая КФК"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_115",
+      "arr": [
+        " ПРИЕМ СЕРДЕЧНЫХ ГЛИКОЗИДОВ У БОЛЬНЫХ ХСН ПРОТИВОПОКАЗАН ПРИ",
+        "a-v блокаде II ст.",
+        "a-v блокаде I ст.",
+        "фибрилляции предсердий",
+        "синусовой тахикардии"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_116",
+      "arr": [
+        " ПРИЕМ СТАТИНОВ СЛЕДУЕТ ОТМЕНИТЬ ПРИ ПОВЫШЕНИИ АКТИВНОСТИ ТРАНСАМИНАЗ В КРОВИ ВЫШЕ НОРМЫ В",
+        "3 раза",
+        "2 раза",
+        "4 раза",
+        "5 раз"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_117",
+      "arr": [
+        " НАЛИЧИЕ ТРИАДЫ СИМПТОМОВ - СТОЙКОЕ ПОВЫШЕНИЕ ЖЕЛУДОЧНОЙ СЕКРЕЦИИ, ИЗЪЯЗВЛЕНИЕ ЖКТ, ДИАРЕЯ - УКАЗЫВАЕТ НА",
+        "синдром Золлингера-Эллисона",
+        "язвенную болезнь с локализацией в желудке",
+        "язвенный колит",
+        "хронический панкреатит"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_118",
+      "arr": [
+        " НАИБОЛЕЕ ЧАСТО ВСТРЕЧАЮЩИМСЯ СИМПТОМОМ ПРИ ДИФФУЗНОМ ЭЗОФАГОСПАЗМЕ ЯВЛЯЕТСЯ",
+        "боль за грудиной",
+        "одинофагия",
+        "дисфагия",
+        "регургитация"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_119",
+      "arr": [
+        " ДИАГНОЗ САХАРНОГО ДИАБЕТА УСТАНАВЛИВАЕТСЯ ПРИ УРОВНЕ ГЛИКИРОВАННОГО ГЕМОГЛОБИНА______%",
+        "≥6,5",
+        "≥6,0",
+        "≥6,8",
+        "≥7,0"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_120",
+      "arr": [
+        " УРОВЕНЬ ИНСУЛИНА В СЫВОРОТКЕ КРОВИ ЧАЩЕ БЫВАЕТ ПОВЫШЕН",
+        "при сахарном диабете 2 типа",
+        "при сахарном диабете 1 типа",
+        "после стимуляции глюкозой при сахарном диабете 1 типа",
+        "после стимуляции глюкозой при сахарном диабете 2 типа"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_121",
+      "arr": [
+        " РИСК РАЗВИТИЯ САХАРНОГО ДИАБЕТА 2 ТИПА ПОВЫШЕН У",
+        "женщин, родивших ребенка массой более 4,5 кг.",
+        "людей, часто болеющих вирусными инфекциями",
+        "людей, в возрасте до 1 года, получавших коровье молоко",
+        "женщин, родивших ребенка массой менее 2,5 кг."
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_122",
+      "arr": [
+        " «ЗОЛОТЫМ СТАНДАРТОМ» ДИАГНОСТИКИ И ОЦЕНКИ ХОБЛ ЯВЛЯЕТСЯ",
+        "спирометрия",
+        "бронхоскопия",
+        "компьютерная томография",
+        "пикфлоуметрия"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_123",
+      "arr": [
+        " ДЛЯ КРУПОЗНОЙ ПНЕВМОНИИ В РАЗГАР БОЛЕЗНИ ХАРАКТЕРНЫМ ПЕРКУТОРНЫМ ЗВУКОМ ЯВЛЯЕТСЯ",
+        "тупой",
+        "коробочный",
+        "тимпанический",
+        "металлический"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_124",
+      "arr": [
+        " По данным ВОЗ, людьми пожилого возраста считаются лица старше: (выберите один правильный ответ)",
+        "40 лет",
+        "50 лет",
+        "60 лет",
+        "80 лет",
+        "90 лет"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_125",
+      "arr": [
+        " У больных пожилого и старческого возраста наиболее часто встречаются: (выберите один правильный ответ)",
+        "болезни дыхательной системы",
+        "болезни эндокринной системы",
+        "болезни сердечно-сосудистой системы",
+        "болезни костно-мышечной системы",
+        "болезни кроветворной системы"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_126",
+      "arr": [
+        " По классификации ВОЗ, к «старым» относятся: (выберите один правильный ответ)",
+        "люди 60-74 лет",
+        "люди 75-89 лет",
+        "люди старше 90 лет"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_127",
+      "arr": [
+        " Витаукт – это: (выберите один правильный ответ)",
+        "механизм апоптоза",
+        "механизмы старения",
+        "механизмы активного противодействия процессам старения",
+        "омолаживающая процедура",
+        "механизм мутации"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_128",
+      "arr": [
+        " Современная геронтология изучает: (выберите один правильный ответ)",
+        "механизмы заболеваемости у взрослого населения",
+        "причины смерти в различных возрастных группах",
+        "механизмы противодействию старения",
+        "механизмы и причины старения от молекулярного и клеточного уровней до целостного организма",
+        "онкологические болезни пожилых"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_129",
+      "arr": [
+        " Синдром малых раковых признаков: 1) ухудшение или изменение аппетита; 2) немотивированное похудание; 3) изменение голоса; 4) изменение характера кашля; 5) изменение настроения. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "1, 2, 3, 4",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_130",
+      "arr": [
+        " Появление ортопноэ является признаком: (выберите один правильный ответ)",
+        "инфаркта миокарда;",
+        "инсульта;",
+        "приступа стенокардии;",
+        "недостаточности кровообращения I степени;",
+        "недостаточности кровообращения II степени."
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_131",
+      "arr": [
+        " Кратность наблюдения больных дилатационной кардиомиопатией участковым врачом составляет: (выберите один правильный ответ)",
+        "4 раза в год",
+        "3 раза в год",
+        "2 раза в год",
+        "1 раз в год",
+        "6 раз в год"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_132",
+      "arr": [
+        " КРИТЕРИЕМ ЭФФЕКТИВНОСТИ АНТИБАКТЕРИАЛЬНОЙ ТЕРАПИИ ПНЕВМОНИИ ЯВЛЯЕТСЯ",
+        "нормализация температуры через 48-72 часа",
+        "полное рассасывание инфильтрата в легочной ткани",
+        "нормализация всех лабораторных показателей",
+        "нормализация температуры в утренние и дневные часы"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_133",
+      "arr": [
+        " Какие патологические состояния требуют исключения при длительной неустановленной гипертермии: (выберите один правильный ответ)",
+        "туберкулез",
+        "заболевания соединительной ткани",
+        "острый тиреоидит",
+        "пневмония",
+        "лихорадка лекарственного происхождения",
+        "все вышеперечисленное",
+        "варианты а, в, г"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_134",
+      "arr": [
+        " В обязательный минимум лабораторных исследований длительно лихорадящих больных входят: (выберите один правильный ответ)",
+        "общий анализ крови с подсчетом лейкоцитарной формулы",
+        "определение в мазке малярийных плазмодиев",
+        "тесты функционального состояния печени",
+        "бактериологические посевы мочи, кала и крови до 3-6 раз",
+        "все вышеперечисленное",
+        "ничего из указанного"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_135",
+      "arr": [
+        " К критериям, позволяющим диагностировать лихорадку неясного генеза, относятся: (выберите один правильный ответ)",
+        "наличие у больного температуры 38° С и выше",
+        "длительность лихорадки 3 недели и более",
+        "неясность диагноза после проведения обследования с помощью общепринятых (рутинных) методов",
+        "все вышеперечисленные варианты",
+        "только варианты а и б"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_136",
+      "arr": [
+        " Группы лекарственных средств, при применении которых возможно повышение\r\nтемпературы: (выберите один правильный ответ)",
+        "нейролептики;",
+        "трициклические антидепрессанты;",
+        "антидепрессанты из группы ингибиторов МАО;",
+        "антибактериальные препараты;",
+        "только варианты а и г;",
+        "все перечисленные варианты."
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_137",
+      "arr": [
+        " Критериями артериальной гипертензии являются: (выберите один правильный ответ)",
+        "уровень систолического давления 140 мм.рт.ст. и выше или диастолического давления 90 мм.рт.ст. и более",
+        "повышение систолического давления выше 120 мм.рт.ст. или диастолического давления больше 80 мм.рт.ст.",
+        "повышение систолического давления выше 160 мм.рт.ст. или диастолического давления больше 95 мм.рт.ст"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_138",
+      "arr": [
+        " Клиническая ситуация при лечении АГ, не предполагающая применение\r\nβ-адреноблокаторов: (выберите один правильный ответ)",
+        "стенокардия после перенесенного ИМ",
+        "ХСН",
+        "беременность",
+        "тахиаритмии",
+        "хроническая почечная недостаточность"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_139",
+      "arr": [
+        " Назначение какого β-адреноблокатора возможно при лечении АГ у пациента с\r\nхроническим обструктивным бронхитом: (выберите один правильный ответ)",
+        "атенолол",
+        "надолол",
+        "пиндолол",
+        "пропранолол",
+        "окспренолол"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_140",
+      "arr": [
+        " Для купирования неосложненных гипертонических кризов применяют: (выберите один правильный ответ)",
+        "нитроглицерин",
+        "каптоприл",
+        "кардикет",
+        "кордарон"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_141",
+      "arr": [
+        " НАИБОЛЕЕ ЧАСТЫМ ПОБОЧНЫМ ЭФФЕКТОМ ИНГАЛЯЦИОННЫХ ГЛЮКОКОРТИКОСТЕРОИДОВ ЯВЛЯЕТСЯ",
+        "дисфония",
+        "остеопороз",
+        "гипергликемия",
+        "ожирение"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_142",
+      "arr": [
+        " ПРИ ХОБЛ ОБЯЗАТЕЛЬНОЙ ЯВЛЯЕТСЯ ВАКЦИНАЦИЯ______ВАКЦИНОЙ",
+        "противогриппозной",
+        "противококлюшной",
+        "противоменингококковой",
+        "противодифтерийной"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_143",
+      "arr": [
+        " ПРИ НАЗНАЧЕНИИ ИНГАЛЯЦИОНЫХ ГЛЮКОКОРТИКОСТЕРОИДОВ ВРАЧ ДОЛЖЕН ПРЕДУПРЕДИТЬ ПАЦИЕНТА О ВОЗМОЖНОМ РАЗВИТИИ НЕБЛАГОПРИЯТНОЙ ЛЕКАРСТВЕННОЙ РЕАКЦИИ В ВИДЕ",
+        "кандидоза полости рта",
+        "системного остеопороза",
+        "синдрома Кушинга",
+        "стероидного сахарного диабета"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_144",
+      "arr": [
+        " ЛСД (ДИЭТИЛАМИД D-ЛИЗЕРГИНОВОЙ КИСЛОТЫ)\r\nОТНОСЯТ К",
+        "галлюциногенам",
+        "психостимуляторам",
+        "производным конопли",
+        "опиатам"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_145",
+      "arr": [
+        " Постоянные, колющие, стреляющие боли в области сердца, усиливающиеся при вдохе, характерны для: (выберите один правильный ответ)",
+        "стенокардии",
+        "гидроперикарда",
+        "сухого перикардита",
+        "аневризмы левого желудочка",
+        "митрального стеноза"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_146",
+      "arr": [
+        " Тактика участкового врача при впервые возникшей стенокардии: (выберите один правильный ответ)",
+        "снятие ЭКГ, купирование болевого синдрома и амбулаторное лечение",
+        "снятие ЭКГ, купирование болевого синдрома, аспирин 0,325, плавикс 100 мг и госпитализация",
+        "выдача направления на плановую госпитализацию",
+        "амбулаторное обследование"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_147",
+      "arr": [
+        " Тактика участкового терапевта при подозрении на острый инфаркт миокарда: (выберите один правильный ответ)",
+        "снять ЭКГ на месте, купировать болевой синдром, аспирин и тромболитики, срочная госпитализация по скорой помощи",
+        "ввести спазмолитики и проводить наблюдение",
+        "направить больного самостоятельно в стационар на госпитализацию",
+        "проводить амбулаторное лечение, а при неэффективности направить в стационар на госпитализацию"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_148",
+      "arr": [
+        " Наиболее типичным клиническим признаком фиброзирующего альвеолита служит: (выберите один правильный ответ)",
+        "кашель",
+        "боли в грудной клетке",
+        "одышка",
+        "кровохарканье",
+        "повышение температуры"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_149",
+      "arr": [
+        " Признаками тромбоэмболии легочной артерии на ЭКГ является: (выберите один правильный ответ)",
+        "резкая перегрузка левого предсердия",
+        "острая блокада правой ножки пучка Гиса",
+        "глубокие зубцы SI, QIII",
+        "резко отрицательный TIII"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_150",
+      "arr": [
+        " Для опоясывающего лишая (Herpes zoster) характерно: (выберите один правильный ответ)",
+        "интенсивные жгучие боли, возникающие по ходу чувствительного нерва; типичные герпетические высыпания – сгруппированные везикулы, наполненные серозным содержимым",
+        "приступообразные колющие боли, возникающие по ходу чувствительного нерва; типичные герпетические высыпания – сгруппированные везикулы, наполненные серозным содержимым"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_151",
+      "arr": [
+        " Для болевого синдрома при диффузном эзофагоспазме характерно: (выберите один правильный ответ)",
+        "рецидивирование болей, боль обусловлена спастическими сокращениями гладкой мускулатуры, возникает спонтанно, как в покое (вне приема пищи), так и при проглатывании пищи или слюны, боль усиливается на фоне эмоционального стресса",
+        "рецидивирование болей, боль обусловлена спастическими сокращениями гладкой мускулатуры, возникает при проглатывании пищи или слюны, боль усиливается на фоне эмоционального стресса"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_152",
+      "arr": [
+        " Чаще всего причиной ОИМ является: (выберите один правильный ответ)",
+        "коронароспазм",
+        "коронаросклероз",
+        "воспаление коронарных сосудов",
+        "гипертоническая болезнь"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_153",
+      "arr": [
+        " При ОИМ противопоказаны: (выберите один правильный ответ)",
+        "ненаркотические анальгетики",
+        "нейролептики",
+        "сердечные гликозиды",
+        "нитраты"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_154",
+      "arr": [
+        " Какие признаки достоверно отличают болевой синдром у больного с развивающимся инфарктом миокарда от ангинозных болей у пациента со стенокардией: 1) локализация болей; 2) характер болей (давящие, жгучие и др.); 3) иррадиация; 4) продолжительность болей; 5) отношение болей к физ. нагрузке; 6) отношение болей к приему нитроглицерина; 7) отношение болей к приему валидола. Выберите правильную комбинацию ответов:",
+        "1, 2, 6",
+        "1, 3, 5",
+        "3, 4, 5, 7",
+        "1, 2, 3",
+        "4, 6"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_155",
+      "arr": [
+        " Для подтверждения мелкоочагового ИМ необходимо: (выберите один правильный ответ)",
+        "снять ЭКГ",
+        "произвести биохимический анализ крови и ОАК, помимо ЭКГ",
+        "произвести велоэргометрию",
+        "произвести пробу с фармакологическими препаратами"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_156",
+      "arr": [
+        " Из перечисленных состояний противопоказаниями для направления больных,\r\nперенесших инфаркт миокарда, на санаторное лечение являются: (выберите один правильный ответ)",
+        "единичная экстрасистолия",
+        "AB-блокада I степени",
+        "недостаточность кровообращения IIБ стадии",
+        "все перечисленное",
+        "ни одно из перечисленных"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_157",
+      "arr": [
+        " Из перечисленных состояний не являются противопоказаниями к санаторному лечению больных, перенесших инфаркт миокарда: (выберите один правильный ответ)",
+        "пароксизмальная желудочковая тахикардия",
+        "компенсированный сахарный диабет",
+        "тромбоэмболические осложнения в остром периоде",
+        "ранняя постинфарктная стенокардия",
+        "все вышеперечисленные"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_158",
+      "arr": [
+        " При каких заболеваниях может развиться миокардит: 1) СКВ; 2) подострый септический эндокардит; 3) сывороточная болезнь; 4) ревматоидный полиартрит. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3",
+        "1, 2, 3",
+        "1, 2, 3, 4",
+        "4"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_159",
+      "arr": [
+        " Какие аускультативные симптомы можно обнаружить у больного миокардитом: 1) приглушение тонов сердца; 2) ритм галопа; 3) систолический шум на верхушке сердца; 4) хлопающий I тон на верхушке сердца. Выберите правильную комбинацию ответов:",
+        "1, 2, 4",
+        "1, 3, 4",
+        "3, 4",
+        "1, 2, 3",
+        "4"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_160",
+      "arr": [
+        " К основным предикторам внезапной смерти при гипертрофической кардиомиопатии не относится: (выберите один правильный ответ)",
+        "молодой возраст",
+        "случаи внезапной смерти у ближайших родственников",
+        "наличие у больного пароксизмов желудочковой тахикардии (в том числе короткие «пробежки» ЖТ)",
+        "наличие изолированной систолической гипертензии"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_161",
+      "arr": [
+        " Какие изменения лабораторных показателей отражают активность воспалительного процесса в миокарде: 1) гиперурикемия; 2) гиперфибриногенемия; 3) гиперхолестеринемия; 4) повышение СРБ в плазме крови. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3",
+        "3, 4",
+        "1, 2, 3",
+        "2, 4"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_162",
+      "arr": [
+        " Выберите основные принципы лечения миокардита: 1) ограничение физической нагрузки; 2) этиотропная терапия; 3) купирование воспаления; 4) цитопротекция. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3",
+        "3, 4",
+        "1, 2, 3, 4",
+        "4"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_163",
+      "arr": [
+        " По каким критериям оценивается тяжесть течения миокардита: 1) по размерам полостей сердца; 2) наличию или отсутствию перикардита; 3) выраженности клинических проявлений сердечной недостаточности; 4) величине СОЭ. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3",
+        "3, 4",
+        "1, 2, 3, 4",
+        "2, 4"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_164",
+      "arr": [
+        " Сердечные гликозиды нельзя сочетать с: (выберите один правильный ответ)",
+        "верошпироном",
+        "препаратами калия",
+        "лидокаином",
+        "β-блокаторами"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_165",
+      "arr": [
+        " Противопоказанием для применения анаприлина является: 1) острый инфаркт миокарда; 2) язвенная болезнь желудка; 3) бронхиальная астма; 4) выраженная застойная сердечная недостаточность. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3",
+        "2, 3, 4",
+        "1, 2, 3, 4",
+        "2, 4"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_166",
+      "arr": [
+        " Препаратами выбора при ХСН являются: 1) β - блокаторы; 2) ингибиторы АПФ; 3) нитраты; 4) мочегонные препараты; 5) сердечные гликозиды. Выберите правильную комбинацию ответов:",
+        "1, 2, 5",
+        "1, 3, 5",
+        "3, 4",
+        "2, 3, 4",
+        "1, 2, 3, 4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_167",
+      "arr": [
+        " Укажите показания для назначения β-блокаторов при сердечной недостаточности: 1) легкая сердечная недостаточность; 2) тяжелая сердечная недостаточность; 3) стойкая синусовая тахикардия после ликвидации отечного синдрома; 4) сопутствующая стенокардия напряжения; 5) частая желудочковая экстрасистолия. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3",
+        "3, 4, 5",
+        "1, 2, 3, 4",
+        "2, 4"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_168",
+      "arr": [
+        " Санаторно-курортное лечение при ХСН показано при: (выберите один правильный ответ)",
+        "отеке легких",
+        "ХСН ФК I и II",
+        "ХСН ФК IV",
+        "наличии отеков",
+        "ХСН на фоне гипертонической болезни 3 стадии, 3 степени"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_169",
+      "arr": [
+        " Больной ХСН может быть признан временно нетрудоспособным на 10-14 дней при: (выберите один правильный ответ)",
+        "ХСН ФК III",
+        "ХСН ФК IV",
+        "острой левожелудочковой недостаточности",
+        "ХСН ФК I и II в начале заболевания",
+        "если нуждается в постоянном уходе"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_170",
+      "arr": [
+        " Бессрочно 1 группа инвалидности устанавливается у больного с: (выберите один правильный ответ)",
+        "ХСН ФК I и II",
+        "ХСН ФК IV, не нуждающегося в постоянном уходе",
+        "ХСН ФК IV, нуждающегося в постоянном уходе",
+        "ХСН с отеком легких",
+        "ХСН и периферическими отеками"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_171",
+      "arr": [
+        " Диспансеризация больных с ХСН включает: (выберите один правильный ответ)",
+        "ежегодный осмотр участковым терапевтом",
+        "осмотр терапевтом 2 раза в год",
+        "осмотр терапевтом «по требованию»",
+        "осмотр терапевтом 1 раз в 3 месяца"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_172",
+      "arr": [
+        " Показания к госпитализации у больного с ХСН: 1) прогрессирующая ХСН; 2) пневмония у больного ХСН; 3) отек легких у больного с ХСН; 4) назначение диуретической терапии; 5) подбор дозы ингибитора АПФ для постоянной терапии. Выберите правильную комбинацию ответов:",
+        "1, 2, 3",
+        "1, 3, 5",
+        "3, 4",
+        "1, 2, 3, 4",
+        "2, 4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_173",
+      "arr": [
+        " Профилактика ХСН включает: 1) контроль употребления соли и воды; 2) отказ от алкоголя; 3) адекватные физические нагрузки; 4) режим лекарственной терапии; 5) применение варфарина. Выберите правильную комбинацию ответов:",
+        "1, 2, 4",
+        "1, 3",
+        "3, 4, 5",
+        "1, 2, 3, 4",
+        "2, 4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_174",
+      "arr": [
+        " Для язвенной болезни желудка характерно: (выберите один правильный ответ)",
+        "развитие в старшей возрастной группе среднего возрастного периода (55-65 лет)",
+        "наследственная предрасположенность к развитию заболевания",
+        "отсутствие обратной диффузии водородных ионов в слизистой желудка",
+        "преобладание больных с возбудимым типом желудочной секреции",
+        "резкое нарушение ощелачивающей функции антрального отдела"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_175",
+      "arr": [
+        " У пациентов с язвенной болезнью желудка чаще встречается: (выберите один правильный ответ)",
+        "изжога",
+        "боль в околопупочной области",
+        "диарея",
+        "запор",
+        "боль в эпигастрии через 1,5-2 часа после приема пищи"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_176",
+      "arr": [
+        " Для язвенной болезни двенадцатиперстной кишки характерно все, кроме: (выберите один правильный ответ)",
+        "повышенной моторной функции желудка",
+        "высокой продукции пепсина",
+        "гиперплазии фундальных желез",
+        "сниженной кислотно-нейтрализующей функции антрального отдела",
+        "преобладания гормональной природы кислотообразования"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_177",
+      "arr": [
+        " В какой срок после перенесенной инфекции развивается острый гломерулонефрит: (выберите один правильный ответ)",
+        "10-12 дней",
+        "3-4 дня",
+        "неделя",
+        "месяц",
+        "2 месяца"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_178",
+      "arr": [
+        " Какая возрастная группа наиболее подвержена заболеванию острым гломерулонефритом: (выберите один правильный ответ)",
+        "до 2 лет",
+        "с 2-летнего возраста до 40 лет",
+        "климактерический период",
+        "период менопаузы",
+        "пубертатный период"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_179",
+      "arr": [
+        " Какие диетические мероприятия показаны при остром гломерулонефрите: (выберите один правильный ответ)",
+        "ограничение хлорида натрия до 1,5 г/сутки",
+        "увеличение потребления хлорида натрия",
+        "увеличение количества потребляемой жидкости",
+        "повышение потребления К+-содержащих продуктов"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_180",
+      "arr": [
+        " Самым частым клиническим вариантом хронического гломерулонефрита является: (выберите один правильный ответ)",
+        "гематурический",
+        "латентный",
+        "нефротический",
+        "гипертонический",
+        "смешанный"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_181",
+      "arr": [
+        " Для хронического гломерулонефрита характерна: (выберите один правильный ответ)",
+        "гломерулярная протеинурия",
+        "тубулярная протеинурия",
+        "протеинурия переполнения",
+        "протеинурия напряжения"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_182",
+      "arr": [
+        " Вариант хронического гломерулонефрита, который может не сопровождаться\r\nобязательным развитием хронической почечной недостаточности: (выберите один правильный ответ)",
+        "латентный",
+        "гематурический",
+        "гипертонический",
+        "нефротический",
+        "смешанный"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_183",
+      "arr": [
+        " Главным признаком нефротического синдрома является: (выберите один правильный ответ)",
+        "лейкоцитурия",
+        "протеинурия",
+        "гематурия",
+        "цилиндрурия",
+        "бактериурия"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_184",
+      "arr": [
+        " Для нефротического синдрома характерны осложнения: (выберите один правильный ответ)",
+        "инфекции",
+        "тромбозы",
+        "нефротический криз",
+        "ОПН",
+        "ДВС-синдром",
+        "все перечисленные"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_185",
+      "arr": [
+        " В норме реакция мочи чаще всего: (выберите один правильный ответ)",
+        "слабощелочная",
+        "слабокислая",
+        "стойкая щелочная",
+        "стойкая кислая"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_186",
+      "arr": [
+        " Моча становится мутной при большом содержании в ней: (выберите один правильный ответ)",
+        "эритроцитов",
+        "цилиндров",
+        "лейкоцитов",
+        "белка"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_187",
+      "arr": [
+        " Моча не окрашивается в красноватый цвет от присутствия: (выберите один правильный ответ)",
+        "эритроцитов",
+        "гемоглобина",
+        "уробилиногена",
+        "миоглобина"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_188",
+      "arr": [
+        " Ангиография сосудов почек применяется для выявления: (выберите один правильный ответ)",
+        "мочекаменной болезни",
+        "поражения почечных сосудов",
+        "миеломной болезни",
+        "хронического пиелонефрита"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_189",
+      "arr": [
+        " Препарат выбора при пиелонефрите беременных в сроке до 12 недель: (выберите один правильный ответ)",
+        "бисептол",
+        "амоксиклав",
+        "ципрофлоксацин",
+        "тетрациклин"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_190",
+      "arr": [
+        " Минимум инструментального обследования, необходимый больному с клиникой\r\nострого пиелонефрита: (выберите один правильный ответ)",
+        "хромоцистография",
+        "ретроградная пиелография",
+        "УЗИ почек, обзорная R-графия мочевых путей",
+        "цистоскопия, 3-стаканная проба"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_191",
+      "arr": [
+        " Изменение биохимических показателей при хронической почечной недостаточности: (выберите один правильный ответ)",
+        "гиперальбуминемия",
+        "дислипидемия",
+        "гиперкреатининемия",
+        "уробилинурия",
+        "гипербилирубинемия"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_192",
+      "arr": [
+        " Уровень клубочковой фильтрации, характерный для терминальной стадии хронической почечной недостаточности: (выберите один правильный ответ)",
+        "40 мл/мин",
+        "30 мл/мин",
+        "20 мл/мин",
+        "15 мл/мин",
+        "5 мл/мин"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_193",
+      "arr": [
+        " Группа антибиотиков, не показанных при остром гломерулонефрите: (выберите один правильный ответ)",
+        "пенициллины",
+        "цефалоспорины",
+        "аминогликозиды",
+        "макролиды",
+        "тетрациклин"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_194",
+      "arr": [
+        " Самым достоверным признаком ХПН является: (выберите один правильный ответ)",
+        "артериальная гипертензия",
+        "гиперкалиемия",
+        "повышение уровня креатинина крови",
+        "олигурия",
+        "протеинурия"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_195",
+      "arr": [
+        " Перечислите основные синдромы ХПН: (выберите один правильный ответ)",
+        "нефротический",
+        "гастроэнтерологический",
+        "анемически-геморрагический",
+        "серозно-суставной",
+        "костный",
+        "дистрофический",
+        "все перечисленные синдромы"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_196",
+      "arr": [
+        "Ведущими факторами риска возникновения и неблагоприятного течения онкологических заболеваний являются: 1) злоупотребление алкоголем; 2) избыточная масса тела; 3) низкая физическая активность; 4) пассивное курение; 5) активное курение. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 4, 5",
+        "3, 4",
+        "1, 2, 3, 4",
+        "2, 4"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_197",
+      "arr": [
+        " Предопухолевым заболеванием считается: (выберите один правильный ответ)",
+        "пневмония",
+        "хронический тонзиллит",
+        "остеохондроз позвоночника",
+        "язвенная болезнь желудка",
+        "дискинезия желчевыводящих путей"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_198",
+      "arr": [
+        " Наиболее частые осложнения ХСН: 1) тромбоз глубоких вен нижних конечностей; 2) нарушения ритма и проводимости; 3) ОРВИ; 4) гипертонические кризы; 5) легочные кровотечения. Выберите правильную комбинацию ответов:",
+        "1, 2",
+        "1, 3, 4, 5",
+        "3, 4, 5",
+        "2, 3, 4",
+        "2, 4"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_199",
+      "arr": [
+        " Предраковыми заболеваниями при диагностике злокачественных опухолей являются: 1) ревматизм; 2) диффузный семейный полипоз; 3) лейкоплакия пищевода; 4) множественные полипы желудка; 5) бронхиальная астма. Выберите правильную комбинацию ответов:",
+        "1, 2, 3",
+        "1, 3, 4, 5",
+        "3, 4, 5",
+        "2, 3, 4",
+        "2, 4"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_200",
+      "arr": [
+        " К методам и средствам первичной профилактики следует отнести: (выберите один правильный ответ)",
+        "раннюю диагностику заболеваний",
+        "хирургическую коррекцию болезней, закаливание",
+        "профилактическую госпитализацию",
+        "оздоровление окружающей среды, вакцинирование"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_201",
+      "arr": [
+        " Целью вторичной профилактики является предупреждение возникновения: (выберите один правильный ответ)",
+        "острых заболеваний",
+        "осложнений заболеваний, хронических заболеваний",
+        "несчастных случаев",
+        "злокачественных новообразований"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_202",
+      "arr": [
+        " Максимальный срок единоличной выдачи листка нетрудоспособности при заболеваниях и травмах составляет: (выберите один правильный ответ)",
+        "3 дня нетрудоспособности",
+        "5 дней нетрудоспособности",
+        "6 дней нетрудоспособности",
+        "10 дней нетрудоспособности",
+        "15 дней нетрудоспособности"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_203",
+      "arr": [
+        " Задачи диспансеризации: а) своевременное направление на санаторно-курортное лечение здоровых лиц; б) выявление лиц с факторами риска и больных на ранних стадиях заболеваний путем проведения ежегодных профилактических осмотров обязательного контингента и по возможности ‒ других групп населения; в) активное наблюдение и оздоровление больных и лиц с факторами риска; г) обследование, лечение и реабилитация больных по обращаемости, динамическое наблюдение за ними; д) создание автоматизированных информационных систем и банков данных по диспансерному учету населения: (выберите правильную комбинацию ответов)",
+        "а, б",
+        "а, в, д",
+        "б, в, г, д",
+        "а, б, в",
+        "б, г, д"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_204",
+      "arr": [
+        " Процесс формирования здорового образа жизни включает: (выберите один правильный ответ)",
+        "информирование населения о факторах риска, формирование убежденности в необходимости сохранении здоровья",
+        "обследование на наличие ВИЧ и вирусного гепатита С",
+        "повышение материального благосостояния",
+        "назначение профилактического лечения, вакцинопрофилактика",
+        "снижение показателя летальности"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_205",
+      "arr": [
+        " Эндогенными гипертензивными веществами, способствующими подъему артериального давления путем повышения периферического сосудистого сопротивления, являются: (выберите один правильный ответ)",
+        "брадикинин",
+        "катехоламины, ангиотензин-П",
+        "ацетилхолин, гемоглобин, фибриноген",
+        "серотонин",
+        "предсердный натрийуретический пептид"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_206",
+      "arr": [
+        " Препаратом, обладающим проонкогенными свойствами, считается: (выберите один правильный ответ)",
+        "ампициллин",
+        "парацетамол",
+        "эналаприл",
+        "нитроспрей",
+        "азатиоприн"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_207",
+      "arr": [
+        " Какой из перечисленных симптомов не является характерным для рака молочной железы: (выберите один правильный ответ)",
+        "умбиликация",
+        "лимонная корка",
+        "втяжение соска",
+        "гиперпигментация соска и ареолы",
+        "изъязвление"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_208",
+      "arr": [
+        " При маммографии признаком мастопатии является: (выберите один правильный ответ)",
+        "тени узловой формы",
+        "усиление рисунка и удвоение контуров протоков",
+        "перидуктальный фиброз",
+        "микро-и макрокальцинаты",
+        "все вышеуказанное"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_209",
+      "arr": [
+        " Показания к направлению на обследование при подозрении на рак желудка: (выберите один правильный ответ)",
+        "дисфагия, диспепсия, анемия",
+        "дисфония, дисфагия, боли в горле",
+        "кашель, лихорадка, кровохарканье",
+        "запоры, метеоризм, желтуха",
+        "похудание, отеки на ногах, цианоз конечностей"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_210",
+      "arr": [
+        " Относительно ранние симптомы рака легкого: (выберите один правильный ответ)",
+        "кашель, кровохарканье, одышка",
+        "понос, опоясывающие боли в животе, слабость",
+        "учащенное мочеиспускание, лихорадка",
+        "желтуха, гепатомегалия",
+        "анемия, дизурия"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_211",
+      "arr": [
+        " Антигипертензивный препарат первой линии при лечении артериальной гипертензии у беременной: (выберите один правильный ответ)",
+        "фуросемид",
+        "эналаприл",
+        "бисопролол",
+        "метилдопа",
+        "валсартан"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_212",
+      "arr": [
+        " При лечении инфекции мочевых путей у беременных противопоказано применение: (выберите один правильный ответ)",
+        "гентамицина",
+        "пенициллина",
+        "ампициллина",
+        "цефазолина",
+        "амоксиклава"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_213",
+      "arr": [
+        " Течение беременности у больных сахарным диабетом осложняется: (выберите один правильный ответ)",
+        "невынашиванием беременности",
+        "поздними гестозами",
+        "многоводием",
+        "антенатальной гибелью плода",
+        "всем вышеперечисленным"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_214",
+      "arr": [
+        " Для тяжелой формы нефропатии беременной нехарактерно: (выберите один правильный ответ)",
+        "повышение А/Д свыше 40% от исходного уровня",
+        "содержание белка в моче свыше 3 г/л",
+        "выраженные отеки",
+        "головная боль"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_215",
+      "arr": [
+        " Применение ингибиторов АПФ при беременности возможно: (выберите один правильный ответ)",
+        "только на ранних сроках",
+        "только во втором и третьем триместрах",
+        "на любом сроке",
+        "противопоказано на любом сроке",
+        "возможно в индивидуальном порядке"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_216",
+      "arr": [
+        " Каждое посещение участкового терапевта у беременной определяют: (выберите один правильный ответ)",
+        "ЭКГ и общий анализ мочи",
+        "кровь на ВИЧ и флюорографию",
+        "температуру и массу тела , АД",
+        "окружность живота и сердцебиение плода",
+        "группу крови и резус-фактор"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_217",
+      "arr": [
+        " Анемия у беременных чаще всего является: (выберите один правильный ответ)",
+        "апластической",
+        "фолиеводефицитной",
+        "железодефицитной",
+        "постгеморрагической",
+        "токсической"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_218",
+      "arr": [
+        " Какие виды лихорадок выделяют в зависимости от выраженности температуры: (выберите один правильный ответ) а) субфебрильная (37-37,9° С) б) умеренная (38-39,9° С) в) высокая (40-40,9° С) г) гиперпирексия (41° С и выше) д) все перечисленные виды"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_219",
+      "arr": [
+        " В основе лихорадки неясного генеза могут лежать следующие состояния: (выберите один правильный ответ)",
+        "заболевания инфекционно-воспалительного характера",
+        "онкологические заболевания",
+        "системные заболевания соединительной ткани",
+        "психогенные лихорадки",
+        "все вышеперечисленное"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_220",
+      "arr": [
+        " По продолжительности лихорадка может быть: (выберите один правильный ответ)",
+        "острой , подострой, молниеносной",
+        "ундулирующей, персистирующей",
+        "приступообразной, гиподинамической",
+        "хронической, эволюционной"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_221",
+      "arr": [
+        " Лихорадка, характеризующаяся чередованием лихорадочных и безлихорадочных периодов называется: (выберите один правильный ответ) а) ремиттирующей б) интермиттирующей в) волнообразной г) возвратной"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_222",
+      "arr": [
+        " Лихорадка, характеризующаяся значительными суточными колебаниями температуры тела в пределах 1,5-2°С, но при этом температура не снижается до нормальных цифр: (выберите один правильный ответ) а) ремиттирующая б) интермиттирующая в) ундулирующая г) гектическая"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_223",
+      "arr": [
+        " «Коробочный звук» при хроническом бронхите указывает на развитие: (выберите один правильный ответ)",
+        "острой пневмонии",
+        "эмфиземы",
+        "пневмосклероза",
+        "бронхоэктазов",
+        "плеврита"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_224",
+      "arr": [
+        " Какой отдел верхних дыхательных путей реже поражается при аденовирусной инфекции: (выберите один правильный ответ)",
+        "слизистая носа",
+        "слизистая глотки",
+        "слизистая гортани",
+        "слизистая бронхов"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_225",
+      "arr": [
+        " Какие противовирусные химиопрепараты применяются при гриппе: (выберите один правильный ответ)",
+        "озельтамивир, ингавирин",
+        "противогриппозный иммуноглобулин, кагоцел",
+        "амоксициллин, виферон",
+        "гриппферон, парацетамол",
+        "ремантадин, нистатин"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_226",
+      "arr": [
+        " Для какой формы респираторной вирусной инфекции конъюнктивит является одним из основных симптомов: (выберите один правильный ответ)",
+        "грипп",
+        "парагрипп",
+        "аденовирусная инфекция",
+        "РС-инфекция",
+        "риновирусная инфекция"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_227",
+      "arr": [
+        " Для какой респираторной вирусной инфекции ларингит является одним из основных\r\nсимптомов: (выберите один правильный ответ)",
+        "парагрипп",
+        "РС-инфекция",
+        "аденовирусная инфекция",
+        "грипп",
+        "риновирусная инфекция"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_228",
+      "arr": [
+        " Синдромы, характерные для аденовирусной инфекции: (выберите один правильный ответ)",
+        "цефалгии, миалгии, артралгии",
+        "лимфаденопатия, умеренная интоксикация, конъюнктивит",
+        "гастроэнтерита с тошнотой, рвотой, болью в животе",
+        "ринофаринготонзиллит",
+        "ларингит"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_229",
+      "arr": [
+        " При аденовирусной инфекции выделяют следующие синдромы: (выберите один правильный ответ)",
+        "острого ринофарингита, фаринго-конъюнктивальной лихорадки, острого конъюнктивита или кератоконъюнктивита",
+        "пневмонии, колита",
+        "гастроэнтерита с тошнотой, рвотой, болью в животе",
+        "цефалгии, миалгии, артралгии",
+        "ларингита ,мезаденита с диареей"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_230",
+      "arr": [
+        " При хроническом бронхите отмечается кашель с мокротой: (выберите один правильный ответ)",
+        "2 месяца не менее 2-х лет",
+        "3 месяца не менее 2-х лет",
+        "3 месяца не менее 3-х лет",
+        "4 месяца не менее 3-х лет"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_231",
+      "arr": [
+        " Хронический бронхит следует лечить антибиотиками: (выберите один правильный ответ)",
+        "в осенне-зимний период",
+        "длительно",
+        "не следует лечить вообще",
+        "при выделении гнойной мокроты",
+        "при появлении кровохарканья"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_232",
+      "arr": [
+        " Осложнение хронического бронхита: (выберите один правильный ответ)",
+        "абсцесс легкого",
+        "плеврит",
+        "туберкулез",
+        "эмфизема легких"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_233",
+      "arr": [
+        " Симптомы при ОРВИ, требующие неотложной врачебной помощи: (выберите один правильный ответ)",
+        "температура выше 40 градусов, не реагирующая на прием жаропонижающих препаратов, нарушение сознания (спутанное сознание, обмороки)",
+        "головная боль, снижение аппетита",
+        "менее пяти дней лихорадка, слабость, потливость",
+        "запоры",
+        "диффузная головная боль"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_234",
+      "arr": [
+        " При лечении пневмонии применяют: (выберите один правильный ответ)",
+        "антибиотики, отхаркивающие",
+        "антибиотики, диуретики",
+        "бронхолитики, глюкокортикостероиды",
+        "бронхолитики, диуретики"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_235",
+      "arr": [
+        " Укажите факторы, способствующие развитию пневмоний: (выберите один правильный ответ)",
+        "перенесенные ОРВИ",
+        "иммунодефициты (в том числе СПИД)",
+        "сердечно-сосудистые заболевания",
+        "обструкция дыхательного дерева",
+        "сахарный диабет",
+        "все перечисленное"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_236",
+      "arr": [
+        " Назовите легочные осложнения крупозной пневмонии: (выберите один правильный ответ)",
+        "миокардит, перикардит",
+        "рак легкого, бронхиальная астма",
+        "инфаркт миокарда, плеврит",
+        "перитонит",
+        "эмпиема плевры, абсцесс легкого"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_237",
+      "arr": [
+        " При пневмонии, вызванной микоплазмой, следует назначать: (выберите один правильный ответ)",
+        "тетрациклин",
+        "эритромицин",
+        "пенициллин",
+        "цефалоспорин III поколения",
+        "бисептол",
+        "гентамицин"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_238",
+      "arr": [
+        " Наиболее частой причиной тромбоэмболии легочной артерии является: (выберите один правильный ответ)",
+        "инфекционный эндокардит",
+        "варикозное расширение вен пищевода",
+        "тромбофлебит глубоких вен нижних конечностей",
+        "мерцательная аритмия",
+        "перелом шейки бедра"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_239",
+      "arr": [
+        " Ведущее показание к назначению глюкокортикоидов при пневмониях: (выберите один правильный ответ)",
+        "тяжелое течение с выраженной интоксикацией",
+        "выраженная гипертермия",
+        "вялое рассасывание инфильтрата",
+        "наличие бронхоспастического синдрома",
+        "появление выпота в плевральной полости"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_240",
+      "arr": [
+        " Для лечения бронхиальной астмы используются следующие препараты, кроме: (выберите один правильный ответ)",
+        "кромогликата натрия",
+        "глюкокортикостероидов",
+        "β2-адреностимуляторов",
+        "метилксантинов",
+        "протеолитических ферментов"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_241",
+      "arr": [
+        " Укажите аэрозоли, содержащие М-холинолитик: (выберите один правильный ответ)",
+        "атровент, беродуал",
+        "бекотид",
+        "формотерол, сальбутамол",
+        "дитек"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_242",
+      "arr": [
+        " Основными принципами лечения астматического статуса являются: (выберите один правильный ответ)",
+        "парентеральное введение кортикостероидов",
+        "парентеральное введение бронхорасширяющих средств",
+        "ингаляция кислорода",
+        "применение высоких доз ингаляционных кортикостероидов",
+        "все перечисленное"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_243",
+      "arr": [
+        " Базисным (основным) препаратом для лечения бронхиальной астмы является: (выберите один правильный ответ)",
+        "сальбутамол",
+        "фенотерол (беротек)",
+        "беклометазона дипропионат",
+        "ипратропиума бромид (атровент)",
+        "эуфиллин"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_244",
+      "arr": [
+        " При ночных приступах удушья (возникающих в 3 - 4 часа ночи) больному лучше рекомендовать на ночь: (выберите один правильный ответ)",
+        "ингаляцию беротека",
+        "ингаляцию сальметерола (серевент)",
+        "2 таблетки супрастина",
+        "2 таблетки преднизолона",
+        "2 таблетки бромгексина"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_245",
+      "arr": [
+        " К методам профилактики при наличии бронхиальной астмы можно отнести: (выберите один правильный ответ)",
+        "прекращение контакта с аллергеном",
+        "отказ от курения",
+        "своевременную и адекватную терапию",
+        "своевременное проведение вакцинации от гриппа",
+        "все перечисленные варианты"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_246",
+      "arr": [
+        " Бронхиальная астма отличается от сердечной: (выберите один правильный ответ)",
+        "ночными приступами удушья",
+        "связью приступов с положением тела",
+        "кашлем в конце приступа",
+        "эффектом от приема β2-адреномиметиков",
+        "всем перечисленным"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_247",
+      "arr": [
+        " Какой из перечисленных препаратов не относится к периферическим вазодилататорам: (выберите один правильный ответ)",
+        "пропранолол",
+        "каптоприл",
+        "нифедипин",
+        "молсидомин",
+        "празозин"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_248",
+      "arr": [
+        " Осложнением гипертонической болезни является все, кроме: (выберите один правильный ответ)",
+        "острой правожелудочковой недостаточности",
+        "гипертонического криза",
+        "сердечной астмы",
+        "острого нарушения мозгового кровообращения"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_249",
+      "arr": [
+        " Клиническими проявлениями гипертонического криза являются все показатели, кроме: (выберите один правильный ответ)",
+        "внезапного резкого подъема артериального давления",
+        "резкой головной боли, головокружения",
+        "сердцебиения, колющих болей в области сердца",
+        "нарушения зрения, тошноты, рвоты",
+        "появления быстро нарастающих отеков"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_250",
+      "arr": [
+        " Комбинация препаратов: антагонисты кальция (АК) + тиазидные диуретики (ТД)\r\nне используется при: (выберите один правильный ответ)",
+        "ИСАГ (изолированная систолическая АГ)",
+        "пожилыми больными",
+        "ИБС",
+        "атеросклерозе сонных и коронарных артерий"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_251",
+      "arr": [
+        " Комбинация препаратов: тиазидные диуретики (ТД) + β-адреноблокаторы (β-АБ) не используется при: (выберите один правильный ответ)",
+        "ХСН",
+        "перенесенном ИМ",
+        "тахиаритмии",
+        "пожилом возрасте",
+        "сахарном диабете"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_252",
+      "arr": [
+        " При остром ИМ в сыворотке крови раньше других возрастает уровень активности: (выберите один правильный ответ)",
+        "АсТ",
+        "КФК",
+        "ЛДГ",
+        "миоглобина"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_253",
+      "arr": [
+        " Тромболизис при ОИМ эффективен в первые: (выберите один правильный ответ)",
+        "14 часов",
+        "6 часов",
+        "16 часов",
+        "только в первые 2 часа"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_254",
+      "arr": [
+        " Какой из перечисленных препаратов является антиагрегантом: (выберите один правильный ответ)",
+        "сустак-форте",
+        "аспирин",
+        "фенилин",
+        "дихлотиазид",
+        "нифедипин"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_255",
+      "arr": [
+        " Возникновение медикаментозной АВ-блокады возможно при применении: (выберите один правильный ответ)",
+        "нифедипина",
+        "эналаприла\r\nв)нитросорбида",
+        "хинидина , верапамила"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_256",
+      "arr": [
+        " Перечислите заболевания, при которых часто встречается фибрилляция предсердий: (выберите один правильный ответ)",
+        "митральные пороки сердца, ИБС, тиреотоксикоз",
+        "язвенная болезнь желудка",
+        "бронхиальная астма",
+        "миокардиты, системные васкулиты"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_257",
+      "arr": [
+        " Назначение варфарина у больных с фибрилляцией предсердий должно проводится под контролем: (выберите один правильный ответ)",
+        "протромбинового времени",
+        "МНО",
+        "АЧТВ",
+        "фибриногена"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_258",
+      "arr": [
+        " Причинами возникновения наджелудочковых экстрасистолии могут быть: (выберите один правильный ответ)",
+        "эмоциональное возбуждение, применение симпатомиметиков, нарушение электролитного баланса",
+        "сон, анабиоз",
+        "низкое АД,",
+        "язвенная болезнь желудка"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_259",
+      "arr": [
+        " Препарат пропафенон – антиаритмический препарат: (выберите один правильный ответ)",
+        "IC класса",
+        "II класса",
+        "IV класса"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_260",
+      "arr": [
+        " Выдача и продление листка нетрудоспособности за прошедшее время может осуществляться: (выберите один правильный ответ)",
+        "не может ни при каких обстоятельствах",
+        "при жалобах пациента и его указании на заболевание",
+        "самостоятельно участковым терапевтом",
+        "в исключительных случаях по решению врачебной комиссии при обращении гражданина в медицинскую организацию или посещении его медицинским работником на дому",
+        "фельдшером отдаленного врачебного участка"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_261",
+      "arr": [
+        " С помощью вагусных проб возможно купирование нарушения ритма: (выберите один правильный ответ)",
+        "трепетание предсердий",
+        "фибрилляции предсердий",
+        "пароксизмальная наджелудочковая тахикардия",
+        "желудочковая экстрасистолия"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_262",
+      "arr": [
+        " Периодические профилактические осмотры проводятся: (выберите один правильный ответ)",
+        "при приеме на работу",
+        "рабочим промышленных предприятий с вредными и опасными условиями труда; работникам ведущих профессий сельскохозяйственного производства, дети и подростки, юноши допризывного возраста",
+        "при увольнении с работы",
+        "инвалидам детства",
+        "беременным женщинам в женской консультации"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_263",
+      "arr": [
+        " Основные направления медицинской реабилитации: (выберите один правильный ответ)",
+        "ранняя диагностика болезни (травмы), своевременная госпитализация ,полноценное лабораторно-инструментальное обследование",
+        "хирургическое лечение заболевание",
+        "вакцинопрофилактика",
+        "инфузионное введение лекарственных препаратов",
+        "паллиативная помощь"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_264",
+      "arr": [
+        " Для кардиогенного шока характерны все признаки, кроме: (выберите один правильный ответ)",
+        "снижения АД менее 90/50 мм рт. ст.",
+        "тахикардии",
+        "акроцианоза",
+        "снижения общего периферического сосудистого сопротивления",
+        "олигоанурии"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_265",
+      "arr": [
+        " Наиболее характерный ЭКГ-признак крупноочагового ИМ: (выберите один правильный ответ)",
+        "горизонтальная депрессия SТ",
+        "депрессия SТ выпуклостью кверху и несимметричный зубец Т",
+        "подъем SТ",
+        "глубокие зубцы Q",
+        "зубцы QS"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_266",
+      "arr": [
+        " Наиболее характерный ЭКГ-признак трансмурального ИМ: (выберите один правильный ответ)",
+        "горизонтальная депрессия SТ",
+        "депрессия SТ выпуклостью кверху и несимметричный зубец Т",
+        "подъем SТ",
+        "глубокие зубцы Q",
+        "зубцы QS"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_267",
+      "arr": [
+        " Все изменения крови характерны для острой стадии ИМ, кроме: (выберите один правильный ответ)",
+        "увеличения уровня миоглобина",
+        "увеличения активности аспарагиновой трансаминазы",
+        "появления С-реактивного белка",
+        "увеличения активности щелочной фосфатазы",
+        "увеличения МВ-фракции КФК"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_268",
+      "arr": [
+        " Больным, перенесшим ИМ, назначают длительно аспирин, потому что он: (выберите один правильный ответ)",
+        "снижает протромбиновый индекс",
+        "препятствует агрегации тромбоцитов",
+        "лизирует образовавшиеся тромбы",
+        "ингибирует внутренний механизм свертывания крови",
+        "механизм положительного действия аспирина неизвестен"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_269",
+      "arr": [
+        " Улучшить отдаленный прогноз у больных, перенесших крупноочаговый инфаркт миокарда, позволяют: (выберите один правильный ответ)",
+        "нитраты",
+        "непрямые антикоагулянты",
+        "β-блокаторы",
+        "все перечисленное",
+        "ни один из перечисленных"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_270",
+      "arr": [
+        " При миокардите: (выберите один правильный ответ)",
+        "обязательным проявлением является сердечная недостаточность",
+        "лечение следует всегда начинать с преднизолона",
+        "температура повышается не всегда , единственным симптомом могут быть нарушения ритма и проводимости сердца",
+        "боли в области сердца никогда не носят ангинозный характер",
+        "возбудителем всегда является вирус Коксаки"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_271",
+      "arr": [
+        " «Золотым стандартом» диагностики миокардита является: (выберите один правильный ответ)",
+        "сцинтиграфия миокарда в покое",
+        "эхокардиография",
+        "сцинтиграфия миокарда с нагрузкой",
+        "эндомиокардиальная биопсия",
+        "электрокардиография"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_272",
+      "arr": [
+        " Лабораторные изменения при миокардите включают: (выберите один правильный ответ)",
+        "увеличение СОЭ, появление С-реактивного белка, повышение уровня МВ-фракции креатинфосфаткиназы в крови",
+        "гипербилирубинемию",
+        "дислипидемию",
+        "анемию, тромбоцитопению",
+        "креатининемию, гиперурикемию"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_273",
+      "arr": [
+        " Дилатационная кардиомиопатия характеризуется расширением: (выберите один правильный ответ)",
+        "всех отделов сердца",
+        "левого предсердия",
+        "правого желудочка",
+        "правого предсердия",
+        "корня аорты"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_274",
+      "arr": [
+        " Наиболее информативным методом исследования для диагностики гипертрофической кардиомиопатии является: (выберите один правильный ответ)",
+        "ЭКГ",
+        "ЭхоКГ",
+        "рентгенологическое исследование органов грудной клетки",
+        "коронароангиография",
+        "сцинтиграфия сердца с таллием"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_275",
+      "arr": [
+        " Какое из нижеперечисленных изменений, выявленных при биохимическом исследовании крови, не характерно для миокардита: (выберите один правильный ответ)",
+        "гиперфибриногенемия",
+        "обнаружение Среактивного протеина",
+        "гиперхолестеринемия",
+        "повышение концентрации КФК и ее изофермента – ФК-МВ",
+        "диспротеинемия"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_276",
+      "arr": [
+        " Выберите метод исследования, имеющий решающее значение в дифференциальной диагностике миокардита и ИБС: (выберите один правильный ответ)",
+        "эхокардиография",
+        "электрокардиография",
+        "коронарография",
+        "внутрисердечное электрофизиологическое исследование",
+        "ни один из перечисленных"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_277",
+      "arr": [
+        " При каком из пороков сердца наиболее значительно увеличивается левое предсердие: (выберите один правильный ответ)",
+        "стеноз легочной артерии",
+        "незаращенный Боталлов проток",
+        "митральный стеноз",
+        "стеноз устья аорты",
+        "недостаточность З-створчатого клапана"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_278",
+      "arr": [
+        " Появление ортопноэ является признаком: (выберите один правильный ответ)",
+        "ОРВИ",
+        "инсульта",
+        "приступа стенокардии",
+        "недостаточности кровообращения I степени",
+        "острой дыхательной недостаточности, инфаркта миокарда"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_279",
+      "arr": [
+        " Укажите основные проявления недостаточности кровообращения по малому кругу: (выберите один правильный ответ)",
+        "увеличение печени, периферические отеки",
+        "уменьшение диуреза, асцит",
+        "кашель, влажные хрипы в нижних отделах легких",
+        "тахикардия, аритмия",
+        "повышение АД, головные боли"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_280",
+      "arr": [
+        " Какой ритм наиболее характерен для аускультации сердца у больных с выраженной сердечной недостаточностью: (выберите один правильный ответ)",
+        "ритм «перепела»",
+        "протодиастолический ритм галопа",
+        "пресистолический ритм галопа",
+        "систолический ритм галопа",
+        "дополнительный перикард-тон"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_281",
+      "arr": [
+        " К основным медикаментозным средствам лечения ХСН относят: (выберите один правильный ответ)",
+        "ингибиторы АПФ и антибиотики",
+        "ингибиторы АПФ, блокаторы кальциевых каналов и нитраты",
+        "ингибиторы АПФ и антиаритмики",
+        "ингибиторы АПФ, сердечные гликозиды, диуретики, бета-блокаторы",
+        "ингибиторы АПФ, антикоагулянты, ацетилсалициловую кислоту"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_282",
+      "arr": [
+        " Назовите парентеральные стимуляторы желудочной секреции: (выберите один правильный ответ)",
+        "стрептокиназа, урокиназа",
+        "адреналин",
+        "гисталог",
+        "серотонин",
+        "пентагастрин , гистамин"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_283",
+      "arr": [
+        " Перечислите жалобы больных, наиболее характерные для патологии поджелудочной железы: (выберите один правильный ответ)",
+        "боль в нижних отделах живота, запоры",
+        "запоры",
+        "снижение аппетита, боли опоясывающего характера",
+        "горечь во рту",
+        "отрыжка, изжога"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_284",
+      "arr": [
+        " Какие препараты относятся к Н2-гистаминовым блокаторам: (выберите один правильный ответ)",
+        "циметидин, гистидин, ранитидин",
+        "атропин, белладонна, метацин",
+        "гастроцепин",
+        "пантопразол, редуксин",
+        "омепразол"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_285",
+      "arr": [
+        " β-клетки поджелудочной железы продуцируют: (выберите один правильный ответ)",
+        "брадикинины",
+        "серотонин",
+        "гистамин",
+        "инсулин",
+        "панкреатический полипептид"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_286",
+      "arr": [
+        " Укажите препарат преимущественно холинолитического действия: (выберите один правильный ответ)",
+        "аллохол",
+        "холензим",
+        "сорбит",
+        "но-шпа",
+        "атропин"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_287",
+      "arr": [
+        " Для лечения желчнокаменной болезни применяют: (выберите один правильный ответ)",
+        "альмагель",
+        "ранитидин",
+        "омепразол",
+        "хенофальк"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_288",
+      "arr": [
+        " Назовите основной этиологический фактор острого гломерулонефрита: (выберите один правильный ответ)",
+        "стафилококк",
+        "клебсиелла",
+        "β-гемолитический стрептококк группы А",
+        "синегнойная палочка",
+        "пневмококк"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_289",
+      "arr": [
+        " Назовите показания для назначения глюкокортикоидов при остром гломерулонефрите: (выберите один правильный ответ)",
+        "отеки",
+        "наличие стабильного выраженного нефротического синдрома",
+        "артериальная гипертония",
+        "макрогематурия"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_290",
+      "arr": [
+        " Длительность лечения при хроническом гломерулонефрите составляет: (выберите один правильный ответ)",
+        "несколько недель",
+        "2-3 месяца",
+        "6 месяцев",
+        "от 6 месяцев до 2 лет"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_291",
+      "arr": [
+        " Для острого гломерулонефрита характерны следующие клинические симптомы: (выберите один правильный ответ)",
+        "отеки + олигурия + гипертония + азотемия+ протеинурия + гематурия",
+        "отеки + полиурия + гипертония + азотемия + протеинурия + гематурия",
+        "отеки + олигурия + гипертония + азотемия + протеинурия + лейкоцитурия",
+        "отеки + гипертония + протеинурия + бактериурия"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_292",
+      "arr": [
+        " Пункционная биопсия почки при остром гломерулонефрите показана: (выберите один правильный ответ)",
+        "при обычном течении",
+        "при затяжном течении",
+        "при возникновении осложнений (острая сердечная недостаточность, отек легких, тромбозы, ОПН, и др.)"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_293",
+      "arr": [
+        " Какой из клинических вариантов течения хронического гломерулонефрита встречается наиболее часто: (выберите один правильный ответ)",
+        "гематурический",
+        "нефротический",
+        "латентный",
+        "гипертонический",
+        "смешанный"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_294",
+      "arr": [
+        " Иммуносупрессивная терапия при хроническом гломерулонефрите включает в себя: (выберите один правильный ответ)",
+        "кортикостероиды, цитостатики",
+        "нитраты, стимуляторы имидазолиновых рецепторов",
+        "антибиотики",
+        "нестероидные противовоспалительные препараты",
+        "антикоагулянты"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_295",
+      "arr": [
+        " Лабораторным показателем, позволяющим предположить наличие нефротического синдрома, (выберите несколько правильных ответов)",
+        "величина клубочковой фильтрации",
+        "уровень креатинина крови",
+        "величина протеинурии",
+        "уровень холестерина сыворотки",
+        "уровень гемоглобина крови"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_296",
+      "arr": [
+        " Первым мероприятием у больного с клиникой острого пиелонефрита должно быть: (выберите один правильный ответ)",
+        "массивная антибактериальная терапия",
+        "цистоскопия",
+        "3-стаканная проба",
+        "УЗИ почек"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_297",
+      "arr": [
+        " Для лечения острого пиелонефрита целесообразнее использовать: (выберите один правильный ответ)",
+        "пенициллин",
+        "амоксиклав",
+        "сульфодимезин",
+        "эритромицин"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_298",
+      "arr": [
+        " Какой симптом острого пиелонефрита обычно исчезает первым на фоне антибактериальной терапии: (выберите один правильный ответ)",
+        "лихорадка",
+        "лейкоцитурия",
+        "бактериурия",
+        "боли в поясничной области"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_299",
+      "arr": [
+        " От чего зависит темная и желтоватая окраска кожи при хронической почечной недостаточности: (выберите один правильный ответ)",
+        "от повышения прямого билирубина",
+        "от повышения непрямого билирубина",
+        "от нарушения выделения урохромов",
+        "от нарушения выработки конъюгированного билирубина",
+        "от нарушения секреции билирубина"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_300",
+      "arr": [
+        " Группа антибиотиков, чаще вызывающая острую почечную недостаточность: (выберите один правильный ответ)",
+        "пенициллины",
+        "цефалоспорины",
+        "аминогликозиды",
+        "макролиды",
+        "тетрациклин"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_301",
+      "arr": [
+        " Причины острой почечной недостаточности при назначении нестероидных противовоспалительных препаратов: (выберите один правильный ответ)",
+        "потеря внутриклеточного Са++",
+        "препятствие синтезу простагландинов",
+        "массивная протеинурия",
+        "нарушение гемодинамики",
+        "снижение почечного кровотока"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_302",
+      "arr": [
+        " Укажите мочегонные, обладающие калийсберегающим действием: (выберите один правильный ответ)",
+        "верошпирон , триамтерен",
+        "этакриновая кислота",
+        "маннитол",
+        "фуросемид",
+        "торасемид"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_303",
+      "arr": [
+        " К «петлевым» диуретикам относятся: (выберите один правильный ответ)",
+        "гипотиазид",
+        "фуросемид",
+        "индапамид",
+        "маннитол",
+        "верошпирон"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_304",
+      "arr": [
+        " Причиной смерти больных, находящихся на гемодиализе, является: (выберите один правильный ответ)",
+        "инфаркт миокарда",
+        "геморрагический перикардит",
+        "гиперкалиемия",
+        "сосудистые поражения ЦНС",
+        "инфекции",
+        "отек легкого",
+        "все ответы правильные"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_305",
+      "arr": [
+        " Наиболее быстро ХПН развивается при следующей патологии: (выберите один правильный ответ)",
+        "поликистозе почек",
+        "мочекаменной болезни",
+        "латентном гломерулонефрите",
+        "экстракапиллярном гломерулонефрите",
+        "хроническом пиелонефрите"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_306",
+      "arr": [
+        " Частота диспансерных осмотров у больных с терминальной стадией ХПН: (выберите один правильный ответ)",
+        "2 раза в год",
+        "3 раза в год",
+        "4 раза в год",
+        "6 раз в год или иногда ежемесячно"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_307",
+      "arr": [
+        " Уровень гемоглобина в норме составляет: (выберите один правильный ответ)",
+        "110 – 130 г/л – у мужчин, 100 – 120 г/л – у женщин",
+        "110 – 140 г/л – у мужчин, 100 – 120 г/л – у женщин",
+        "120 – 150 г/л – у мужчин, 110 – 130 г/л – у женщин",
+        "130 – 160 г/л – у мужчин, 120 – 140 г/л – у женщин"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_308",
+      "arr": [
+        " В норме показатели сывороточного железа в крови составляют: (выберите один правильный ответ)",
+        "мужчины: 10,7 – 30,4 мкмоль/л, женщины: 9 – 23,3 мкмоль/л",
+        "мужчины: 15 – 20 мкмоль/л, женщины: 10 – 15 мкмоль/л",
+        "мужчины: 20 – 40 мкмоль/л, женщины: 15 – 30 мкмоль/л",
+        "мужчины: 25 – 45 мкмоль/л, женщины: 20 – 35 мкмоль/л"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_309",
+      "arr": [
+        " Выберите анемию, чаще встречающуюся в пожилом возрасте: (выберите один правильный ответ)",
+        "аутоиммунная гемолитическая анемия",
+        "железодефицитная анемия",
+        "апластическая анемия",
+        "В12-дефицитная анемия",
+        "наследственный микросфероцитоз"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_310",
+      "arr": [
+        " Желтуха, гепато- и спленомегалия, темный цвет мочи наблюдаются при анемии: (выберите один правильный ответ)",
+        "апластической",
+        "гемолитической",
+        "железодефицитной",
+        "постгеморрагической",
+        "сидероахрестической"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_311",
+      "arr": [
+        " Перечислите этапы лечения железодефицитной анемии: (выберите один правильный ответ)",
+        "определение уровня железа в крови",
+        "насыщение фолиевой кислотой, оксигенация, терапия перераспределения",
+        "определение доз препарата железа",
+        "купирование анемии, терапия насыщения, профилактика рецидивов",
+        "профилактика кровотечений, гемодиализ, переливание крови и ее компонентов"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_312",
+      "arr": [
+        " Перечислите симптомы, характерные для гемолитических анемий: (выберите один правильный ответ)",
+        "желтуха, спленомегалия, интенсивная окраска мочи и кала",
+        "слабость, менингеальные симптомы",
+        "боли в груди стреляющего характера, дизурия",
+        "парез кишечника, запор",
+        "кровотечение"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_313",
+      "arr": [
+        " Перечислите виды анемий, относящиеся к группе мегалобластных: (выберите один правильный ответ)",
+        "аутоиммунная гемолитическая анемия",
+        "железодефицитная анемия",
+        "сидероахрестическая анемия",
+        "постгеморрагическая",
+        "анемия вследствие дефицита фолиевой кислоты, В12-дефицитная анемия"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_314",
+      "arr": [
+        " Госпитализации подлежат беременные с уровнем гемоглобина: (выберите один правильный ответ)",
+        "100 г/л",
+        "90 г/л",
+        "80 г/л",
+        "70 г/л и ниже"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_315",
+      "arr": [
+        " Длительность лечение беременных с анемией составляет: (выберите один правильный ответ)",
+        "2 недели",
+        "1 месяц",
+        "2 – 3 месяца",
+        "3 – 4 месяца",
+        "с момента установления диагноза и до родов"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_316",
+      "arr": [
+        " Выберите основной ранний критерий эффективности терапии В12-дефицитной анемии: (выберите один правильный ответ)",
+        "повышение концентрации гемоглобина",
+        "нормализация содержания эритроцитов, лейкоцитов и тромбоцитов в периферической крови",
+        "полное исчезновение мегалобластов из костного мозга",
+        "ретикулоцитарный криз",
+        "гемолитический криз"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_317",
+      "arr": [
+        " Укажите анемию, при которой показана спленэктомия: (выберите один правильный ответ)",
+        "апластическая",
+        "анемия хронических заболеваний",
+        "В12-дефицитная",
+        "железодефицитная",
+        "гемолитическая"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_318",
+      "arr": [
+        " Выберите изменения в биохимическом анализе крови, которые могут быть выявлены у больных В12-дефицитной анемией: (выберите один правильный ответ)",
+        "повышение уровня непрямого билирубина",
+        "повышение активности ферментов АЛТ, АСТ",
+        "снижение уровня сывороточного железа",
+        "гиперкалиемия",
+        "гипокалиемия"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_319",
+      "arr": [
+        " Длительность лечения железодефицитной анемии у пожилых пациентов будет составлять: (выберите один правильный ответ)",
+        "2 недели",
+        "1 месяц",
+        "2 – 3 месяца",
+        "3 – 4 месяца"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_320",
+      "arr": [
+        " Длительность лечения железодефицитной анемии будет определяться: (выберите один правильный ответ)",
+        "исчезновением жалоб пациента",
+        "нормализацией показателей гемоглобина, железа в крови , восстановлением запасов железа в организме",
+        "нормализацией АД, ЦВД",
+        "нормализацией показателей витамина В12 в крови",
+        "нормализацией показателей уровня фолатов в крови"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_321",
+      "arr": [
+        " Выберите препарат, назначаемый для лечения В12-дефицитной анемии: (выберите один правильный ответ)",
+        "цианокобаламин",
+        "преднизолон",
+        "гепарин",
+        "метилдопа",
+        "ферум-лек"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_322",
+      "arr": [
+        " К дегенеративно-дистрофическим поражениям суставов можно отнести: (выберите один правильный ответ)",
+        "подагру, болезнь Бехтерева, ревматоидный артрит",
+        "остеохондроз, деформирующий остеоартроз, болезнь Пертеса",
+        "болезнь Рейтера, болезнь Бехтерева, болезнь Пертеса",
+        "ревматоидный артрит, остеохондроз, анкилозирующий спондилоартрит"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_323",
+      "arr": [
+        " Заболевание, характеризующееся воспалением суставов, связанным с образованием кристаллов мочевой кислоты (уратов) на фоне гиперурикемии: (выберите один правильный ответ)",
+        "ревматоидный артрит",
+        "деформирующий остеоартроз",
+        "болезнь Бехтерева",
+        "подагра"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_324",
+      "arr": [
+        " При остром приступе подагры наиболее целесообразно назначить лечение: (выберите один правильный ответ)",
+        "хондропротекторы",
+        "нестероидные противовоспалительные средства",
+        "кортикостероиды",
+        "иммобилизация пораженных суставов",
+        "холод на стопы"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_325",
+      "arr": [
+        " Главными органами-мишенями при подагре являются: (выберите один правильный ответ)",
+        "сердце и суставы",
+        "суставы и почки",
+        "сердце и почки",
+        "суставы и околосуставные ткани"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_326",
+      "arr": [
+        " Перечислите эндогенные факторы риска развития остеоартроза: (выберите один правильный ответ)",
+        "возраст, травмы, дефекты развития, спортивная деятельность",
+        "возраст, пол, наследственная предрасположенность, избыточная масса тела, травмы",
+        "пол, возраст, дефекты развития, наследственная предрасположенность",
+        "травмы, профессиональная деятельность, спортивная активность, избыточная масса тела"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_327",
+      "arr": [
+        " Укажите заболевание, для которого будет характерен «феномен геля»: (выберите один правильный ответ)",
+        "подагра",
+        "болезнь Бехтерева",
+        "болезнь Пертеса",
+        "остеоартроз",
+        "ревматоидный артрит"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_328",
+      "arr": [
+        " Перечислите характерные рентгенологические признаки остеоартроза: (выберите один правильный ответ)",
+        "«симптом пробойника»",
+        "образование костных каверн",
+        "патологические переломы диафизов",
+        "субхондральный остеосклероз, остеофитоз",
+        "сужение суставной щели"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_329",
+      "arr": [
+        " Перечислите характерные рентгенологические признаки ревматоидного артрита: (выберите один правильный ответ)",
+        "гиперостозы",
+        "образование костных каверн",
+        "значительное разрушение хряща, околосуставной эпифизарный остеопороз, краевая узурация костей",
+        "«симптом пробойника»",
+        "патологические переломы диафизов"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_330",
+      "arr": [
+        " Назовите рентгенологический признак подагры: (выберите один правильный ответ)",
+        "околосуставной эпифизарный остеопороз",
+        "образование костных каверн",
+        "значительное разрушение хряща",
+        "«симптом пробойника»",
+        "краевая узурация костей"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_331",
+      "arr": [
+        " Выберите особенности, характерные для остеоартроза: (выберите один правильный ответ)",
+        "болезненность, крепитация, утренняя скованность в суставах, деформации (варусные и\r\nвальгусные)",
+        "сильнейшая, пульсирующая, жгучая, рвущая боль в одном или нескольких суставах,\r\nвозникающая во второй половине ночи",
+        "псориатические бляшки в волосистой части головы, точечные поражения ногтевых\r\nпластинок, «пальцы-сосиски» мутилирующий синдром",
+        "деформация пальцев типа «лебединая шея», латеральная девиация пальцев ног – «ласты\r\nморжа», киста Бейкера, серопозитивный и серонегативный ревматоидный фактор"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_332",
+      "arr": [
+        " Для купирования острого приступа подагры необходимо назначить: (выберите один правильный ответ)",
+        "НПВП, колхицин, глюкокортикоиды",
+        "глюкокортикоиды, ингибиторы АПФ, колхицин",
+        "ингибиторы протоновой помпы, диуретики, глюкокртикоиды",
+        "блокаторы Н2-гистациновых рецепторов, сердечные гликозиды, НПВП"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_333",
+      "arr": [
+        " Хондропротекторы необходимо назначать при: (выберите один правильный ответ)",
+        "болезни Бехтерева",
+        "болезни Рейтера",
+        "ревматоидном артрите",
+        "болезни Пертеса",
+        "остеоартрозе"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_334",
+      "arr": [
+        " Укажите локализацию ревматоидных узелков: (выберите один правильный ответ)",
+        "кожа ушных раковин",
+        "лицо",
+        "разгибательная поверхность крупных суставов",
+        "область лодыжек",
+        "тыльная поверхность мелких суставов, область ахилловых сухожилий"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_335",
+      "arr": [
+        " Выберите классическое проявление подагры: (выберите один правильный ответ)",
+        "«ревматоидная кисть»",
+        "поражение I плюснефалангового сустава",
+        "«пальцы-сосиски»",
+        "«феномен геля»"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_336",
+      "arr": [
+        " Тофусы представляют собой отложения в тканях кристаллов: (выберите один правильный ответ)",
+        "уратов натрия",
+        "оксалатов кальция",
+        "пирофосфата кальция",
+        "гидроксиапатита кальция",
+        "мочевины"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_337",
+      "arr": [
+        " Листок нетрудоспособности при заболеваниях и травмах выдается со дня: (выберите один правильный ответ)",
+        "установления нетрудоспособности при врачебном освидетельствовании",
+        "заболевания",
+        "обращения к врачу в лечебно-профилактическое учреждение",
+        "посещения врача в лечебно-профилактическом учреждении"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_338",
+      "arr": [
+        " При оказании скорой и неотложной медицинской помощи лекарственные средства назначаются: (выберите один правильный ответ)",
+        "санитаркой",
+        "врачом отделения неотложной помощи (помощи на дому) амбулаторно-поликлинического учреждения, врачом выездной бригады скорой медицинской помощи",
+        "главным врачом ЛПУ",
+        "заведующим отделением",
+        "врачом дневного стационара"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_339",
+      "arr": [
+        " Профилактикой ИБС является: (выберите один правильный ответ)",
+        "курение",
+        "дыхательная гимнастика",
+        "занятия физкультурой, отказ от курения",
+        "диета с высоким содержанием белка",
+        "чтение специальной литературы"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_340",
+      "arr": [
+        " Диспансеризация в настоящее время проводится: (выберите один правильный ответ)",
+        "в один этап",
+        "в два этапа",
+        "в три этапа",
+        "в 4 этапа",
+        "нет этапности"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_341",
+      "arr": [
+        " Диспансеризации подлежит взрослое население работающее и неработающее с кратностью: (выберите один правильный ответ)",
+        "1 раз в год",
+        "1 раз в 2 года",
+        "1 раз в три года",
+        "1 раз в 4 года",
+        "ежемесячно"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_342",
+      "arr": [
+        " Принципы отбора лиц, подлежащих диспансеризации: (выберите один правильный ответ)",
+        "социальный и медицинский",
+        "медицинский и финансовый",
+        "профессиональный и национальный",
+        "возрастной и половой",
+        "административный и религиозный"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_343",
+      "arr": [
+        " По результатам диспансеризации оформляется: (выберите один правильный ответ)",
+        "учетная форма №131/у «Карта учета диспансеризации»",
+        "лист нетрудоспособности",
+        "направление на МСЭ",
+        "направление на госпитализацию",
+        "карта амбулаторного пациента"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_344",
+      "arr": [
+        " Комбинация длительно-действующих β2-агонистов+глюкокортикостероидов в одном ингаляторе (выберите один правильный ответ)",
+        "беродуал",
+        "фенотерол",
+        "флексотид",
+        "эуфиллин/беродуал",
+        "формотерол/будесонид"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_345",
+      "arr": [
+        " ЭКСТРЕННОЕ ИЗВЕЩЕНИЕ Ф. № 058/У СОСТАВЛЯЕТСЯ НА",
+        "любое обращение в поликлинику",
+        "оперативное вмешательство",
+        "необычную реакцию на прививку",
+        "первичный патронаж новорожденного"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_346",
+      "arr": [
+        " Классификация ХОБЛ по степени тяжести основана на данных (выберите один правильный ответ)",
+        "объективного исследования пациента",
+        "жалоб и анамнеза",
+        "спирометрического исследования",
+        "микробиологического исследования мокроты",
+        "рентгенологического исследования органов грудной полости"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_347",
+      "arr": [
+        " Факторы риска ХОБЛ: (выберите один правильный ответ)",
+        "частые ангины, ОРВИ",
+        "бытовые аллергены",
+        "частые ангины",
+        "продукты сгорания некоторых видов бытового топлива, курение (до 90%)",
+        "хронический ринит"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_348",
+      "arr": [
+        " Дифференциальная диагностика БА и ХОБЛ основана на: (выберите один правильный ответ)",
+        "интеграции основных данных клиники, результатов функциональных и лабораторных тестов",
+        "тщательно собранном анамнезе",
+        "разнице в жалобах",
+        "бронхоскопическом исследовании",
+        "данных рентгенографии органов грудной полости"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_349",
+      "arr": [
+        " При проведении спирометрии ХОБЛ проявляется: (выберите один правильный ответ)",
+        "инспираторным ограничением воздушного потока вследствие понижения сопротивления дыхательных путей",
+        "экспираторным ограничением воздушного потока вследствие повышения сопротивления дыхательных путей",
+        "увеличением ЖЕЛ",
+        "рестриктивным типом нарушения дыхания",
+        "уменьшением ООЛ (остаточного объема легких)"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_350",
+      "arr": [
+        " Бронхоскопическое исследование при ХОБЛ служит: (выберите один правильный ответ)",
+        "дополнительным методом при диагностике ХОБЛ для исключения других заболеваний и состояний, протекающих с аналогичными симптомами.",
+        "основным методом диагностики ХОБЛ",
+        "не применяется для диагностики ХОБЛ",
+        "применяется только вместе с биопсией бронхов",
+        "применяется вместе с бронхографией"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_351",
+      "arr": [
+        " Ингаляционные кортикостероиды, применяемые при ХОБЛ: (выберите один правильный ответ)",
+        "будесонид",
+        "ипратропиума бромид",
+        "беродуал",
+        "фенотерол",
+        "преднизолон"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_352",
+      "arr": [
+        " ХОБЛ наиболее часто дифференцируют с: (выберите один правильный ответ)",
+        "бронхиальной астмой",
+        "язвенной болезнью желудка",
+        "ГЭРБ",
+        "ОРВИ",
+        "лимфолейкозом"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_353",
+      "arr": [
+        " В практической деятельности участкового терапевта используются: (выберите один правильный ответ)",
+        "медицинская карта амбулаторного больного (УФ – 025/У), направление на консультацию, госпитализацию и во вспомогательные кабинеты (УФ-028/У)",
+        "журнал регистрации отказов в вызове «Скорой помощи»",
+        "медицинская карта стационарного больного(УФ-030/У)",
+        "справка о прививках (УФ-031/У)",
+        "журнал регистрации беременных (УФ-012)"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_354",
+      "arr": [
+        " Относительно ранние симптомы рака легкого: (выберите один правильный ответ)",
+        "кашель, кровохарканье, одышка",
+        "боли в ногах, слабость",
+        "учащенное мочеиспускание, одышка",
+        "желтуха, похудание",
+        "парезы, параличи"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_355",
+      "arr": [
+        " Наиболее частые изменения со стороны системы крови у беременных: (выберите один правильный ответ)",
+        "развитие лейкоза",
+        "лейкемоидные реакции",
+        "железодефицитные анемии",
+        "тромбоцитоз",
+        "панцитопения"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_356",
+      "arr": [
+        " Основные жалобы со стороны пищеварительной системы при нормально протекающей\r\nбеременности: (выберите один правильный ответ)",
+        "диарея",
+        "урчание в животе",
+        "синдром мальабсорбции",
+        "сухость во рту",
+        "изжога"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_357",
+      "arr": [
+        " У беременной женщины возник острый гломерулонефрит. Нормальное течение беременности, родов, рождение здорового ребенка в этом случае: (выберите один правильный ответ)",
+        "возможно",
+        "невозможно",
+        "невозможно при наличии пиелонефрита",
+        "невозможно при наличии злокачественной артериальной гипертензии"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_358",
+      "arr": [
+        " Препаратом выбора при артериальной гипертензии у беременной является: (выберите один правильный ответ)",
+        "каптоприл",
+        "гипотиазид",
+        "метилдопа",
+        "нифедипин",
+        "папазол"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_359",
+      "arr": [
+        " Препаратом выбора при лечении гестационного пиелонефрита является: (выберите один правильный ответ)",
+        "эритромицин",
+        "ципрофлоксацин",
+        "цефтриаксон",
+        "амоксициллин плюс клавулановая кислота",
+        "канефрон"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_360",
+      "arr": [
+        " Лечение острого ревматического процесса у беременной обязательно включает: (выберите один правильный ответ)",
+        "назначение глюкокортикостероидов",
+        "постельный режим",
+        "назначение мочегонных",
+        "хирургическое лечение порока сердца",
+        "прерывание беременности"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_361",
+      "arr": [
+        " Показанием к прерыванию беременности у беременной с патологией почек является: (выберите один правильный ответ)",
+        "хронический пиелонефрит в стадии обострения",
+        "хронический гломерулонефрит, гематурическая форма",
+        "поликистозная болезнь почек",
+        "туберкулез единственной почки",
+        "нефрэктомия в анамнезе"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_362",
+      "arr": [
+        " В план ведения беременной с гломерулонефритом входит: (выберите один правильный ответ)",
+        "осмотр окулистом при взятии на учет по беременности и в 28-30 недель",
+        "общий анализ мочи – еженедельно",
+        "измерение АД на сроке 20 и 30-32 недели беременности",
+        "ежедневный осмотр нефрологом",
+        "ЭКГ в 20 недель беременности"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_363",
+      "arr": [
+        " Для купирования гипертонического криза у беременных применяют: (выберите один правильный ответ)",
+        "каптоприл",
+        "дибазол с папаверином внутримышечно",
+        "раствор сульфата магния парентерально или клонидин",
+        "раствор сульфата магния энтерально или лозартан",
+        "пентамин парентерально"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_364",
+      "arr": [
+        " Что нехарактерно для постоянной лихорадки: (выберите один правильный ответ) а) постоянный характер повышения температуры б) уровень температуры выше 39° С в) суточные колебания температуры менее 1° С г) суточные колебания температуры более 1° С д) гипотермия"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_365",
+      "arr": [
+        " Больные неосложненной формой гриппа являются заразными: (выберите один правильный ответ)",
+        "до 12-го дня болезни",
+        "до 5-го дня болезни",
+        "до 2-х недель болезни",
+        "до 9-го дня болезни"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_366",
+      "arr": [
+        " Основная причина развития острого бронхита: (выберите один правильный ответ)",
+        "алкоголизм",
+        "курение",
+        "ОРВИ",
+        "переохлаждение"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_367",
+      "arr": [
+        " Какой антибиотик является средством выбора при эмпирической антибактериальной терапии коммунальной (внебольничной) пневмонии до верификации диагноза: (выберите один правильный ответ)",
+        "тетрациклин",
+        "стрептомицин",
+        "защищенный пенициллин / эритромицин",
+        "цефалоспорин",
+        "гентамицин"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_368",
+      "arr": [
+        " Эозинофилия в мокроте наиболее характерна для: (выберите один правильный ответ)",
+        "хронического бронхита",
+        "острого бронхита",
+        "бронхиальной астмы",
+        "пневмонии",
+        "туберкулеза легких"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_369",
+      "arr": [
+        " К клиническим проявлениям приступа удушья при бронхиальной астме относится все,\r\nкроме: (выберите один правильный ответ)",
+        "экспираторной отдышки",
+        "розовой пены изо рта",
+        "дистанционных хрипов",
+        "сухих хрипов",
+        "непродуктивного кашля"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_370",
+      "arr": [
+        " Бронхиальной астме способствует: (выберите один правильный ответ)",
+        "блокада α-адренергической системы",
+        "гиперчувствительность β-адренергической системы",
+        "блокада холинергической системы",
+        "нарушение равновесия α и β-адренергической систем",
+        "все перечисленное"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_371",
+      "arr": [
+        " Для профессиональной бронхиальной астмы характерно все, кроме: (выберите один правильный ответ)",
+        "эффекта элиминации (периодичность респираторных симптомов с улучшением состояния\r\nв выходные дни и в отпускной период)",
+        "установленной бытовой аллергии",
+        "эффекта реэкспозиции (ухудшение субъективного состояния и увеличение выраженности\r\nреспираторных симптомов после возвращения на рабочее место – контакта с аллергенами)",
+        "обратимого характера бронхиальной обструкции (кашля, одышки и свистящего\r\nзатрудненного дыхания)"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_372",
+      "arr": [
+        " Синдром \"рикошета\" при астматическом статусе это: (выберите один правильный ответ)",
+        "функциональная блокада β-адренергических рецепторов при применении β2-адреностимуляторов;",
+        "накопление вязкой мокроты в дилатированных бронхах;",
+        "транссудация жидкости из капилляров в легочную ткань;",
+        "отхождение большого количества мокроты."
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_373",
+      "arr": [
+        " Показанием для госпитализации при гипертонической болезни является: (выберите правильное сочетание ответов) 1. гипертонический криз 2-го типа, 2. отек легких, 3. транзиторная ишемическая атака, 4. ОКС, 5. гипертонический криз 1-го типа",
+        "1,5",
+        "1, 2, 3, 4",
+        "2, 4, 5",
+        "3, 4, 5",
+        "3, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_374",
+      "arr": [
+        " При недостаточном гипотензивном эффекте монотерапии ингибиторами ангиотензин-превращающего фермента какой из диуретических препаратов предпочтительнее добавить больному с артериальной гипертензией: (выберите один правильный ответ)",
+        "фуросемид",
+        "триамтерен",
+        "верошпирон",
+        "урегит",
+        "гипотиазид"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_375",
+      "arr": [
+        " Какие лекарственные препараты могут вызвать повышение АД: (выберите один правильный ответ)",
+        "антагонисты кальция",
+        "диуретики",
+        "глюкокортикостероиды",
+        "β-блокаторы"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_376",
+      "arr": [
+        " Для лечения синдрома «артериальной гипертензии» часто назначают: (выберите один правильный ответ)",
+        "ингибиторы ангиотензин- превращающего фермента",
+        "блокаторы КАЛИЕВЫХ каналов",
+        "блокаторы ионов водорода",
+        "сердечные гликозиды"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_377",
+      "arr": [
+        " Нейролептанальгезия  это: (выберите один правильный ответ)",
+        "введение больному фентанила с дроперидолом",
+        "введение морфина",
+        "введение трамала",
+        "введение седуксена и димедрола"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_378",
+      "arr": [
+        " Нитраты в остром периоде ИМ: (выберите один правильный ответ)",
+        "уменьшают зону повреждения",
+        "показаны при кардиогенном шоке",
+        "показаны при остром перикардите",
+        "показаны для лечения резорбционно-некротического процесса"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_379",
+      "arr": [
+        " Какое осложнение ИМ наиболее часто встречается в первые сутки и строго НЕ зависит от величины зоны поражения: (выберите один правильный ответ)",
+        "кардиогенный шок",
+        "отек легких",
+        "разрыв сердца",
+        "формирования аневризмы сердца",
+        "аритмии сердца",
+        "фибринозный перикардит"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_380",
+      "arr": [
+        " Наиболее информативным инструментальным методом для постановки диагноза кардиомиопатии является: (выберите один правильный ответ)",
+        "ЭКГ",
+        "ЭхоКГ",
+        "рентгенография органов грудной полости"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_381",
+      "arr": [
+        " Диспансеризация (диспансерный метод) – это: (выберите один правильный ответ)",
+        "метод ежеквартального осмотра участковым терапевтом прикрепленного контингента",
+        "метод постоянного наблюдения за хроническими больными на закрепленном участке, направленный на выявление обострений хронических болезней",
+        "метод длительного обследования всех пациентов пожилого и старческого возраста на закрепленном участке",
+        "метод раннего выявления онкологических заболеваний",
+        "метод активного динамического наблюдения за состоянием здоровья населения, направленный на укрепление здоровья и повышение трудоспособности, обеспечение правильного физического развития и предупреждение заболеваний путем проведения комплекса лечебно-оздоровительных и профилактических мероприятий"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_382",
+      "arr": [
+        " Дневной стационар осуществляет следующие функции: 1) выполнение трансфузии крови и ее компонентов; 2) оказание медицинской помощи в соответствии с утвержденными стандартами медицинской помощи больным с заболеваниями терапевтического профиля, не требующими круглосуточного медицинского наблюдения; 3) лечение больных, выписанных из стационара под наблюдение врача-терапевта участкового и хирурга поликлиники либо врача общей практики (семейного врача) после оперативных вмешательств в случае необходимости проведения лечебных мероприятий, требующих наблюдения медицинским персоналом в течение нескольких часов в условиях медицинской организации; 4) круглосуточное наблюдение за тяжелыми пациентами; 5) оказание плановой помощи больным туберкулезом легких.: (выберите правильную комбинацию ответов)",
+        "1, 2",
+        "1, 3, 5",
+        "3, 4, 5",
+        "2, 3",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_383",
+      "arr": [
+        " Назовите признаки интоксикации сердечными гликозидами: (выберите один правильный ответ)",
+        "рвота",
+        "понос",
+        "брадикардия",
+        "бессонница",
+        "все правильно"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_384",
+      "arr": [
+        " Укажите препарат из группы нитратов: (выберите один правильный ответ)",
+        "верапамил",
+        "дигоксин",
+        "фуросемид",
+        "изосорбида динитрат",
+        "клофелин"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_385",
+      "arr": [
+        " Когда верапамил может быть использован при лечении сердечной недостаточности: (выберите один правильный ответ)",
+        "нетяжелая сердечная недостаточность при ИБС",
+        "больные с неизмененным сердечным выбросом и нарушением диастолической функции сердца, частая желудочковая экстрасистолия",
+        "частая желудочковая экстрасистолия даже при тяжелой сердечной недостаточности",
+        "частая наджелудочковая экстрасистолия даже при тяжелой сердечной недостаточности",
+        "дигиталисная интоксикация"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_386",
+      "arr": [
+        " Какой антиаритмический препарат является наименее безопасным и достаточно эффективным при лечении тахиаритмий, вызванных дигиталисной интоксикацией: (выберите один правильный ответ)",
+        "новокаинамид",
+        "лидокаин",
+        "изоптин",
+        "индерал",
+        "хинидин"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_387",
+      "arr": [
+        " Признаком декомпенсации ХСН является: (выберите один правильный ответ)",
+        "гепатомегалия",
+        "кардиомегалия",
+        "гидроторакс",
+        "острый отек легких",
+        "отеки нижних конечностей"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_388",
+      "arr": [
+        " Какая проба позволяет выявить снижение клубочковой фильтрации при хроническом\r\nгломерулонефрите: (выберите один правильный ответ)",
+        "проба по Нечипоренко",
+        "проба Зимницкого",
+        "проба Реберга-Тареева",
+        "проба Аддиса-Каковского",
+        "проба Амбурже"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_389",
+      "arr": [
+        " Критерием степени тяжести нефротического синдрома является: (выберите один правильный ответ)",
+        "величина протеинурии, степень гипоальбуминемии",
+        "степень артериальной гипертензии",
+        "выраженность отеков",
+        "наличие осложнений"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_390",
+      "arr": [
+        " Лейкоцитурия нехарактерна для: (выберите один правильный ответ)",
+        "острого уретроцистита",
+        "пиелонефрита",
+        "туберкулёза почек",
+        "гломерулонефрита",
+        "простатита"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_391",
+      "arr": [
+        " Термин «дизурия» в терапевтической практике означает: (выберите один правильный ответ)",
+        "учащенное безболезненное мочеиспускание",
+        "затруднение мочеиспускания",
+        "учащенное болезненное мочеиспускание",
+        "нарушение мочеиспускания"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_392",
+      "arr": [
+        " Какой симптом появляется у больного хроническим пиелонефритом при развитии вторично-сморщенной почки: (выберите один правильный ответ)",
+        "макрогематурия",
+        "дизурия",
+        "артериальная гипертония",
+        "отёки"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_393",
+      "arr": [
+        " При хроническом пиелонефрите поражаются следующие структурные элементы почек: (выберите один правильный ответ)",
+        "капсула",
+        "лоханки и чашечки",
+        "клубочковый аппарат",
+        "канальцы"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_394",
+      "arr": [
+        " Основными механизмами развития анемии при ХПН являются: (выберите один правильный ответ)",
+        "уменьшение продукции эритропоэтина",
+        "уменьшение ответа костного мозга",
+        "гемолиз эритроцитов",
+        "все выше перечисленное"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_395",
+      "arr": [
+        " Выберите анемию, для которой характерен «лакированный язык»: (выберите один правильный ответ)",
+        "апластическая",
+        "анемия хронических заболеваний",
+        "В12-дефицитная",
+        "железодефицитная",
+        "гемолитическая"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_396",
+      "arr": [
+        " Перечислите причины, которые могут вызывать дефицит цианокобаламина в организме: (выберите правильное сочетание ответов) 1. ИБС, 2. функциональная печеночная недостаточность, 3. разрушение витамина В12 соляной кислотой желудка, 4. атрофия слизистой оболочки желудка , 5.инвазия широким лентецом",
+        "1, 2, 3",
+        "3, 4",
+        "2, 5",
+        "1, 5",
+        "4, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_397",
+      "arr": [
+        " Выберите схему назначения хондроитина сульфата: (выберите один правильный ответ)",
+        "200 мг 2 раза в сутки в течение 6 недель, затем 100 мг 2 раза в сутки, длительность курса – 12\r\nмесяцев",
+        "250 мг 2 раза в сутки в течение 6 недель, затем 100 мг 2 раза в сутки, длительность курса – 9\r\nмесяцев",
+        "750 мг 2 раза в сутки в течение 3 недель, затем 500 мг 2 раза в сутки, длительность курса – 6\r\nмесяцев",
+        "500 мг 2 раза в сутки в течение 3 недель, затем 250 мг 2 раза в сутки, длительность курса – 6\r\nмесяцев"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_398",
+      "arr": [
+        " Перечислите варианты поражения почек, характерные для подагры: (выберите правильное сочетание ответов) 1. нефролитиаз, 2. хронический интерстициальный нефрит, 3. амилоидоз почек, 4. хроническая почечная недостаточность , 5. гломерулосклероз",
+        "1, 2, 4",
+        "3,4",
+        "2, 5",
+        "3, 4, 5",
+        "1, 5"
+      ]
+    },
+    {
+      "id": "polyclinicTherapy_399",
+      "arr": [
+        " В норме ревматоидный фактор в крови составляет: (выберите один правильный ответ)",
+        "до 5 МЕ/мл",
+        "до 10 МЕ/мл",
+        "до 14 МЕ/мл",
+        "до 20 МЕ/мл\r\n"
+      ]
+    }
+  ]
+}
